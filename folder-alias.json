@@ -10,5 +10,8 @@
   },
   "ja": {
     "description": "国际服/日文"
+  },
+  "tc": {
+    "description": "繁中服/繁体中文"
   }
 }

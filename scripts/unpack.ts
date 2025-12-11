@@ -4,14 +4,15 @@ import { execSync } from "child_process"
 import AppConfig from '../config.json'
 
 const availableLangs = [
-  'chs', 'en', 'ja',
+  'chs', 'en', 'ja', 'tc'
 ] as const
 type AvailableLang = typeof availableLangs[number]
 
 const getServer = (lang: AvailableLang) => {
   switch (lang) {
-    case 'chs': return 'chs'
-    default: return 'global'
+    case "chs": return "chs";
+    case "tc": return "tc";
+    default: return "global";
   }
 }
 
