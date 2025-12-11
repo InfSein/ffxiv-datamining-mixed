@@ -14,6 +14,7 @@
 | `chs` |  国服  | 简体中文 |
 | `en`  | 国际服 |   英语   |
 | `ja`  | 国际服 |   日语   |
+| `tc`  | 繁中服 | 繁体中文 |
 
 你可以直接在GitHub网页上查看csv文件，但是可能会卡。一般推荐直接 [下载项目压缩包](https://github.com/InfSein/ffxiv-datamining-mixed/archive/refs/heads/master.zip) 。 <br>
 此外，可以通过 [提交记录](https://github.com/InfSein/ffxiv-datamining-mixed/commits/master/) 对比来获取版本更新内容。
@@ -42,6 +43,7 @@
    | `npm run unpack:chs` | 解包国服文本，输出简体中文的csv到 `chs` 目录下。 |
    | `npm run unpack:en`  | 解包国际服文本，输出英文的csv到 `en` 目录下。    |
    | `npm run unpack:ja`  | 解包国际服文本，输出日文的csv到 `ja` 目录下。    |
+   | `npm run unpack:tc`  | 解包繁中服文本，输出繁体中文的csv到 `tc` 目录下。    |
 如此即可完成初次解包。 <br>
 在初次解包之后，下次及之后的解包可以直接从第4步开始。
 
