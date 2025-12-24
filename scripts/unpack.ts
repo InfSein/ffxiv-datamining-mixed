@@ -37,7 +37,7 @@ const unpack = (lang: AvailableLang) => {
     process.exit(1)
   }
 
-  const outputPath = `../../${lang}`
+  const outputPath = path.resolve(`${lang}`)
   fs.mkdirSync(outputPath, { recursive: true })
 
   console.log(`开始进行 ${lang} 的解包...`)
