@@ -2,12 +2,13 @@
   "name": "ffxiv-datamining-mixed",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "update-unpacker": "ts-node scripts/update-unpacker.ts",
-    "unpack:chs": "ts-node scripts/unpack.ts chs",
-    "unpack:en": "ts-node scripts/unpack.ts en",
-    "unpack:ja": "ts-node scripts/unpack.ts ja",
-    "unpack:tc": "ts-node scripts/unpack.ts tc"
+    "update-unpacker": "npx tsx scripts/update-unpacker.ts",
+    "unpack:chs": "npx tsx scripts/unpack.ts chs",
+    "unpack:en": "npx tsx scripts/unpack.ts en",
+    "unpack:ja": "npx tsx scripts/unpack.ts ja",
+    "unpack:tc": "npx tsx scripts/unpack.ts tc"
   },
   "dependencies": {
     "adm-zip": "^0.5.16",
@@ -16,7 +17,7 @@
   "devDependencies": {
     "@types/adm-zip": "^0.5.7",
     "@types/node": "^24.4.0",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.2"
   }
 }

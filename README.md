@@ -1,5 +1,7 @@
 # ffxiv-datamining-mixed
 
+**Languages:** **简体中文** | [English](README_EN.md) | [日本語](README_JA.md)
+
 提供混合的FFXIV csv解包文件，格式同 [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining) ，但同时提供多种语言／客户端的解包。 <br>
 从 国服7.25／国际服7.31 开始提供。
 
@@ -54,14 +56,14 @@
 * 没有对解包文件夹之外的文件作出无意义的修改
 * 每个语言的解包更新只进行一次提交
   > 例如在对国际服游戏文件进行了解包，更新了en和ja文件夹， <br>
-  > 此时应当进行两次提交，分别为 `data: 国际服xxx／英语` 和 `data: 国际服xxx／日语` 。 <br>
+  > 此时应当进行两次提交，分别为 `data: GLOBALxxx／EN` 和 `data: GLOBALxxx／JA` 。 <br>
 * 提交格式类似
   ```
   # 国服示例
-  [标题] data: 国服7.31
+  [标题] data: CHS 7.31
   [内容] CHS 2025.09.03.0000.0000
   # 国际服示例
-  [标题] data: 国际服7.31／日语
+  [标题] data: GLOBAL 7.31／JA
   [内容] GLOBAL 2025.09.03.0000.0000
   # “内容”中的游戏版本号，执行解包指令时会在终端输出。
   ```

@@ -1,5 +1,6 @@
 import fs from "fs"
 import path from "path"
+import { rm } from 'node:fs/promises';
 import { execSync } from "child_process"
 import AppConfig from '../config.json'
 
@@ -16,7 +17,7 @@ const getServer = (lang: AvailableLang) => {
   }
 }
 
-const unpack = (lang: AvailableLang) => {
+const unpack = async (lang: AvailableLang) => {
   if (!lang || !availableLangs.includes(lang)) {
     console.error(`请提供合法的运行参数。\n示例：\n> ts-node scripts/unpack.ts [${availableLangs.join('|')}]`)
     process.exit(1)
@@ -39,6 +40,7 @@ const unpack = (lang: AvailableLang) => {
 
   const outputPath = path.resolve(`${lang}`)
   fs.mkdirSync(outputPath, { recursive: true })
+  await rm(outputPath, { recursive: true, force: true });
 
   console.log(`开始进行 ${lang} 的解包...`)
   execSync(
@@ -48,4 +50,4 @@ const unpack = (lang: AvailableLang) => {
 }
 
 const server = process.argv[2] as AvailableLang
-unpack(server)
+await unpack(server)
