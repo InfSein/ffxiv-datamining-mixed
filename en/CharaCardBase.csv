@@ -146,7 +146,7 @@ int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16
 142,193745,1,True,True,0,942,0,0,0,4,2402,"Distant Sanctums"
 143,193746,1,True,True,0,940,0,0,0,8,2344,"Cosmic Constructs"
 144,193747,2,True,True,0,939,0,0,0,8,2342,"Island Days"
-145,0,0,False,False,0,0,0,0,0,0,0,""
+145,193748,2,True,True,0,1020,0,0,0,8,2345,"Cosmic Fantasy"
 146,193016,2,True,True,0,1044,0,0,0,7,15,"Simple Pink"
 147,193017,2,True,True,0,1045,0,0,0,7,16,"Simple Violet"
 148,193018,2,True,True,0,1046,0,0,0,7,17,"Simple Pale Blue"

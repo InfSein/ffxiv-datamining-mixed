@@ -21088,7 +21088,7 @@ Be ready!",0
 18998,0,False,False,False,3,0,0,0,4,False,True,1,25,"That was close...",0
 18999,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"With this crane construction, we may finally pave a path to the chasm!",19000
 19000,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Grab the components you need and assemble them on-site. Be sure to watch your step up there!",0
-19001,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Let's thank our hard-working mechs and pilots by making this hangar the best it can be!",19002
+19001,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Let's thank our hardworking mechs and pilots by making this hangar the best it can be!",19002
 19002,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The glass materials of this star are something else. They can be used to reinforce equipment, and even charge our vehicles!",19050
 19003,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The only thing better than one megapower panel is two megapower panels. Let's hop to it!",19004
 19004,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The mini rovers are in your hands─see that their batteries remain charged!",0
@@ -21384,7 +21384,7 @@ Be ready!",0
 19294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19295,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19296,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19297,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19297,0,False,False,False,2,0,0,0,3,False,False,1,25,"Droooooone...",0
 19298,0,False,False,False,2,0,0,0,3,False,False,1,25,"<swoosh>",0
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Meowww...",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Woof, woof!",0
@@ -21440,69 +21440,69 @@ Be ready!",0
 19350,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19351,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19352,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19353,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19354,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19355,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19356,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19357,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19358,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19359,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19360,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19361,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19362,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19363,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19364,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19365,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19366,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19367,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19368,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19369,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19370,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19371,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19372,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19373,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19374,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19375,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19376,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19377,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19378,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19379,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19380,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19381,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19382,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19383,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19384,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19385,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19386,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19387,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19388,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19389,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19390,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19391,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19392,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19393,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19394,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19395,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19396,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19397,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19398,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19399,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19400,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19401,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19402,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19403,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19404,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19353,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Ah, a sea of fresh faces, eager to work! With your help, the base we build here on Oizys is poised to be the best yet!",19354
+19354,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"A well-rested worker is a happy worker, so let's put everything we have into making these habitation modules as comfy as can be!",19382
+19355,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The fruits of this joint construction project shall be brand-new energization and hydrofication stations!",19356
+19356,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Exploration requires energy, but luckily the star is suffuse with the stuff─we just need the right facilities to convert it! Our energization station will push our project to the next level!",19411
+19357,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The second part of our joint project is about to begin!",19358
+19358,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Our workers need water like our machines need energy, and we aim to meet that demand with a new hydrofication station! It shall provide a nigh-unlimited supply of water from below the star's surface.",19508
+19359,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Our most pressing need at present is to explore Shadefleet. To that end, we must build a bridge that will allow us to cross from the Unmoored Anchor!",19360
+19360,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The plan is to use our gravitational technology to stabilize the floating shards and make a bridge!",19412
+19361,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"If we're going to activate that massive crystal, we require an equally massive source of energy!",19362
+19362,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The only way to do that is to channel electricity from the energization station right into Terra Firma!",19509
+19363,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"It's up to us to get the Euhedron in tip-top shape! We believe it holds the keys to unlock the most elusive mysteries of this star!",19364
+19364,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The scaffolding is all set, so we need you to spray the top! Leave the lower part to us!",19490
+19365,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The cosmoport is due for a cosmotastic upgrade! Soon we shall behold the furthest reaches of the stars!",19366
+19366,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Once this project is done and dusted, getting to Etheirys and back will be as easy as going to the cafeteria for a bite!",0
+19367,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"It's time to gear up for the excavation of Emerald Echoes! If we can clear out this debris, we're bound to find a way in!",19368
+19368,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"We must take the utmost care not to damage the ruins! Don't take too much rubble at once─haste makes waste!",0
+19369,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The work never ends! The ruins lie before us, but the door isn't opening until the crystal at the entrance is overflowing with aether!",19370
+19370,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Our researchers have been spending their every waking moment analyzing the crystal, and it seems they've finally solved its puzzle!",19414
+19371,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The ruins of Emerald Echoes remain silent, but a swift infusion of aether ought to get the mechanisms humming again!",19372
+19372,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"It took a heroic effort to gather so many Oizys jaspers of this size! Let's get them to the Guide Stone right away!",0
+19373,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"A crystal structure much like the one at Terra Firma has been found deep within the ruins! And just as before, it lacks the aether to make it shine!",19374
+19374,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Spray the aetheric stimulant on the Metahedron to bring it back to life!",19491
+19375,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"If we're to revitalize the Euhedron, we'll need to transmit data from Emerald Echoes!",19376
+19376,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"To that end, our next project will be a transmission tower right on top of Terra Firma! First, we must reinforce the structure so it can handle the extra weight!",19415
+19377,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"With the reinforcements complete, the groundwork has been laid! Everyone take the elevator to the top so we can begin work at once!",19378
+19378,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Once the transmission tower is built and the Euhedron restored, we can finally rest easy in the knowledge that our work here had purpose!",19492
+19379,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Yes, yes! I can already hear the cheers of our workers when they behold the finished product. Make sure to see the habitation modules for yourself once they're finished!",19380
+19380,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Can't have a good night's rest without a proper bed, can you? If your work for the day is done, feel free to avail yourselves of them!",0
+19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"It appears the first of the joint projects will finish up without a hitch!",19507
+19382,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Take any components you need and assemble them on-site! Give us your best work─not that we expect anything less!",0
+19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The project is scheduled to wrap up on time! Our water worries will soon be forgotten!",19384
+19384,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The base is looking more cosmotastic by the second! Once your work is done, we encourage you to rest well!",0
+19385,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"We'll soon have the gravitational generators up and running! The initiative thanks each and every one of you for your hard work!",19386
+19386,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Once the gravitational generators are fired up, we'll finally be able to take our first steps into Shadefleet! A new frontier!",19413
+19387,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Everything's almost good as new again! We couldn't have done this without so many capable hands!",19388
+19388,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The crystal is nearly restored! Once your work is done, get some rest to prepare for further surveys!",0
+19389,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"That's it! We're done applying the stimulant! Now to wait for it to soak in and take effect!",19390
+19390,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Soon enough the Euhedron will be sparkling bright and brilliant!",0
+19391,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"That's the last of our planned projects finished. Anyone whose work is finished is encouraged to take a break─you've earned it!",19392
+19392,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"This will make landing the spaceship a simple matter, and that means supplies and personnel can come and go with ease!",0
+19393,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"I see the excavation is proceeding apace! Good, good. Before long, the ruins will relinquish their secrets to us!",19394
+19394,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Rest your weary hands for now. Let us see what mysteries this alien civilization has in store!",0
+19395,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Excellent! Just as our research team was hoping for, the Gate Stones are practically bursting with aether!",19396
+19396,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Now is as good a time as any to take a rest. The door to the ruins will be open before you know it!",0
+19397,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Very good! This should be more than enough aether for the Guide Stone to function.",19398
+19398,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"I'd say it's time for rest and recuperation. We're this close to beholding the ruins...be here when they open to us!",0
+19399,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The Metahedron is well covered with the stimulant! Now we need only wait for it to take effect!",19400
+19400,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Relax for a bit, my loyal workers, and await the awakening of the ruins!",0
+19401,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"My, Terra Firma is looking more sturdy by the second! It won't be long until the plans we drew up are finally realized!",19402
+19402,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Everyone's hard work has been much appreciated. The Euhedron will soon be lustrous once again! Once the elevator is complete, everyone should proceed straight to the roof!",0
+19403,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"We're all set to start receiving transmissions! Our data transfer tests show no errors!",19404
+19404,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"This should be the last of the projects needed on this star! Let us see together what awaits us with the restoration of the Euhedron!",0
 19405,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19406,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19408,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19409,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19410,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19411,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19412,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19413,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19414,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19415,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19411,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Take everything you need and assemble the components on-site! We expect precise and punctual work!",0
+19412,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Once we're able to explore Shadefleet, our research into this star's unusual gravity should progress by leaps and bounds!",0
+19413,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"If your work is done, rest well. For soon we shall delve into Shadefleet!",0
+19414,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Take an Oizys jasper in hand and use it to flood the crystal with the gemstone's peculiar aether. Carefully, now!",0
+19415,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Grab the components you require and assemble them on-site. We'll have that elevator running soon enough!",0
 19416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19417,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19418,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -21577,9 +21577,9 @@ Be ready!",0
 19487,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19488,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19489,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19490,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19491,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19492,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19490,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fill up on the stimulant and give the Euhedron a good spraying!",0
+19491,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"The scaffolding is ready and sturdy, so we need you to take care of the upper portion!",0
+19492,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"We've placed scaffolding so you can get up top. Lots of work to be done there!",0
 19493,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19494,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19495,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -21594,9 +21594,9 @@ Be ready!",0
 19504,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19505,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19506,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19507,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19508,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19509,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19507,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Next, we plan to build a hydrofication station right next to this! Work will begin immediately after this project is finished, so keep your tools at the handy!",0
+19508,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Take everything you need and assemble them on-site! You'll be handling delicate parts with high aetheric conductivity, so take the utmost care with them!",0
+19509,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"It's time to pave the ground beneath our feet, and in the meantime make a much more comfortable base of operations!",0
 19510,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19511,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19512,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0

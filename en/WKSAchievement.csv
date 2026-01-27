@@ -123,64 +123,64 @@ int32,str,byte,uint32,uint32,uint16,uint16
 119,"Complete 5 unique critical missions on Phaenna.",2,5,47,1000,19
 120,"Complete 15 unique critical missions on Phaenna.",2,15,47,2000,20
 121,"Complete 33 unique critical missions on Phaenna.",2,33,47,3000,21
-122,"",0,0,0,0,0
-123,"",0,0,0,0,0
-124,"",0,0,0,0,0
-125,"",0,0,0,0,0
-126,"",0,0,0,0,0
-127,"",0,0,0,0,0
-128,"",0,0,0,0,0
-129,"",0,0,0,0,0
-130,"",0,0,0,0,0
-131,"",0,0,0,0,0
-132,"",0,0,0,0,0
-133,"",0,0,0,0,0
-134,"",0,0,0,0,0
-135,"",0,0,0,0,0
-136,"",0,0,0,0,0
-137,"",0,0,0,0,0
-138,"",0,0,0,0,0
-139,"",0,0,0,0,0
-140,"",0,0,0,0,0
-141,"",0,0,0,0,0
-142,"",0,0,0,0,0
-143,"",0,0,0,0,0
-144,"",0,0,0,0,0
-145,"",0,0,0,0,0
-146,"",0,0,0,0,0
-147,"",0,0,0,0,0
-148,"",0,0,0,0,0
-149,"",0,0,0,0,0
-150,"",0,0,0,0,0
-151,"",0,0,0,0,0
-152,"",0,0,0,0,0
-153,"",0,0,0,0,0
-154,"",0,0,0,0,0
-155,"",0,0,0,0,0
-156,"",0,0,0,0,0
-157,"",0,0,0,0,0
-158,"",0,0,0,0,0
-159,"",0,0,0,0,0
-160,"",0,0,0,0,0
-161,"",0,0,0,0,0
-162,"",0,0,0,0,0
-163,"",0,0,0,0,0
-164,"",0,0,0,0,0
-165,"",0,0,0,0,0
-166,"",0,0,0,0,0
-167,"",0,0,0,0,0
-168,"",0,0,0,0,0
-169,"",0,0,0,0,0
-170,"",0,0,0,0,0
-171,"",0,0,0,0,0
-172,"",0,0,0,0,0
-173,"",0,0,0,0,0
-174,"",0,0,0,0,0
-175,"",0,0,0,0,0
-176,"",0,0,0,0,0
-177,"",0,0,0,0,0
-178,"",0,0,0,0,0
-179,"",0,0,0,0,0
-180,"",0,0,0,0,0
-181,"",0,0,0,0,0
-182,"",0,0,0,0,0
+122,"Complete 10 stellar missions on Oizys.",2,10,1,500,6
+123,"Complete 50 stellar missions on Oizys.",2,50,1,800,7
+124,"Complete 100 stellar missions on Oizys.",2,100,1,1600,8
+125,"Complete 500 stellar missions on Oizys.",2,500,1,2500,9
+126,"Complete 10 unique stellar missions on Oizys.",2,10,1,500,10
+127,"Complete 50 unique stellar missions on Oizys.",2,50,1,1500,11
+128,"Complete 100 unique stellar missions on Oizys.",2,100,1,4000,12
+129,"Complete 10 unique stellar missions on Oizys with a Gold Star rating.",2,10,1,500,13
+130,"Complete 50 unique stellar missions on Oizys with a Gold Star rating.",2,50,1,1500,14
+131,"Complete 100 unique stellar missions on Oizys with a Gold Star rating.",2,100,1,4000,15
+132,"Complete 1 critical mission on Oizys.",2,1,48,500,16
+133,"Complete 10 critical missions on Oizys.",2,10,48,1000,17
+134,"Complete 30 critical missions on Oizys.",2,30,48,3000,18
+135,"Complete 1 mech op as a pilot on Oizys.",2,1,1,1500,22
+136,"Complete 5 mech ops as a pilot on Oizys.",2,5,1,3000,23
+137,"Complete 10 mech ops as a pilot on Oizys.",2,10,1,4500,24
+138,"Complete 5 mech ops as a ground supporter on Oizys.",2,5,1,300,25
+139,"Complete 20 mech ops as a ground supporter on Oizys.",2,20,1,900,26
+140,"Complete 50 mech ops as a ground supporter on Oizys.",2,50,1,2100,27
+141,"Complete 5 unique carpenter missions on Oizys.",2,5,3,75,28
+142,"Complete 10 unique carpenter missions on Oizys.",2,10,3,150,29
+143,"Complete 15 unique carpenter missions on Oizys.",2,15,3,300,30
+144,"Complete 5 unique blacksmith missions on Oizys.",2,5,7,75,31
+145,"Complete 10 unique blacksmith missions on Oizys.",2,10,7,150,32
+146,"Complete 15 unique blacksmith missions on Oizys.",2,15,7,300,33
+147,"Complete 5 unique armorer missions on Oizys.",2,5,11,75,34
+148,"Complete 10 unique armorer missions on Oizys.",2,10,11,150,35
+149,"Complete 15 unique armorer missions on Oizys.",2,15,11,300,36
+150,"Complete 5 unique goldsmith missions on Oizys.",2,5,15,75,37
+151,"Complete 10 unique goldsmith missions on Oizys.",2,10,15,150,38
+152,"Complete 15 unique goldsmith missions on Oizys.",2,15,15,300,39
+153,"Complete 5 unique leatherworker missions on Oizys.",2,5,19,75,40
+154,"Complete 10 unique leatherworker missions on Oizys.",2,10,19,150,41
+155,"Complete 15 unique leatherworker missions on Oizys.",2,15,19,300,42
+156,"Complete 5 unique weaver missions on Oizys.",2,5,23,75,43
+157,"Complete 10 unique weaver missions on Oizys.",2,10,23,150,44
+158,"Complete 15 unique weaver missions on Oizys.",2,15,23,300,45
+159,"Complete 5 unique alchemist missions on Oizys.",2,5,27,75,46
+160,"Complete 10 unique alchemist missions on Oizys.",2,10,27,150,47
+161,"Complete 15 unique alchemist missions on Oizys.",2,15,27,300,48
+162,"Complete 5 unique culinarian missions on Oizys.",2,5,31,75,49
+163,"Complete 10 unique culinarian missions on Oizys.",2,10,31,150,50
+164,"Complete 15 unique culinarian missions on Oizys.",2,15,31,300,51
+165,"Complete 5 unique botanist missions on Oizys.",2,5,39,75,55
+166,"Complete 10 unique botanist missions on Oizys.",2,10,39,150,56
+167,"Complete 15 unique botanist missions on Oizys.",2,15,39,300,57
+168,"Complete 5 unique miner missions on Oizys.",2,5,35,75,52
+169,"Complete 10 unique miner missions on Oizys.",2,10,35,150,53
+170,"Complete 15 unique miner missions on Oizys.",2,15,35,300,54
+171,"Complete 5 unique fisher missions on Oizys.",2,5,43,75,58
+172,"Complete 10 unique fisher missions on Oizys.",2,10,43,150,59
+173,"Complete 15 unique fisher missions on Oizys.",2,15,43,300,60
+174,"Draw 5 cosmic fortunes on Oizys.",2,5,1,500,61
+175,"Draw 30 cosmic fortunes on Oizys.",2,30,1,1000,62
+176,"Draw 100 cosmic fortunes on Oizys.",2,100,1,1500,63
+177,"Complete 5 unique critical missions on Oizys.",2,5,48,1000,19
+178,"Complete 12 unique critical missions on Oizys.",2,12,48,2000,20
+179,"Complete 22 unique critical missions on Oizys.",2,22,48,3000,21
+180,"Complete 10 artifact searches on Oizys.",2,10,48,1000,64
+181,"Complete 30 artifact searches on Oizys.",2,30,48,3000,65
+182,"Complete 100 artifact searches on Oizys.",2,100,48,5000,66

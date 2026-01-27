@@ -107,7 +107,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,int32,int32,int32,GrandCom
 103,"set of barding of the dead",0,"sets of barding of the dead",0,0,1,0,0,"Barding of the Dead",65634,65634,65634,0,58810,58812,58811,165
 104,"set of pilgrim's barding",0,"sets of pilgrim's barding",0,0,1,0,0,"Pilgrim's Barding",65635,65635,65635,0,58813,58815,58814,84
 105,"set of runaway barding",0,"sets of runaway barding",0,0,1,0,0,"Runaway Barding",65636,65636,65636,0,58816,58818,58817,166
-106,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+106,"set of cosmic barding",0,"sets of cosmic barding",0,0,1,0,0,"Cosmic Barding",65637,65637,65637,0,58819,58821,58820,85
 107,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
 108,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
 109,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0

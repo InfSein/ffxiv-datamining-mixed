@@ -3304,7 +3304,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003300,"sprig of soma",0,"sprigs of soma",0,0,1,0,0,False,"Soma",25039,0,1,1,70030,0,0,0
 2003301,"lustering jewel",0,"lustering jewels",0,0,1,0,0,False,"Lustering Jewel",20267,0,1,1,70032,0,0,0
 2003302,"Archestratus flower",0,"Archestratus flowers",0,1,1,0,0,False,"Archestratus Flower",25580,0,3,1,70045,0,0,0
-2003303,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003303,"vicarious vacationer",0,"vicarious vacationers",0,0,1,0,0,False,"Vicarious Vacationer",59896,0,2,1,70986,0,0,0
 2003304,"dose of aetherial supplement",0,"doses of aetherial supplement",0,0,1,0,0,False,"Aetherial Supplement",20673,1,1,1,70049,3,0,0
 2003305,"soma fragment",0,"soma fragments",0,0,1,0,0,False,"Soma Fragment",20037,0,99,1,0,0,0,0
 2003306,"sheaf of confidential documents",0,"sheaves of confidential documents",0,0,1,0,0,False,"Confidential Documents",26603,0,99,1,0,0,0,0
@@ -3766,7 +3766,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003762,"liquor bottle",0,"liquor bottles",0,0,1,0,0,False,"Liquor Bottle",25057,0,1,1,70915,0,0,0
 2003763,"sack of produce",0,"sacks of produce",0,0,1,0,0,False,"Sack of Produce",25351,0,1,1,70915,0,0,0
 2003764,"piece of paper",0,"pieces of paper",0,0,1,0,0,False,"Piece of Paper",26151,0,1,1,70915,0,0,0
-2003765,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003765,"phantom glass",0,"phantom glasses",0,0,1,0,0,False,"Phantom Glass",25986,1,1,8,70991,0,0,0
 2003766,"aetherwell array",0,"aetherwell arrays",0,1,1,0,0,False,"Aetherwell Array",26083,1,1,8,70917,0,0,0
 2003767,"card-shaped object",0,"card-shaped objects",0,0,1,0,0,False,"Card-shaped Object",26078,1,1,1,70904,0,0,1
 2003768,"Level 2 security card",0,"Level 2 security cards",0,0,1,0,0,False,"Level 2 Security Card",26079,1,1,1,70904,0,0,1
@@ -3803,11 +3803,11 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003799,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003800,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003801,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003802,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003803,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003802,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant",23569,0,3,1,0,0,0,0
+2003803,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant",23569,0,3,1,0,0,0,0
 2003804,"pouch of synthetic desensitizer",0,"pouches of synthetic desensitizer",0,0,1,0,0,False,"Synthetic Desensitizer",26110,1276,1,1,70966,1,0,4
-2003805,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003806,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003805,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",0,0,1,1,0,0,0,0
+2003806,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",0,0,1,1,0,0,0,0
 2003807,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003808,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003809,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

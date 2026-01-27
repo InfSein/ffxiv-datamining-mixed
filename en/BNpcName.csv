@@ -6209,7 +6209,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 6205,"Hypertuned Grynewaht",0,"Hypertuned Grynewaht",0,0,1,0,1
 6206,"retuned magitek bit",0,"retuned magitek bits",0,0,1,0,0
 6207,"magitek chakram",0,"magitek chakrams",0,0,1,0,0
-6208,"Doman laquierius",0,"Doman laquierii",0,0,1,0,0
+6208,"Doman eques",0,"Doman equites",0,0,1,0,0
 6209,"Doman secutor",0,"Doman secutores",0,0,1,0,0
 6210,"Doman slasher",0,"Doman slashers",0,0,1,0,0
 6211,"Doman colossus",0,"Doman colossi",0,0,1,0,0
@@ -14460,7 +14460,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14456,"",0,"",0,0,0,0,0
 14457,"",0,"",0,0,0,0,0
 14458,"",0,"",0,0,0,0,0
-14459,"",0,"",0,0,0,0,0
+14459,"Droningway",0,"Droningways",0,0,1,0,1
 14460,"G-Warrior MGSD",0,"G-Warrior MGSDs",0,0,1,0,0
 14461,"La Noscean shorthair",0,"La Noscean shorthairs",0,0,1,0,0
 14462,"gallant shepherd",0,"gallant shepherds",0,0,1,0,0
