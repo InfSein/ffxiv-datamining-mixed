@@ -1,0 +1,1112 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Name,Icon,Quest,AcceptTalk,FailTalk,,,
+int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
+262144,"",0,0,0,0,False,0,0
+262145,"",0,0,0,0,False,0,0
+262151,"Objets",0,0,0,0,True,0,0
+262152,"",0,0,0,0,False,0,0
+262153,"",0,0,0,0,False,0,0
+262154,"",0,0,0,0,False,0,0
+262155,"",0,0,0,0,False,0,0
+262156,"",0,0,0,0,False,0,0
+262157,"",0,0,0,0,True,0,0
+262158,"Objets",0,0,0,0,True,0,0
+262159,"",0,0,0,0,False,0,0
+262160,"",0,0,0,0,False,0,0
+262161,"",0,0,0,0,False,0,0
+262162,"",0,0,0,0,False,0,0
+262163,"",0,0,0,0,False,0,0
+262164,"Objets",0,0,0,0,True,0,0
+262165,"",0,0,0,0,False,0,0
+262166,"",0,0,0,0,False,0,0
+262167,"",0,0,0,0,False,0,0
+262168,"",0,0,0,0,False,0,0
+262169,"",0,0,0,0,False,0,0
+262170,"",0,0,0,0,True,0,0
+262171,"",0,0,0,0,True,0,0
+262172,"",0,0,0,0,True,0,0
+262173,"",0,0,0,0,True,0,0
+262174,"",0,0,0,0,True,0,0
+262175,"",0,0,0,0,True,0,0
+262176,"",0,0,0,0,True,0,0
+262177,"",0,0,0,0,True,0,0
+262178,"",0,0,0,0,False,0,0
+262179,"",0,0,0,0,False,0,0
+262180,"Objets",0,0,0,0,True,0,0
+262181,"Objets",0,0,0,0,True,0,0
+262182,"",0,0,0,0,True,0,0
+262183,"",0,0,0,0,False,0,0
+262184,"",0,0,0,0,False,0,0
+262185,"",0,0,0,0,True,0,0
+262186,"",0,0,0,0,False,0,0
+262187,"",0,0,0,0,False,0,0
+262188,"",0,0,0,0,False,0,0
+262189,"",0,0,0,0,False,0,0
+262190,"",0,0,0,0,True,0,0
+262191,"Objets",0,0,0,0,True,0,0
+262192,"",0,0,0,0,True,0,0
+262193,"",0,0,0,0,False,0,0
+262194,"",0,0,0,0,False,0,0
+262195,"",0,0,0,0,False,0,0
+262196,"",0,0,0,0,False,0,0
+262197,"",0,0,0,0,True,0,0
+262198,"",0,0,0,0,False,0,0
+262199,"",0,0,0,0,False,0,0
+262200,"",0,0,0,0,True,0,0
+262201,"Objets",0,0,0,0,True,0,0
+262202,"",0,0,0,0,True,0,0
+262203,"",0,0,0,0,False,0,0
+262204,"",0,0,0,0,False,0,0
+262205,"",0,0,0,0,False,0,0
+262206,"",0,0,0,0,False,0,0
+262207,"",0,0,0,0,True,0,0
+262208,"",0,0,0,0,True,0,0
+262209,"Armes",0,0,0,0,True,0,0
+262210,"",0,0,0,0,True,0,0
+262211,"",0,0,0,0,True,0,0
+262212,"Accessoires de combat",0,0,0,0,True,0,0
+262213,"Équipement de combat",0,0,0,0,True,0,0
+262214,"Équipement de travail",0,0,0,0,True,0,0
+262215,"Armes",0,0,0,0,True,0,0
+262216,"Outils",0,0,0,0,True,0,0
+262217,"Armes",0,0,0,0,True,0,0
+262218,"Équipement de combat",0,0,0,0,True,0,0
+262219,"Équipement de travail",0,0,0,0,True,0,0
+262221,"Outils",0,0,0,0,True,0,0
+262222,"Armes",0,0,0,0,True,0,0
+262223,"Équipement de combat",0,0,0,0,True,0,0
+262224,"Équipement de travail",0,0,0,0,True,0,0
+262225,"Outils",0,0,0,0,True,0,0
+262226,"Armes",0,0,0,0,True,0,0
+262227,"Équipement de combat",0,0,0,0,True,0,0
+262228,"Équipement de travail",0,0,0,0,True,0,0
+262229,"Outils",0,0,0,0,True,0,0
+262230,"Armes",0,0,0,0,True,0,0
+262231,"Équipement de combat",0,0,0,0,True,0,0
+262232,"Équipement de travail",0,0,0,0,True,0,0
+262233,"Outils",0,0,0,0,True,0,0
+262234,"Armes",0,0,0,0,True,0,0
+262235,"Équipement de combat",0,0,0,0,True,0,0
+262236,"Équipement de travail",0,0,0,0,True,0,0
+262237,"Outils",0,0,0,0,True,0,0
+262238,"Armes",0,0,0,0,True,0,0
+262239,"Équipement de combat",0,0,0,0,True,0,0
+262240,"Équipement de travail",0,0,0,0,True,0,0
+262241,"Outils",0,0,0,0,True,0,0
+262242,"Armes",0,0,0,0,True,0,0
+262243,"Équipement de combat",0,0,0,0,True,0,0
+262244,"Équipement de travail",0,0,0,0,True,0,0
+262245,"Outils",0,0,0,0,True,0,0
+262246,"Armes",0,0,0,0,True,0,0
+262247,"Équipement de combat",0,0,0,0,True,0,0
+262248,"Équipement de travail",0,0,0,0,True,0,0
+262249,"Outils",0,0,0,0,True,0,0
+262250,"Armes",0,0,0,0,True,0,0
+262251,"Équipement de combat",0,0,0,0,True,0,0
+262252,"Équipement de travail",0,0,0,0,True,0,0
+262253,"Outils",0,0,0,0,True,0,0
+262254,"Armes",0,0,0,0,True,0,0
+262255,"Équipement de combat",0,0,0,0,True,0,0
+262256,"Équipement de travail",0,0,0,0,True,0,0
+262257,"",0,0,0,0,True,0,0
+262258,"Outils",0,0,0,0,True,0,0
+262259,"Armes",0,0,0,0,True,0,0
+262260,"Équipement de combat",0,0,0,0,True,0,0
+262261,"Équipement de travail",0,0,0,0,True,0,0
+262262,"Outils",0,0,0,0,True,0,0
+262263,"Armes",0,0,0,0,True,0,0
+262264,"Équipement de combat",0,0,0,0,True,0,0
+262265,"Équipement de travail",0,0,0,0,True,0,0
+262266,"Outils",0,0,0,0,True,0,0
+262267,"Armes",0,0,0,0,True,0,0
+262268,"Équipement de combat",0,0,0,0,True,0,0
+262269,"Équipement de travail",0,0,0,0,True,0,0
+262270,"Armes",0,0,0,0,True,0,0
+262271,"Outils",0,0,0,0,True,0,0
+262272,"Équipement de combat",0,0,0,0,True,0,0
+262273,"Équipement de travail",0,0,0,0,True,0,0
+262274,"Outils",0,0,0,0,True,0,0
+262275,"Armes",0,0,0,0,True,0,0
+262276,"Équipement de combat",0,0,0,0,True,0,0
+262277,"Équipement de travail",0,0,0,0,True,0,0
+262278,"Armes",0,0,0,0,True,0,0
+262279,"Outils",0,0,0,0,True,0,0
+262280,"Équipement de combat",0,0,0,0,True,0,0
+262281,"Équipement de travail",0,0,0,0,True,0,0
+262282,"Outils",0,0,0,0,True,0,0
+262283,"Armes",0,0,0,0,True,0,0
+262284,"Équipement de combat",0,0,0,0,True,0,0
+262285,"Équipement de travail",0,0,0,0,True,0,0
+262286,"Armes",0,0,0,0,True,0,0
+262287,"Outils",0,0,0,0,True,0,0
+262288,"Équipement de combat",0,0,0,0,True,0,0
+262289,"Équipement de travail",0,0,0,0,True,0,0
+262290,"Outils",0,0,0,0,True,0,0
+262291,"Armes",0,0,0,0,True,0,0
+262292,"Équipement de combat",0,0,0,0,True,0,0
+262293,"Équipement de travail",0,0,0,0,True,0,0
+262294,"Outils",0,0,0,0,True,0,0
+262295,"Armes",0,0,0,0,True,0,0
+262296,"Équipement de combat",0,0,0,0,True,0,0
+262297,"Équipement de travail",0,0,0,0,True,0,0
+262298,"Outils",0,0,0,0,True,0,0
+262299,"Armes",0,0,0,0,True,0,0
+262300,"Équipement de combat",0,0,0,0,True,0,0
+262301,"Équipement de travail",0,0,0,0,True,0,0
+262302,"Outils",0,0,0,0,True,0,0
+262303,"Armes",0,0,0,0,True,0,0
+262304,"Équipement de combat",0,0,0,0,True,0,0
+262305,"Équipement de travail",0,0,0,0,True,0,0
+262306,"Outils",0,0,0,0,True,0,0
+262307,"Armes",0,0,0,0,True,0,0
+262308,"Équipement de combat",0,0,0,0,True,0,0
+262309,"Équipement de travail",0,0,0,0,True,0,0
+262310,"Outils",0,0,0,0,True,0,0
+262311,"Armes",0,0,0,0,True,0,0
+262312,"Équipement de combat",0,0,0,0,True,0,0
+262313,"Équipement de travail",0,0,0,0,True,0,0
+262314,"Outils",0,0,0,0,True,0,0
+262315,"Armes",0,0,0,0,True,0,0
+262316,"Équipement de combat",0,0,0,0,True,0,0
+262317,"Équipement de travail",0,0,0,0,True,0,0
+262318,"Outils",0,0,0,0,True,0,0
+262319,"Armes",0,0,0,0,True,0,0
+262320,"Équipement de combat",0,0,0,0,True,0,0
+262321,"Équipement de travail",0,0,0,0,True,0,0
+262322,"Outils",0,0,0,0,True,0,0
+262323,"Armes",0,0,0,0,True,0,0
+262324,"Équipement de combat",0,0,0,0,True,0,0
+262325,"Équipement de travail",0,0,0,0,True,0,0
+262326,"Outils",0,0,0,0,True,0,0
+262327,"Armes",0,0,0,0,True,0,0
+262328,"Équipement de combat",0,0,0,0,True,0,0
+262329,"Équipement de travail",0,0,0,0,True,0,0
+262330,"Outils",0,0,0,0,True,0,0
+262331,"Armes",0,0,0,0,True,0,0
+262332,"Équipement de combat",0,0,0,0,True,0,0
+262333,"Équipement de travail",0,0,0,0,True,0,0
+262334,"Outils",0,0,0,0,True,0,0
+262335,"Armes",0,0,0,0,True,0,0
+262336,"Équipement de combat",0,0,0,0,True,0,0
+262337,"Équipement de travail",0,0,0,0,True,0,0
+262338,"Outils",0,0,0,0,True,0,0
+262339,"Armes",0,0,0,0,True,0,0
+262340,"Équipement de combat",0,0,0,0,True,0,0
+262341,"Équipement de travail",0,0,0,0,True,0,0
+262342,"Outils",0,0,0,0,True,0,0
+262343,"Armes",0,0,0,0,True,0,0
+262344,"Équipement de combat",0,0,0,0,True,0,0
+262345,"Équipement de travail",0,0,0,0,True,0,0
+262346,"Armes",0,0,0,0,True,0,0
+262347,"Outils",0,0,0,0,True,0,0
+262348,"Équipement de combat",0,0,0,0,True,0,0
+262349,"Équipement de travail",0,0,0,0,True,0,0
+262350,"",0,0,0,0,True,0,0
+262351,"Outils",0,0,0,0,True,0,0
+262352,"Armes",0,0,0,0,True,0,0
+262353,"Équipement de combat",0,0,0,0,True,0,0
+262354,"Équipement de travail",0,0,0,0,True,0,0
+262355,"Outils",0,0,0,0,True,0,0
+262356,"Armes",0,0,0,0,True,0,0
+262357,"Équipement de combat",0,0,0,0,True,0,0
+262358,"Équipement de travail",0,0,0,0,True,0,0
+262359,"Outils",0,0,0,0,True,0,0
+262360,"Armes",0,0,0,0,True,0,0
+262361,"Équipement de combat",0,0,0,0,True,0,0
+262362,"Équipement de travail",0,0,0,0,True,0,0
+262363,"Outils",0,0,0,0,True,0,0
+262364,"Armes",0,0,0,0,True,0,0
+262365,"Équipement de combat",0,0,0,0,True,0,0
+262366,"Équipement de travail",0,0,0,0,True,0,0
+262367,"Outils",0,0,0,0,True,0,0
+262368,"Armes",0,0,0,0,True,0,0
+262369,"Équipement de combat",0,0,0,0,True,0,0
+262370,"Équipement de travail",0,0,0,0,True,0,0
+262371,"Outils",0,0,0,0,True,0,0
+262372,"Outils",0,0,0,0,True,0,0
+262373,"Armes",0,0,0,0,True,0,0
+262374,"Équipement de combat",0,0,0,0,True,0,0
+262375,"Équipement de travail",0,0,0,0,True,0,0
+262376,"",0,0,0,0,True,0,0
+262377,"",0,0,0,0,True,0,0
+262378,"Outils",0,0,0,0,True,0,0
+262379,"Armes",0,0,0,0,True,0,0
+262380,"Équipement de combat",0,0,0,0,True,0,0
+262381,"Équipement de travail",0,0,0,0,True,0,0
+262382,"Outils",0,0,0,0,True,0,0
+262383,"Armes",0,0,0,0,True,0,0
+262384,"Équipement de combat",0,0,0,0,True,0,0
+262385,"Équipement de travail",0,0,0,0,True,0,0
+262386,"Outils",0,0,0,0,True,0,0
+262387,"Armes",0,0,0,0,True,0,0
+262388,"Équipement de combat",0,0,0,0,True,0,0
+262389,"Équipement de travail",0,0,0,0,True,0,0
+262390,"Outils",0,0,0,0,True,0,0
+262391,"Outils",0,0,0,0,True,0,0
+262392,"Outils",0,0,0,0,True,0,0
+262393,"Armes",0,0,0,0,True,0,0
+262394,"Équipement de combat",0,0,0,0,True,0,0
+262395,"Équipement de travail",0,0,0,0,True,0,0
+262396,"Outils",0,0,0,0,True,0,0
+262397,"Armes",0,0,0,0,True,0,0
+262398,"Équipement de combat",0,0,0,0,True,0,0
+262399,"Équipement de travail",0,0,0,0,True,0,0
+262400,"Outils",0,0,0,0,True,0,0
+262401,"Armes",0,0,0,0,True,0,0
+262402,"Équipement de combat",0,0,0,0,True,0,0
+262403,"Équipement de travail",0,0,0,0,True,0,0
+262404,"",0,0,0,0,True,0,0
+262405,"",0,0,0,0,True,0,0
+262406,"",0,0,0,0,True,0,0
+262407,"",0,0,0,0,True,0,0
+262408,"Armes",0,0,0,0,True,0,0
+262409,"Équipement de combat",0,0,0,0,True,0,0
+262410,"Armes",0,0,0,0,True,0,0
+262411,"Équipement de combat",0,0,0,0,True,0,0
+262412,"Armes",0,0,0,0,True,0,0
+262413,"Équipement de combat",0,0,0,0,True,0,0
+262414,"",0,0,0,0,True,13,0
+262415,"",0,0,0,0,True,2,0
+262419,"Extérieur, jardin et orchestrion",0,0,0,0,True,0,0
+262420,"Extérieur, jardin et orchestrion",0,0,0,0,True,0,0
+262421,"Extérieur, jardin et orchestrion",0,0,0,0,True,0,0
+262422,"Objets",0,0,0,0,True,0,0
+262423,"",0,0,0,0,True,5,0
+262424,"",0,0,0,0,True,8,0
+262425,"",0,0,0,0,True,9,0
+262426,"",0,0,0,0,False,0,0
+262427,"",0,0,0,0,False,0,0
+262428,"",0,0,0,0,False,0,0
+262429,"",0,0,0,0,False,0,0
+262430,"",0,0,0,0,False,0,0
+262431,"",0,0,0,0,False,0,0
+262432,"",0,0,0,0,False,0,0
+262433,"",0,0,0,0,False,0,0
+262434,"",0,0,0,0,True,0,0
+262435,"",0,0,0,0,True,0,0
+262436,"",0,0,0,0,True,0,0
+262437,"",0,0,0,0,True,0,0
+262438,"",0,0,0,0,True,0,0
+262439,"",0,0,0,0,True,0,0
+262440,"",0,0,0,0,True,0,0
+262441,"",0,0,0,0,True,0,0
+262442,"",0,0,0,0,True,0,0
+262443,"Armures Nv 50 (guerre)",0,0,0,0,True,0,0
+262444,"Armures Nv 50 (magie)",0,0,0,0,True,0,0
+262445,"Armes/Outils Nv 50",0,0,0,0,True,0,0
+262446,"Récompenses de quêtes 1",0,0,0,0,True,0,0
+262449,"Récompenses de hauts faits 1",0,0,0,0,True,0,0
+262450,"Récompenses de hauts faits 2",0,0,0,0,True,0,0
+262451,"",0,0,0,0,False,0,0
+262452,"",0,0,0,0,False,0,0
+262453,"",0,0,0,0,False,0,0
+262454,"",0,0,0,0,False,0,0
+262455,"",0,0,0,0,False,0,0
+262456,"",0,0,0,0,False,0,0
+262457,"",0,0,0,0,False,0,0
+262458,"",0,0,0,0,False,0,0
+262459,"Objets (mirages)",0,66958,0,0,True,0,0
+262460,"Objets",0,0,0,0,True,10,0
+262461,"Objets (bois, métaux, pierres, os, cuirs)",60412,0,0,0,True,0,0
+262462,"Objets (tissus, réactifs, ingrédients)",60412,0,0,0,True,0,0
+262463,"Objets (jardinage, teinture)",60412,0,0,0,True,0,0
+262464,"",0,0,0,0,True,0,0
+262466,"",0,0,0,0,False,0,0
+262468,"Objets (pour hommes)",0,0,0,0,True,11,0
+262469,"Objets (pour femmes)",0,0,0,0,True,11,0
+262470,"Objets",0,0,0,0,True,11,0
+262471,"Objets (catalyseurs)",60412,0,0,0,True,0,0
+262472,"Objets (ingrédients de cuisine)",60412,0,0,0,True,0,0
+262473,"",0,0,0,0,False,0,0
+262474,"",0,0,0,0,False,0,0
+262475,"",0,0,0,0,False,0,0
+262476,"",0,0,0,0,False,0,0
+262477,"",0,0,0,0,False,0,0
+262478,"",0,0,0,0,False,0,0
+262479,"",0,0,0,0,False,0,0
+262480,"",0,0,0,0,False,0,0
+262481,"",0,0,0,0,False,0,0
+262482,"",0,0,0,0,False,0,0
+262483,"",0,0,0,0,False,0,0
+262484,"",0,0,0,0,False,0,0
+262485,"",0,0,0,0,True,7,0
+262486,"",0,0,0,0,True,0,0
+262488,"Équipement divers",0,0,0,0,True,0,0
+262489,"Objets",0,0,0,0,True,16,0
+262491,"Chocobos de course",0,0,0,592240,True,0,0
+262492,"Objets",0,0,0,0,True,0,0
+262493,"Objets",0,0,0,0,True,19,0
+262494,"Objets",0,0,0,0,True,0,0
+262495,"Objets",0,0,0,592222,True,20,0
+262496,"Objets",0,0,0,0,True,0,0
+262497,"Réplique d'Excalibur zêta",0,291,0,0,True,0,0
+262498,"Réplique de Ragnarok zêta",0,294,0,0,True,0,0
+262499,"Réplique des Griffes Kaiser zêta",0,293,0,0,True,0,0
+262500,"Réplique de Longinus zêta",0,295,0,0,True,0,0
+262501,"Réplique des Sasuke zêta",0,297,0,0,True,0,0
+262502,"Réplique de l'Arc de Yoichi zêta",0,296,0,0,True,0,0
+262503,"Réplique du Sceptre de Lilith zêta",0,299,0,0,True,0,0
+262504,"Réplique d'Apocalypse zêta",0,300,0,0,True,0,0
+262505,"Réplique de Nirvâna zêta",0,298,0,0,True,0,0
+262506,"Réplique de Dernier recours zêta",0,301,0,0,True,0,0
+262507,"Réplique d'Aegis zêta",0,292,0,0,True,0,0
+262508,"",0,0,0,0,False,0,0
+262509,"Objets",0,0,0,0,True,0,0
+262510,"",0,0,0,0,False,0,0
+262511,"",0,0,0,0,False,0,0
+262512,"",0,0,0,0,False,0,0
+262513,"Objets",0,0,0,0,True,0,0
+262514,"",0,0,0,0,False,0,0
+262515,"Objets",0,0,0,0,True,0,0
+262516,"Objets",0,0,0,0,True,0,0
+262517,"Armes",0,0,0,0,True,0,0
+262518,"Armes",0,0,0,0,True,0,0
+262519,"Outils",0,0,0,0,True,0,0
+262520,"Armes",0,0,0,0,True,0,0
+262521,"Équipement de combattant",0,0,0,0,True,0,0
+262522,"Équipement de mage",0,0,0,0,True,0,0
+262523,"Outils",0,0,0,0,True,0,0
+262524,"Armes",0,0,0,0,True,0,0
+262525,"Équipement de combattant",0,0,0,0,True,0,0
+262526,"Équipement de mage",0,0,0,0,True,0,0
+262527,"Outils",0,0,0,0,True,0,0
+262528,"Armes",0,0,0,0,True,0,0
+262529,"Équipement de combattant",0,0,0,0,True,0,0
+262530,"Équipement de mage",0,0,0,0,True,0,0
+262531,"Outils",0,0,0,0,True,0,0
+262532,"Armes",0,0,0,0,True,0,0
+262533,"Équipement de combattant",0,0,0,0,True,0,0
+262534,"Équipement de mage",0,0,0,0,True,0,0
+262536,"Outils",0,0,0,0,True,0,0
+262537,"Armes",0,0,0,0,True,0,0
+262538,"Équipement de combattant",0,0,0,0,True,0,0
+262539,"Équipement de mage",0,0,0,0,True,0,0
+262540,"Outils",0,0,0,0,True,0,0
+262541,"Armes",0,0,0,0,True,0,0
+262542,"Équipement de combattant",0,0,0,0,True,0,0
+262543,"Équipement de mage",0,0,0,0,True,0,0
+262544,"Équipement de travail",0,0,0,0,True,0,0
+262545,"Outils",0,0,0,0,True,0,0
+262546,"Armes",0,0,0,0,True,0,0
+262547,"Équipement de combattant",0,0,0,0,True,0,0
+262548,"Équipement de mage",0,0,0,0,True,0,0
+262549,"Équipement de travail",0,0,0,0,True,0,0
+262550,"Outils",0,0,0,0,True,0,0
+262551,"Armes",0,0,0,0,True,0,0
+262552,"Équipement de combattant",0,0,0,0,True,0,0
+262553,"Équipement de mage",0,0,0,0,True,0,0
+262554,"Outils",0,0,0,0,True,0,0
+262555,"Armes",0,0,0,0,True,0,0
+262556,"Équipement de combattant",0,0,0,0,True,0,0
+262557,"Équipement de mage",0,0,0,0,True,0,0
+262558,"Objets",0,0,0,0,True,23,0
+262559,"Objets",0,0,0,0,True,22,0
+262560,"",0,0,0,0,False,0,0
+262561,"",0,0,0,0,False,0,0
+262562,"",0,0,0,0,False,0,0
+262564,"Outils",0,0,0,0,True,0,0
+262565,"Armes",0,0,0,0,True,0,0
+262566,"Équipement de combattant",0,0,0,0,True,0,0
+262567,"Équipement de mage",0,0,0,0,True,0,0
+262569,"Armes",0,0,0,0,True,0,0
+262570,"Outils",0,0,0,0,True,0,0
+262571,"Armes",0,0,0,0,True,0,0
+262572,"Équipement de combattant",0,0,0,0,True,0,0
+262573,"Équipement de mage",0,0,0,0,True,0,0
+262574,"Mascottes (gils)",0,0,0,0,True,0,0
+262575,"",0,0,0,0,True,28,0
+262576,"",0,0,0,0,False,0,0
+262577,"",0,0,0,0,False,0,0
+262578,"",0,0,0,0,False,0,0
+262579,"",0,0,0,0,False,0,0
+262580,"",0,0,0,0,False,0,0
+262581,"",0,0,0,0,False,0,0
+262582,"",0,0,0,0,False,0,0
+262584,"",0,0,0,0,False,0,0
+262585,"Objets",0,0,0,0,True,31,0
+262586,"Objets",0,0,0,0,True,32,0
+262587,"Objets",0,0,0,0,True,33,0
+262588,"Objets",60412,0,0,0,True,0,0
+262603,"",0,0,0,0,False,0,0
+262604,"",0,0,0,0,False,0,0
+262605,"",0,0,0,0,False,0,0
+262606,"",0,0,0,0,False,0,0
+262607,"",0,0,0,0,False,0,0
+262608,"",0,0,0,0,False,0,0
+262609,"Acheter des bouilloires",0,0,593139,592260,True,0,0
+262610,"Armes anima éveillées",0,0,0,0,True,0,0
+262611,"Nouvelles armes anima",0,0,0,0,True,0,0
+262612,"Objets (gils)",0,0,0,593234,True,0,0
+262613,"",0,0,0,0,False,0,0
+262614,"",0,0,0,0,False,0,0
+262615,"",0,0,0,0,False,0,0
+262616,"",0,0,0,0,False,0,0
+262617,"",0,0,0,0,False,0,0
+262618,"",0,0,0,0,False,0,0
+262619,"",0,0,0,0,False,0,0
+262620,"",0,0,0,0,False,0,0
+262621,"Outils",0,0,0,0,True,0,0
+262622,"Équipement de travail",0,0,0,0,True,0,0
+262623,"",0,0,0,0,False,0,0
+262624,"",0,0,0,0,False,0,0
+262625,"Armes anima hyperconductrices",0,0,0,593415,True,0,0
+262626,"Achat d'objets (Feux de la Mort 1)",0,0,0,0,True,0,0
+262627,"Achat d'objets (Feux de la Mort 2)",0,0,0,0,True,0,0
+262628,"Achat d'objets (Veillée des saints)",0,0,0,0,True,0,0
+262629,"Achat d'objets (Fête des étoiles)",0,0,0,0,True,0,0
+262630,"Achat d'objets (Fête de la transition)",0,0,0,0,True,0,0
+262631,"Achat d'objets (Valention)",0,0,0,0,True,0,0
+262632,"Achat d'objets (Fête des demoiselles)",0,0,0,0,True,0,0
+262633,"Achat d'objets (Chasse aux Prœufs)",0,0,0,0,True,0,0
+262634,"Achat d'objets (Autres événements)",0,0,0,0,True,0,0
+262635,"Objets",0,0,0,0,True,0,0
+262636,"Objets",0,0,0,0,True,38,0
+262637,"Objets",0,0,0,0,True,0,0
+262638,"Objets I",0,0,0,0,True,0,0
+262639,"Objets",0,0,0,0,True,0,0
+262640,"Accessoires de combat",0,0,0,0,True,0,0
+262641,"Objets",0,0,0,0,True,37,0
+262642,"Objets",0,0,0,0,True,0,0
+262643,"Objets",0,0,0,0,True,0,0
+262644,"Objets",0,0,0,0,True,0,0
+262645,"Armes anima épanouies",0,0,0,593415,True,0,0
+262646,"Récompenses d'événements saisonniers",0,0,0,0,True,43,0
+262647,"Récompenses d'événements saisonniers",0,0,0,0,True,44,0
+262648,"Objets (gils)",0,0,0,0,True,46,0
+262649,"",0,0,0,0,False,0,0
+262650,"",0,0,0,0,False,0,0
+262651,"",0,0,0,0,False,0,0
+262652,"Armes anima vivifiées",0,67932,0,0,True,0,0
+262653,"Armes anima parachevées",0,67940,0,0,True,0,0
+262654,"Tapisseries, sols et luminaires",0,0,0,0,True,0,0
+262655,"Sièges et lits",0,0,0,0,True,0,0
+262656,"Tables et plats",0,0,0,0,True,0,0
+262657,"Étagères, tapis et lampes",0,0,0,0,True,0,0
+262658,"Meubles divers",0,0,0,0,True,0,0
+262659,"Peintures (Noscea)",0,0,0,0,True,0,0
+262660,"Peintures (Sombrelinceul)",0,0,0,0,True,0,0
+262661,"Peintures (Thanalan)",0,0,0,0,True,0,0
+262662,"Peintures (Coerthas/Mor Dhona)",0,0,0,0,True,0,0
+262663,"",0,0,0,0,True,45,0
+262664,"",0,0,0,0,True,47,0
+262665,"Récompenses d'événements saisonniers",0,0,0,0,True,50,0
+262666,"Récompenses d'événements saisonniers",0,0,0,0,True,51,0
+262667,"Récompenses d'événements saisonniers",0,0,0,0,True,52,0
+262668,"",0,0,0,0,True,0,0
+262669,"",0,0,0,0,True,0,0
+262670,"",0,0,0,0,True,0,0
+262671,"Équipement lalafell",0,0,0,0,True,0,0
+262672,"Équipement roegadyn",0,0,0,0,True,0,0
+262673,"Équipement élézen",0,0,0,0,True,0,0
+262674,"Équipement hyur",0,0,0,0,True,0,0
+262675,"Équipement miqo'te",0,0,0,0,True,0,0
+262676,"Équipement aoran",0,0,0,0,True,0,0
+262677,"Armure Garo de paladin",0,0,0,0,True,0,0
+262678,"Armure Garo de guerrier",0,0,0,0,True,0,0
+262679,"Armure Garo de chevalier noir",0,0,0,0,True,0,0
+262680,"Armure Garo de moine",0,0,0,0,True,0,0
+262681,"Armure Garo de chevalier dragon",0,0,0,0,True,0,0
+262682,"Armure Garo de ninja",0,0,0,0,True,0,0
+262683,"Armure Garo de barde",0,0,0,0,True,0,0
+262684,"Armure Garo de machiniste",0,0,0,0,True,0,0
+262685,"Armure Garo de mage noir",0,0,0,0,True,0,0
+262686,"Armure Garo d'invocateur",0,0,0,0,True,0,0
+262687,"Armure Garo de mage blanc",0,0,0,0,True,0,0
+262688,"Armure Garo d'érudit",0,0,0,0,True,0,0
+262689,"Armure Garo d'astromancien",0,0,0,0,True,0,0
+262690,"Jardin et orchestrion",0,0,0,0,True,0,0
+262691,"Objets",0,0,0,0,True,0,0
+262692,"Objets",0,66754,0,0,True,0,0
+262693,"Objets",0,66789,0,0,True,0,0
+262694,"Objets",0,66857,0,0,True,0,0
+262695,"Objets",0,66911,0,0,True,0,0
+262696,"Objets",0,67023,0,0,True,0,0
+262697,"Objets",0,67701,0,0,True,0,0
+262698,"Objets",0,67791,0,0,True,0,0
+262699,"Objets",0,67856,0,0,True,0,0
+262700,"Armures (Nv 1-9)",0,0,0,0,True,0,0
+262701,"Armures (Nv 10-19)",0,0,0,0,True,0,0
+262702,"Armures (Nv 20-29)",0,0,0,0,True,0,0
+262703,"Armures (Nv 30-39)",0,0,0,0,True,0,0
+262704,"Armures (Nv 40-49)",0,0,0,0,True,0,0
+262705,"Armures (Nv 1-9)",0,0,0,0,True,0,0
+262706,"Armures (Nv 10-19)",0,0,0,0,True,0,0
+262707,"Armures (Nv 20-29)",0,0,0,0,True,0,0
+262708,"Armures (Nv 30-39)",0,0,0,0,True,0,0
+262709,"Armures (Nv 40-49)",0,0,0,0,True,0,0
+262710,"Armures (Nv 1-9)",0,0,0,0,True,0,0
+262711,"Armures (Nv 10-19)",0,0,0,0,True,0,0
+262712,"Armures (Nv 20-29)",0,0,0,0,True,0,0
+262713,"Armures (Nv 30-39)",0,0,0,0,True,0,0
+262714,"Armures (Nv 40-49)",0,0,0,0,True,0,0
+262715,"Armes (Nv 1-9)",0,0,0,0,True,0,0
+262716,"Armes (Nv 10-19)",0,0,0,0,True,0,0
+262717,"Armes (Nv 20-29)",0,0,0,0,True,0,0
+262718,"Armes (Nv 30-39)",0,0,0,0,True,0,0
+262719,"Armes (Nv 40-49)",0,0,0,0,True,0,0
+262720,"Armes (Nv 1-9)",0,0,0,0,True,0,0
+262721,"Armes (Nv 10-19)",0,0,0,0,True,0,0
+262722,"Armes (Nv 20-29)",0,0,0,0,True,0,0
+262723,"Armes (Nv 30-39)",0,0,0,0,True,0,0
+262724,"Armes (Nv 40-49)",0,0,0,0,True,0,0
+262725,"Outils (Nv 1-9)",0,0,0,0,True,0,0
+262726,"Outils (Nv 10-19)",0,0,0,0,True,0,0
+262727,"Outils (Nv 20-29)",0,0,0,0,True,0,0
+262728,"Outils (Nv 30-39)",0,0,0,0,True,0,0
+262729,"Outils (Nv 40-49)",0,0,0,0,True,0,0
+262730,"Outils (Nv 1-9)",0,0,0,0,True,0,0
+262731,"Outils (Nv 10-19)",0,0,0,0,True,0,0
+262732,"Outils (Nv 20-29)",0,0,0,0,True,0,0
+262733,"Outils (Nv 30-39)",0,0,0,0,True,0,0
+262734,"Outils (Nv 40-49)",0,0,0,0,True,0,0
+262735,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262736,"Accessoires (artisanat/récolte)",0,0,0,0,True,0,0
+262737,"Armures (Nv 50)",0,0,0,0,True,0,0
+262738,"Armures (Nv 52)",0,0,0,0,True,0,0
+262739,"Armures (Nv 54)",0,0,0,0,True,0,0
+262740,"Armures (Nv 56)",0,0,0,0,True,0,0
+262741,"Armures (Nv 58)",0,0,0,0,True,0,0
+262743,"Armures (Nv 50)",0,0,0,0,True,0,0
+262744,"Armures (Nv 52)",0,0,0,0,True,0,0
+262745,"Armures (Nv 54)",0,0,0,0,True,0,0
+262746,"Armures (Nv 56)",0,0,0,0,True,0,0
+262747,"Armures (Nv 58)",0,0,0,0,True,0,0
+262749,"Armures (Nv 50-60)",0,0,0,0,True,0,0
+262750,"Armes (Nv 50)",0,0,0,0,True,0,0
+262751,"Armes (Nv 52)",0,0,0,0,True,0,0
+262752,"Armes (Nv 54)",0,0,0,0,True,0,0
+262753,"Armes (Nv 56)",0,0,0,0,True,0,0
+262754,"Armes (Nv 58)",0,0,0,0,True,0,0
+262756,"Armes (Nv 50)",0,0,0,0,True,0,0
+262757,"Armes (Nv 52)",0,0,0,0,True,0,0
+262758,"Armes (Nv 54)",0,0,0,0,True,0,0
+262759,"Armes (Nv 56)",0,0,0,0,True,0,0
+262760,"Armes (Nv 58)",0,0,0,0,True,0,0
+262762,"Outils (Nv 50-60)",0,0,0,0,True,0,0
+262763,"Outils (Nv 50-60)",0,0,0,0,True,0,0
+262764,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262765,"Accessoires (artisanat/récolte)",0,0,0,0,True,0,0
+262766,"Objets",0,0,0,0,True,0,0
+262767,"Objets",0,0,0,0,True,0,0
+262768,"Objets",0,0,0,0,True,0,0
+262769,"Objets",0,0,0,0,True,0,0
+262770,"Objets",0,0,0,0,True,0,0
+262771,"Objets",0,0,0,0,True,0,0
+262772,"Objets",0,0,0,0,True,0,0
+262773,"Objets",0,0,0,0,True,0,0
+262774,"Objets",0,0,0,0,True,0,0
+262775,"Objets",0,0,0,0,True,0,0
+262776,"Objets",0,0,0,0,True,0,0
+262777,"Objets",0,0,0,0,True,0,0
+262778,"Objets",0,0,0,0,True,0,0
+262779,"Objets",0,0,0,0,True,0,0
+262780,"Objets",0,0,0,0,True,0,0
+262781,"Objets",0,0,0,0,True,0,0
+262782,"Objets",0,0,0,0,True,0,0
+262783,"Objets",0,0,0,0,True,0,0
+262784,"Objets",0,0,0,0,True,0,0
+262785,"Objets",0,0,0,0,True,0,0
+262786,"Objets",0,0,0,0,True,0,0
+262787,"Objets",0,0,0,0,True,0,0
+262788,"Objets",0,0,0,0,True,0,0
+262789,"Objets",0,0,0,0,True,0,0
+262790,"Objets",0,0,0,0,True,0,0
+262791,"Objets",0,0,0,0,True,0,0
+262792,"Objets",0,0,0,0,True,0,0
+262793,"Objets",0,0,0,0,True,0,0
+262794,"Objets",0,0,0,0,True,0,0
+262795,"Objets",0,0,0,0,True,0,0
+262796,"Objets",0,0,0,0,True,0,0
+262797,"Objets",0,0,0,0,True,0,0
+262798,"Objets",0,0,0,0,True,0,0
+262799,"Objets",0,0,0,0,True,0,0
+262800,"Objets",0,0,0,0,True,0,0
+262801,"Objets",0,0,0,0,True,0,0
+262802,"Objets",0,0,0,0,True,0,0
+262803,"Objets",0,0,0,0,True,0,0
+262804,"Objets",0,0,0,0,True,0,0
+262805,"Objets",0,0,0,0,True,0,0
+262806,"Objets",0,0,0,0,True,0,0
+262807,"Objets",0,0,0,0,True,0,0
+262808,"Objets",0,0,0,0,True,0,0
+262809,"Objets",0,0,0,0,True,0,0
+262810,"Objets",0,0,0,0,True,0,0
+262811,"Objets",0,0,0,0,True,0,0
+262813,"Objets",0,0,0,0,True,0,0
+262814,"Objets",0,0,0,0,True,0,0
+262817,"Objets",0,0,0,0,True,0,0
+262818,"Objets",0,0,0,0,True,0,0
+262819,"Objets",0,0,0,0,True,0,0
+262820,"Armures (Nv 60)",0,0,0,0,True,0,0
+262821,"Armures (guerre)",0,0,0,0,True,0,0
+262822,"Armures (guerre)",0,0,0,0,True,0,0
+262823,"Armures (guerre)",0,0,0,0,True,0,0
+262824,"Armures (guerre)",0,0,0,0,True,0,0
+262825,"Armures (guerre)",0,0,0,0,True,0,0
+262826,"",0,0,0,0,False,0,0
+262827,"Armures (Nv 60)",0,0,0,0,True,0,0
+262828,"Armures (magie)",0,0,0,0,True,0,0
+262829,"Armures (magie)",0,0,0,0,True,0,0
+262830,"Armures (magie)",0,0,0,0,True,0,0
+262831,"Armures (magie)",0,0,0,0,True,0,0
+262832,"Armures (magie)",0,0,0,0,True,0,0
+262833,"",0,0,0,0,False,0,0
+262834,"Équipement (artisanat)",0,0,0,0,True,0,0
+262835,"Armes (Nv 60)",0,0,0,0,True,0,0
+262836,"Armes",0,0,0,0,True,0,0
+262837,"Armes",0,0,0,0,True,0,0
+262838,"Armes",0,0,0,0,True,0,0
+262839,"Armes",0,0,0,0,True,0,0
+262840,"Armes",0,0,0,0,True,0,0
+262841,"",0,0,0,0,False,0,0
+262842,"Armes (Nv 60)",0,0,0,0,True,0,0
+262843,"Équipement (récolte)",0,0,0,0,True,0,0
+262844,"Outils principaux (artisanat)",0,0,0,0,True,0,0
+262845,"Outils secondaires (artisanat)",0,0,0,0,True,0,0
+262846,"Outils (récolte)",0,0,0,0,True,0,0
+262847,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262848,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262849,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262850,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262851,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262852,"Outils",0,0,0,0,True,0,0
+262853,"Outils",0,0,0,0,True,0,0
+262854,"Outils",0,0,0,0,True,0,0
+262855,"Outils",0,0,0,0,True,0,0
+262856,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262857,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262858,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262859,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262860,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262861,"Objets",0,0,0,0,True,0,0
+262862,"Objets",0,0,0,0,True,0,0
+262863,"Objets",0,0,0,0,True,0,0
+262864,"Objets",0,0,0,0,True,0,0
+262865,"Objets",0,0,0,0,True,0,0
+262866,"Objets",0,0,0,0,True,0,0
+262867,"Objets",0,0,0,0,True,0,0
+262868,"Objets",0,0,0,0,True,0,0
+262869,"Objets",0,0,0,0,True,0,0
+262870,"Objets",0,0,0,0,True,0,0
+262871,"Objets",0,0,0,0,True,0,0
+262872,"Objets",0,0,0,0,True,0,0
+262873,"Objets",0,0,0,0,True,0,0
+262874,"Objets",0,0,0,0,True,0,0
+262875,"Objets",0,0,0,0,True,0,0
+262876,"Objets",0,0,0,0,True,0,0
+262877,"Objets",0,0,0,0,True,0,0
+262878,"Objets",0,0,0,0,True,0,0
+262879,"Objets",0,0,0,0,True,0,0
+262880,"Objets",0,0,0,0,True,0,0
+262881,"Objets",0,0,0,0,True,0,0
+262882,"Objets",0,0,0,0,True,0,0
+262883,"Objets",0,0,0,0,True,0,0
+262884,"Objets",0,0,0,0,True,0,0
+262885,"Objets",0,0,0,0,True,0,0
+262886,"Objets",0,0,0,0,True,0,0
+262887,"Objets",0,0,0,0,True,0,0
+262888,"Objets",0,0,0,0,True,0,0
+262889,"Objets",0,0,0,0,True,0,0
+262890,"Objets",0,0,0,0,True,0,0
+262891,"Objets",0,0,0,0,True,0,0
+262892,"Peintures (Gyr Abania)",0,68456,0,0,True,0,0
+262893,"Peintures (Othard)",0,68456,0,0,True,0,0
+262894,"Récompenses d'événements saisonniers",0,0,0,0,True,53,0
+262895,"Récompenses d'événements saisonniers",0,0,0,0,True,54,0
+262896,"Armes (Nv 70)",0,0,0,0,True,0,0
+262897,"Armures Nv 70 (guerre 1)",0,0,0,0,True,0,0
+262898,"Armures Nv 70 (guerre 2)",0,0,0,0,True,0,0
+262899,"Armures Nv 70 (magie)",0,0,0,0,True,0,0
+262900,"Armes anima lux",0,67940,0,0,True,0,0
+262901,"Objets (mirages)",0,68554,0,0,True,0,0
+262902,"Objets",0,0,0,0,True,0,0
+262903,"",0,0,0,0,True,61,0
+262904,"",0,0,0,0,True,62,0
+262905,"",0,0,0,0,True,63,0
+262906,"Peintures (Dravania)",0,67643,0,0,True,0,0
+262907,"Peintures (Abalathia)",0,67643,0,0,True,0,0
+262908,"Objets",0,0,0,0,True,0,0
+262909,"",0,0,0,0,True,66,0
+262910,"Boutique de mode",0,0,594792,594791,True,0,0
+262911,"Outils (Nv 60)",0,68633,0,0,True,0,0
+262912,"Outils (Nv 63)",0,68633,0,0,True,0,0
+262913,"Outils (Nv 65)",0,68633,0,0,True,0,0
+262914,"Équipement (Nv 60)",0,68633,0,0,True,0,0
+262915,"Équipement (Nv 63)",0,68633,0,0,True,0,0
+262916,"Équipement (Nv 65)",0,68633,0,0,True,0,0
+262917,"Objets",0,68633,0,0,True,0,0
+262918,"Répliques d'armes Eurêka (guerre)",0,0,0,0,True,0,0
+262919,"",0,0,0,0,True,0,0
+262920,"Récompenses de quêtes 1",60412,0,0,0,True,0,0
+262921,"",0,0,0,0,True,71,0
+262922,"Répliques d'armes Eurêka (magie)",0,0,0,0,True,0,0
+262923,"",0,0,0,0,True,0,0
+262924,"",0,0,0,0,True,13,0
+262925,"",0,0,0,0,False,0,0
+262926,"Équipement de mage bleu",0,68728,0,0,True,0,0
+262927,"",0,0,0,0,True,0,0
+262928,"Objets",0,0,0,0,True,0,0
+262929,"Objets II",0,0,0,0,True,0,0
+262930,"Objets",0,68741,0,0,True,82,0
+262931,"",0,0,0,595156,True,83,0
+262932,"",0,0,0,595164,True,85,0
+262933,"Armes (Nv 62)",0,0,0,0,True,0,0
+262934,"Armes (Nv 64)",0,0,0,0,True,0,0
+262935,"Armes (Nv 66)",0,0,0,0,True,0,0
+262936,"Armes (Nv 68)",0,0,0,0,True,0,0
+262937,"Armes (Nv 70)",0,0,0,0,True,0,0
+262938,"Armures (Nv 62)",0,0,0,0,True,0,0
+262939,"Armures (Nv 64)",0,0,0,0,True,0,0
+262940,"Armures (Nv 66)",0,0,0,0,True,0,0
+262941,"Armures (Nv 68)",0,0,0,0,True,0,0
+262942,"Armures (Nv 70)",0,0,0,0,True,0,0
+262943,"Armures (Nv 62)",0,0,0,0,True,0,0
+262944,"Armures (Nv 64)",0,0,0,0,True,0,0
+262945,"Armures (Nv 66)",0,0,0,0,True,0,0
+262946,"Armures (Nv 68)",0,0,0,0,True,0,0
+262947,"Armures (Nv 70)",0,0,0,0,True,0,0
+262948,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262949,"Objets",0,0,0,0,True,0,0
+262950,"Accessoires (artisanat/récolte)",0,0,0,0,True,0,0
+262951,"Armures Nv 60",0,0,0,0,True,0,0
+262952,"Partitions et décorations murales",0,0,0,0,True,0,0
+262953,"Armures (guerre)",0,0,0,0,True,0,0
+262954,"Armures (guerre)",0,0,0,0,True,0,0
+262955,"Armures (guerre)",0,0,0,0,True,0,0
+262956,"Armures (guerre)",0,0,0,0,True,0,0
+262957,"Armures (guerre)",0,0,0,0,True,0,0
+262958,"Armures (magie)",0,0,0,0,True,0,0
+262959,"Armures (magie)",0,0,0,0,True,0,0
+262960,"Armures (magie)",0,0,0,0,True,0,0
+262961,"Armures (magie)",0,0,0,0,True,0,0
+262962,"Armures (magie)",0,0,0,0,True,0,0
+262963,"Armes",0,0,0,0,True,0,0
+262964,"Armes",0,0,0,0,True,0,0
+262965,"Armes",0,0,0,0,True,0,0
+262966,"Armes",0,0,0,0,True,0,0
+262967,"Armes",0,0,0,0,True,0,0
+262968,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262969,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262970,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262971,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262972,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+262973,"Outils",0,0,0,0,True,0,0
+262974,"Outils",0,0,0,0,True,0,0
+262975,"Outils",0,0,0,0,True,0,0
+262976,"Outils principaux (artisanat)",0,0,0,0,True,0,0
+262977,"Outils secondaires (artisanat)",0,0,0,0,True,0,0
+262978,"Outils (récolte)",0,0,0,0,True,0,0
+262979,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262980,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262981,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262982,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+262983,"Équipement (artisanat)",0,0,0,0,True,0,0
+262984,"Équipement (récolte)",0,0,0,0,True,0,0
+262985,"Objets",0,0,0,0,True,0,0
+262986,"Objets",0,0,0,0,True,0,0
+262987,"Objets",0,0,0,0,True,0,0
+262988,"Objets",0,0,0,0,True,0,0
+262989,"Objets",0,0,0,0,True,0,0
+262990,"Objets",0,0,0,0,True,0,0
+262991,"Objets",0,0,0,0,True,0,0
+262992,"Objets",0,0,0,0,True,0,0
+262993,"Objets",0,0,0,0,True,0,0
+262994,"Objets",0,0,0,0,True,0,0
+262995,"Objets",0,0,0,0,True,0,0
+262996,"Objets",0,0,0,0,True,0,0
+262997,"Objets",0,0,0,0,True,0,0
+262998,"Objets",0,0,0,0,True,0,0
+262999,"Objets",0,0,0,0,True,0,0
+263000,"Objets",0,0,0,0,True,0,0
+263001,"Objets",0,0,0,0,True,0,0
+263002,"Objets",0,0,0,0,True,0,0
+263003,"Objets",0,0,0,0,True,0,0
+263004,"Objets",0,0,0,0,True,0,0
+263005,"Objets",0,0,0,0,True,0,0
+263006,"Objets",0,0,0,0,True,0,0
+263007,"Équipement viéra",0,0,0,0,True,0,0
+263008,"Équipement hrothgar",0,0,0,0,True,0,0
+263009,"シーズナルイベント報酬の購入",0,0,0,0,True,89,0
+263010,"Objets",0,0,0,0,True,0,0
+263011,"Objets",0,0,0,0,True,0,0
+263012,"Objets",0,0,0,0,True,0,0
+263013,"Peintures (premier reflet)",0,69140,0,0,True,0,0
+263014,"Objets",0,0,0,0,True,0,0
+263015,"Objets",0,0,0,0,True,0,0
+263016,"Objets",0,0,0,0,True,0,0
+263017,"Outils",0,69330,0,0,True,0,0
+263018,"Armures",0,69330,0,0,True,0,0
+263019,"Objets",0,69330,0,0,True,0,0
+263020,"",0,0,0,0,True,103,0
+263021,"Objets",0,0,0,0,True,0,0
+263022,"Outils de Cielacier",0,69384,0,0,True,0,0
+263023,"Objets",0,0,0,0,True,0,0
+263024,"Répliques de Cielacier",0,0,0,0,True,0,0
+263025,"Objets",0,0,0,0,True,0,0
+263026,"Outils",0,69432,0,0,True,0,0
+263027,"Armures",0,69432,0,0,True,0,0
+263028,"Objets",0,69432,0,0,True,0,0
+263029,"Antiquités",0,0,0,0,True,0,0
+263030,"Objets",0,0,0,597023,True,107,0
+263031,"Répliques d'armes de la résistance (guerre 1)",0,0,0,0,True,0,0
+263032,"Répliques d'armes de la résistance (guerre 2)",0,0,0,0,True,0,0
+263033,"Matériaux de base",0,67116,0,0,True,0,0
+263034,"Matériaux de base",0,0,0,0,True,0,0
+263035,"Matériaux de base",0,0,0,0,True,0,0
+263036,"",0,0,0,597316,True,0,0
+263037,"",0,0,0,0,True,108,0
+263038,"",0,0,0,0,True,113,0
+263039,"",0,0,0,0,True,113,0
+263040,"Répliques d'armes de la résistance (magie)",0,0,0,0,True,0,0
+263041,"",0,0,0,0,True,117,0
+263042,"Objets",0,0,0,0,True,0,0
+263043,"Objets rares",0,0,0,0,True,0,0
+263044,"Objets rares",0,0,0,0,True,0,0
+263045,"Récompenses de hauts faits 3",0,0,0,0,True,0,0
+263046,"",0,0,0,0,True,0,0
+263047,"",0,0,0,0,True,0,0
+263048,"",0,0,0,0,True,0,0
+263049,"",0,0,0,0,True,123,0
+263050,"",0,0,0,0,True,122,0
+263051,"",0,0,0,0,True,121,0
+263052,"Armes",0,0,0,0,True,0,0
+263053,"Armes",0,0,0,0,True,0,0
+263054,"Armes",0,0,0,0,True,0,0
+263055,"Armes",0,0,0,0,True,0,0
+263056,"Armes",0,0,0,0,True,0,0
+263057,"Armures (guerre)",0,0,0,0,True,0,0
+263058,"Armures (guerre)",0,0,0,0,True,0,0
+263059,"Armures (guerre)",0,0,0,0,True,0,0
+263060,"Armures (guerre)",0,0,0,0,True,0,0
+263061,"Armures (guerre)",0,0,0,0,True,0,0
+263062,"Armures (magie)",0,0,0,0,True,0,0
+263063,"Armures (magie)",0,0,0,0,True,0,0
+263064,"Armures (magie)",0,0,0,0,True,0,0
+263065,"Armures (magie)",0,0,0,0,True,0,0
+263066,"Armures (magie)",0,0,0,0,True,0,0
+263067,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263068,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263069,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263070,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263071,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263072,"Outils",0,0,0,0,True,0,0
+263073,"Outils",0,0,0,0,True,0,0
+263074,"Outils",0,0,0,0,True,0,0
+263075,"Outils principaux (artisanat)",0,0,0,0,True,0,0
+263076,"Outils secondaires (artisanat)",0,0,0,0,True,0,0
+263077,"Outils (récolte)",0,0,0,0,True,0,0
+263078,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263079,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263080,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263081,"Équipement (artisanat)",0,0,0,0,True,0,0
+263082,"Équipement (récolte)",0,0,0,0,True,0,0
+263083,"Armes (Nv 70)",0,0,0,0,True,0,0
+263084,"Armes (Nv 72)",0,0,0,0,True,0,0
+263085,"Armes (Nv 74)",0,0,0,0,True,0,0
+263086,"Armes (Nv 76)",0,0,0,0,True,0,0
+263087,"Armes (Nv 78)",0,0,0,0,True,0,0
+263088,"Armes (Nv 80)",0,0,0,0,True,0,0
+263089,"Armures (Nv 70)",0,0,0,0,True,0,0
+263090,"Armures (Nv 72)",0,0,0,0,True,0,0
+263091,"Armures (Nv 74)",0,0,0,0,True,0,0
+263092,"Armures (Nv 76)",0,0,0,0,True,0,0
+263093,"Armures (Nv 78)",0,0,0,0,True,0,0
+263094,"Armures (Nv 80)",0,0,0,0,True,0,0
+263095,"Armures (Nv 70)",0,0,0,0,True,0,0
+263096,"Armures (Nv 72)",0,0,0,0,True,0,0
+263097,"Armures (Nv 74)",0,0,0,0,True,0,0
+263098,"Armures (Nv 76)",0,0,0,0,True,0,0
+263099,"Armures (Nv 78)",0,0,0,0,True,0,0
+263100,"Armures (Nv 80)",0,0,0,0,True,0,0
+263101,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263102,"Accessoires (artisanat/récolte)",0,0,0,0,True,0,0
+263103,"Objets",0,0,0,0,True,0,0
+263104,"Objets",0,0,0,0,True,0,0
+263105,"Objets",0,0,0,0,True,0,0
+263106,"Objets",0,0,0,0,True,0,0
+263107,"Objets",0,0,0,0,True,0,0
+263108,"Objets",0,0,0,0,True,0,0
+263109,"Objets",0,0,0,0,True,0,0
+263110,"Objets",0,0,0,0,True,0,0
+263111,"Objets",0,0,0,0,True,0,0
+263112,"Objets",0,0,0,0,True,0,0
+263113,"Objets",0,0,0,0,True,0,0
+263114,"Objets",0,0,0,0,True,0,0
+263115,"Objets",0,0,0,0,True,0,0
+263116,"Objets",0,0,0,0,True,0,0
+263117,"Objets",0,0,0,0,True,0,0
+263118,"Objets",0,0,0,0,True,0,0
+263119,"Objets",0,0,0,0,True,0,0
+263120,"Objets",0,0,0,0,True,0,0
+263121,"Objets",0,0,0,0,True,0,0
+263122,"Objets",0,0,0,0,True,0,0
+263123,"Objets (jardinage)",0,0,0,0,True,0,0
+263124,"アイテムの購入",0,0,0,0,True,127,0
+263125,"アイテムの購入",0,0,0,0,True,126,0
+263126,"Objets",0,70081,0,0,True,0,0
+263127,"アイテムの購入",0,0,0,0,True,129,0
+263128,"アイテムの購入",0,0,0,0,True,130,0
+263129,"アイテムの購入",0,0,0,0,True,131,0
+263130,"Peintures (mers du Nord)",0,69710,0,0,True,0,0
+263131,"Peintures (Ilsabard)",0,69710,0,0,True,0,0
+263132,"Peintures (ancien monde)",0,69710,0,0,True,0,0
+263133,"Peintures (espace intersidéral)",0,69710,0,0,True,0,0
+263134,"Récompenses de quêtes 2",0,0,0,0,True,0,0
+263135,"Armure Garo de samouraï",0,0,0,0,True,0,0
+263136,"Armure Garo de mage rouge",0,0,0,0,True,0,0
+263137,"Armure Garo de pistosabreur",0,0,0,0,True,0,0
+263138,"Armure Garo de danseur",0,0,0,0,True,0,0
+263139,"Armure Garo de faucheur",0,0,0,0,True,0,0
+263140,"Armure Garo de sage",0,0,0,0,True,0,0
+263141,"Objets",0,0,0,0,True,0,0
+263142,"Outils",0,0,0,0,True,0,0
+263143,"Équipement",0,0,0,0,True,0,0
+263144,"Objets",0,0,0,0,True,0,0
+263145,"Objets",0,0,0,0,True,132,0
+263146,"Objets",0,0,0,0,True,133,0
+263147,"Objets",0,0,0,0,True,135,0
+263148,"アイテムの購入",0,0,599096,0,True,0,0
+263149,"Objets",0,70186,0,0,True,0,0
+263150,"アイテムの購入",0,0,0,0,True,0,0
+263151,"Répliques d'armes des Manderville (guerre 1)",0,70261,0,0,True,0,0
+263152,"",0,0,0,0,True,138,0
+263153,"",0,0,0,0,True,134,1
+263154,"",0,0,0,0,True,134,2
+263155,"",0,0,0,0,True,134,3
+263156,"",0,0,0,0,True,140,0
+263157,"Outils",0,0,0,0,True,0,0
+263158,"Équipement",0,0,0,0,True,0,0
+263159,"Objets",0,0,0,0,True,0,0
+263160,"Répliques d'outils des merveilles",0,70303,0,0,True,0,0
+263161,"",0,0,0,0,True,142,0
+263162,"",0,0,0,0,True,143,0
+263163,"",0,0,0,0,True,141,0
+263164,"Objets",0,0,599264,0,True,0,0
+263165,"",0,0,0,0,True,145,0
+263166,"",0,0,0,0,True,144,0
+263167,"Objets",0,0,0,0,True,0,0
+263168,"",0,0,0,0,True,145,0
+263169,"Répliques d'armes des Manderville (guerre 2)",0,70261,0,0,True,0,0
+263170,"Objets (paysages magiques)",0,0,0,0,True,0,0
+263171,"Répliques d'armes des Manderville (magie)",0,70261,0,0,True,0,0
+263172,"Armes",0,0,0,0,True,0,0
+263173,"Armes",0,0,0,0,True,0,0
+263174,"Armes",0,0,0,0,True,0,0
+263175,"Armes",0,0,0,0,True,0,0
+263176,"Armes",0,0,0,0,True,0,0
+263177,"Armures (guerre)",0,0,0,0,True,0,0
+263178,"Armures (guerre)",0,0,0,0,True,0,0
+263179,"Armures (guerre)",0,0,0,0,True,0,0
+263180,"Armures (guerre)",0,0,0,0,True,0,0
+263181,"Armures (guerre)",0,0,0,0,True,0,0
+263182,"Armures (magie)",0,0,0,0,True,0,0
+263183,"Armures (magie)",0,0,0,0,True,0,0
+263184,"Armures (magie)",0,0,0,0,True,0,0
+263185,"Armures (magie)",0,0,0,0,True,0,0
+263186,"Armures (magie)",0,0,0,0,True,0,0
+263187,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263188,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263189,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263190,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263191,"Accessoires (guerre/magie)",0,0,0,0,True,0,0
+263192,"Outils",0,0,0,0,True,0,0
+263193,"Outils",0,0,0,0,True,0,0
+263194,"Outils",0,0,0,0,True,0,0
+263195,"Outils principaux (artisanat)",0,0,0,0,True,0,0
+263196,"Outils secondaires (artisanat)",0,0,0,0,True,0,0
+263197,"Outils (récolte)",0,0,0,0,True,0,0
+263198,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263199,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263200,"Équipement (artisanat/récolte)",0,0,0,0,True,0,0
+263201,"Équipement (artisanat)",0,0,0,0,True,0,0
+263202,"Équipement (récolte)",0,0,0,0,True,0,0
+263203,"Objets",0,0,0,0,True,0,0
+263204,"Objets",0,0,0,0,True,0,0
+263205,"Objets",0,0,0,0,True,0,0
+263206,"Objets",0,0,0,0,True,0,0
+263207,"Objets",0,0,0,0,True,0,0
+263208,"Objets",0,0,0,0,True,0,0
+263209,"Objets",0,0,0,0,True,0,0
+263210,"Objets",0,0,0,0,True,0,0
+263211,"Objets",0,0,0,0,True,0,0
+263212,"Objets",0,0,0,0,True,0,0
+263213,"Armes/Équipements Nv 80",0,0,0,0,True,0,0
+263214,"",0,0,0,0,True,150,0
+263215,"",0,0,0,0,True,151,0
+263216,"",0,0,0,0,True,149,1
+263217,"",0,0,0,0,True,149,2
+263218,"",0,0,0,0,True,149,3
+263219,"",0,0,0,0,True,152,0
+263220,"",0,0,0,0,True,0,0
+263221,"Objets",0,0,0,0,True,0,0
+263222,"Objets",0,0,0,0,True,0,0
+263223,"Peintures (Yok Tural)",0,70542,0,0,True,0,0
+263224,"Peintures (Xak Tural)",0,70543,0,0,True,0,0
+263225,"Peintures (Monde inéphémère)",0,70543,0,0,True,0,0
+263226,"Objets",0,0,0,0,True,153,0
+263227,"",0,0,0,0,True,154,0
+263228,"",0,0,0,0,True,155,0
+263229,"",0,0,0,0,True,156,0
+263230,"",0,0,0,0,True,157,1
+263231,"",0,0,0,0,True,157,2
+263232,"",0,0,0,0,True,157,3
+263233,"Objets (colonnes/décorations)",0,0,0,0,True,0,0
+263234,"",0,0,0,0,True,159,0
+263235,"",0,0,0,0,True,162,0
+263236,"",0,0,0,0,False,0,0
+263237,"Objets",0,0,0,0,True,0,0
+263238,"Acheter des objets",0,0,0,0,True,0,0
+263239,"Objets",0,0,0,0,True,0,0
+263240,"",0,0,0,0,False,0,0
+263241,"",0,0,0,0,False,0,0
+263242,"",0,0,0,0,False,0,0
+263243,"",0,0,0,0,False,0,0
+263244,"",0,0,0,0,False,0,0
+263245,"Outils",0,0,0,0,True,0,0
+263246,"Équipement",0,0,0,0,True,0,0
+263247,"",0,0,0,0,False,0,0
+263248,"Outils (menuisiers, forgerons, armuriers)",0,0,0,0,True,0,0
+263249,"Outils (menuisiers, forgerons, armuriers)",0,0,0,0,True,0,0
+263250,"Outils (menuisiers, forgerons, armuriers)",0,0,0,0,True,0,0
+263251,"Outils (menuisiers, forgerons, armuriers)",0,0,0,0,True,0,0
+263252,"Outils (menuisiers, forgerons, armuriers)",0,0,0,0,True,0,0
+263253,"Outils (orfèvres, tanneurs, couturiers)",0,0,0,0,True,0,0
+263254,"Outils (orfèvres, tanneurs, couturiers)",0,0,0,0,True,0,0
+263255,"Outils (orfèvres, tanneurs, couturiers)",0,0,0,0,True,0,0
+263256,"Outils (orfèvres, tanneurs, couturiers)",0,0,0,0,True,0,0
+263257,"Outils (orfèvres, tanneurs, couturiers)",0,0,0,0,True,0,0
+263258,"Outils (mineurs, botanistes, pêcheurs)",0,0,0,0,True,0,0
+263259,"Outils (mineurs, botanistes, pêcheurs)",0,0,0,0,True,0,0
+263260,"Outils (mineurs, botanistes, pêcheurs)",0,0,0,0,True,0,0
+263261,"Outils (mineurs, botanistes, pêcheurs)",0,0,0,0,True,0,0
+263262,"Outils (mineurs, botanistes, pêcheurs)",0,0,0,0,True,0,0
+263263,"Équipement (artisanat)",0,0,0,0,True,0,0
+263264,"Équipement (artisanat)",0,0,0,0,True,0,0
+263265,"Équipement (artisanat)",0,0,0,0,True,0,0
+263266,"Équipement (artisanat)",0,0,0,0,True,0,0
+263267,"Équipement (artisanat)",0,0,0,0,True,0,0
+263268,"Équipement (récolte)",0,0,0,0,True,0,0
+263269,"Équipement (récolte)",0,0,0,0,True,0,0
+263270,"Équipement (récolte)",0,0,0,0,True,0,0
+263271,"Équipement (récolte)",0,0,0,0,True,0,0
+263272,"Équipement (récolte)",0,0,0,0,True,0,0
+263273,"Accessoires",0,0,0,0,True,0,0
+263274,"Accessoires",0,0,0,0,True,0,0
+263275,"Accessoires",0,0,0,0,True,0,0
+263276,"Accessoires",0,0,0,0,True,0,0
+263277,"Accessoires",0,0,0,0,True,0,0
+263278,"Outils (alchimistes, cuisiniers)",0,0,0,0,True,0,0
+263279,"Outils (alchimistes, cuisiniers)",0,0,0,0,True,0,0
+263280,"Outils (alchimistes, cuisiniers)",0,0,0,0,True,0,0
+263281,"Outils (alchimistes, cuisiniers)",0,0,0,0,True,0,0
+263282,"Outils (alchimistes, cuisiniers)",0,0,0,0,True,0,0
+263283,"Objets",0,70866,0,0,True,0,0
+263284,"Outils",0,70866,0,0,True,0,0
+263285,"Équipement",0,70866,0,0,True,0,0
+263286,"",0,0,0,600873,True,164,0
+263287,"Objets",0,70767,0,0,True,165,0
+263288,"",0,0,0,0,False,0,0
+263289,"",0,0,0,0,False,0,0
+263290,"",0,0,0,0,False,0,0
+263291,"",0,0,0,0,False,0,0
+263292,"",0,0,0,0,False,0,0

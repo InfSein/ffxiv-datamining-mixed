@@ -1,0 +1,108 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+#,ContentType,Icon,MenuOrder,RequiredAmount,Reward[0],ExpMultiplier,Reward[1],GilRward,LevelUnlock,HowTo,ReqUnlock,Name,Description,ExpCap
+int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,Row,str,str,int32
+0,0,0,0,0,0,0,0,0,0,0,0,"","",0
+1,1,61801,1,3,5,15,3,1000,0,57,0,"Missions aléatoires","Terminer un total de 3 donjons en mission aléatoire.",1625700
+2,1,61801,2,5,5,10,3,2000,0,57,0,"Donjons : victoires","Terminer un total de 5 donjons.",1083800
+3,1,61803,3,3,5,5,3,1000,0,71,0,"Opérations de guilde achevées I","Accomplir un total de 3 opérations de guilde.",541900
+4,1,61803,4,10,5,10,3,2000,0,71,0,"Opérations de guilde achevées II","Accomplir un total de 10 opérations de guilde.",1083800
+5,6,61808,3,5,0,0,3,2000,0,231,0,"Caches au trésor : coffres I","Ouvrir 5 coffres dans l'Aquapole ou les Canaux perdus d'Uznair.",0
+6,1,61825,8,3,0,0,3,2000,60,0,0,"Aventures imaginaires de Khloe : vignettes","Obtenir trois vignettes en réussissant des aventures du carnet de Khloe.",0
+7,2,61806,1,10,0,0,9,1000,0,130,0,"Crystalline Conflict : participations","Participer 10 fois à Crystalline Conflict.",0
+8,2,61806,2,3,0,0,9,1000,0,130,0,"Crystalline Conflict : victoires","Gagner 3 fois un combat de Crystalline Conflict.",0
+9,0,0,0,0,0,0,0,0,0,0,0,"","",0
+10,0,0,0,0,0,0,0,0,0,0,0,"","",0
+11,4,61811,1,5,5,15,3,1000,0,0,0,"Mandats : illustrations","Accomplir des mandats illustrés par 5 vitraux différents.",1625700
+12,4,61811,2,20,5,15,3,2000,0,0,0,"Mandats : réussites","Accomplir un total de 20 mandats.",1625700
+13,8,61812,2,10,0,0,6,1000,0,89,0,"Ravitaillement : livraisons II","Effectuer un total de 10 missions de ravitaillement de ressources ou de matériel.",0
+14,8,61812,1,5,0,0,6,1000,0,89,0,"Ravitaillement : livraisons I","Effectuer un total de 5 missions de ravitaillement de ressources ou de matériel.",0
+15,6,61808,1,3,0,0,3,1000,0,149,0,"Chasse aux trésors : cartes trouvées","Déterrer 3 vieilles cartes.",0
+16,6,61808,2,5,0,0,3,2000,0,149,0,"Chasse aux trésors : coffres trouvés","Obtenir 5 coffres via la chasse aux trésors.",0
+17,1,61813,6,20,7,5,3,1000,0,96,0,"Compagnon : ennemis vaincus I","Vaincre 20 ennemis de niveau proche avec son compagnon.",0
+18,1,61813,7,100,7,10,3,2000,0,96,0,"Compagnon : ennemis vaincus II","Vaincre 100 ennemis de niveau proche avec son compagnon.",0
+19,7,61814,1,5,0,0,3,1000,0,152,0,"Quêtes des peuples alliés achevées I","Finir 5 quêtes quotidiennes des peuples alliés.",0
+20,7,61814,2,15,0,0,3,2000,0,152,0,"Quêtes des peuples alliés achevées II","Finir 15 quêtes quotidiennes des peuples alliés.",0
+21,12,61810,1,5,0,0,3,10000,0,0,0,"Carnet d'objectifs I","Réussir 5 objectifs différents du carnet.",0
+22,12,61810,2,10,0,0,3,10000,0,0,0,"Carnet d'objectifs II","Réussir 10 objectifs différents du carnet.",0
+23,12,61810,3,15,0,0,3,10000,20,0,0,"Carnet d'objectifs III","Réussir 15 objectifs différents du carnet.",0
+24,12,61810,4,20,0,0,3,10000,30,0,0,"Carnet d'objectifs IV","Réussir 20 objectifs différents du carnet.",0
+25,1,61817,5,5,5,10,3,1000,0,160,0,"Honneurs","Attribuer 5 fois des honneurs à un équipier.",1083800
+26,5,61815,4,100,5,5,3,1000,0,0,0,"Récolte","Récolter un total de 100 objets de niveau proche en tant que botaniste ou mineur.",0
+27,5,61815,5,30,5,5,3,2000,0,0,0,"Récoltes supplémentaires","Obtenir 30 fois une récolte supplémentaire sur un point de récolte de niveau proche en tant que botaniste ou mineur.",0
+28,5,61815,6,30,5,5,3,1000,0,0,0,"Pêche","Totaliser 30 prises en pêche.",0
+29,5,61815,7,10,5,5,3,2000,0,0,0,"Pêche énorme","Totaliser 10 prises énormes en pêche.",0
+30,5,61816,1,30,5,10,3,1000,0,0,0,"Synthèse","Réaliser 30 synthèses.",0
+31,5,61816,2,20,5,10,3,2000,0,0,0,"Synthèse (HQ)","Réaliser 20 synthèses de haute qualité.",0
+32,0,0,0,0,0,0,0,0,0,0,0,"","",0
+33,9,61818,1,10,0,0,3,1000,0,168,0,"Servants : tâches accomplies","Faire accomplir un total de 10 tâches à ses servants.",0
+34,9,61818,2,15,0,0,3,4000,0,169,0,"Servants : missions d'exploration","Faire accomplir un total de 15 missions d'exploration à ses servants.",0
+35,2,61806,3,7,0,0,9,1000,0,176,0,"Front : participations","Participer 7 fois au Front.",0
+36,2,61806,4,3,0,0,9,1000,0,176,0,"Front : victoires","Gagner 3 fois une bataille au Front.",0
+37,10,61820,1,3,0,0,8,1000,0,201,0,"Mini-jeux : réussites","Réussir 3 fois aux mini-jeux.",0
+38,10,61820,2,100,0,0,8,1500,0,201,0,"Mini-jeux : PGS obtenus","Obtenir 100 PGS en jouant aux mini-jeux.",0
+39,10,61820,3,5,0,0,8,5000,0,201,0,"JACTA : participations","Participer 5 fois aux JACTA.",0
+40,10,61820,4,3,0,0,8,8000,0,201,0,"JACTA : réussites","Réussir 3 JACTA.",0
+41,10,61820,5,3,0,0,8,5000,0,196,0,"Courses de chocobos : participations I","Participer 3 fois aux courses de chocobos.",0
+42,10,61820,6,20,0,0,8,8000,0,196,0,"Courses de chocobos : participations II","Participer 20 fois aux courses de chocobos.",0
+43,10,61820,7,1,0,0,8,5000,0,196,0,"Courses de chocobos : victoires I","Gagner 1 course de chocobos.",0
+44,10,61820,8,10,0,0,8,8000,0,196,0,"Courses de chocobos : victoires II","Gagner 10 courses de chocobos.",0
+45,10,61820,9,10,0,0,8,5000,0,199,0,"Triple Triade : matches","Faire 10 matches de Triple Triade.",0
+46,10,61820,10,10,0,0,8,8000,0,199,0,"Triple Triade : victoires","Gagner 10 matches de Triple Triade.",0
+47,10,61820,15,3,0,0,8,10000,0,224,0,"Choc des mascottes : matchs II","Faire 3 matchs de Choc des mascottes.",0
+48,12,61810,5,30,0,0,3,15000,30,0,0,"Carnet d'objectifs V","Réussir 30 objectifs différents du carnet.",0
+49,10,61820,11,5,0,0,8,2500,0,200,0,"Arène Triple Triade : matches","Faire 5 matches à l'intérieur de l'arène Triple Triade.",0
+50,10,61820,12,3,0,0,8,3000,0,200,0,"Arène Triple Triade : victoires","Gagner 3 matches à l'intérieur de l'arène Triple Triade.",0
+51,5,61827,10,6,0,0,3,1000,60,219,0,"Commandes spéciales","Livrer 6 commandes spéciales.",0
+52,5,61815,8,50,5,5,3,1000,0,241,0,"Pêche au harpon","Totaliser 50 prises en pêche au harpon.",0
+53,5,61815,9,20,5,5,3,2000,0,241,0,"Pêche au harpon énorme","Totaliser 20 prises énormes en pêche au harpon.",0
+54,2,61806,5,10,0,0,9,1000,0,240,0,"Ailes rivales : participations","Participer à 10 batailles des Ailes rivales.",0
+55,2,61806,6,5,0,0,9,1000,0,240,0,"Ailes rivales : victoires","Remporter 5 victoires aux Ailes rivales.",0
+56,13,61833,9,30,10,5,3,1000,0,251,0,"Eurêka : Foudre interdite, glace interdite I","Vaincre 30 ennemis de foudre ou de glace dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+57,13,61833,10,60,10,15,3,1000,0,251,0,"Eurêka : Foudre interdite, glace interdite II","Vaincre 60 ennemis de foudre ou de glace dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+58,13,61833,11,30,10,5,3,1000,0,251,0,"Eurêka : Feu interdit, terre interdite I","Vaincre 30 ennemis de feu ou de terre dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+59,13,61833,12,60,10,15,3,1000,0,251,0,"Eurêka : Feu interdit, terre interdite II","Vaincre 60 ennemis de feu ou de terre dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+60,13,61833,13,30,10,5,3,1000,0,251,0,"Eurêka : Eau interdite, vent interdit I","Vaincre 30 ennemis d'eau ou de vent dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+61,13,61833,14,60,10,15,3,1000,0,251,0,"Eurêka : Eau interdite, vent interdit II","Vaincre 60 ennemis d'eau ou de vent dont le niveau élémentaire n'est pas inférieur au sien de plus de deux niveaux.",0
+62,13,61833,15,20,10,5,3,1000,0,251,0,"Eurêka : Os interdit, cendre interdite I","Vaincre 20 ennemis morts-vivants ou de cendre dont le niveau élémentaire est égal ou supérieur au sien.",0
+63,13,61833,16,40,10,15,3,1000,0,251,0,"Eurêka : Os interdit, cendre interdite II","Vaincre 40 ennemis morts-vivants ou de cendre dont le niveau élémentaire est égal ou supérieur au sien.",0
+64,13,61833,17,10,10,5,3,1000,0,251,0,"Eurêka : Élémentaire interdit I","Vaincre 10 élémentaires dont le niveau élémentaire est égal ou supérieur au sien.",0
+65,13,61833,18,20,10,15,3,1000,0,251,0,"Eurêka : Élémentaire interdit II","Vaincre 20 élémentaires dont le niveau élémentaire est égal ou supérieur au sien.",0
+66,10,61820,14,1,0,0,8,5000,0,224,0,"Choc des mascottes : matchs I","Faire 1 match de Choc des mascottes.",0
+67,10,61820,16,5,0,0,8,12000,0,224,0,"Choc des mascottes : matchs III","Faire 5 matchs de Choc des mascottes.",0
+68,8,61812,3,3,0,0,6,5000,0,0,372,"Missions d'incursion : réussites","Accomplir un total de 3 missions d'incursion.",0
+69,10,61820,17,2,0,0,8,5000,0,0,68737,"Mahjong domien : parties","Participer à 2 parties classées de mahjong domien.",0
+70,3,61809,1,5,5,15,3,1000,0,0,0,"ALÉA : médaille d'or I","Accomplir 5 ALÉA en obtenant la meilleure évaluation.",1625700
+71,3,61809,2,10,5,15,3,2000,0,0,0,"ALÉA : médaille d'or II","Accomplir 10 ALÉA en obtenant la meilleure évaluation.",1625700
+72,5,61816,3,5,5,10,3,2000,0,0,95,"Recyclage","Recycler 5 objets.
+* Bonus d'expérience octroyé uniquement aux classes d'artisanat.",0
+73,10,61820,13,1,0,0,8,3000,0,0,69566,"Triple Triade : tournoi officiel","Participer à un tournoi officiel de Triple Triade et recevoir une récompense.",0
+74,11,61847,11,100,0,0,11,1000,0,0,70179,"Félicité insulaire : matériaux obtenus","Obtenir 100 matériaux sur la Félicité insulaire.",0
+75,11,61847,12,20,0,0,11,1000,0,0,70179,"Félicité insulaire : biens insulaires produits","Avoir produit et vendu 20 biens insulaires.",0
+76,13,61851,1,30,12,30,13,140,0,0,70847,"Croissant déchiré I","Vaincre 30 ennemis d'un niveau de savoir égal ou supérieur au sien.",0
+77,13,61851,2,60,12,70,13,240,0,0,70847,"Croissant déchiré II","Vaincre 60 ennemis d'un niveau de savoir égal ou supérieur au sien.",0
+78,13,61851,3,8,12,30,13,140,0,0,70847,"Critique facile I","Remporter 8 confrontations critiques sur l'île de Lunule.",0
+79,13,61851,4,15,12,70,13,240,0,0,70847,"Critique facile II","Remporter 15 confrontations critiques sur l'île de Lunule.",0
+80,13,61851,5,10,12,30,13,140,0,0,70847,"Aléas insulaires I","Accomplir 10 ALÉA sur l'île de Lunule.",0
+81,13,61851,6,20,12,70,13,240,0,0,70847,"Aléas insulaires II","Accomplir 20 ALÉA sur l'île de Lunule.",0
+82,13,61851,7,1,12,30,13,140,0,0,70847,"Lunule déchaînée I","Réussir une chaîne de 20 sur l'île de Lunule.",0
+83,13,61851,8,1,12,70,13,240,0,0,70847,"Lunule déchaînée II","Réussir une chaîne de 40 sur l'île de Lunule.",0
+84,14,61824,1,1,14,7,0,0,0,0,70941,"Sanctuaire des pèlerins : progression I","Conquérir la 20e zone du Sanctuaire des pèlerins.",0
+85,14,61824,2,1,15,2,0,0,0,0,70941,"Sanctuaire des pèlerins : progression II","Conquérir la 30e zone du Sanctuaire des pèlerins.",0
+86,14,61824,3,1,14,8,0,0,0,0,70942,"Sanctuaire des pèlerins : progression III","Conquérir la 50e zone du Sanctuaire des pèlerins.",0
+87,14,61824,4,1,15,3,0,0,0,0,70942,"Sanctuaire des pèlerins : progression IV","Conquérir la 70e zone du Sanctuaire des pèlerins.",0
+88,14,61824,5,1,14,10,0,0,0,0,70942,"Sanctuaire des pèlerins : progression V","Conquérir la 100e zone du Sanctuaire des pèlerins.",0
+89,0,0,0,0,0,0,0,0,0,0,0,"","",0
+90,0,0,0,0,0,0,0,0,0,0,0,"","",0
+91,0,0,0,0,0,0,0,0,0,0,0,"","",0
+92,0,0,0,0,0,0,0,0,0,0,0,"","",0
+93,0,0,0,0,0,0,0,0,0,0,0,"","",0
+94,0,0,0,0,0,0,0,0,0,0,0,"","",0
+95,0,0,0,0,0,0,0,0,0,0,0,"","",0
+96,0,0,0,0,0,0,0,0,0,0,0,"","",0
+97,0,0,0,0,0,0,0,0,0,0,0,"","",0
+98,0,0,0,0,0,0,0,0,0,0,0,"","",0
+99,0,0,0,0,0,0,0,0,0,0,0,"","",0
+100,0,0,0,0,0,0,0,0,0,0,0,"","",0
+101,0,0,0,0,0,0,0,0,0,0,0,"","",0
+102,0,0,0,0,0,0,0,0,0,0,0,"","",0
+103,0,0,0,0,0,0,0,0,0,0,0,"","",0

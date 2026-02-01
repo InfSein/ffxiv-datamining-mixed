@@ -1,0 +1,11 @@
+﻿key,0,1
+#,BaseParam,Name
+int32,BaseParam,str
+0,0,""
+1,6,"Flexibilité"
+2,19,"Flexibilité"
+3,22,"Concentration"
+4,27,"Instantanéité"
+5,44,"Durabilité"
+6,45,"Agilité"
+7,46,"Agilité"

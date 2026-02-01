@@ -1,0 +1,18 @@
+﻿key,0,1,2,3,4,5
+#,,,,,,
+int32,int32,byte,bit&01,byte,str,str
+0,0,0,False,0,"",""
+1,0,1,True,0,"Barrière","Barrière
+Absorbe les dégâts."
+2,50,0,True,2,"Résurrection","Résurrection
+Ressuscite automatiquement en cas de K.O."
+3,0,1,True,1,"Lévitation","Lévitation
+Permet d'éviter les attaques au sol."
+4,5,3,False,4,"Poison","Poison
+Des dégâts périodiques de poison sont subis à chaque tour."
+5,0,5,False,5,"Glas","Glas
+Mort certaine lorsque le compteur atteint zéro. Cet effet disparaît uniquement si l'ennemi qui l'a infligé est abattu."
+6,0,1,False,3,"Entrave","Entrave
+Tout déplacement est impossible."
+7,1100,0,False,0,"",""
+8,100,0,False,0,"",""

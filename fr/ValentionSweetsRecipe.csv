@@ -1,0 +1,55 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+#,,,,,,,,,,,,,,,,,
+int32,str,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
+0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,"gâteau cœur à la rolanbaie",4,4,10,4,16,4,22,4,0,0,0,0,0,0,0,0
+2,"gâteau cœur à la rolanbaie",4,4,7,2,8,2,13,2,14,2,22,4,0,0,0,0
+3,"gâteau Mog à la rolanbaie",4,4,8,2,11,2,14,2,15,2,19,4,0,0,0,0
+4,"gâteau Mog à la rolanbaie",4,4,11,2,10,2,17,2,16,2,19,4,0,0,0,0
+5,"gâteau œufs choco à la rolanbaie",4,4,9,2,7,2,15,2,17,2,20,4,0,0,0,0
+6,"gâteau œufs choco à la rolanbaie",4,4,10,2,11,2,16,2,13,2,20,4,0,0,0,0
+7,"gâteau chocobo à la rolanbaie",4,4,7,2,11,2,13,2,15,2,23,4,0,0,0,0
+8,"gâteau chocobo à la rolanbaie",4,4,8,2,9,2,14,2,16,2,23,4,0,0,0,0
+9,"gâteau pampa à la rolanbaie",4,4,11,2,9,2,17,2,14,2,21,4,0,0,0,0
+10,"gâteau pampa à la rolanbaie",4,4,9,2,10,2,15,2,16,2,21,4,0,0,0,0
+11,"gâteau cœur à la crème fouettée",1,4,7,2,8,2,16,2,14,2,22,4,0,0,0,0
+12,"gâteau cœur à la crème fouettée",1,4,8,2,11,2,13,2,14,2,22,4,0,0,0,0
+13,"gâteau Mog à la crème fouettée",1,4,7,4,13,4,19,4,0,0,0,0,0,0,0,0
+14,"gâteau Mog à la crème fouettée",1,4,11,2,10,2,14,2,17,2,19,4,0,0,0,0
+15,"gâteau œufs choco à la crème fouettée",1,4,9,2,7,2,17,2,13,2,20,4,0,0,0,0
+16,"gâteau œufs choco à la crème fouettée",1,4,10,2,11,2,15,2,16,2,20,4,0,0,0,0
+17,"gâteau chocobo à la crème fouettée",1,4,7,2,11,2,13,2,16,2,23,4,0,0,0,0
+18,"gâteau chocobo à la crème fouettée",1,4,8,2,9,2,14,2,17,2,23,4,0,0,0,0
+19,"gâteau pampa à la crème fouettée",1,4,11,2,9,2,17,2,15,2,21,4,0,0,0,0
+20,"gâteau pampa à la crème fouettée",1,4,9,2,10,2,15,2,13,2,21,4,0,0,0,0
+21,"gâteau cœur au chocolat",2,4,9,2,10,2,13,2,17,2,22,4,0,0,0,0
+22,"gâteau cœur au chocolat",2,4,11,2,9,2,14,2,15,2,22,4,0,0,0,0
+23,"gâteau Mog au chocolat",2,4,8,2,9,2,17,2,16,2,19,4,0,0,0,0
+24,"gâteau Mog au chocolat",2,4,7,2,11,2,15,2,17,2,19,4,0,0,0,0
+25,"gâteau œufs choco au chocolat",2,4,8,4,14,4,20,4,0,0,0,0,0,0,0,0
+26,"gâteau œufs choco au chocolat",2,4,10,2,11,2,13,2,15,2,20,4,0,0,0,0
+27,"gâteau chocobo au chocolat",2,4,9,2,7,2,14,2,17,2,23,4,0,0,0,0
+28,"gâteau chocobo au chocolat",2,4,11,2,10,2,17,2,15,2,23,4,0,0,0,0
+29,"gâteau pampa au chocolat",2,4,8,2,11,2,15,2,17,2,21,4,0,0,0,0
+30,"gâteau pampa au chocolat",2,4,7,2,8,2,16,2,13,2,21,4,0,0,0,0
+31,"gâteau cœur au citron",5,4,11,2,10,2,13,2,17,2,22,4,0,0,0,0
+32,"gâteau cœur au citron",5,4,8,2,11,2,14,2,17,2,22,4,0,0,0,0
+33,"gâteau Mog au citron",5,4,7,2,8,2,15,2,13,2,19,4,0,0,0,0
+34,"gâteau Mog au citron",5,4,8,2,11,2,14,2,17,2,19,4,0,0,0,0
+35,"gâteau œufs choco au citron",5,4,10,2,11,2,15,2,17,2,20,4,0,0,0,0
+36,"gâteau œufs choco au citron",5,4,9,2,7,2,13,2,14,2,20,4,0,0,0,0
+37,"gâteau chocobo au citron",5,4,11,4,17,4,23,4,0,0,0,0,0,0,0,0
+38,"gâteau chocobo au citron",5,4,11,2,9,2,14,2,15,2,23,4,0,0,0,0
+39,"gâteau pampa au citron",5,4,8,2,9,2,17,2,13,2,21,4,0,0,0,0
+40,"gâteau pampa au citron",5,4,7,2,11,2,15,2,13,2,21,4,0,0,0,0
+41,"gâteau cœur à la pistache",3,4,7,2,8,2,16,2,15,2,22,4,0,0,0,0
+42,"gâteau cœur à la pistache",3,4,8,2,10,2,14,2,13,2,22,4,0,0,0,0
+43,"gâteau Mog à la pistache",3,4,10,2,11,2,15,2,13,2,19,4,0,0,0,0
+44,"gâteau Mog à la pistache",3,4,9,2,7,2,17,2,16,2,19,4,0,0,0,0
+45,"gâteau œufs choco à la pistache",3,4,11,2,9,2,15,2,14,2,20,4,0,0,0,0
+46,"gâteau œufs choco à la pistache",3,4,8,2,9,2,13,2,16,2,20,4,0,0,0,0
+47,"gâteau chocobo à la pistache",3,4,7,2,11,2,16,2,15,2,23,4,0,0,0,0
+48,"gâteau chocobo à la pistache",3,4,11,2,10,2,14,2,13,2,23,4,0,0,0,0
+49,"gâteau pampa à la pistache",3,4,9,4,15,4,21,4,0,0,0,0,0,0,0,0
+50,"gâteau pampa à la pistache",3,4,8,2,11,2,16,2,14,2,21,4,0,0,0,0
+51,"délice de l'aventurier",6,4,12,4,18,4,24,4,0,0,0,0,0,0,0,0

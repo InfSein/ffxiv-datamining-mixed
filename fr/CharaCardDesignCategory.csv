@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,byte,str
+0,0,"Tout afficher"
+1,0,"Standard"
+2,1,"Classes/Jobs"
+3,2,"Quêtes"
+4,3,"Missions"
+5,6,"Saisons JcJ"
+6,7,"Mascottes"
+7,9,"Autres"
+8,4,"Contenus annexes"
+9,8,"Régions"
+10,5,"Séries JcJ"

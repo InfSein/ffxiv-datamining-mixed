@@ -1,0 +1,43 @@
+﻿key,0,1,2,3,4
+#,Name{Action},Icon,Addon,QuickChatTransient,
+int32,str,Image,Addon,QuickChatTransient,uint16
+0,"Expression figée supprimée",783,0,0,0
+1,"Salut",9901,11030,1,1
+2,"Beau combat",9902,11031,2,2
+3,"Merci",9903,11032,3,3
+4,"Bien joué",9904,11033,5,4
+5,"Disponibilité : [talent 1]",9927,11034,6,0
+6,"Disponibilité : Transcendance",9906,11035,23,6
+7,"Objectif : ravitaillement offensif",9907,11036,10,0
+8,"Objectif : ravitaillement défensif",9908,11037,11,0
+9,"Objectif : ravitaillement adrénergique",9909,11038,12,0
+10,"Objectif : ravitaillement cœur-de-loup",9910,11039,13,0
+11,"Attaque : tank",9911,11040,14,0
+12,"Attaque : soigneur",9912,11041,15,0
+13,"Attaque : DPS de mêlée",9913,11042,16,0
+14,"Attaque : DPS à distance",9914,11043,17,0
+15,"Immobilisation : tank",9915,11044,19,0
+16,"Immobilisation : soigneur",9916,11045,20,0
+17,"Immobilisation : DPS de mêlée",9917,11046,21,0
+18,"Immobilisation : DPS à distance",9918,11047,22,0
+19,"À moi les médailles",9919,11048,24,0
+20,"À vous les médailles",9920,11049,25,0
+21,"Attaque",9921,11050,53,21
+22,"Repli",9922,11051,55,22
+23,"PM",9923,11052,22,23
+24,"PT",9924,11053,9,0
+25,"Attaque : cible",9925,11054,50,25
+26,"Entrave : cible",9926,11055,51,26
+27,"Disponibilité : [talent 2]",9928,11056,7,0
+28,"Attaque focalisée",9935,11057,28,0
+29,"Attaque libre",9936,11058,29,0
+30,"Pardon",9965,11713,4,30
+31,"Positionnement : avant",9966,11714,40,31
+32,"Positionnement : arrière",9967,11715,41,32
+33,"Cristal tactique : escorte",9968,11716,56,33
+34,"Cristal tactique : demande d'escorte",9969,11717,57,34
+35,"Soutien : cible",9964,11718,52,35
+36,"Activation : Transcendance",9970,14904,24,36
+37,"Regroupement",9971,14905,54,37
+38,"Disponibilité : Dépuration",9905,11034,20,0
+39,"Disponibilité : Garde",9972,11034,21,39

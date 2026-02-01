@@ -1,0 +1,56 @@
+﻿key,0
+#,Objective
+int32,str
+0,""
+1,"Vaincre les cibles"
+2,"Récupérer les objets désignés"
+3,"Éliminer les cibles"
+4,"Traquer et éliminer les cibles"
+5,"Affaiblir la cible puis la calmer avec <If(Equal(IntegerParameter(1),0))>l'emote /apaiser<Else/><SheetFr(EventItem,2,IntegerParameter(1),1,1)/></If>"
+6,"<If(Equal(IntegerParameter(1),0))>Attaquer la cible<Else/>Utiliser <SheetFr(EventItem,1,IntegerParameter(1),1,1)/></If> pour révéler la véritable forme de la cible, puis la vaincre"
+7,"Vaincre toutes les cibles dans les zones désignées"
+8,"Réunir les pages du Nécrologos et vaincre la créature invoquée"
+9,"Utiliser l'emote <Emphasis>/viens</Emphasis> (Inviter) pour mener <SheetFr(BNpcName,2,IntegerParameter(1),1,1)/> en lieu sûr"
+10,"Récolter aux endroits désignés
+Bonus de récompense selon l'évaluation<Indent/>:
+286 ou plus<Indent/>: +   5%
+303 ou plus<Indent/>: + 10%
+320 ou plus<Indent/>: + 25%"
+11,"Obtenir tous les objets désignés"
+12,"Aller dans tous les lieux spécifiés pour récupérer les objets désignés"
+13,"Inspecter les lieux désignés
+Bonus de récompense selon l'évaluation<Indent/>:
+143 ou plus<Indent/>: +   5%
+152 ou plus<Indent/>: + 10%
+160 ou plus<Indent/>: + 25%"
+14,"Apporter les objets aux lieux désignés"
+15,"Le mandat échoue si trop peu d'objets sont obtenus"
+16,"Inspecter le lieu désigné"
+17,"Attirer puis éliminer les cibles"
+18,"Récolter aux endroits désignés
+Bonus de récompense selon l'évaluation<Indent/>:
+429 ou plus<Indent/>: +   5%
+454 ou plus<Indent/>: + 10%
+479 ou plus<Indent/>: + 25%"
+19,"Inspecter les lieux désignés
+Bonus de récompense selon l'évaluation<Indent/>:
+215 ou plus<Indent/>: +   5%
+227 ou plus<Indent/>: + 10%
+240 ou plus<Indent/>: + 25%"
+20,"Réunir les pages du Nécrologos en terrassant les ennemis et vaincre la créature invoquée"
+21,"Progression "
+22,"Zones sécurisées "
+23,"Les cibles se mettront en colère si vous tentez de les apaiser trop tôt
+(Le mandat échoue si les cibles sont tuées)"
+24,"Vaincre des <SheetFr(BNpcName,12,IntegerParameter(1),2,1)/> pour obtenir des <SheetFr(EventItem,12,IntegerParameter(2),2,1)/>"
+25,"Le mandat échoue à la mort <SheetFr(BNpcName,9,IntegerParameter(1),1,1)/>"
+26,"Protéger l'objet de la mission et vaincre les ennemis"
+27,"Vaincre autant d'ennemis que possible dans le temps imparti"
+28,"Découvrir l'ennemi qui possède <SheetFr(EventItem,2,IntegerParameter(1),2,1)/> et le vaincre"
+29,""
+30,"Abattre l'ennemi qui appelle des renforts"
+31,"Le mandat échoue si trop peu d'ennemis sont éliminés"
+32,"Éliminer les ennemis qui répondent à l'emote <If(Equal(IntegerParameter(1),1))>/toucher<Else/>/questionner</If> et récupérer <SheetFr(EventItem,1,IntegerParameter(2),2,1)/>"
+33,"Le mandat échoue si <If(<Sheet(BNpcName,IntegerParameter(1),6)/>)>toutes<Else/>tous</If> <SheetFr(BNpcName,2,IntegerParameter(1),2,1)/> sont <If(<Sheet(BNpcName,IntegerParameter(1),6)/>)>perdues<Else/>perdus</If>"
+34,"Obtenir <SheetFr(EventItem,1,IntegerParameter(2),1,1)/> sur <SheetFr(BNpcName,1,IntegerParameter(1),1,1)/> et l'utiliser sur <SheetFr(EObj,1,IntegerParameter(3),1,1)/> pour attirer <SheetFr(BNpcName,1,IntegerParameter(4),1,1)/>"
+35,"Les cibles se mettront en colère si vous tentez de les apaiser trop tôt"

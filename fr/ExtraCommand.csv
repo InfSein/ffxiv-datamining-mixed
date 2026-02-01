@@ -1,0 +1,19 @@
+﻿key,0,1,2,3
+#,Name,Description,Icon,Order
+int32,str,str,Image,sbyte
+0,"","",0,0
+1,"Pose de groupe","Fait une pose de groupe avec votre personnage et ceux d'autres joueurs.
+Ces derniers se tournent vers la caméra et répètent la dernière emote/action effectuée. Divers paramètres (position de la caméra, réglage de l'éclairage, filtre de couleurs, arrêt des mouvements, etc.) sont disponibles.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Commande texte<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> /posegroupe
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Attribution de touche<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> possible",651,1
+2,"Caméra diaporama","Active la caméra diaporama.
+Pointe la caméra aléatoirement vers un objet ou personnage alentour à intervalle régulier. Il est possible de spécifier un sujet en le ciblant avant d'exécuter la commande. Divers paramètres (composition, filtre de couleurs, etc.) sont disponibles.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Commande texte<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> /cameradiaporama
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Attribution de touche<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> possible",652,2
+3,"Alerte","Permet de régler une alerte qui se déclenche à l'heure spécifiée. Elle reste activée tant que le personnage reste connecté. 
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Commande texte<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> /alerte
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Attribution de touche<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> possible",654,3
+4,"Accès rapide","Ouvre la fenêtre d'accès rapide.
+Cette fonctionnalité permet de placer, entre autres, des emotes, des tenues, des montures et des mascottes dans une fenêtre dédiée pour faciliter leur utilisation.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Commande texte<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> /accesrapide
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Attribution de touche<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> possible",655,4

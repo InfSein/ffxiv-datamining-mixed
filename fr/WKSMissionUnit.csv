@@ -1,0 +1,1374 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+#,,,,,,,,,,,,,,,,,,,,,,
+int32,str,uint16,uint16,uint16,byte,bit&01,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,byte,byte,uint16,uint16,byte,uint16,uint16,uint16
+0,"",0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1," Planches en bois aggloméré multi-usage",17,9,0,0,False,1,0,1,1200,2400,143,0,0,0,0,0,50,1,2,0,0
+2," Combustible pour l'exploration",20,9,0,0,False,1,0,2,1200,2400,144,0,0,0,0,0,51,1,3,0,0
+3," Accessoires de récolte",22,9,0,0,False,1,0,3,1200,2400,145,0,0,0,0,0,52,1,4,0,0
+4," Matériaux pour la recherche",29,9,0,0,False,1,0,4,1200,2400,146,0,0,0,0,0,53,1,5,0,0
+5," Traitement longue durée pour charbon de bois",20,9,0,0,False,1,0,5,1200,2400,147,0,0,0,0,0,54,1,6,0,0
+6," Literie classique",19,9,0,0,False,1,0,6,1200,2400,148,0,0,0,0,0,55,1,7,0,0
+7," Fines planches en bois aggloméré",17,9,0,0,False,2,0,7,1200,2400,149,0,0,0,0,0,56,1,8,0,0
+8," Matériel de menuiserie",20,9,0,0,False,2,0,8,1200,2400,150,0,0,0,0,0,57,1,9,0,0
+9," Nécessaires de couture",26,9,0,3,False,2,0,9,1300,3000,151,0,0,0,0,0,58,1,10,0,0
+10," Papier pour l'enregistrement de données",18,9,0,3,False,2,0,10,700,1500,152,0,0,0,0,0,59,1,11,0,0
+11," Isolation thermique intérieure",19,9,0,3,False,2,0,11,1100,2500,153,0,0,0,0,0,60,1,12,0,0
+12," Matériaux pour cosmo-navette",28,9,0,3,False,2,0,12,1200,2250,154,0,0,0,0,0,61,1,13,0,0
+13," Boucles d'oreilles en matière nouvelle",22,9,0,3,False,2,0,13,700,1500,155,0,0,0,0,0,62,1,14,0,0
+14," Conteneurs de transport",20,9,0,0,False,3,0,14,1600,2400,156,0,0,0,0,0,63,1,15,0,0
+15," Épaisses planches en bois aggloméré",17,9,0,0,False,3,0,15,1600,2400,157,0,0,0,0,0,64,1,16,0,0
+16," Isolation thermique d'excellente qualité",19,9,0,3,False,3,0,16,1700,2000,158,0,0,0,0,0,65,1,17,0,0
+17," Résine thermorésistante",31,9,0,3,False,3,0,17,2700,3000,159,0,0,0,0,0,66,1,18,0,0
+18," Papier longue conservation",18,9,0,0,False,3,0,18,1600,2400,160,0,0,0,0,0,67,1,19,0,0
+19," Mobilier d'intérieur",30,9,0,3,False,3,0,19,2700,3000,161,0,0,0,0,0,68,1,20,0,0
+20," Outils de récolte expérimentaux",22,9,0,0,False,3,0,20,1000,1300,162,0,0,0,0,0,69,1,21,0,0
+21," Literie d'excellente qualité",24,9,0,0,False,3,0,21,1000,1300,163,0,0,0,0,0,70,1,22,0,0
+22,"Planches en bois aggloméré résistantes",17,9,0,0,False,4,1200,22,1800,2400,164,0,0,0,0,0,71,0,23,0,1200
+23,"Papier de qualité supérieure",18,9,0,3,False,4,1200,23,2300,3000,165,0,0,0,0,0,72,0,24,0,1200
+24,"Isolation thermique pour vaisseau spatial",19,9,0,3,False,4,0,24,700,1000,166,0,0,0,0,0,73,0,25,0,1200
+25,"Charbon pour haute température",20,9,0,3,False,4,1200,25,700,1000,167,0,0,0,0,0,74,0,26,0,1200
+26,"Traitement expérimental de végétaux lunaires",21,9,0,3,False,4,1200,26,2600,3000,168,0,0,0,0,0,75,0,27,0,1200
+27,"EX<Indent/>: Traitement final de matériaux d'essai",22,9,0,3,False,5,1200,27,2500,3000,169,0,0,0,0,0,76,0,28,0,1100
+28,"EX<Indent/>: Plateaux de service",23,9,0,3,False,5,1200,28,840,1000,170,0,0,0,0,0,77,0,29,0,1100
+29,"EX<Indent/>: Lits superposés",24,9,0,3,False,5,1200,29,840,1000,171,0,0,2,0,0,78,0,30,0,1100
+30,"EX<Indent/>: Infrastructures d'assistance",25,9,0,3,False,5,1200,30,2800,3000,172,0,0,1,13,0,79,0,31,0,1100
+31,"EX+<Indent/>: Approvisionnement en outils d'artisanat",26,9,0,0,False,6,420,31,560,880,173,0,0,0,14,0,80,0,32,0,1000
+32,"EX+<Indent/>: Structures de travail en hauteur",27,9,0,0,False,6,330,32,560,880,174,0,0,0,13,0,81,0,33,0,1000
+33,"Préparation de cardan de transmission",28,9,0,3,False,4,1200,33,2300,3000,175,0,0,0,0,0,82,0,34,0,1200
+34,"EX<Indent/>: Amélioration de cardan de transmission",28,9,0,3,False,5,1200,34,2500,3000,176,0,0,0,0,33,83,0,35,0,1100
+35,"Préparation de matériaux de perfectionnement",29,9,0,0,False,4,1200,35,1000,1600,177,0,0,0,0,0,84,0,36,0,1200
+36,"EX<Indent/>: Amélioration de matériaux de perfectionnement",29,9,0,0,False,5,1200,36,1000,1600,178,0,0,0,0,35,85,0,37,0,1100
+37,"EX+<Indent/>: Grand bassin pour la recherche",29,9,0,0,False,6,300,37,1000,1600,179,0,0,0,0,36,86,0,38,0,1000
+38,"EX<Indent/>: Matériaux pour articles de relaxation",30,9,0,3,False,5,1200,38,850,1000,180,0,0,0,0,0,87,0,39,0,1100
+39,"EX+<Indent/>: Mobilier de relaxation",30,9,0,3,False,6,240,39,900,1000,181,0,0,2,0,38,88,0,40,0,1000
+40,"Préparation de matériaux pour conteneurs",31,9,0,3,False,4,1200,40,2300,3000,182,0,0,0,1,0,89,0,41,0,1200
+41,"EX<Indent/>: Amélioration de matériaux pour conteneurs",31,9,0,3,False,5,1200,41,2500,3000,183,0,0,1,0,40,90,0,42,0,1100
+42,"EX+<Indent/>: Conteneurs de fret pour rovers",31,9,0,3,False,6,270,42,2700,3000,184,0,0,2,0,41,91,0,43,0,1000
+43,"EX+<Indent/>: Préparation de combustible biologique",32,9,0,3,False,6,600,43,980,1080,185,0,0,1,7,0,92,0,44,0,1000
+44,"EX+<Indent/>: Amélioration de combustible biologique",32,9,0,3,False,6,600,44,980,1080,186,0,0,1,0,43,93,0,45,0,1000
+45,"EX+<Indent/>: Perfectionnement de combustible biologique",32,9,0,0,False,6,420,45,1000,1080,187,0,0,1,0,44,94,0,46,0,1000
+46," Plaques multi-usage",1,10,0,0,False,1,0,46,1200,2400,188,0,0,0,0,0,95,1,47,0,0
+47," Pièces de rechange pour vaisseau",14,10,0,0,False,1,0,47,1200,2400,189,0,0,0,0,0,96,1,48,0,0
+48," Étude de fabrication d'alliages",2,10,0,0,False,1,0,48,1200,2400,190,0,0,0,0,0,97,1,49,0,0
+49," Pièces adaptables simples",15,10,0,0,False,1,0,49,1200,2400,191,0,0,0,0,0,98,1,50,0,0
+50," Pièces métalliques multi-usage",3,10,0,0,False,1,0,50,1200,2400,192,0,0,0,0,0,99,1,51,0,0
+51," Grosse production d'articles de première nécessité",3,10,0,0,False,1,0,51,1200,2400,193,0,0,0,0,0,100,1,52,0,0
+52," Plaques épaisses standard",1,10,0,0,False,2,0,52,1200,2400,194,0,0,0,0,0,101,1,53,0,0
+53," Axes de transmission pour vaisseau spatial",14,10,0,0,False,2,0,53,1200,2400,195,0,0,0,0,0,102,1,54,0,0
+54," Outils d'excavation",4,10,0,3,False,2,0,54,1300,3000,196,0,0,0,0,0,103,1,55,0,0
+55," Rivets en alliage standard",3,10,0,3,False,2,0,55,700,1500,197,0,0,0,0,0,104,1,56,0,0
+56," Outils de menuiserie",4,10,0,3,False,2,0,56,1100,2500,198,0,0,0,0,0,105,1,57,0,0
+57," Pièces adaptables intermédiaires",15,10,0,3,False,2,0,57,1200,2250,199,0,0,0,0,0,106,1,58,0,0
+58," Équipements isolants",9,10,0,3,False,2,0,58,700,1500,200,0,0,0,0,0,107,1,59,0,0
+59," Axes de transmission pour rover",3,10,0,0,False,3,0,59,1600,2400,201,0,0,0,0,0,108,1,60,0,0
+60," Plaques fines standard",1,10,0,0,False,3,0,60,1600,2400,202,0,0,0,0,0,109,1,61,0,0
+61," Outils de métallurgie",4,10,0,3,False,3,0,61,1700,2000,203,0,0,0,0,0,110,1,62,0,0
+62," Mobilier de bain",6,10,0,3,False,3,0,62,2700,3000,204,0,0,0,0,0,111,1,63,0,0
+63," Poêles alimentés par céruleum",9,10,0,0,False,3,0,63,1600,2400,205,0,0,0,0,0,112,1,64,0,0
+64," Éclairages pour habitation",12,10,0,3,False,3,0,64,2700,3000,206,0,0,0,0,0,113,1,65,0,0
+65," Élaboration d'outils en matériaux séléniens",4,10,0,0,False,3,0,65,1000,1300,207,0,0,0,0,0,114,1,66,0,0
+66," Élaboration de pièces en matériaux séléniens",7,10,0,0,False,3,0,66,1000,1300,208,0,0,0,0,0,115,1,67,0,0
+67,"Plaques pour infrastructure cruciale",1,10,0,0,False,4,1200,67,1800,2400,209,0,0,0,0,0,116,0,68,0,2200
+68,"Traitement de ressources rares",2,10,0,3,False,4,1200,68,2300,3000,210,0,0,0,0,0,117,0,69,0,2200
+69,"Approvisionnement en pièces pour infrastructure",3,10,0,3,False,4,0,69,700,1000,211,0,0,0,0,0,118,0,70,0,2200
+70,"Outils en métal",4,10,0,3,False,4,1200,70,700,1000,212,0,0,0,0,0,119,0,71,0,2200
+71,"Traitement expérimental de fragments de météorites",5,10,0,3,False,4,1200,71,2600,3000,213,0,0,0,0,0,120,0,72,0,2200
+72,"EX<Indent/>: Reproduction de mobilier oriental",6,10,0,3,False,5,1200,72,2500,3000,214,0,0,0,0,0,121,0,73,0,2100
+73,"EX<Indent/>: Ouvrage minutieux de matériaux",7,10,0,3,False,5,1200,73,840,1000,215,0,0,0,0,0,122,0,74,0,2100
+74,"EX<Indent/>: Approvisionnement en matériel pour la station",8,10,0,3,False,5,1200,74,840,1000,216,0,0,2,0,0,123,0,75,0,2100
+75,"EX<Indent/>: Équipement d'aide à l'artisanat",9,10,0,3,False,5,1200,75,2800,3000,217,0,0,1,14,0,124,0,76,0,2100
+76,"EX+<Indent/>: Traitement d'amélioration de la durabilité",10,10,0,0,False,6,420,76,560,880,218,0,0,0,13,0,125,0,77,0,2000
+77,"EX+<Indent/>: Traitement anti-chocs",11,10,0,0,False,6,330,77,560,880,219,0,0,0,14,0,126,0,78,0,2000
+78,"Préparation de mobilier pour infrastructure",12,10,0,3,False,4,1200,78,2300,3000,220,0,0,0,0,0,127,0,79,0,2200
+79,"EX<Indent/>: Amélioration de mobilier pour infrastructure",12,10,0,3,False,5,1200,79,2500,3000,221,0,0,0,0,78,128,0,80,0,2100
+80,"Préparation de matériaux de perfectionnement",13,10,0,0,False,4,1200,80,1000,1600,222,0,0,0,0,0,129,0,81,0,2200
+81,"EX<Indent/>: Amélioration de matériaux de perfectionnement",13,10,0,0,False,5,1200,81,1000,1600,223,0,0,0,0,80,130,0,82,0,2100
+82,"EX+<Indent/>: Grand bassin pour la recherche",13,10,0,0,False,6,300,82,1000,1600,224,0,0,0,0,81,131,0,83,0,2000
+83,"EX<Indent/>: Matériaux pour vaisseau spatial",14,10,0,3,False,5,1200,83,850,1000,225,0,0,0,0,0,132,0,84,0,2100
+84,"EX+<Indent/>: Traitement de matériaux pour vaisseau spatial",14,10,0,3,False,6,240,84,900,1000,226,0,0,2,0,83,133,0,85,0,2000
+85,"Préparation de matériaux pour drones ultraperformants",15,10,0,3,False,4,1200,85,2300,3000,227,0,0,0,3,0,134,0,86,0,2200
+86,"EX<Indent/>: Amélioration de matériaux pour drones ultraperformants",15,10,0,3,False,5,1200,86,2500,3000,228,0,0,1,0,85,135,0,87,0,2100
+87,"EX+<Indent/>: Conception de drones ultraperformants",15,10,0,3,False,6,270,87,2700,3000,229,0,0,2,0,86,136,0,88,0,2000
+88,"EX+<Indent/>: Préparation de matériaux pour machine d'un nouveau genre",16,10,0,3,False,6,600,88,980,1080,230,0,0,1,9,0,137,0,89,0,2000
+89,"EX+<Indent/>: Amélioration de matériaux pour machine d'un nouveau genre",16,10,0,3,False,6,600,89,980,1080,231,0,0,1,0,88,138,0,90,0,2000
+90,"EX+<Indent/>: Perfectionnement de la machine d'un nouveau genre",16,10,0,0,False,6,420,90,1000,1080,232,0,0,1,0,89,139,0,91,0,2000
+91," Plaques multi-usage",1,11,0,0,False,1,0,91,1200,2400,233,0,0,0,0,0,140,1,92,0,0
+92," Pièces de rechange pour vaisseau",14,11,0,0,False,1,0,92,1200,2400,234,0,0,0,0,0,141,1,93,0,0
+93," Étude de fabrication d'alliages",2,11,0,0,False,1,0,93,1200,2400,235,0,0,0,0,0,142,1,94,0,0
+94," Pièces adaptables simples",15,11,0,0,False,1,0,94,1200,2400,236,0,0,0,0,0,143,1,95,0,0
+95," Pièces métalliques multi-usage",3,11,0,0,False,1,0,95,1200,2400,237,0,0,0,0,0,144,1,96,0,0
+96," Grosse production d'articles de première nécessité",3,11,0,0,False,1,0,96,1200,2400,238,0,0,0,0,0,145,1,97,0,0
+97," Plaques épaisses standard",1,11,0,0,False,2,0,97,1200,2400,239,0,0,0,0,0,146,1,98,0,0
+98," Axes de transmission pour vaisseau spatial",14,11,0,0,False,2,0,98,1200,2400,240,0,0,0,0,0,147,1,99,0,0
+99," Préparation d'outils de cuisine",4,11,0,3,False,2,0,99,1300,3000,241,0,0,0,0,0,148,1,100,0,0
+100," Cadènes standard",3,11,0,3,False,2,0,100,700,1500,242,0,0,0,0,0,149,1,101,0,0
+101," Équipements anti-poussière",4,11,0,3,False,2,0,101,1100,2500,243,0,0,0,0,0,150,1,102,0,0
+102," Pièces adaptables intermédiaires",15,11,0,3,False,2,0,102,1200,2250,244,0,0,0,0,0,151,1,103,0,0
+103," Équipements isolants",9,11,0,3,False,2,0,103,700,1500,245,0,0,0,0,0,152,1,104,0,0
+104," Pièces pour rover",3,11,0,0,False,3,0,104,1600,2400,246,0,0,0,0,0,153,1,105,0,0
+105," Plaques fines standard",1,11,0,0,False,3,0,105,1600,2400,247,0,0,0,0,0,154,1,106,0,0
+106," Amélioration d'outils de cuisine",4,11,0,3,False,3,0,106,1700,2000,248,0,0,0,0,0,155,1,107,0,0
+107," Mobilier pour salon de thé",6,11,0,3,False,3,0,107,2700,3000,249,0,0,0,0,0,156,1,108,0,0
+108," Feux de camp pour activités en extérieur",9,11,0,0,False,3,0,108,1600,2400,250,0,0,0,0,0,157,1,109,0,0
+109," Équipements de rangement pour habitation",12,11,0,3,False,3,0,109,2700,3000,251,0,0,0,0,0,158,1,110,0,0
+110," Élaboration d'outils en matériaux séléniens",4,11,0,0,False,3,0,110,1000,1300,252,0,0,0,0,0,159,1,111,0,0
+111," Élaboration de pièces en matériaux séléniens",7,11,0,0,False,3,0,111,1000,1300,253,0,0,0,0,0,160,1,112,0,0
+112,"Plaques pour infrastructure cruciale",1,11,0,0,False,4,1200,112,1800,2400,254,0,0,0,0,0,161,0,113,0,3200
+113,"Traitement de ressources rares",2,11,0,3,False,4,1200,113,2300,3000,255,0,0,0,0,0,162,0,114,0,3200
+114,"Approvisionnement en pièces pour infrastructure",3,11,0,3,False,4,0,114,700,1000,256,0,0,0,0,0,163,0,115,0,3200
+115,"Outils de cuisine à haute conductivité",4,11,0,3,False,4,1200,115,700,1000,257,0,0,0,0,0,164,0,116,0,3200
+116,"Traitement expérimental de fragments de météorites",5,11,0,3,False,4,1200,116,2600,3000,258,0,0,0,0,0,165,0,117,0,3200
+117,"EX<Indent/>: Reproduction d'encensoir",6,11,0,3,False,5,1200,117,2500,3000,259,0,0,0,0,0,166,0,118,0,3100
+118,"EX<Indent/>: Ouvrage minutieux de matériaux",7,11,0,3,False,5,1200,118,840,1000,260,0,0,0,0,0,167,0,119,0,3100
+119,"EX<Indent/>: Approvisionnement en matériel pour la station",8,11,0,3,False,5,1200,119,840,1000,261,0,0,2,0,0,168,0,120,0,3100
+120,"EX<Indent/>: Éclairages pour lieu de travail",9,11,0,3,False,5,1200,120,2800,3000,262,0,0,1,13,0,169,0,121,0,3100
+121,"EX+<Indent/>: Traitement d'amélioration de la durabilité",10,11,0,0,False,6,420,121,560,880,263,0,0,0,13,0,170,0,122,0,3000
+122,"EX+<Indent/>: Traitement anti-chocs",11,11,0,0,False,6,330,122,560,880,264,0,0,0,14,0,171,0,123,0,3000
+123,"Préparation de mobilier pour infrastructure",12,11,0,3,False,4,1200,123,2300,3000,265,0,0,0,0,0,172,0,124,0,3200
+124,"EX<Indent/>: Amélioration de mobilier pour infrastructure",12,11,0,3,False,5,1200,124,2500,3000,266,0,0,0,0,123,173,0,125,0,3100
+125,"Préparation de matériaux de perfectionnement",13,11,0,0,False,4,1200,125,1000,1600,267,0,0,0,0,0,174,0,126,0,3200
+126,"EX<Indent/>: Amélioration de matériaux de perfectionnement",13,11,0,0,False,5,1200,126,1000,1600,268,0,0,0,0,125,175,0,127,0,3100
+127,"EX+<Indent/>: Coffres-forts pour pré<SoftHyphen/>ser<SoftHyphen/>va<SoftHyphen/>tion d'échan<SoftHyphen/>til<SoftHyphen/>lons cruciaux",13,11,0,0,False,6,300,127,1000,1600,269,0,0,0,0,126,176,0,128,0,3000
+128,"EX<Indent/>: Matériaux pour vaisseau spatial",14,11,0,3,False,5,1200,128,850,1000,270,0,0,0,0,0,177,0,129,0,3100
+129,"EX+<Indent/>: Traitement de matériaux pour vaisseau spatial",14,11,0,3,False,6,240,129,900,1000,271,0,0,2,0,128,178,0,130,0,3000
+130,"Préparation de matériaux pour drones ultraperformants",15,11,0,3,False,4,1200,130,2300,3000,272,0,0,0,5,0,179,0,131,0,3200
+131,"EX<Indent/>: Amélioration de matériaux pour drones ultraperformants",15,11,0,3,False,5,1200,131,2500,3000,273,0,0,1,0,130,180,0,132,0,3100
+132,"EX+<Indent/>: Conception de drones ultraperformants",15,11,0,3,False,6,270,132,2700,3000,274,0,0,2,0,131,181,0,133,0,3000
+133,"EX+<Indent/>: Préparation de matériaux pour machine d'un nouveau genre",16,11,0,3,False,6,600,133,980,1080,275,0,0,1,11,0,182,0,134,0,3000
+134,"EX+<Indent/>: Amélioration de matériaux pour machine d'un nouveau genre",16,11,0,3,False,6,600,134,980,1080,276,0,0,1,0,133,183,0,135,0,3000
+135,"EX+<Indent/>: Perfectionnement de la machine d'un nouveau genre",16,11,0,0,False,6,420,135,1000,1080,277,0,0,1,0,134,184,0,136,0,3000
+136," Plaques multi-usage",1,12,0,0,False,1,0,136,1200,2400,278,0,0,0,0,0,185,1,137,0,0
+137," Pièces de rechange pour vaisseau",14,12,0,0,False,1,0,137,1200,2400,279,0,0,0,0,0,186,1,138,0,0
+138," Étude de fabrication d'alliages",2,12,0,0,False,1,0,138,1200,2400,280,0,0,0,0,0,187,1,139,0,0
+139," Pièces adaptables simples",15,12,0,0,False,1,0,139,1200,2400,281,0,0,0,0,0,188,1,140,0,0
+140," Pièces métalliques multi-usage",3,12,0,0,False,1,0,140,1200,2400,282,0,0,0,0,0,189,1,141,0,0
+141," Grosse production d'articles de première nécessité",3,12,0,0,False,1,0,141,1200,2400,283,0,0,0,0,0,190,1,142,0,0
+142," Plaques épaisses standard",1,12,0,0,False,2,0,142,1200,2400,284,0,0,0,0,0,191,1,143,0,0
+143," Axes de transmission pour vaisseau spatial",14,12,0,0,False,2,0,143,1200,2400,285,0,0,0,0,0,192,1,144,0,0
+144," Outils de polissage",4,12,0,3,False,2,0,144,1300,3000,286,0,0,0,0,0,193,1,145,0,0
+145," Chaînes standard",3,12,0,3,False,2,0,145,700,1500,287,0,0,0,0,0,194,1,146,0,0
+146," Protections pour les yeux",4,12,0,3,False,2,0,146,1100,2500,288,0,0,0,0,0,195,1,147,0,0
+147," Pièces adaptables intermédiaires",15,12,0,3,False,2,0,147,1200,2250,289,0,0,0,0,0,196,1,148,0,0
+148," Équipements thermorésistants",9,12,0,3,False,2,0,148,700,1500,290,0,0,0,0,0,197,1,149,0,0
+149," Pièces pour rover",3,12,0,0,False,3,0,149,1600,2400,291,0,0,0,0,0,198,1,150,0,0
+150," Plaques fines standard",1,12,0,0,False,3,0,150,1600,2400,292,0,0,0,0,0,199,1,151,0,0
+151," Nécessaire de couture",4,12,0,3,False,3,0,151,1700,2000,293,0,0,0,0,0,200,1,152,0,0
+152," Mobilier d'observation",6,12,0,3,False,3,0,152,2700,3000,294,0,0,0,0,0,201,1,153,0,0
+153," Cheminées pour intérieur",9,12,0,0,False,3,0,153,1600,2400,295,0,0,0,0,0,202,1,154,0,0
+154," Miroirs de maquillage pour habitation",12,12,0,3,False,3,0,154,2700,3000,296,0,0,0,0,0,203,1,155,0,0
+155," Élaboration d'outils en matériaux séléniens",4,12,0,0,False,3,0,155,1000,1300,297,0,0,0,0,0,204,1,156,0,0
+156," Élaboration de pièces en matériaux séléniens",7,12,0,0,False,3,0,156,1000,1300,298,0,0,0,0,0,205,1,157,0,0
+157,"Plaques pour infrastructure cruciale",1,12,0,0,False,4,1200,157,1800,2400,299,0,0,0,0,0,206,0,158,0,4200
+158,"Traitement de ressources rares",2,12,0,3,False,4,1200,158,2300,3000,300,0,0,0,0,0,207,0,159,0,4200
+159,"Approvisionnement en pièces pour infrastructure",3,12,0,3,False,4,0,159,700,1000,301,0,0,0,0,0,208,0,160,0,4200
+160,"Couteaux de précision",4,12,0,3,False,4,1200,160,700,1000,302,0,0,0,0,0,209,0,161,0,4200
+161,"Traitement expérimental de fragments de météorites",5,12,0,3,False,4,1200,161,2600,3000,303,0,0,0,0,0,210,0,162,0,4200
+162,"EX<Indent/>: Reproduction de mobilier de bain",6,12,0,3,False,5,1200,162,2500,3000,304,0,0,0,0,0,211,0,163,0,4100
+163,"EX<Indent/>: Ouvrage minutieux de matériaux",7,12,0,3,False,5,1200,163,840,1000,305,0,0,0,0,0,212,0,164,0,4100
+164,"EX<Indent/>: Approvisionnement en matériel pour la station",8,12,0,3,False,5,1200,164,840,1000,306,0,0,2,0,0,213,0,165,0,4100
+165,"EX<Indent/>: Bras mécaniques pour aide au labeur",9,12,0,3,False,5,1200,165,2800,3000,307,0,0,1,14,0,214,0,166,0,4100
+166,"EX+<Indent/>: Traitement d'amélioration de la durabilité",10,12,0,0,False,6,420,166,560,880,308,0,0,0,13,0,215,0,167,0,4000
+167,"EX+<Indent/>: Traitement anti-chocs",11,12,0,0,False,6,330,167,560,880,309,0,0,0,14,0,216,0,168,0,4000
+168,"Préparation de mobilier pour infrastructure",12,12,0,3,False,4,1200,168,2300,3000,310,0,0,0,0,0,217,0,169,0,4200
+169,"EX<Indent/>: Amélioration de mobilier pour infrastructure",12,12,0,3,False,5,1200,169,2500,3000,311,0,0,0,0,168,218,0,170,0,4100
+170,"Préparation de matériaux de perfectionnement",13,12,0,0,False,4,1200,170,1000,1600,312,0,0,0,0,0,219,0,171,0,4200
+171,"EX<Indent/>: Amélioration de matériaux de perfectionnement",13,12,0,0,False,5,1200,171,1000,1600,313,0,0,0,0,170,220,0,172,0,4100
+172,"EX+<Indent/>: Distributeurs automatiques",13,12,0,0,False,6,300,172,1000,1600,314,0,0,0,0,171,221,0,173,0,4000
+173,"EX<Indent/>: Matériaux pour vaisseau spatial",14,12,0,3,False,5,1200,173,850,1000,315,0,0,0,0,0,222,0,174,0,4100
+174,"EX+<Indent/>: Traitement de matériaux pour vaisseau spatial",14,12,0,3,False,6,240,174,900,1000,316,0,0,2,0,173,223,0,175,0,4000
+175,"Préparation de matériaux pour drones ultraperformants",15,12,0,3,False,4,1200,175,2300,3000,317,0,0,0,7,0,224,0,176,0,4200
+176,"EX<Indent/>: Amélioration de matériaux pour drones ultraperformants",15,12,0,3,False,5,1200,176,2500,3000,318,0,0,1,0,175,225,0,177,0,4100
+177,"EX+<Indent/>: Conception de drones ultraperformants",15,12,0,3,False,6,270,177,2700,3000,319,0,0,2,0,176,226,0,178,0,4000
+178,"EX+<Indent/>: Préparation de matériaux pour machine d'un nouveau genre",16,12,0,3,False,6,600,178,980,1080,320,0,0,1,1,0,227,0,179,0,4000
+179,"EX+<Indent/>: Amélioration de matériaux pour machine d'un nouveau genre",16,12,0,3,False,6,600,179,980,1080,321,0,0,1,0,178,228,0,180,0,4000
+180,"EX+<Indent/>: Perfectionnement de la machine d'un nouveau genre",16,12,0,0,False,6,420,180,1000,1080,322,0,0,1,0,179,229,0,181,0,4000
+181," Lanières de cuir multi-usage",17,13,0,0,False,1,0,181,1200,2400,323,0,0,0,0,0,230,1,182,0,0
+182," Cuir de première nécessité",20,13,0,0,False,1,0,182,1200,2400,324,0,0,0,0,0,231,1,183,0,0
+183," Protège-mains pour la récolte",22,13,0,0,False,1,0,183,1200,2400,325,0,0,0,0,0,232,1,184,0,0
+184," Matériaux pour la recherche",29,13,0,0,False,1,0,184,1200,2400,326,0,0,0,0,0,233,1,185,0,0
+185," Sacoches de travail",20,13,0,0,False,1,0,185,1200,2400,327,0,0,0,0,0,234,1,186,0,0
+186," Chaussures en cuir d'intérieur",19,13,0,0,False,1,0,186,1200,2400,328,0,0,0,0,0,235,1,187,0,0
+187," Lanières de cuir thermorésistantes",17,13,0,0,False,2,0,187,1200,2400,329,0,0,0,0,0,236,1,188,0,0
+188," Bagages grande capacité",20,13,0,0,False,2,0,188,1200,2400,330,0,0,0,0,0,237,1,189,0,0
+189," Ceintures de travail",26,13,0,3,False,2,0,189,1300,3000,331,0,0,0,0,0,238,1,190,0,0
+190," Papier d'excellente qualité",18,13,0,3,False,2,0,190,700,1500,332,0,0,0,0,0,239,1,191,0,0
+191," Tapis moutonneux",19,13,0,3,False,2,0,191,1100,2500,333,0,0,0,0,0,240,1,192,0,0
+192," Matériaux pour cosmo-navette",28,13,0,3,False,2,0,192,1200,2250,334,0,0,0,0,0,241,1,193,0,0
+193," Jaques en matière nouvelle",22,13,0,3,False,2,0,193,700,1500,335,0,0,0,0,0,242,1,194,0,0
+194," Sacs en cuir de première nécessité",20,13,0,0,False,3,0,194,1600,2400,336,0,0,0,0,0,243,1,195,0,0
+195," Lanières de cuir bactéricides",17,13,0,0,False,3,0,195,1600,2400,337,0,0,0,0,0,244,1,196,0,0
+196," Décorations de sol d'excellente qualité",19,13,0,3,False,3,0,196,1700,2000,338,0,0,0,0,0,245,1,197,0,0
+197," Cuir pour le transport de ressources",31,13,0,3,False,3,0,197,2700,3000,339,0,0,0,0,0,246,1,198,0,0
+198," Papier pour conservation longue durée",18,13,0,0,False,3,0,198,1600,2400,340,0,0,0,0,0,247,1,199,0,0
+199," Mobilier de relaxation d'excellente qualité",30,13,0,3,False,3,0,199,2700,3000,341,0,0,0,0,0,248,1,200,0,0
+200," Gants en matériaux expérimentaux",22,13,0,0,False,3,0,200,1000,1300,342,0,0,0,0,0,249,1,201,0,0
+201," Mobilier de relaxation d'excellente qualité",24,13,0,0,False,3,0,201,1000,1300,343,0,0,0,0,0,250,1,202,0,0
+202,"Lanières de cuir résistantes",17,13,0,0,False,4,1200,202,1800,2400,344,0,0,0,0,0,251,0,203,0,5200
+203,"Papier de qualité supérieure",18,13,0,3,False,4,1200,203,2300,3000,345,0,0,0,0,0,252,0,204,0,5200
+204,"Parquet en fibres végétales pour la recherche",19,13,0,3,False,4,0,204,700,1000,346,0,0,0,0,0,253,0,205,0,5200
+205,"Cuir isotherme",20,13,0,3,False,4,1200,205,700,1000,347,0,0,0,0,0,254,0,206,0,5200
+206,"Traitement expérimental de végétaux lunaires",21,13,0,3,False,4,1200,206,2600,3000,348,0,0,0,0,0,255,0,207,0,5200
+207,"EX<Indent/>: Traitement final de matériaux d'essai",22,13,0,3,False,5,1200,207,2500,3000,349,0,0,0,0,0,256,0,208,0,5100
+208,"EX<Indent/>: Petites sacoches de travail",23,13,0,3,False,5,1200,208,840,1000,350,0,0,0,0,0,257,0,209,0,5100
+209,"EX<Indent/>: Sofas d'excellente qualité",24,13,0,3,False,5,1200,209,840,1000,351,0,0,2,0,0,258,0,210,0,5100
+210,"EX<Indent/>: Mobilier typique",25,13,0,3,False,5,1200,210,2800,3000,352,0,0,1,13,0,259,0,211,0,5100
+211,"EX+<Indent/>: Chaussures de sécurité",26,13,0,0,False,6,420,211,560,880,353,0,0,0,14,0,260,0,212,0,5000
+212,"EX+<Indent/>: Habits de récolte",27,13,0,0,False,6,330,212,560,880,354,0,0,0,13,0,261,0,213,0,5000
+213,"Préparation de matériel pour poste avancé",28,13,0,3,False,4,1200,213,2300,3000,355,0,0,0,0,0,262,0,214,0,5200
+214,"EX<Indent/>: Amélioration de matériel pour poste avancé",28,13,0,3,False,5,1200,214,2500,3000,356,0,0,0,0,213,263,0,215,0,5100
+215,"Préparation de matériaux de raffinement",29,13,0,0,False,4,1200,215,1000,1600,357,0,0,0,0,0,264,0,216,0,5200
+216,"EX<Indent/>: Amélioration de matériaux de raffinement",29,13,0,0,False,5,1200,216,1000,1600,358,0,0,0,0,215,265,0,217,0,5100
+217,"EX+<Indent/>: Matériaux de grande taille pour la recherche",29,13,0,0,False,6,300,217,1000,1600,359,0,0,0,0,216,266,0,218,0,5000
+218,"EX<Indent/>: Matériaux pour articles de relaxation",30,13,0,3,False,5,1200,218,850,1000,360,0,0,0,0,0,267,0,219,0,5100
+219,"EX+<Indent/>: Mobilier de relaxation",30,13,0,3,False,6,240,219,900,1000,361,0,0,2,0,218,268,0,220,0,5000
+220,"Préparation de matériaux pour conteneurs",31,13,0,3,False,4,1200,220,2300,3000,362,0,0,0,9,0,269,0,221,0,5200
+221,"EX<Indent/>: Amélioration de matériaux pour conteneurs",31,13,0,3,False,5,1200,221,2500,3000,363,0,0,1,0,220,270,0,222,0,5100
+222,"EX+<Indent/>: Conteneurs de fret pour rovers",31,13,0,3,False,6,270,222,2700,3000,364,0,0,2,0,221,271,0,223,0,5000
+223,"EX+<Indent/>: Préparation de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons cosmiques",32,13,0,3,False,6,600,223,980,1080,365,0,0,1,3,0,272,0,224,0,5000
+224,"EX+<Indent/>: Amélioration de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons cosmiques",32,13,0,3,False,6,600,224,980,1080,366,0,0,1,0,223,273,0,225,0,5000
+225,"EX+<Indent/>: Perfectionnement de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons cosmiques",32,13,0,0,False,6,420,225,1000,1080,367,0,0,1,0,224,274,0,226,0,5000
+226," Pelotes de fil multi-usage",17,14,0,0,False,1,0,226,1200,2400,368,0,0,0,0,0,275,1,227,0,0
+227," Étoffes de première nécessité",20,14,0,0,False,1,0,227,1200,2400,369,0,0,0,0,0,276,1,228,0,0
+228," Protège-têtes pour la récolte",22,14,0,0,False,1,0,228,1200,2400,370,0,0,0,0,0,277,1,229,0,0
+229," Matériaux pour la recherche",29,14,0,0,False,1,0,229,1200,2400,371,0,0,0,0,0,278,1,230,0,0
+230," Filins pro<SoftHyphen/>fes<SoftHyphen/>sion<SoftHyphen/>nels multi-usage",20,14,0,0,False,1,0,230,1200,2400,372,0,0,0,0,0,279,1,231,0,0
+231," Rideaux de partition",19,14,0,0,False,1,0,231,1200,2400,373,0,0,0,0,0,280,1,232,0,0
+232," Pelotes de fil thermorésistant",17,14,0,0,False,2,0,232,1200,2400,374,0,0,0,0,0,281,1,233,0,0
+233," Vêtements d'intérieur",20,14,0,0,False,2,0,233,1200,2400,375,0,0,0,0,0,282,1,234,0,0
+234," Serviettes multi-usage",26,14,0,3,False,2,0,234,1300,3000,376,0,0,0,0,0,283,1,235,0,0
+235," Fibres composites",18,14,0,3,False,2,0,235,700,1500,377,0,0,0,0,0,284,1,236,0,0
+236," Rideaux médicaux",19,14,0,3,False,2,0,236,1100,2500,378,0,0,0,0,0,285,1,237,0,0
+237," Matériaux pour cosmo-navette",28,14,0,3,False,2,0,237,1200,2250,379,0,0,0,0,0,286,1,238,0,0
+238," Pantalons en matière nouvelle",22,14,0,3,False,2,0,238,700,1500,380,0,0,0,0,0,287,1,239,0,0
+239," Corde de travail",20,14,0,0,False,3,0,239,1600,2400,381,0,0,0,0,0,288,1,240,0,0
+240," Pelotes de fil bactéricides",17,14,0,0,False,3,0,240,1600,2400,382,0,0,0,0,0,289,1,241,0,0
+241," Rideaux d'excellente qualité",19,14,0,3,False,3,0,241,1700,2000,383,0,0,0,0,0,290,1,242,0,0
+242," Étoffes pour le transport de ressources",31,14,0,3,False,3,0,242,2700,3000,384,0,0,0,0,0,291,1,243,0,0
+243," Fibres composites résistantes",18,14,0,0,False,3,0,243,1600,2400,385,0,0,0,0,0,292,1,244,0,0
+244," Accessoires de relaxation",30,14,0,3,False,3,0,244,2700,3000,386,0,0,0,0,0,293,1,245,0,0
+245," Chapeaux en matériaux expérimentaux",22,14,0,0,False,3,0,245,1000,1300,387,0,0,0,0,0,294,1,246,0,0
+246," Coussins de relaxation",24,14,0,0,False,3,0,246,1000,1300,388,0,0,0,0,0,295,1,247,0,0
+247,"Pelotes de fil résistant",17,14,0,0,False,4,1200,247,1800,2400,389,0,0,0,0,0,296,0,248,0,6200
+248,"Fibres composites d'excellente qualité",18,14,0,3,False,4,1200,248,2300,3000,390,0,0,0,0,0,297,0,249,0,6200
+249,"Rideaux pour salle de repos d'excellente qualité",19,14,0,3,False,4,0,249,700,1000,391,0,0,0,0,0,298,0,250,0,6200
+250,"Bandages de premiers secours",20,14,0,3,False,4,1200,250,700,1000,392,0,0,0,0,0,299,0,251,0,6200
+251,"Traitement expérimental de végétaux lunaires",21,14,0,3,False,4,1200,251,2600,3000,393,0,0,0,0,0,300,0,252,0,6200
+252,"EX<Indent/>: Traitement final de matériaux d'essai",22,14,0,3,False,5,1200,252,2500,3000,394,0,0,0,0,0,301,0,253,0,6100
+253,"EX<Indent/>: Matériaux pour synthèse de fibres",23,14,0,3,False,5,1200,253,840,1000,395,0,0,0,0,0,302,0,254,0,6100
+254,"EX<Indent/>: Ensemble de coussins de relaxation",24,14,0,3,False,5,1200,254,840,1000,396,0,0,2,0,0,303,0,255,0,6100
+255,"EX<Indent/>: Décorations de sol typiques",25,14,0,3,False,5,1200,255,2800,3000,397,0,0,1,14,0,304,0,256,0,6100
+256,"EX+<Indent/>: Chapeaux thermiques",26,14,0,0,False,6,420,256,560,880,398,0,0,0,14,0,305,0,257,0,6000
+257,"EX+<Indent/>: Habits d'artisanat",27,14,0,0,False,6,330,257,560,880,399,0,0,0,13,0,306,0,258,0,6000
+258,"Préparation de matériaux pour cosmo-navette",28,14,0,3,False,4,1200,258,2300,3000,400,0,0,0,0,0,307,0,259,0,6200
+259,"EX<Indent/>: Amélioration de matériaux pour cosmo-navette",28,14,0,3,False,5,1200,259,2500,3000,401,0,0,0,0,258,308,0,260,0,6100
+260,"Préparation de matériaux de raffinement",29,14,0,0,False,4,1200,260,1000,1600,402,0,0,0,0,0,309,0,261,0,6200
+261,"EX<Indent/>: Amélioration de matériaux de raffinement",29,14,0,0,False,5,1200,261,1000,1600,403,0,0,0,0,260,310,0,262,0,6100
+262,"EX+<Indent/>: Matériaux de grande taille pour la recherche",29,14,0,0,False,6,300,262,1000,1600,404,0,0,0,0,261,311,0,263,0,6000
+263,"EX<Indent/>: Matériaux pour articles de relaxation",30,14,0,3,False,5,1200,263,850,1000,405,0,0,0,0,0,312,0,264,0,6100
+264,"EX+<Indent/>: Articles de relaxation",30,14,0,3,False,6,240,264,900,1000,406,0,0,2,0,263,313,0,265,0,6000
+265,"Préparation de matériaux pour conteneurs",31,14,0,3,False,4,1200,265,2300,3000,407,0,0,0,11,0,314,0,266,0,6200
+266,"EX<Indent/>: Amélioration de matériaux pour conteneurs",31,14,0,3,False,5,1200,266,2500,3000,408,0,0,1,0,265,315,0,267,0,6100
+267,"EX+<Indent/>: Conteneurs de fret pour rovers",31,14,0,3,False,6,270,267,2700,3000,409,0,0,2,0,266,316,0,268,0,6000
+268,"EX+<Indent/>: Préparation d'uniformes cosmiques",32,14,0,3,False,6,600,268,980,1080,410,0,0,1,5,0,317,0,269,0,6000
+269,"EX+<Indent/>: Amélioration d'uniformes cosmiques",32,14,0,3,False,6,600,269,980,1080,411,0,0,1,0,268,318,0,270,0,6000
+270,"EX+<Indent/>: Perfectionnement d'uniformes cosmiques",32,14,0,0,False,6,420,270,1000,1080,412,0,0,1,0,269,319,0,271,0,6000
+271," Briques multi-usage",33,15,0,0,False,1,0,271,1200,2400,413,0,0,0,0,0,320,1,272,0,0
+272," Traitement de condiments de produits récoltés",40,15,0,0,False,1,0,272,1200,2400,414,0,0,0,0,0,321,1,273,0,0
+273," Mortier de con<SoftHyphen/>struc<SoftHyphen/>tion",34,15,0,0,False,1,0,273,1200,2400,415,0,0,0,0,0,322,1,274,0,0
+274," Ravitaillement en nourriture pour ouvriers",35,15,0,0,False,1,0,274,1200,2400,416,0,0,0,0,0,323,1,275,0,0
+275," Colle aqueuse",36,15,0,0,False,1,0,275,1200,2400,417,0,0,0,0,0,324,1,276,0,0
+276," Recherche sur la médecine nutritive",46,15,0,0,False,1,0,276,1200,2400,418,0,0,0,0,0,325,1,277,0,0
+277," Briques thermorésistantes",33,15,0,0,False,2,0,277,1200,2400,419,0,0,0,0,0,326,1,278,0,0
+278," Boissons toniques",35,15,0,0,False,2,0,278,1200,2400,420,0,0,0,0,0,327,1,279,0,0
+279," Peinture de con<SoftHyphen/>struc<SoftHyphen/>tion",33,15,0,3,False,2,0,279,1300,3000,421,0,0,0,0,0,328,1,280,0,0
+280," Dallages traditionnels",41,15,0,3,False,2,0,280,700,1500,422,0,0,0,0,0,329,1,281,0,0
+281," Articles d'éclairage nocturne",36,15,0,3,False,2,0,281,1100,2500,423,0,0,0,0,0,330,1,282,0,0
+282," Rations alimentaires d'urgence",39,15,0,3,False,2,0,282,1200,2250,424,0,0,0,0,0,331,1,283,0,0
+283," Boissons de nouvelle génération",47,15,0,3,False,2,0,283,700,1500,425,0,0,0,0,0,332,1,284,0,0
+284," Traitement de condiments de végétaux séléniens",39,15,0,0,False,3,0,284,1600,2400,426,0,0,0,0,0,333,1,285,0,0
+285," Briques étanches",33,15,0,0,False,3,0,285,1600,2400,427,0,0,0,0,0,334,1,286,0,0
+286," Ravitaillement en médicaments expérimentaux",43,15,0,3,False,3,0,286,1700,2000,428,0,0,0,0,0,335,1,287,0,0
+287," Eau sacrée pour potions alchimiques",42,15,0,3,False,3,0,287,2700,3000,429,0,0,0,0,0,336,1,288,0,0
+288," Dallages de matériaux séléniens",41,15,0,0,False,3,0,288,1600,2400,430,0,0,0,0,0,337,1,289,0,0
+289," Revitalisants d'excellente qualité",35,15,0,3,False,3,0,289,2700,3000,431,0,0,0,0,0,338,1,290,0,0
+290," Jardins de petite taille",41,15,0,0,False,3,0,290,1000,1300,432,0,0,0,0,0,339,1,291,0,0
+291," Plantes décoratives de végétaux séléniens",40,15,0,0,False,3,0,291,1000,1300,433,0,0,0,0,0,340,1,292,0,0
+292,"Briques étanches",33,15,0,0,False,4,1200,292,1800,2400,434,0,0,0,0,0,341,0,293,0,7200
+293,"Mortier d'excellente qualité",34,15,0,3,False,4,1200,293,2300,3000,435,0,0,0,0,0,342,0,294,0,7200
+294,"Médicaments pour nutrition équilibrée",35,15,0,3,False,4,0,294,700,1000,436,0,0,0,0,0,343,0,295,0,7200
+295,"Vaisselle de cuisine pour cantine",37,15,0,3,False,4,1200,295,700,1000,437,0,0,0,0,0,344,0,296,0,7200
+296,"Traitement expérimental de produits aquatiques séléniens",38,15,0,3,False,4,1200,296,2600,3000,438,0,0,0,0,0,345,0,297,0,7200
+297,"EX<Indent/>: Boissons de réserve",39,15,0,3,False,5,1200,297,2500,3000,439,0,0,0,0,0,346,0,298,0,7100
+298,"EX<Indent/>: Recherche sur les produits de maquillage",40,15,0,3,False,5,1200,298,840,1000,440,0,0,0,0,0,347,0,299,0,7100
+299,"EX<Indent/>: Reproduction de plantes décoratives",41,15,0,3,False,5,1200,299,840,1000,441,0,0,2,0,0,348,0,300,0,7100
+300,"EX<Indent/>: Médicaments pour artisans ",42,15,0,3,False,5,1200,300,2800,3000,442,0,0,1,13,0,349,0,301,0,7100
+301,"EX+<Indent/>: Produits antirouille",36,15,0,0,False,6,420,301,560,880,443,0,0,0,13,0,350,0,302,0,7000
+302,"EX+<Indent/>: Conservateurs alimentaires",43,15,0,0,False,6,330,302,560,880,444,0,0,0,14,0,351,0,303,0,7000
+303,"Préparation de remèdes expérimentaux",44,15,0,3,False,4,1200,303,2300,3000,445,0,0,0,0,0,352,0,304,0,7200
+304,"EX<Indent/>: Amélioration de remèdes expérimentaux",44,15,0,3,False,5,1200,304,2500,3000,446,0,0,0,0,303,353,0,305,0,7100
+305,"Préparation de finitions d'habitat pour Loporrite",45,15,0,0,False,4,1200,305,1000,1600,447,0,0,0,0,0,354,0,306,0,7200
+306,"EX<Indent/>: Amélioration de finitions d'habitat pour Loporrite",45,15,0,0,False,5,1200,306,1000,1600,448,0,0,0,0,305,355,0,307,0,7100
+307,"EX+<Indent/>: Finitions d'habitat pour Loporrite",45,15,0,0,False,6,300,307,1000,1600,449,0,0,0,0,306,356,0,308,0,7000
+308,"EX<Indent/>: Préparation de pâtées pour élevage",46,15,0,3,False,5,1200,308,850,1000,450,0,0,0,0,0,357,0,309,0,7100
+309,"EX+<Indent/>: Amélioration de pâtées pour élevage",46,15,0,3,False,6,240,309,900,1000,451,0,0,2,0,308,358,0,310,0,7000
+310,"Préparation de boissons gélatineuses de haute qualité nutritive",47,15,0,3,False,4,1200,310,2300,3000,452,0,0,0,1,0,359,0,311,0,7200
+311,"EX<Indent/>: Amélioration de boissons gélatineuses de haute qualité nutritive",47,15,0,3,False,5,1200,311,2500,3000,453,0,0,1,0,310,360,0,312,0,7100
+312,"EX+<Indent/>: Boissons gélatineuses de haute qualité nutritive",47,15,0,3,False,6,270,312,2700,3000,454,0,0,2,0,311,361,0,313,0,7000
+313,"EX+<Indent/>: Préparation de potions alchimiques multicolores",48,15,0,3,False,6,600,313,980,1080,455,0,0,1,7,0,362,0,314,0,7000
+314,"EX+<Indent/>: Amélioration de potions alchimiques multicolores",48,15,0,3,False,6,600,314,980,1080,456,0,0,1,0,313,363,0,315,0,7000
+315,"EX+<Indent/>: Perfectionnement de potions alchimiques multicolores",48,15,0,0,False,6,420,315,1000,1080,457,0,0,1,0,314,364,0,316,0,7000
+316," Huile multi-usage",33,16,0,0,False,1,0,316,1200,2400,458,0,0,0,0,0,365,1,317,0,0
+317," Traitement de condiments de produits récoltés",40,16,0,0,False,1,0,317,1200,2400,459,0,0,0,0,0,366,1,318,0,0
+318," Colle de con<SoftHyphen/>struc<SoftHyphen/>tion",34,16,0,0,False,1,0,318,1200,2400,460,0,0,0,0,0,367,1,319,0,0
+319," Bouillons de produits aquatiques",35,16,0,0,False,1,0,319,1200,2400,461,0,0,0,0,0,368,1,320,0,0
+320," Encre aqueuse",36,16,0,0,False,1,0,320,1200,2400,462,0,0,0,0,0,369,1,321,0,0
+321," Recherche sur la médecine nutritive",46,16,0,0,False,1,0,321,1200,2400,463,0,0,0,0,0,370,1,322,0,0
+322," Huile thermorésistante",33,16,0,0,False,2,0,322,1200,2400,464,0,0,0,0,0,371,1,323,0,0
+323," Aliments pour nutrition équilibrée",35,16,0,0,False,2,0,323,1200,2400,465,0,0,0,0,0,372,1,324,0,0
+324," Peinture de con<SoftHyphen/>struc<SoftHyphen/>tion",33,16,0,3,False,2,0,324,1300,3000,466,0,0,0,0,0,373,1,325,0,0
+325," Nourriture portable",41,16,0,3,False,2,0,325,700,1500,467,0,0,0,0,0,374,1,326,0,0
+326," Traitement de produits de la mer de haute qualité nutritive",36,16,0,3,False,2,0,326,1100,2500,468,0,0,0,0,0,375,1,327,0,0
+327," Rations alimentaires d'urgence",39,16,0,3,False,2,0,327,1200,2250,469,0,0,0,0,0,376,1,328,0,0
+328," Reproduction de repas complets essentiels",47,16,0,3,False,2,0,328,700,1500,470,0,0,0,0,0,377,1,329,0,0
+329," Produits de nouvelle génération pour conservation",39,16,0,0,False,3,0,329,1600,2400,471,0,0,0,0,0,378,1,330,0,0
+330," Huile étanche",33,16,0,0,False,3,0,330,1600,2400,472,0,0,0,0,0,379,1,331,0,0
+331," Boissons de nouvelle génération",43,16,0,3,False,3,0,331,1700,2000,473,0,0,0,0,0,380,1,332,0,0
+332," Cuisine de grâce",42,16,0,3,False,3,0,332,2700,3000,474,0,0,0,0,0,381,1,333,0,0
+333," Reproduction de nourriture typique aux ingrédients aquatiques séléniens",41,16,0,0,False,3,0,333,1600,2400,475,0,0,0,0,0,382,1,334,0,0
+334," Produits récoltés séléniens pour nutrition équilibrée",35,16,0,3,False,3,0,334,2700,3000,476,0,0,0,0,0,383,1,335,0,0
+335," Étude de fondation de boulangerie",41,16,0,0,False,3,0,335,1000,1300,477,0,0,0,0,0,384,1,336,0,0
+336," Traitement de pré<SoftHyphen/>pa<SoftHyphen/>ra<SoftHyphen/>tions aux champignons",40,16,0,0,False,3,0,336,1000,1300,478,0,0,0,0,0,385,1,337,0,0
+337,"Huile étanche",33,16,0,0,False,4,1200,337,1800,2400,479,0,0,0,0,0,386,0,338,0,8200
+338,"Colle d'excellente qualité",34,16,0,3,False,4,1200,338,2300,3000,480,0,0,0,0,0,387,0,339,0,8200
+339,"Ravitaillement en boissons revigorantes",35,16,0,3,False,4,0,339,700,1000,481,0,0,0,0,0,388,0,340,0,8200
+340,"Petit déjeuner pour cantine",37,16,0,3,False,4,1200,340,700,1000,482,0,0,0,0,0,389,0,341,0,8200
+341,"Traitement expérimental de produits aquatiques séléniens",38,16,0,3,False,4,1200,341,2600,3000,483,0,0,0,0,0,390,0,342,0,8200
+342,"EX<Indent/>: Fabrication en série de nouveaux aliments pour conservation",39,16,0,3,False,5,1200,342,2500,3000,484,0,0,0,0,0,391,0,343,0,8100
+343,"EX<Indent/>: Étude de reproduction de cuisine sharlayanaise",40,16,0,3,False,5,1200,343,840,1000,485,0,0,0,0,0,392,0,344,0,8100
+344,"EX<Indent/>: Reproduction de cuisine rapide pour activités en extérieur",41,16,0,3,False,5,1200,344,840,1000,486,0,0,2,0,0,393,0,345,0,8100
+345,"EX<Indent/>: Revitalisants portables",42,16,0,3,False,5,1200,345,2800,3000,487,0,0,1,14,0,394,0,346,0,8100
+346,"EX+<Indent/>: Traitement de produits de la mer fumés",36,16,0,0,False,6,420,346,560,880,488,0,0,0,13,0,395,0,347,0,8000
+347,"EX+<Indent/>: Traitement de viande animale fumée",43,16,0,0,False,6,330,347,560,880,489,0,0,0,14,0,396,0,348,0,8000
+348,"Préparation d'en-cas pour ouvriers",44,16,0,3,False,4,1200,348,2300,3000,490,0,0,0,0,0,397,0,349,0,8200
+349,"EX<Indent/>: Amélioration d'en-cas pour ouvriers",44,16,0,3,False,5,1200,349,2500,3000,491,0,0,0,0,348,398,0,350,0,8100
+350,"Préparation de régime adapté pour Loporrite",45,16,0,0,False,4,1200,350,1000,1600,492,0,0,0,0,0,399,0,351,0,8200
+351,"EX<Indent/>: Amélioration de régime adapté pour Loporrite",45,16,0,0,False,5,1200,351,1000,1600,493,0,0,0,0,350,400,0,352,0,8100
+352,"EX+<Indent/>: Régime adapté pour Loporrite",45,16,0,0,False,6,300,352,1000,1600,494,0,0,0,0,351,401,0,353,0,8000
+353,"EX<Indent/>: Préparation de pâtées pour élevage",46,16,0,3,False,5,1200,353,850,1000,495,0,0,0,0,0,402,0,354,0,8100
+354,"EX+<Indent/>: Amélioration de pâtées pour élevage",46,16,0,3,False,6,240,354,900,1000,496,0,0,2,0,353,403,0,355,0,8000
+355,"Préparation d'aliments de haute qualité nutritive",47,16,0,3,False,4,1200,355,2300,3000,497,0,0,0,3,0,404,0,356,0,8200
+356,"EX<Indent/>: Amélioration d'aliments de haute qualité nutritive",47,16,0,3,False,5,1200,356,2500,3000,498,0,0,1,0,355,405,0,357,0,8100
+357,"EX+<Indent/>: Aliments de haute qualité nutritive",47,16,0,3,False,6,270,357,2700,3000,499,0,0,2,0,356,406,0,358,0,8000
+358,"EX+<Indent/>: Préparation de repas complets",48,16,0,3,False,6,600,358,980,1080,500,0,0,1,9,0,407,0,359,0,8000
+359,"EX+<Indent/>: Amélioration de repas complets",48,16,0,3,False,6,600,359,980,1080,501,0,0,1,0,358,408,0,360,0,8000
+360,"EX+<Indent/>: Perfectionnement de repas complets",48,16,0,0,False,6,420,360,1000,1080,502,0,0,1,0,359,409,0,361,0,8000
+361," Étude géologique des alentours de la station",54,17,0,0,False,1,600,361,1550,1700,53,0,0,0,0,0,0,1,0,5220,0
+362," Étude des ressources au nord-ouest",60,17,0,0,False,1,600,362,1550,1700,54,0,0,0,0,0,0,1,0,5220,0
+363," Enquête sur les normes de travail",50,17,0,0,False,1,600,363,4920,5020,55,0,0,0,0,0,0,1,0,5220,0
+364," Matériaux d'essai pour la purification de l'eau",62,17,0,0,False,1,600,364,4920,5020,56,0,0,0,0,0,0,1,0,5220,0
+365," Matériaux pour plaques multi-usage",51,17,0,0,False,1,600,365,1550,1700,57,0,0,0,0,0,0,1,0,5220,0
+366," Matériaux pour filtres à air",63,17,0,0,False,1,600,366,1550,1700,58,0,0,0,0,0,0,1,0,5220,0
+367," Étude géologique du secteur central",54,17,0,0,False,2,600,367,1550,1900,59,0,0,0,0,0,0,1,0,5226,0
+368," Métaux pour transformation",50,17,0,0,False,2,600,368,4920,5270,60,0,0,0,0,0,0,1,0,5230,0
+369," Matériaux pour plaques épaisses",51,17,0,0,False,2,600,369,1550,1900,61,0,0,0,0,0,0,1,0,5226,0
+370," Évaluation des méthodes de récolte en continu",52,17,0,0,False,2,600,370,850,1050,62,0,0,0,0,0,0,1,0,5230,0
+371," Évaluation des méthodes d'obtention de matériaux",53,17,0,0,False,2,600,371,2000,2600,63,0,0,0,0,0,0,1,0,5230,0
+372," Nouveaux points de collecte de métaux météoritiques",60,17,0,0,False,2,600,372,2850,3550,64,0,0,0,0,0,0,1,0,5226,0
+373," Matériaux pour filtres à eau",62,17,0,3,False,2,600,373,120,140,65,0,0,0,0,0,0,1,0,5226,0
+374," Étude géologique du secteur extérieur",54,17,0,0,False,3,600,374,1550,1950,66,0,0,0,0,0,0,1,0,5221,0
+375," Matériaux résistants à l'eau et à la chaleur",50,17,0,0,False,3,600,375,4920,5320,67,0,0,0,0,0,0,1,0,5221,0
+376," Matériaux pour plaques fines",51,17,0,0,False,3,600,376,1550,1950,68,0,0,0,0,0,0,1,0,5232,0
+377," Récolte continue de cuivre jaune sélénien",52,17,0,0,False,3,600,377,850,1050,69,0,0,0,0,0,0,1,0,5221,0
+378," Programme de recherche des techniques",53,17,0,0,False,3,600,378,2000,2600,70,0,0,0,0,0,0,1,0,5232,0
+379," Matériaux pour générateurs d'énergie",61,17,0,0,False,3,600,379,2850,3550,71,0,0,0,0,0,0,1,0,5221,0
+380," Matériaux pour transformation avancée",58,17,0,3,False,3,600,380,130,150,72,0,0,0,0,0,0,1,0,5221,0
+381," Matériaux de haute qualité pour réparations",55,17,0,4,False,3,600,381,4400,4600,73,0,0,0,0,0,0,1,0,5232,0
+382,"Matériaux pour la fabrication d'alliages",49,17,0,0,False,4,600,382,2800,3200,74,0,0,0,0,0,0,0,0,5221,9200
+383,"Matériaux des cratères",50,17,0,0,False,4,600,383,4800,5100,75,0,0,0,0,0,0,0,0,5226,9200
+384,"Matériaux pour plaques spéciales",51,17,0,0,False,4,600,384,3000,3400,76,0,0,0,0,0,0,0,0,5230,9200
+385,"Récolte continue de chromite sélénienne",52,17,0,0,False,4,600,385,2350,2950,77,0,0,0,0,0,0,0,0,5220,9200
+386,"Techniques d'acquisition de fer météoritique",53,17,0,0,False,4,600,386,4000,5200,78,0,0,0,0,0,0,0,0,5226,9200
+387,"EX<Indent/>: Étude géologique avancée",54,17,0,0,False,5,600,387,2850,3250,79,0,0,0,0,0,0,0,0,5226,9100
+388,"EX<Indent/>: Extraction d'ingrédients d'alchimie pour éthérolyse",55,17,0,4,False,5,600,388,1750,1950,80,0,0,0,0,0,0,0,0,5220,9100
+389,"EX<Indent/>: Étude des ressources au sud-ouest",56,17,0,3,False,5,600,389,1160,1680,81,0,0,1,0,0,0,0,0,5223,9100
+390,"EX<Indent/>: Étude approfondie du Nadir lunaire",57,17,0,3,False,5,600,390,900,1100,82,0,0,2,14,0,0,0,0,5234,9100
+391,"EX+<Indent/>: Récupération de matériaux rares",58,17,0,4,False,6,300,391,900,1300,83,0,0,0,13,0,0,0,0,5221,9000
+392,"EX+<Indent/>: Matériaux auxiliaires pour transformation",59,17,0,3,False,6,300,392,1310,1680,84,0,0,0,14,0,0,0,0,5230,9000
+393,"Étude des ressources aux alentours de la station",60,17,0,0,False,4,600,393,2800,3200,85,0,0,0,0,0,0,0,0,5220,9200
+394,"EX<Indent/>: Étude des ressources aux alentours de la station",60,17,0,0,False,5,600,394,2350,2950,86,0,0,0,0,393,0,0,0,5226,9100
+395,"Matériaux pour générateurs à haute énergie",61,17,0,0,False,4,600,395,4800,5100,87,0,0,0,0,0,0,0,0,5230,9200
+396,"EX<Indent/>: Matériaux pour générateurs à haute énergie",61,17,0,0,False,5,600,396,4200,5400,88,0,0,0,0,395,0,0,0,5221,9100
+397,"EX+<Indent/>: Matériaux pour générateurs à haute énergie",61,17,0,3,False,6,180,397,900,1200,89,0,0,0,0,396,0,0,0,5232,9000
+398,"EX<Indent/>: Composants de filtre à eau avancé",62,17,0,0,False,5,600,398,3000,3400,90,0,0,0,0,0,0,0,0,5226,9100
+399,"EX+<Indent/>: Composants de filtre à eau avancé",62,17,0,4,False,6,180,399,1750,2100,91,0,0,2,0,398,0,0,0,5234,9000
+400,"Composants de filtre à air avancé",63,17,0,0,False,4,600,400,3000,3400,92,0,0,0,2,0,0,0,0,5220,9200
+401,"EX<Indent/>: Composants de filtre à air avancé",63,17,0,0,False,6,180,401,7000,7950,93,0,0,2,0,402,0,0,0,5234,9100
+402,"EX+<Indent/>: Composants de filtre à air avancé",63,17,0,3,False,5,600,402,900,1100,94,0,0,1,0,400,0,0,0,5223,9000
+403,"EX+<Indent/>: Matériaux de légende",64,17,0,4,False,6,300,403,900,1300,95,0,0,1,8,0,0,0,0,5223,9000
+404,"EX+<Indent/>: Matériaux de légende II",64,17,0,3,False,6,300,404,1330,1730,96,0,0,1,0,403,0,0,0,5223,9000
+405,"EX+<Indent/>: Matériaux de légende III",64,17,0,4,False,6,180,405,1800,2250,97,0,0,1,0,404,0,0,0,5223,9000
+406," Étude des sols aux alentours de la station",54,18,0,0,False,1,600,406,1550,1700,98,0,0,0,0,0,0,1,0,5220,0
+407," Étude des ressources à l'est",60,18,0,0,False,1,600,407,1550,1700,99,0,0,0,0,0,0,1,0,5220,0
+408," Enquête sur les normes de travail",50,18,0,0,False,1,600,408,4920,5020,100,0,0,0,0,0,0,1,0,5220,0
+409," Matériaux d'essai pour la purification de l'eau",62,18,0,0,False,1,600,409,4920,5020,101,0,0,0,0,0,0,1,0,5220,0
+410," Matériaux pour panneaux en fibre multi-usage",51,18,0,0,False,1,600,410,1550,1700,102,0,0,0,0,0,0,1,0,5220,0
+411," Matériaux pour filtres à air",63,18,0,0,False,1,600,411,1550,1700,103,0,0,0,0,0,0,1,0,5220,0
+412," Étude des sols du secteur central",54,18,0,0,False,2,600,412,1550,1900,104,0,0,0,0,0,0,1,0,5227,0
+413," Fibres pour transformation",50,18,0,0,False,2,600,413,4920,5270,105,0,0,0,0,0,0,1,0,5220,0
+414," Matériaux pour panneaux en fibre fins",51,18,0,0,False,2,600,414,1550,1900,106,0,0,0,0,0,0,1,0,5227,0
+415," Évaluation des méthodes de récolte en continu",52,18,0,0,False,2,600,415,850,1050,107,0,0,0,0,0,0,1,0,5220,0
+416," Évaluation des méthodes d'obtention de matériaux",53,18,0,0,False,2,600,416,2000,2600,108,0,0,0,0,0,0,1,0,5220,0
+417," Nouveaux points de collecte de branchages",60,18,0,0,False,2,600,417,2850,3550,109,0,0,0,0,0,0,1,0,5227,0
+418," Matériaux pour filtres à eau",62,18,0,3,False,2,600,418,120,140,110,0,0,0,0,0,0,1,0,5227,0
+419," Étude des sols du secteur extérieur",54,18,0,0,False,3,600,419,1550,1950,111,0,0,0,0,0,0,1,0,5222,0
+420," Matériaux résistants à la chaleur",50,18,0,0,False,3,600,420,4920,5320,112,0,0,0,0,0,0,1,0,5222,0
+421," Matériaux pour panneaux en fibre épais",51,18,0,0,False,3,600,421,1550,1950,113,0,0,0,0,0,0,1,0,5222,0
+422," Récolte continue de fibre bleue",52,18,0,0,False,3,600,422,850,1050,114,0,0,0,0,0,0,1,0,5222,0
+423," Programme de recherche des techniques",53,18,0,0,False,3,600,423,2000,2600,115,0,0,0,0,0,0,1,0,5222,0
+424," Matériaux pour générateurs d'énergie",61,18,0,0,False,3,600,424,2850,3550,116,0,0,0,0,0,0,1,0,5222,0
+425," Matériaux pour transformation avancée",58,18,0,3,False,3,600,425,130,150,117,0,0,0,0,0,0,1,0,5222,0
+426," Matériaux de haute qualité pour réparations",55,18,0,4,False,3,600,426,4400,4600,118,0,0,0,0,0,0,1,0,5222,0
+427,"Nouveaux matériaux de tannerie",49,18,0,0,False,4,600,427,2800,3200,119,0,0,0,0,0,0,0,0,5222,10200
+428,"Végétation de la zone expérimentale",50,18,0,0,False,4,600,428,4800,5100,120,0,0,0,0,0,0,0,0,5227,10200
+429,"Matériaux pour panneaux en fibre",51,18,0,0,False,4,600,429,3000,3400,121,0,0,0,0,0,0,0,0,5220,10200
+430,"Récolte continue de champignons séléniens",52,18,0,0,False,4,600,430,2350,2950,122,0,0,0,0,0,0,0,0,5220,10200
+431,"Techniques d'acquisition de fibre",53,18,0,0,False,4,600,431,4000,5200,123,0,0,0,0,0,0,0,0,5227,10200
+432,"EX<Indent/>: Étude des sols avancée",54,18,0,0,False,5,600,432,2850,3250,124,0,0,0,0,0,0,0,0,5227,10100
+433,"EX<Indent/>: Extraction d'ingrédients d'alchimie pour éthérolyse",55,18,0,4,False,5,600,433,1750,1950,125,0,0,0,0,0,0,0,0,5220,10100
+434,"EX<Indent/>: Étude des ressources au sud-ouest",56,18,0,3,False,5,600,434,1160,1680,126,0,0,1,0,0,0,0,0,5233,10100
+435,"EX<Indent/>: Étude approfondie du Nadir lunaire",57,18,0,3,False,5,600,435,900,1100,127,0,0,2,13,0,0,0,0,5236,10100
+436,"EX+<Indent/>: Récupération de matériaux rares",58,18,0,4,False,6,300,436,900,1300,128,0,0,0,14,0,0,0,0,5222,10000
+437,"EX+<Indent/>: Matériaux auxiliaires pour transformation",59,18,0,3,False,6,300,437,1310,1680,129,0,0,0,13,0,0,0,0,5220,10000
+438,"Étude des ressources aux alentours de la station",60,18,0,0,False,4,600,438,2800,3200,130,0,0,0,0,0,0,0,0,5227,10200
+439,"EX<Indent/>: Étude des ressources aux alentours de la station",60,18,0,0,False,5,600,439,2350,2950,131,0,0,0,0,438,0,0,0,5220,10100
+440,"Matériaux pour générateurs à haute énergie",61,18,0,0,False,4,600,440,4800,5100,132,0,0,0,0,0,0,0,0,5220,10200
+441,"EX<Indent/>: Matériaux pour générateurs à haute énergie",61,18,0,0,False,5,600,441,4200,5400,133,0,0,0,0,440,0,0,0,5222,10100
+442,"EX+<Indent/>: Matériaux pour générateurs à haute énergie",61,18,0,3,False,6,180,442,900,1200,134,0,0,0,0,441,0,0,0,5222,10000
+443,"EX<Indent/>: Composants de filtre à eau avancé",62,18,0,0,False,5,600,443,3000,3400,135,0,0,0,0,0,0,0,0,5220,10100
+444,"EX+<Indent/>: Composants de filtre à eau avancé",62,18,0,4,False,6,180,444,1750,2100,136,0,0,2,0,443,0,0,0,5236,10000
+445,"Composants de filtre à air avancé",63,18,0,0,False,4,600,445,3000,3400,137,0,0,0,6,0,0,0,0,5227,10200
+446,"EX<Indent/>: Composants de filtre à air avancé",63,18,0,0,False,6,180,446,7000,7950,138,0,0,2,0,447,0,0,0,5236,10100
+447,"EX+<Indent/>: Composants de filtre à air avancé",63,18,0,3,False,5,600,447,900,1100,139,0,0,1,0,445,0,0,0,5233,10000
+448,"EX+<Indent/>: Matériaux de légende",64,18,0,4,False,6,300,448,900,1300,140,0,0,1,12,0,0,0,0,5233,10000
+449,"EX+<Indent/>: Matériaux de légende II",64,18,0,3,False,6,300,449,1330,1730,141,0,0,1,0,448,0,0,0,5233,10000
+450,"EX+<Indent/>: Matériaux de légende III",64,18,0,4,False,6,180,450,1800,2250,142,0,0,1,0,449,0,0,0,5233,10000
+451," Vivres d'urgence pour déjeuner",67,19,0,0,False,1,1800,451,16700,16900,8,0,0,0,0,0,5,1,0,5206,0
+452," Grand spécimen aquatique",69,19,0,0,False,1,1800,452,630,1280,9,0,0,0,0,0,6,1,0,5207,0
+453," Contrôle qualité de l'eau à l'ouest de la station",65,19,0,0,False,1,1800,453,15100,15300,10,0,0,0,0,0,7,1,0,5208,0
+454," Produits de la mer pour mise en réserve",73,19,0,0,False,1,1800,454,1300,1500,11,0,0,0,0,0,8,1,0,5209,0
+455," Étude écologique de l'étang des Larmes",66,19,0,0,False,1,1800,455,16600,16800,12,0,0,0,0,0,9,1,0,5206,0
+456," Ingrédients d'alchimie en grande quantité",71,19,0,0,False,1,1800,456,5200,5500,13,0,0,0,0,0,10,1,0,5207,0
+457," Poisson géant pour étude",69,19,0,0,False,2,1800,457,2040,3690,14,0,0,0,0,0,11,1,0,5209,0
+458," Étude environnementale à partir d'échan<SoftHyphen/>til<SoftHyphen/>lons d'espèces pertinentes",65,19,0,0,False,2,1800,458,15000,15400,15,0,0,0,0,0,12,1,0,5206,0
+459," Produits de la mer à pigments polarisants",73,19,0,0,False,2,1800,459,1500,2000,16,0,0,0,0,0,13,1,0,5208,0
+460," Étude écologique d'un plan d'eau au sud-est de la station",68,19,0,0,False,2,1800,460,3000,4000,17,0,0,0,0,0,14,1,0,5209,0
+461," Ingrédients de sauce de poisson en grande quantité",71,19,0,0,False,2,1800,461,31000,37000,18,0,0,0,0,0,15,1,0,5206,0
+462," Contrôle qualité via collecte d'échan<SoftHyphen/>til<SoftHyphen/>lons aquatiques",74,19,0,3,False,2,1800,462,300,1000,19,0,0,0,0,0,16,1,0,5208,0
+463," Contrôle qualité de l'eau au nord-ouest de la station",66,19,0,0,False,2,1800,463,12500,13000,20,0,0,0,0,0,17,1,0,5207,0
+464," Contrôle qualité de l'eau au Creux de La Gourde",65,19,0,0,False,3,1800,464,15600,16100,21,0,0,0,0,0,18,1,0,5210,0
+465," Produits de la mer pour conservation",73,19,0,0,False,3,1800,465,3500,3700,22,0,0,0,0,0,19,1,0,5206,0
+466," Étude écologique du Creux de La Gourde",68,19,0,0,False,3,1800,466,4000,5000,23,0,0,0,0,0,20,1,0,5210,0
+467," Étude écologique<Indent/>: record de taille",72,19,0,0,False,3,1800,467,5540,6280,24,0,0,0,0,0,21,1,0,5207,0
+468," Spécimens endémiques aux fuites magismologiques pour transformation",74,19,0,11,False,3,1800,468,3800,4500,25,0,0,0,0,0,22,1,0,5211,0
+469," Étude écologique du Saut du Lapin ouest",66,19,0,0,False,3,1800,469,15500,16100,26,0,0,0,0,0,23,1,0,5208,0
+470," Vivres d'urgence pour dîner",67,19,0,0,False,3,1800,470,15100,15500,27,0,0,0,0,0,24,1,0,5209,0
+471," Produits de la mer pour alchimie",71,19,0,10,False,3,1800,471,44000,50000,28,0,0,0,0,0,25,1,0,5211,0
+472,"Étude écologique du Saut du Lapin nord",65,19,0,0,False,4,1800,472,15800,16100,29,0,0,0,0,0,26,0,0,5207,11200
+473,"Spécimen aquatique rare pour étude",70,19,0,3,False,4,1800,473,3000,3500,30,0,0,0,0,0,27,0,0,5208,11200
+474,"Produits de la mer en urgence",67,19,0,0,False,4,1800,474,14700,14850,31,0,0,0,0,0,28,0,0,5210,11200
+475,"Contrôle qualité avancé de l'eau",73,19,0,10,False,4,1800,475,7200,7700,32,0,0,0,0,0,29,0,0,5211,11200
+476,"Produits de la mer pour transformation avancée",74,19,0,3,False,4,1800,476,10000,15000,33,0,0,0,0,0,30,0,0,5210,11200
+477,"EX<Indent/>: Grand spécimen aquatique",69,19,0,0,False,5,1800,477,10240,10260,34,0,0,0,0,0,31,0,0,5206,11100
+478,"EX<Indent/>: Ingrédients d'alchimie en grande quantité",71,19,0,0,False,5,1800,478,34000,36000,35,0,0,0,0,0,32,0,0,5209,11100
+479,"EX<Indent/>: Essai technologique aux Chutes éthérées",70,19,0,11,False,5,1800,479,2250,2650,36,0,0,2,0,0,33,0,0,5214,11100
+480,"EX<Indent/>: Produits de la mer en urgence",67,19,0,10,False,5,1800,480,15300,15500,37,0,0,1,14,0,34,0,0,5212,11100
+481,"EX+<Indent/>: Étude écologique de Palus Arsenici",65,19,0,10,False,6,300,481,1600,2000,38,0,0,0,13,0,35,0,0,5211,11000
+482,"EX+<Indent/>: Grand spécimen aquatique",69,19,0,0,False,6,240,482,8500,8550,39,0,0,0,14,0,36,0,0,5210,11000
+483,"Étude de biodiversité aquatique",75,19,0,10,False,4,1800,483,5000,6000,40,0,0,0,0,0,37,0,0,5211,11200
+484,"EX<Indent/>: Étude de biodiversité aquatique",75,19,0,0,False,5,1800,484,14700,15700,41,0,0,0,0,483,38,0,0,5209,11100
+485,"Composants de filtre à eau avancé",76,19,0,0,False,4,1800,485,6500,6540,42,0,0,0,0,0,39,0,0,5208,11200
+486,"EX<Indent/>: Composants de filtre à eau avancé",76,19,0,0,False,5,1800,486,15900,16200,43,0,0,0,0,485,40,0,0,5206,11100
+487,"EX+<Indent/>: Composants de filtre à eau avancé",76,19,0,0,False,6,270,487,9600,12300,44,0,0,0,0,486,41,0,0,5210,11000
+488,"EX<Indent/>: Étude écologique d'espèces cohabitantes",77,19,0,0,False,5,1800,488,12200,12900,45,0,0,0,0,0,42,0,0,5207,11100
+489,"EX+<Indent/>: Étude écologique d'espèces cohabitantes",77,19,0,11,False,6,300,489,3050,3450,46,0,0,1,0,488,43,0,0,5212,11000
+490,"Échantillons issus de fuites magismologiques",78,19,0,10,False,4,1800,490,4830,9240,47,0,0,0,4,0,44,0,0,5211,11200
+491,"EX<Indent/>: Échantillons issus de fuites magismologiques",78,19,0,10,False,5,1800,491,5000,6000,48,0,0,1,0,490,45,0,0,5213,11100
+492,"EX+<Indent/>: Échantillons issus de fuites magismologiques",78,19,0,10,False,6,300,492,11640,23140,49,0,0,2,0,491,46,0,0,5214,11000
+493,"EX+<Indent/>: Espèces non répertoriées",79,19,0,10,False,6,240,493,300,800,50,0,0,2,10,0,47,0,0,5214,11000
+494,"EX+<Indent/>: Espèces non répertoriées II",79,19,0,10,False,6,510,494,1600,2300,51,0,0,2,0,493,48,0,0,5211,11000
+495,"EX+<Indent/>: Espèces non répertoriées III",79,19,0,10,False,6,480,495,8000,20000,52,0,0,2,0,494,49,0,0,5213,11000
+496,"EX<Indent/>: Conteneurs pour la recherche sur les produits marins",81,17,9,0,False,5,1200,496,1800,2700,503,0,0,0,0,0,458,0,362,5230,20100
+497,"EX<Indent/>: Conteneurs résistants aux chocs",81,17,11,0,False,5,1200,497,1800,2700,504,0,0,0,0,0,459,0,363,5220,20100
+498,"EX<Indent/>: Brûleurs d'encens de la planète-mère",83,17,12,0,False,5,1200,498,1800,2700,505,0,0,0,0,0,460,0,364,5221,20100
+499,"EX+<Indent/>: Étude de l'extraction de roches souterraines",82,17,10,0,False,6,1200,499,1800,2700,506,0,0,3,13,0,461,0,365,5220,20000
+500,"EX+<Indent/>: Cuir tanné avec des matériaux séléniens",84,17,13,0,False,6,1200,500,1800,2700,507,0,0,4,14,0,462,0,366,5226,20000
+501,"EX+<Indent/>: Damier brillant de luxe",83,17,14,0,False,6,1200,501,1800,2700,508,0,0,5,13,0,463,0,367,5232,20000
+502,"EX<Indent/>: Approvisionnement en matériaux de tannerie",84,18,13,0,False,5,1200,502,1800,2700,509,0,0,0,0,0,464,0,368,5220,20100
+503,"EX<Indent/>: Traitement de mycélium rare",84,18,14,0,False,5,1200,503,1800,2700,510,0,0,0,0,0,465,0,369,5222,20100
+504,"EX<Indent/>: Transformation d'aliments frais",86,18,16,0,False,5,1200,504,1800,2700,511,0,0,0,0,0,466,0,370,5220,20100
+505,"EX+<Indent/>: Outils pour la récolte de matériaux séléniens",82,18,9,0,False,6,1200,505,1800,2700,512,0,0,6,14,0,467,0,371,5227,20000
+506,"EX+<Indent/>: Fabrication de fours à haute température",82,18,11,0,False,6,1200,506,1800,2700,513,0,0,7,13,0,468,0,372,5222,20000
+507,"EX+<Indent/>: Champignons d'intérieur",83,18,15,0,False,6,1200,507,1800,2700,514,0,0,8,14,0,469,0,373,5220,20000
+508,"EX<Indent/>: Transformation de métaux aquatiques en lingots",85,19,10,0,False,5,1200,508,1800,2700,515,0,0,0,0,0,454,0,374,5209,20100
+509,"EX<Indent/>: Glu sélénienne améliorée",85,19,15,0,False,5,1200,509,1800,2700,516,0,0,0,0,0,455,0,375,5208,20100
+510,"EX+<Indent/>: Pierre précieuse cristalline",85,19,12,10,False,6,1200,510,1800,2700,517,0,0,9,13,0,456,0,376,5211,20000
+511,"EX+<Indent/>: Ration d'anguille",86,19,16,0,False,6,1200,511,1800,2700,518,0,0,10,14,0,457,0,377,5210,20000
+512," Échelles de chantier",87,9,0,0,True,1,1200,512,0,0,519,520,0,1,0,0,414,1,378,5223,24000
+513," Bois d'allumage",95,9,0,0,True,1,1200,513,0,0,521,522,0,13,0,0,415,1,379,5222,24000
+514," Nouveaux matériaux fongiques de con<SoftHyphen/>struc<SoftHyphen/>tion",98,9,0,0,True,1,1200,514,0,0,523,524,0,13,0,0,416,1,380,5222,24500
+515," Foreuses à météorites",91,10,0,0,True,1,1200,515,0,0,525,526,0,0,0,0,419,1,383,5220,24000
+516," Buses d'aspirateurs",93,10,0,0,True,1,1200,516,0,0,529,530,0,16,0,0,423,1,387,5224,24000
+517," Composants de lance-flammes",97,10,0,0,True,1,1200,517,0,0,527,528,0,13,0,0,420,1,384,5222,24000
+518," Réservoirs de rechange pour aspirateur",89,11,0,0,True,1,1200,518,0,0,531,532,0,0,0,0,424,1,388,5220,24000
+519," Plaques pour entretien de véhicule",92,11,0,0,True,1,1200,519,0,0,533,534,0,0,0,0,426,1,390,5220,24500
+520," Réservoirs de gaz",93,11,0,0,True,1,1200,520,0,0,535,536,0,16,0,0,428,1,392,5224,24000
+521," Outils de réparation pour l'éclairage",87,12,0,0,True,1,1200,521,0,0,537,538,0,1,0,0,429,1,393,5223,24000
+522," Pièces de précision pour aspirateur",89,12,0,0,True,1,1200,522,0,0,541,542,0,0,0,0,432,1,396,5220,24000
+523," Pièces de rechange pour véhicule",92,12,0,0,True,1,1200,523,0,0,539,540,0,0,0,0,430,1,394,5220,24500
+524," Gants indéchirables",91,13,0,0,True,1,1200,524,0,0,543,544,0,0,0,0,434,1,398,5220,24000
+525," Masques à gaz",93,13,0,0,True,1,1200,525,0,0,545,546,0,16,0,0,436,1,400,5224,24000
+526," Bottes de travail résistantes au feu",95,13,0,0,True,1,1200,526,0,0,547,548,0,13,0,0,437,1,401,5222,24000
+527," Tissus pour entretien",87,14,0,0,True,1,1200,527,0,0,551,552,0,1,0,0,440,1,404,5223,24000
+528," Tissus résistants au feu",95,14,0,0,True,1,1200,528,0,0,553,554,0,13,0,0,441,1,405,5222,24000
+529," Nouveaux tissus mycéliens",98,14,0,0,True,1,1200,529,0,0,549,550,0,13,0,0,439,1,403,5222,24500
+530," Agents de protection spéciaux",89,15,0,0,True,1,1200,530,0,0,555,556,0,0,0,0,444,1,408,5220,24000
+531," Solutions antitoxiques",94,15,0,0,True,1,1200,531,0,0,559,560,0,16,0,0,448,1,412,5224,24500
+532," Carburant pour lance-flammes",97,15,0,0,True,1,1200,532,0,0,557,558,0,13,0,0,447,1,411,5222,24000
+533," Aliments de longue conservation",88,16,0,0,True,1,1200,533,0,0,561,562,0,1,0,0,449,1,413,5220,24500
+534," Gelée nutritive",94,16,0,0,True,1,1200,534,0,0,563,564,0,16,0,0,450,1,414,5224,24500
+535," Étude des champignons anormaux",96,16,0,0,True,1,1200,535,0,0,565,566,0,13,0,0,451,1,415,5220,24500
+536," Matériaux isolants",88,17,0,0,True,1,1200,536,0,0,567,568,0,1,0,0,0,1,0,5220,24500
+537," Recherche des drones accidentés",90,17,0,0,True,1,1200,537,0,0,569,570,0,0,0,0,0,1,0,5220,24500
+538," Collecte de fer météorique rare",91,17,0,0,True,1,1200,538,0,0,571,572,0,0,0,0,0,1,0,5220,24000
+539," Noyaux fongiques aux propriétés médicinales",94,18,0,0,True,1,1200,539,0,0,577,578,0,16,0,0,0,1,0,5224,24500
+540," Étude de l'impact du nuage de spores",96,18,0,0,True,1,1200,540,0,0,575,576,0,13,0,0,0,1,0,5220,24500
+541," Champignons comestibles",98,18,0,0,True,1,1200,541,0,0,573,574,0,13,0,0,0,1,0,5222,24500
+542," Poissons comestibles",88,19,0,0,True,1,1200,542,0,0,579,580,0,1,0,0,411,1,0,5208,24500
+543," Recherche de drones immergés",90,19,0,0,True,1,1200,543,0,0,581,582,0,0,0,0,410,1,0,5207,24500
+544," Capture de poissons mutants",96,19,0,0,True,1,1200,544,0,0,583,584,0,13,0,0,413,1,0,5206,24500
+545," Verre multi-usage",165,9,0,0,False,1,0,545,1200,2400,711,0,0,0,0,0,512,1,418,0,0
+546," Matériaux de tente renforcée",166,9,0,0,False,1,0,546,1200,2400,712,0,0,0,0,0,513,1,419,0,0
+547," Essai de traitement de matières spéciales",167,9,0,0,False,1,0,547,1200,2400,713,0,0,0,0,0,514,1,420,0,0
+548," Mise en pratique de ressources renouvelables",168,9,0,0,False,1,0,548,1200,2400,714,0,0,0,0,0,515,1,421,0,0
+549," Tentes pour hébergement",169,9,0,0,False,1,0,549,1200,2400,715,0,0,0,0,0,516,1,422,0,0
+550," Recherche sur les traitements de pseudo-plantes",170,9,0,0,False,1,0,550,1200,2400,716,0,0,0,0,0,517,1,423,0,0
+551," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",165,9,0,0,False,2,0,551,1200,2400,717,0,0,0,0,0,518,1,424,0,0
+552," Matériaux de tente traitée contre le froid",166,9,0,0,False,2,0,552,1200,2400,718,0,0,0,0,0,519,1,425,0,0
+553," Essai amélioré de traitement de matières spéciales",167,9,0,3,False,2,0,553,1300,3000,719,0,0,0,0,0,520,1,426,0,0
+554," Mise en pratique améliorée de ressources renouvelables",168,9,0,3,False,2,0,554,700,1500,720,0,0,0,0,0,521,1,427,0,0
+555," Tente traitée contre le froid",169,9,0,3,False,2,0,555,1100,2500,721,0,0,0,0,0,522,1,428,0,0
+556," Recherches améliorées sur les traitements de pseudo-plantes",170,9,0,3,False,2,0,556,1100,2500,722,0,0,0,0,0,523,1,429,0,0
+557," Outils de récolte",171,9,0,3,False,2,0,557,700,1500,723,0,0,0,0,0,524,1,430,0,0
+558," Essai de traitement haut niveau de matières spéciales",167,9,0,0,False,3,0,558,1600,2400,724,0,0,0,0,0,525,1,431,0,0
+559," Fibres de verre",165,9,0,0,False,3,0,559,1600,2400,725,0,0,0,0,0,526,1,432,0,0
+560," Matériaux de tente traitée contre la chaleur",166,9,0,0,False,3,0,560,1000,1600,726,0,0,0,0,0,527,1,433,0,0
+561," Mise en pratique efficace de ressources renouvelables",168,9,0,3,False,3,0,561,2700,3000,727,0,0,0,0,0,528,1,434,0,0
+562," Tente traitée contre la chaleur",169,9,0,0,False,3,0,562,1600,2400,728,0,0,0,0,0,529,1,435,0,0
+563," Recherche sur les traitements de pseudo-plantes solides",170,9,0,3,False,3,0,563,2700,3000,729,0,0,0,0,0,530,1,436,0,0
+564," Amélioration d'outils de récolte",171,9,0,0,False,3,0,564,1000,1300,730,0,0,0,0,0,531,1,437,0,0
+565," Literie pour habitation",172,9,0,0,False,3,0,565,1000,1300,731,0,0,0,0,0,532,1,438,0,0
+566,"Fibres de verre sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",165,9,0,0,False,4,0,566,1800,2400,732,0,0,0,0,0,533,0,439,0,0
+567,"Essai amélioré de traitement haut niveau de matières spéciales",167,9,0,0,False,4,1200,567,1800,2400,733,0,0,0,0,0,534,0,440,0,0
+568,"Matériaux pour renforcement de tente",166,9,0,3,False,4,0,568,700,1000,734,0,0,0,0,0,535,0,441,0,0
+569,"Mise en pratique efficace améliorée de ressources renouvelables",168,9,0,3,False,4,0,569,700,1000,735,0,0,0,0,0,536,0,442,0,0
+570,"Recherches sur l'utilité des ressources de Phaenna",173,9,0,3,False,4,0,570,2600,3000,736,0,0,0,0,0,537,0,443,0,0
+571,"EX<Indent/>: Équipements pour activités en extérieur",169,9,0,3,False,5,0,571,2500,3000,737,0,0,0,0,0,538,0,444,0,0
+572,"EX<Indent/>: Outils pour artisans ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>tés",171,9,0,3,False,5,0,572,2500,3000,738,0,0,0,0,0,539,0,445,0,0
+573,"EX<Indent/>: Caisses de rangement pour transport spatial",174,9,0,0,False,5,1200,573,800,1050,739,0,0,11,16,0,540,0,446,0,0
+574,"EX+<Indent/>: Aide à la con<SoftHyphen/>struc<SoftHyphen/>tion d'un lieu de stockage provisoire",175,9,0,3,False,6,0,574,980,1080,740,0,0,0,21,0,541,0,447,0,0
+575,"EX+<Indent/>: Literie ultraperformante",172,9,0,3,False,6,540,575,1800,2000,741,0,0,0,15,0,542,0,448,0,0
+576,"Production de masse d'équipements pour l'exploration de Phaenna",176,9,0,3,False,4,0,576,2300,3000,742,0,0,0,0,0,543,0,449,0,0
+577,"Nouvelle production de masse d'équipements pour l'exploration de Phaenna",176,9,0,3,False,4,0,577,2300,3000,743,0,0,0,0,576,544,0,450,0,0
+578,"EX<Indent/>: Ouvrages artisanaux pour le Conseil",177,9,0,3,False,5,0,578,1700,2000,744,0,0,0,0,0,545,0,451,0,0
+579,"EX<Indent/>: Ouvrages artisanaux améliorés pour le Conseil",177,9,0,0,False,5,0,579,600,800,745,0,0,0,0,578,546,0,452,0,0
+580,"EX<Indent/>: Ouvrages artisanaux perfectionnés pour le Conseil",177,9,0,3,False,5,1200,580,850,1000,746,0,0,0,0,579,547,0,453,0,0
+581,"Plan d'amélioration des habitations",178,9,0,3,False,4,0,581,1400,2000,747,0,0,0,1,0,548,0,454,0,0
+582,"EX<Indent/>: Suite du plan d'amélioration des habitations",178,9,0,3,False,5,0,582,850,1000,748,0,0,11,0,581,549,0,455,0,0
+583,"EX+<Indent/>: Fin du plan d'amélioration des habitations",178,9,0,0,False,6,540,583,1000,1600,749,0,0,12,0,582,550,0,456,0,0
+584,"EX+<Indent/>: Inspection du raffinement des cristaux de résine",164,9,0,3,False,6,0,584,980,1080,750,0,0,12,5,0,551,0,457,0,0
+585,"EX+<Indent/>: Inspection améliorée du raffinement des cristaux de résine",164,9,0,3,False,6,600,585,980,1080,751,0,0,12,0,584,552,0,458,0,0
+586,"EX+<Indent/>: Inspection perfectionnée du raffinement des cristaux de résine",164,9,0,0,False,6,450,586,1000,1080,752,0,0,12,0,585,553,0,459,0,0
+587," Verre multi-usage",150,10,0,0,False,1,0,587,1200,2400,753,0,0,0,0,0,554,1,460,0,0
+588," Élaboration de matériaux de réparation",152,10,0,0,False,1,0,588,1200,2400,754,0,0,0,0,0,555,1,461,0,0
+589," Extraction de ressources à partir du verre",151,10,0,0,False,1,0,589,1200,2400,755,0,0,0,0,0,556,1,462,0,0
+590," Traitement des lentilles pour drones",155,10,0,0,False,1,0,590,1200,2400,756,0,0,0,0,0,557,1,463,0,0
+591," Composants pour ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions extérieures",156,10,0,0,False,1,0,591,1200,2400,757,0,0,0,0,0,558,1,464,0,0
+592," Matériaux de protection contre les intempéries",158,10,0,0,False,1,0,592,1200,2400,758,0,0,0,0,0,559,1,465,0,0
+593," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,10,0,0,False,2,0,593,1200,2400,759,0,0,0,0,0,560,1,466,0,0
+594," Aide à la fabrication de composants de la station",156,10,0,0,False,2,0,594,1200,2400,760,0,0,0,0,0,561,1,467,0,0
+595," Outils de récolte sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",153,10,0,3,False,2,0,595,1300,3000,761,0,0,0,0,0,562,1,468,0,0
+596," Composants imperméabilisés",158,10,0,3,False,2,0,596,700,1500,762,0,0,0,0,0,563,1,469,0,0
+597," Assemblage de fours pour le traitement du verre",157,10,0,3,False,2,0,597,1100,2500,763,0,0,0,0,0,564,1,470,0,0
+598," Traitement des composants de précision pour drones",155,10,0,3,False,2,0,598,1100,2500,764,0,0,0,0,0,565,1,471,0,0
+599," Installation d'équipements de chauffage",159,10,0,3,False,2,0,599,700,1500,765,0,0,0,0,0,566,1,472,0,0
+600," Élaboration d'éléments temporaires",152,10,0,0,False,3,0,600,1600,2400,766,0,0,0,0,0,567,1,473,0,0
+601," Verre phaennien",150,10,0,0,False,3,0,601,1600,2400,767,0,0,0,0,0,568,1,474,0,0
+602," Extraction de minerais spéciaux",151,10,0,0,False,3,0,602,1000,1600,768,0,0,0,0,0,569,1,475,0,0
+603," Élaboration de lentilles pour le Stellascope",155,10,0,3,False,3,0,603,2700,3000,769,0,0,0,0,0,570,1,476,0,0
+604," Aide à la fabrication de conteneurs résistants aux intempéries",156,10,0,0,False,3,0,604,1600,2400,770,0,0,0,0,0,571,1,477,0,0
+605," Installation d'équipements de bain",159,10,0,3,False,3,0,605,2700,3000,771,0,0,0,0,0,572,1,478,0,0
+606," Nouveaux éléments de protections contre les intempéries",158,10,0,0,False,3,0,606,1000,1300,772,0,0,0,0,0,573,1,479,0,0
+607," Équipements de cuisine de grande taille",153,10,0,0,False,3,0,607,1000,1300,773,0,0,0,0,0,574,1,480,0,0
+608,"Verre phaennien sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,10,0,0,False,4,0,608,1800,2400,774,0,0,0,0,0,575,0,481,0,0
+609,"Extraction de minerais phaenniens",151,10,0,0,False,4,1200,609,1800,2400,775,0,0,0,0,0,576,0,482,0,0
+610,"Élaboration de composants de précision",152,10,0,3,False,4,0,610,700,1000,776,0,0,0,0,0,577,0,483,0,0
+611,"Outils d'artisans",153,10,0,3,False,4,0,611,700,1000,777,0,0,0,0,0,578,0,484,0,0
+612,"Affinage expérimental d'échan<SoftHyphen/>til<SoftHyphen/>lons d'alliages",154,10,0,3,False,4,0,612,2600,3000,778,0,0,0,0,0,579,0,485,0,0
+613,"EX<Indent/>: Traitement de produits artisanaux",155,10,0,3,False,5,0,613,2500,3000,779,0,0,0,0,0,580,0,486,0,0
+614,"EX<Indent/>: Matériaux pour cosmo-navettes",156,10,0,3,False,5,0,614,2500,3000,780,0,0,0,0,0,581,0,487,0,0
+615,"EX<Indent/>: Assemblage amélioré de fours pour le traitement du verre",157,10,0,0,False,5,1200,615,800,1050,781,0,0,11,15,0,582,0,488,0,0
+616,"EX+<Indent/>: Eléments de protections contre les intempéries sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",158,10,0,3,False,6,0,616,980,1080,782,0,0,0,22,0,583,0,489,0,0
+617,"EX+<Indent/>: Production augmentée de réservoirs d'énergie",160,10,0,3,False,6,540,617,1800,2000,783,0,0,0,16,0,584,0,490,0,0
+618,"Outils de traitement du verre ",161,10,0,3,False,4,0,618,2300,3000,784,0,0,0,0,0,585,0,491,0,0
+619,"Amélioration des outils de traitement du verre ",161,10,0,3,False,4,0,619,2300,3000,785,0,0,0,0,618,586,0,492,0,0
+620,"EX<Indent/>: Composants pour drones refroidissants",162,10,0,3,False,5,0,620,1700,2000,786,0,0,0,0,0,587,0,493,0,0
+621,"EX<Indent/>: Amélioration des composants pour drones refroidissants",162,10,0,0,False,5,0,621,600,800,787,0,0,0,0,620,588,0,494,0,0
+622,"EX<Indent/>: Perfectionnement des composants pour drones refroidissants",162,10,0,3,False,5,1200,622,850,1000,788,0,0,0,0,621,589,0,495,0,0
+623,"Éléments du Stellascope",163,10,0,3,False,4,0,623,1400,2000,789,0,0,0,3,0,590,0,496,0,0
+624,"EX<Indent/>: Amélioration des éléments du Stellascope",163,10,0,3,False,5,0,624,850,1000,790,0,0,11,0,623,591,0,497,0,0
+625,"EX+<Indent/>: Perfectionnement des éléments du Stellascope",163,10,0,0,False,6,540,625,1000,1600,791,0,0,12,0,624,592,0,498,0,0
+626,"EX+<Indent/>: Transformation avancée du verre pseudo-cristallisé",164,10,0,3,False,6,0,626,980,1080,792,0,0,12,7,0,593,0,499,0,0
+627,"EX+<Indent/>: Amélioration de la transformation avancée du verre pseudo-cristallisé",164,10,0,3,False,6,600,627,980,1080,793,0,0,12,0,626,594,0,500,0,0
+628,"EX+<Indent/>: Transformation avancée des produits artisanaux phaenniens",164,10,0,0,False,6,450,628,1000,1080,794,0,0,12,0,627,595,0,501,0,0
+629," Verre multi-usage",150,11,0,0,False,1,0,629,1200,2400,795,0,0,0,0,0,596,1,502,0,0
+630," Élaboration de matériaux de réparation",152,11,0,0,False,1,0,630,1200,2400,796,0,0,0,0,0,597,1,503,0,0
+631," Extraction de ressources à partir du verre",151,11,0,0,False,1,0,631,1200,2400,797,0,0,0,0,0,598,1,504,0,0
+632," Traitement des lentilles pour drones",155,11,0,0,False,1,0,632,1200,2400,798,0,0,0,0,0,599,1,505,0,0
+633," Composants pour ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions extérieures",156,11,0,0,False,1,0,633,1200,2400,799,0,0,0,0,0,600,1,506,0,0
+634," Matériaux de protection contre les intempéries",158,11,0,0,False,1,0,634,1200,2400,800,0,0,0,0,0,601,1,507,0,0
+635," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,11,0,0,False,2,0,635,1200,2400,801,0,0,0,0,0,602,1,508,0,0
+636," Aide à la fabrication de composants de la station",156,11,0,0,False,2,0,636,1200,2400,802,0,0,0,0,0,603,1,509,0,0
+637," Outils de récolte sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",153,11,0,3,False,2,0,637,1300,3000,803,0,0,0,0,0,604,1,510,0,0
+638," Composants imperméabilisés",158,11,0,3,False,2,0,638,700,1500,804,0,0,0,0,0,605,1,511,0,0
+639," Assemblage de fours pour le traitement du verre",157,11,0,3,False,2,0,639,1100,2500,805,0,0,0,0,0,606,1,512,0,0
+640," Traitement des composants de précision pour drones",155,11,0,3,False,2,0,640,1100,2500,806,0,0,0,0,0,607,1,513,0,0
+641," Installation d'équipements de chauffage",159,11,0,3,False,2,0,641,700,1500,807,0,0,0,0,0,608,1,514,0,0
+642," Élaboration d'éléments temporaires",152,11,0,0,False,3,0,642,1600,2400,808,0,0,0,0,0,609,1,515,0,0
+643," Verre phaennien",150,11,0,0,False,3,0,643,1600,2400,809,0,0,0,0,0,610,1,516,0,0
+644," Extraction de minerais spéciaux",151,11,0,0,False,3,0,644,1000,1600,810,0,0,0,0,0,611,1,517,0,0
+645," Élaboration de lentilles pour le Stellascope",155,11,0,3,False,3,0,645,2700,3000,811,0,0,0,0,0,612,1,518,0,0
+646," Aide à la fabrication de conteneurs résistants aux intempéries",156,11,0,0,False,3,0,646,1600,2400,812,0,0,0,0,0,613,1,519,0,0
+647," Installation d'équipements de bain",159,11,0,3,False,3,0,647,2700,3000,813,0,0,0,0,0,614,1,520,0,0
+648," Nouveaux éléments de protections contre les intempéries",158,11,0,0,False,3,0,648,1000,1300,814,0,0,0,0,0,615,1,521,0,0
+649," Équipements de cuisine de grande taille",153,11,0,0,False,3,0,649,1000,1300,815,0,0,0,0,0,616,1,522,0,0
+650,"Verre phaennien sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,11,0,0,False,4,0,650,1800,2400,816,0,0,0,0,0,617,0,523,0,0
+651,"Extraction de minerais phaenniens",151,11,0,0,False,4,1200,651,1800,2400,817,0,0,0,0,0,618,0,524,0,0
+652,"Élaboration de composants de précision",152,11,0,3,False,4,0,652,700,1000,818,0,0,0,0,0,619,0,525,0,0
+653,"Outils d'artisans",153,11,0,3,False,4,0,653,700,1000,819,0,0,0,0,0,620,0,526,0,0
+654,"Affinage expérimental d'échan<SoftHyphen/>til<SoftHyphen/>lons d'alliages",154,11,0,3,False,4,0,654,2600,3000,820,0,0,0,0,0,621,0,527,0,0
+655,"EX<Indent/>: Traitement de produits artisanaux",155,11,0,3,False,5,0,655,2500,3000,821,0,0,0,0,0,622,0,528,0,0
+656,"EX<Indent/>: Matériaux pour cosmo-navettes",156,11,0,3,False,5,0,656,2500,3000,822,0,0,0,0,0,623,0,529,0,0
+657,"EX<Indent/>: Assemblage de réchauds d'urgence",157,11,0,0,False,5,1200,657,800,1050,823,0,0,11,16,0,624,0,530,0,0
+658,"EX+<Indent/>: Eléments de protections contre les intempéries sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",158,11,0,3,False,6,0,658,980,1080,824,0,0,0,17,0,625,0,531,0,0
+659,"EX+<Indent/>: Production augmentée de réservoirs d'énergie",160,11,0,3,False,6,540,659,1800,2000,825,0,0,0,15,0,626,0,532,0,0
+660,"Outils de traitement du verre ",161,11,0,3,False,4,0,660,2300,3000,826,0,0,0,0,0,627,0,533,0,0
+661,"Amélioration des outils de traitement du verre ",161,11,0,3,False,4,0,661,2300,3000,827,0,0,0,0,660,628,0,534,0,0
+662,"EX<Indent/>: Composants pour drones refroidissants",162,11,0,3,False,5,0,662,1700,2000,828,0,0,0,0,0,629,0,535,0,0
+663,"EX<Indent/>: Amélioration des composants pour drones refroidissants",162,11,0,0,False,5,0,663,600,800,829,0,0,0,0,662,630,0,536,0,0
+664,"EX<Indent/>: Perfectionnement des composants pour drones refroidissants",162,11,0,3,False,5,1200,664,850,1000,830,0,0,0,0,663,631,0,537,0,0
+665,"Éléments du Stellascope",163,11,0,3,False,4,0,665,1400,2000,831,0,0,0,5,0,632,0,538,0,0
+666,"EX<Indent/>: Amélioration des éléments du Stellascope",163,11,0,3,False,5,0,666,850,1000,832,0,0,11,0,665,633,0,539,0,0
+667,"EX+<Indent/>: Perfectionnement des éléments du Stellascope",163,11,0,0,False,6,540,667,1000,1600,833,0,0,12,0,666,634,0,540,0,0
+668,"EX+<Indent/>: Transformation avancée du verre pseudo-cristallisé",164,11,0,3,False,6,0,668,980,1080,834,0,0,12,9,0,635,0,541,0,0
+669,"EX+<Indent/>: Amélioration de la transformation avancée du verre pseudo-cristallisé",164,11,0,3,False,6,600,669,980,1080,835,0,0,12,0,668,636,0,542,0,0
+670,"EX+<Indent/>: Transformation avancée des produits artisanaux phaenniens",164,11,0,0,False,6,450,670,1000,1080,836,0,0,12,0,669,637,0,543,0,0
+671," Verre multi-usage",150,12,0,0,False,1,0,671,1200,2400,837,0,0,0,0,0,638,1,544,0,0
+672," Élaboration de matériaux de réparation",152,12,0,0,False,1,0,672,1200,2400,838,0,0,0,0,0,639,1,545,0,0
+673," Extraction de ressources à partir du verre",151,12,0,0,False,1,0,673,1200,2400,839,0,0,0,0,0,640,1,546,0,0
+674," Traitement des lentilles pour drones",155,12,0,0,False,1,0,674,1200,2400,840,0,0,0,0,0,641,1,547,0,0
+675," Composants pour ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions extérieures",156,12,0,0,False,1,0,675,1200,2400,841,0,0,0,0,0,642,1,548,0,0
+676," Matériaux de protection contre les intempéries",158,12,0,0,False,1,0,676,1200,2400,842,0,0,0,0,0,643,1,549,0,0
+677," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,12,0,0,False,2,0,677,1200,2400,843,0,0,0,0,0,644,1,550,0,0
+678," Aide à la fabrication de composants de la station",156,12,0,0,False,2,0,678,1200,2400,844,0,0,0,0,0,645,1,551,0,0
+679," Outils de récolte sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",153,12,0,3,False,2,0,679,1300,3000,845,0,0,0,0,0,646,1,552,0,0
+680," Composants imperméabilisés",158,12,0,3,False,2,0,680,700,1500,846,0,0,0,0,0,647,1,553,0,0
+681," Assemblage de fours pour le traitement du verre",157,12,0,3,False,2,0,681,1100,2500,847,0,0,0,0,0,648,1,554,0,0
+682," Traitement des composants de précision pour drones",155,12,0,3,False,2,0,682,1100,2500,848,0,0,0,0,0,649,1,555,0,0
+683," Installation d'équipements de chauffage",159,12,0,3,False,2,0,683,700,1500,849,0,0,0,0,0,650,1,556,0,0
+684," Élaboration d'éléments temporaires",152,12,0,0,False,3,0,684,1600,2400,850,0,0,0,0,0,651,1,557,0,0
+685," Verre phaennien",150,12,0,0,False,3,0,685,1600,2400,851,0,0,0,0,0,652,1,558,0,0
+686," Extraction de minerais spéciaux",151,12,0,0,False,3,0,686,1000,1600,852,0,0,0,0,0,653,1,559,0,0
+687," Élaboration de lentilles pour le Stellascope",155,12,0,3,False,3,0,687,2700,3000,853,0,0,0,0,0,654,1,560,0,0
+688," Aide à la fabrication de conteneurs résistants aux intempéries",156,12,0,0,False,3,0,688,1600,2400,854,0,0,0,0,0,655,1,561,0,0
+689," Installation d'équipements de bain",159,12,0,3,False,3,0,689,2700,3000,855,0,0,0,0,0,656,1,562,0,0
+690," Nouveaux éléments de protections contre les intempéries",158,12,0,0,False,3,0,690,1000,1300,856,0,0,0,0,0,657,1,563,0,0
+691," Équipements de cuisine de grande taille",153,12,0,0,False,3,0,691,1000,1300,857,0,0,0,0,0,658,1,564,0,0
+692,"Verre phaennien sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",150,12,0,0,False,4,0,692,1800,2400,858,0,0,0,0,0,659,0,565,0,0
+693,"Extraction de minerais phaenniens",151,12,0,0,False,4,1200,693,1800,2400,859,0,0,0,0,0,660,0,566,0,0
+694,"Élaboration de composants de précision",152,12,0,3,False,4,0,694,700,1000,860,0,0,0,0,0,661,0,567,0,0
+695,"Outils d'artisans",153,12,0,3,False,4,0,695,700,1000,861,0,0,0,0,0,662,0,568,0,0
+696,"Affinage expérimental d'échan<SoftHyphen/>til<SoftHyphen/>lons d'alliages",154,12,0,3,False,4,0,696,2600,3000,862,0,0,0,0,0,663,0,569,0,0
+697,"EX<Indent/>: Traitement de produits artisanaux",155,12,0,3,False,5,0,697,2500,3000,863,0,0,0,0,0,664,0,570,0,0
+698,"EX<Indent/>: Matériaux pour cosmo-navettes",156,12,0,3,False,5,0,698,2500,3000,864,0,0,0,0,0,665,0,571,0,0
+699,"EX<Indent/>: Assemblage de fours d'urgence",157,12,0,0,False,5,1200,699,800,1050,865,0,0,11,15,0,666,0,572,0,0
+700,"EX+<Indent/>: Eléments de protections contre les intempéries sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",158,12,0,3,False,6,0,700,980,1080,866,0,0,0,18,0,667,0,573,0,0
+701,"EX+<Indent/>: Production augmentée de réservoirs d'énergie",160,12,0,3,False,6,540,701,1800,2000,867,0,0,0,16,0,668,0,574,0,0
+702,"Outils de traitement du verre ",161,12,0,3,False,4,0,702,2300,3000,868,0,0,0,0,0,669,0,575,0,0
+703,"Amélioration des outils de traitement du verre ",161,12,0,3,False,4,0,703,2300,3000,869,0,0,0,0,702,670,0,576,0,0
+704,"EX<Indent/>: Composants pour drones refroidissants",162,12,0,3,False,5,0,704,1700,2000,870,0,0,0,0,0,671,0,577,0,0
+705,"EX<Indent/>: Amélioration des composants pour drones refroidissants",162,12,0,0,False,5,0,705,600,800,871,0,0,0,0,704,672,0,578,0,0
+706,"EX<Indent/>: Perfectionnement des composants pour drones refroidissants",162,12,0,3,False,5,1200,706,850,1000,872,0,0,0,0,705,673,0,579,0,0
+707,"Éléments du Stellascope",163,12,0,3,False,4,0,707,1400,2000,873,0,0,0,7,0,674,0,580,0,0
+708,"EX<Indent/>: Amélioration des éléments du Stellascope",163,12,0,3,False,5,0,708,850,1000,874,0,0,11,0,707,675,0,581,0,0
+709,"EX+<Indent/>: Perfectionnement des éléments du Stellascope",163,12,0,0,False,6,540,709,1000,1600,875,0,0,12,0,708,676,0,582,0,0
+710,"EX+<Indent/>: Transformation avancée du verre pseudo-cristallisé",164,12,0,3,False,6,0,710,980,1080,876,0,0,12,11,0,677,0,583,0,0
+711,"EX+<Indent/>: Amélioration de la transformation avancée du verre pseudo-cristallisé",164,12,0,3,False,6,600,711,980,1080,877,0,0,12,0,710,678,0,584,0,0
+712,"EX+<Indent/>: Transformation avancée des produits artisanaux phaenniens",164,12,0,0,False,6,450,712,1000,1080,878,0,0,12,0,711,679,0,585,0,0
+713," Verre multi-usage",165,13,0,0,False,1,0,713,1200,2400,879,0,0,0,0,0,680,1,586,0,0
+714," Matériaux de tente renforcée",166,13,0,0,False,1,0,714,1200,2400,880,0,0,0,0,0,681,1,587,0,0
+715," Essai de traitement de matières spéciales",167,13,0,0,False,1,0,715,1200,2400,881,0,0,0,0,0,682,1,588,0,0
+716," Mise en pratique de ressources renouvelables",168,13,0,0,False,1,0,716,1200,2400,882,0,0,0,0,0,683,1,589,0,0
+717," Tentes pour hébergement",169,13,0,0,False,1,0,717,1200,2400,883,0,0,0,0,0,684,1,590,0,0
+718," Recherche sur les traitements de pseudo-plantes",170,13,0,0,False,1,0,718,1200,2400,884,0,0,0,0,0,685,1,591,0,0
+719," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",165,13,0,0,False,2,0,719,1200,2400,885,0,0,0,0,0,686,1,592,0,0
+720," Matériaux de tente traitée contre le froid",166,13,0,0,False,2,0,720,1200,2400,886,0,0,0,0,0,687,1,593,0,0
+721," Essai amélioré de traitement de matières spéciales",167,13,0,3,False,2,0,721,1300,3000,887,0,0,0,0,0,688,1,594,0,0
+722," Mise en pratique améliorée de ressources renouvelables",168,13,0,3,False,2,0,722,700,1500,888,0,0,0,0,0,689,1,595,0,0
+723," Tente traitée contre le froid",169,13,0,3,False,2,0,723,1100,2500,889,0,0,0,0,0,690,1,596,0,0
+724," Recherches améliorées sur les traitements de pseudo-plantes",170,13,0,3,False,2,0,724,1100,2500,890,0,0,0,0,0,691,1,597,0,0
+725," Approvisionnement d'outils d'artisanat",171,13,0,3,False,2,0,725,700,1500,891,0,0,0,0,0,692,1,598,0,0
+726," Essai de traitement haut niveau de matières spéciales",167,13,0,0,False,3,0,726,1600,2400,892,0,0,0,0,0,693,1,599,0,0
+727," Fibres de verre",165,13,0,0,False,3,0,727,1600,2400,893,0,0,0,0,0,694,1,600,0,0
+728," Matériaux de tente traitée contre la chaleur",166,13,0,0,False,3,0,728,1000,1600,894,0,0,0,0,0,695,1,601,0,0
+729," Mise en pratique efficace de ressources renouvelables",168,13,0,3,False,3,0,729,2700,3000,895,0,0,0,0,0,696,1,602,0,0
+730," Tente traitée contre la chaleur",169,13,0,0,False,3,0,730,1600,2400,896,0,0,0,0,0,697,1,603,0,0
+731," Recherche sur les traitements de pseudo-plantes solides",170,13,0,3,False,3,0,731,2700,3000,897,0,0,0,0,0,698,1,604,0,0
+732," Amélioration d'outils d'artisanat",171,13,0,0,False,3,0,732,1000,1300,898,0,0,0,0,0,699,1,605,0,0
+733," Literie pour habitation",172,13,0,0,False,3,0,733,1000,1300,899,0,0,0,0,0,700,1,606,0,0
+734,"Fibres de verre sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",165,13,0,0,False,4,0,734,1800,2400,900,0,0,0,0,0,701,0,607,0,0
+735,"Essai amélioré de traitement haut niveau de matières spéciales",167,13,0,0,False,4,1200,735,1800,2400,901,0,0,0,0,0,702,0,608,0,0
+736,"Matériaux pour renforcement de tente",166,13,0,3,False,4,0,736,700,1000,902,0,0,0,0,0,703,0,609,0,0
+737,"Mise en pratique efficace améliorée de ressources renouvelables",168,13,0,3,False,4,0,737,700,1000,903,0,0,0,0,0,704,0,610,0,0
+738,"Recherches sur l'utilité des ressources de Phaenna",173,13,0,3,False,4,0,738,2600,3000,904,0,0,0,0,0,705,0,611,0,0
+739,"EX<Indent/>: Équipements pour activités en extérieur",169,13,0,3,False,5,0,739,2500,3000,905,0,0,0,0,0,706,0,612,0,0
+740,"EX<Indent/>: Équipements d'exploration renforcés",171,13,0,3,False,5,0,740,2500,3000,906,0,0,0,0,0,707,0,613,0,0
+741,"EX<Indent/>: Caisses de rangement pour transport spatial",174,13,0,0,False,5,1200,741,800,1050,907,0,0,11,16,0,708,0,614,0,0
+742,"EX+<Indent/>: Aide à la con<SoftHyphen/>struc<SoftHyphen/>tion d'un lieu de stockage provisoire",175,13,0,3,False,6,0,742,980,1080,908,0,0,0,19,0,709,0,615,0,0
+743,"EX+<Indent/>: Literie ultraperformante",172,13,0,3,False,6,540,743,1800,2000,909,0,0,0,15,0,710,0,616,0,0
+744,"Production de masse d'équipements pour l'exploration de Phaenna",176,13,0,3,False,4,0,744,2300,3000,910,0,0,0,0,0,711,0,617,0,0
+745,"Nouvelle production de masse d'équipements pour l'exploration de Phaenna",176,13,0,3,False,4,0,745,2300,3000,911,0,0,0,0,744,712,0,618,0,0
+746,"EX<Indent/>: Ouvrages artisanaux pour le Conseil",177,13,0,3,False,5,0,746,1700,2000,912,0,0,0,0,0,713,0,619,0,0
+747,"EX<Indent/>: Ouvrages artisanaux améliorés pour le Conseil",177,13,0,0,False,5,0,747,600,800,913,0,0,0,0,746,714,0,620,0,0
+748,"EX<Indent/>: Ouvrages artisanaux perfectionnés pour le Conseil",177,13,0,3,False,5,1200,748,850,1000,914,0,0,0,0,747,715,0,621,0,0
+749,"Plan d'amélioration des habitations",178,13,0,3,False,4,0,749,1400,2000,915,0,0,0,9,0,716,0,622,0,0
+750,"EX<Indent/>: Suite du plan d'amélioration des habitations",178,13,0,3,False,5,0,750,850,1000,916,0,0,11,0,749,717,0,623,0,0
+751,"EX+<Indent/>: Fin du plan d'amélioration des habitations",178,13,0,0,False,6,540,751,1000,1600,917,0,0,12,0,750,718,0,624,0,0
+752,"EX+<Indent/>: Préparation de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons de pilote",164,13,0,3,False,6,0,752,980,1080,918,0,0,12,1,0,719,0,625,0,0
+753,"EX+<Indent/>: Amélioration de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons de pilote",164,13,0,3,False,6,600,753,980,1080,919,0,0,12,0,752,720,0,626,0,0
+754,"EX+<Indent/>: Perfectionnement de com<SoftHyphen/>bi<SoftHyphen/>nai<SoftHyphen/>sons de pilote",164,13,0,0,False,6,450,754,1000,1080,920,0,0,12,0,753,721,0,627,0,0
+755," Verre multi-usage",165,14,0,0,False,1,0,755,1200,2400,921,0,0,0,0,0,722,1,628,0,0
+756," Matériaux de tente renforcée",166,14,0,0,False,1,0,756,1200,2400,922,0,0,0,0,0,723,1,629,0,0
+757," Essai de traitement de matières spéciales",167,14,0,0,False,1,0,757,1200,2400,923,0,0,0,0,0,724,1,630,0,0
+758," Mise en pratique de ressources renouvelables",168,14,0,0,False,1,0,758,1200,2400,924,0,0,0,0,0,725,1,631,0,0
+759," Tentes pour hébergement",169,14,0,0,False,1,0,759,1200,2400,925,0,0,0,0,0,726,1,632,0,0
+760," Recherche sur les traitements de pseudo-plantes",170,14,0,0,False,1,0,760,1200,2400,926,0,0,0,0,0,727,1,633,0,0
+761," Verre multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re",165,14,0,0,False,2,0,761,1200,2400,927,0,0,0,0,0,728,1,634,0,0
+762," Matériaux de tente traitée contre le froid",166,14,0,0,False,2,0,762,1200,2400,928,0,0,0,0,0,729,1,635,0,0
+763," Essai amélioré de traitement de matières spéciales",167,14,0,3,False,2,0,763,1300,3000,929,0,0,0,0,0,730,1,636,0,0
+764," Mise en pratique améliorée de ressources renouvelables",168,14,0,3,False,2,0,764,700,1500,930,0,0,0,0,0,731,1,637,0,0
+765," Tente traitée contre le froid",169,14,0,3,False,2,0,765,1100,2500,931,0,0,0,0,0,732,1,638,0,0
+766," Recherches améliorées sur les traitements de pseudo-plantes",170,14,0,3,False,2,0,766,1100,2500,932,0,0,0,0,0,733,1,639,0,0
+767," Approvisionnement d'outils d'artisanat",171,14,0,3,False,2,0,767,700,1500,933,0,0,0,0,0,734,1,640,0,0
+768," Essai de traitement haut niveau de matières spéciales",167,14,0,0,False,3,0,768,1600,2400,934,0,0,0,0,0,735,1,641,0,0
+769," Fibres de verre",165,14,0,0,False,3,0,769,1600,2400,935,0,0,0,0,0,736,1,642,0,0
+770," Matériaux de tente traitée contre la chaleur",166,14,0,0,False,3,0,770,1000,1600,936,0,0,0,0,0,737,1,643,0,0
+771," Mise en pratique efficace de ressources renouvelables",168,14,0,3,False,3,0,771,2700,3000,937,0,0,0,0,0,738,1,644,0,0
+772," Tente traitée contre la chaleur",169,14,0,0,False,3,0,772,1600,2400,938,0,0,0,0,0,739,1,645,0,0
+773," Recherche sur les traitements de pseudo-plantes solides",170,14,0,3,False,3,0,773,2700,3000,939,0,0,0,0,0,740,1,646,0,0
+774," Amélioration d'outils d'artisanat",171,14,0,0,False,3,0,774,1000,1300,940,0,0,0,0,0,741,1,647,0,0
+775," Literie pour habitation",172,14,0,0,False,3,0,775,1000,1300,941,0,0,0,0,0,742,1,648,0,0
+776,"Fibres de verre sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",165,14,0,0,False,4,0,776,1800,2400,942,0,0,0,0,0,743,0,649,0,0
+777,"Essai amélioré de traitement haut niveau de matières spéciales",167,14,0,0,False,4,1200,777,1800,2400,943,0,0,0,0,0,744,0,650,0,0
+778,"Matériaux pour renforcement de tente",166,14,0,3,False,4,0,778,700,1000,944,0,0,0,0,0,745,0,651,0,0
+779,"Mise en pratique efficace améliorée de ressources renouvelables",168,14,0,3,False,4,0,779,700,1000,945,0,0,0,0,0,746,0,652,0,0
+780,"Recherches sur l'utilité des ressources de Phaenna",173,14,0,3,False,4,0,780,2600,3000,946,0,0,0,0,0,747,0,653,0,0
+781,"EX<Indent/>: Équipements pour activités en extérieur",169,14,0,3,False,5,0,781,2500,3000,947,0,0,0,0,0,748,0,654,0,0
+782,"EX<Indent/>: Équipements d'exploration thermorésistants",171,14,0,3,False,5,0,782,2500,3000,948,0,0,0,0,0,749,0,655,0,0
+783,"EX<Indent/>: Caisses de rangement pour transport spatial",174,14,0,0,False,5,1200,783,800,1050,949,0,0,11,15,0,750,0,656,0,0
+784,"EX+<Indent/>: Aide à la con<SoftHyphen/>struc<SoftHyphen/>tion d'un lieu de stockage provisoire",175,14,0,3,False,6,0,784,980,1080,950,0,0,0,20,0,751,0,657,0,0
+785,"EX+<Indent/>: Literie ultraperformante",172,14,0,3,False,6,540,785,1800,2000,951,0,0,0,16,0,752,0,658,0,0
+786,"Production de masse d'équipements pour l'exploration de Phaenna",176,14,0,3,False,4,0,786,2300,3000,952,0,0,0,0,0,753,0,659,0,0
+787,"Nouvelle production de masse d'équipements pour l'exploration de Phaenna",176,14,0,3,False,4,0,787,2300,3000,953,0,0,0,0,786,754,0,660,0,0
+788,"EX<Indent/>: Ouvrages artisanaux pour le Conseil",177,14,0,3,False,5,0,788,1700,2000,954,0,0,0,0,0,755,0,661,0,0
+789,"EX<Indent/>: Ouvrages artisanaux améliorés pour le Conseil",177,14,0,0,False,5,0,789,600,800,955,0,0,0,0,788,756,0,662,0,0
+790,"EX<Indent/>: Ouvrages artisanaux perfectionnés pour le Conseil",177,14,0,3,False,5,1200,790,850,1000,956,0,0,0,0,789,757,0,663,0,0
+791,"Plan d'amélioration des habitations",178,14,0,3,False,4,0,791,1400,2000,957,0,0,0,11,0,758,0,664,0,0
+792,"EX<Indent/>: Suite du plan d'amélioration des habitations",178,14,0,3,False,5,0,792,850,1000,958,0,0,11,0,791,759,0,665,0,0
+793,"EX+<Indent/>: Fin du plan d'amélioration des habitations",178,14,0,0,False,6,540,793,1000,1600,959,0,0,12,0,792,760,0,666,0,0
+794,"EX+<Indent/>: Tenue de capitaine",164,14,0,3,False,6,0,794,980,1080,960,0,0,12,3,0,761,0,667,0,0
+795,"EX+<Indent/>: Amélioration de la tenue de capitaine",164,14,0,3,False,6,600,795,980,1080,961,0,0,12,0,794,762,0,668,0,0
+796,"EX+<Indent/>: Perfectionnement de la tenue de capitaine",164,14,0,0,False,6,450,796,1000,1080,962,0,0,12,0,795,763,0,669,0,0
+797," Matériaux multi-usage",180,15,0,0,False,1,0,797,1200,2400,963,0,0,0,0,0,764,1,670,0,0
+798," Accompagnement pour sagepain",181,15,0,0,False,1,0,798,1200,2400,964,0,0,0,0,0,765,1,671,0,0
+799," Rations d'urgence",182,15,0,0,False,1,0,799,1200,2400,965,0,0,0,0,0,766,1,672,0,0
+800," Levures expérimentales",183,15,0,0,False,1,0,800,1200,2400,966,0,0,0,0,0,767,1,673,0,0
+801," Préparation basique d'aliments de culture",184,15,0,0,False,1,0,801,1200,2400,967,0,0,0,0,0,768,1,674,0,0
+802," Support de la pisciculture",185,15,0,0,False,1,0,802,1200,2400,968,0,0,0,0,0,769,1,675,0,0
+803," Matériaux multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",180,15,0,0,False,2,0,803,1200,2400,969,0,0,0,0,0,770,1,676,0,0
+804," Accompagnement amélioré de sagepain",181,15,0,0,False,2,0,804,1200,2400,970,0,0,0,0,0,771,1,677,0,0
+805," Amélioration de levures expérimentales",183,15,0,3,False,2,0,805,1300,3000,971,0,0,0,0,0,772,1,678,0,0
+806," Rations de grande capacité",182,15,0,3,False,2,0,806,700,1500,972,0,0,0,0,0,773,1,679,0,0
+807," Préparation pratique d'aliments de culture",184,15,0,3,False,2,0,807,1100,2500,973,0,0,0,0,0,774,1,680,0,0
+808," Support amélioré de la pisciculture",185,15,0,3,False,2,0,808,1100,2500,974,0,0,0,0,0,775,1,681,0,0
+809," Extraction d'huile de pseudo-plantes",186,15,0,3,False,2,0,809,700,1500,975,0,0,0,0,0,776,1,682,0,0
+810," Sagepain raffiné",181,15,0,0,False,3,0,810,1600,2400,976,0,0,0,0,0,777,1,683,0,0
+811," Matériaux résistants à la chaleur",180,15,0,0,False,3,0,811,1600,2400,977,0,0,0,0,0,778,1,684,0,0
+812," Rations peu grasses",182,15,0,0,False,3,0,812,1000,1600,978,0,0,0,0,0,779,1,685,0,0
+813," Levures raffinées",183,15,0,3,False,3,0,813,2700,3000,979,0,0,0,0,0,780,1,686,0,0
+814," Préparation améliorée d'aliments de culture",184,15,0,0,False,3,0,814,1600,2400,980,0,0,0,0,0,781,1,687,0,0
+815," Préparatifs de la fête de mi-projet",187,15,0,3,False,3,0,815,2700,3000,981,0,0,0,0,0,782,1,688,0,0
+816," Support de la pisciculture spécialisée",185,15,0,0,False,3,0,816,1000,1300,982,0,0,0,0,0,783,1,689,0,0
+817," Extraction améliorée d'huile de pseudo-plantes",186,15,0,0,False,3,0,817,1000,1300,983,0,0,0,0,0,784,1,690,0,0
+818,"Amélioration de sagepain raffiné",181,15,0,0,False,4,0,818,1800,2400,984,0,0,0,0,0,785,0,691,0,0
+819,"Matériaux résistants à la chaleur sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",180,15,0,0,False,4,1200,819,1800,2400,985,0,0,0,0,0,786,0,692,0,0
+820,"Rations fonctionnelles",182,15,0,3,False,4,0,820,700,1000,986,0,0,0,0,0,787,0,693,0,0
+821,"Amélioration de levures raffinées",183,15,0,3,False,4,0,821,700,1000,987,0,0,0,0,0,788,0,694,0,0
+822,"Support amélioré de la pisciculture spécialisée",185,15,0,3,False,4,0,822,2600,3000,988,0,0,0,0,0,789,0,695,0,0
+823,"EX<Indent/>: Préparation automatisée d'aliments de culture",184,15,0,3,False,5,0,823,2500,3000,989,0,0,0,0,0,790,0,696,0,0
+824,"EX<Indent/>: Douceurs phaeniennes",188,15,0,3,False,5,0,824,2500,3000,990,0,0,0,0,0,791,0,697,0,0
+825,"EX<Indent/>: Extraction perfectionnée d'huile de pseudo-plantes",186,15,0,0,False,5,1200,825,800,1050,991,0,0,11,16,0,792,0,698,0,0
+826,"EX+<Indent/>: Transformation de produits laitiers",189,15,0,3,False,6,0,826,980,1080,992,0,0,0,21,0,793,0,699,0,0
+827,"EX+<Indent/>: Application de cultures expérimentales",190,15,0,3,False,6,540,827,1800,2000,993,0,0,0,15,0,794,0,700,0,0
+828,"Articles de gra<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tion",191,15,0,3,False,4,0,828,2300,3000,994,0,0,0,0,0,795,0,701,0,0
+829,"Amélioration d'articles de gra<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tion",191,15,0,3,False,4,0,829,2300,3000,995,0,0,0,0,828,796,0,702,0,0
+830,"EX<Indent/>: Préparatifs de la fête de fin de projet",192,15,0,3,False,5,0,830,1700,2000,996,0,0,0,0,0,797,0,703,0,0
+831,"EX<Indent/>: Suite des préparatifs de la fête de fin de projet",192,15,0,0,False,5,0,831,600,800,997,0,0,0,0,830,798,0,704,0,0
+832,"EX<Indent/>: Fin des préparatifs de la fête de fin de projet",192,15,0,3,False,5,1200,832,850,1000,998,0,0,0,0,831,799,0,705,0,0
+833,"Aliments nutritifs",193,15,0,3,False,4,0,833,1400,2000,999,0,0,0,1,0,800,0,706,0,0
+834,"EX<Indent/>: Amélioration d'aliments nutritifs",193,15,0,3,False,5,0,834,850,1000,1000,0,0,11,0,833,801,0,707,0,0
+835,"EX+<Indent/>: Perfectionnement d'aliments nutritifs",193,15,0,0,False,6,540,835,1000,1600,1001,0,0,12,0,834,802,0,708,0,0
+836,"EX+<Indent/>: Matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion cosmique",164,15,0,3,False,6,0,836,980,1080,1002,0,0,12,5,0,803,0,709,0,0
+837,"EX+<Indent/>: Amélioration de matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion cosmique",164,15,0,3,False,6,600,837,980,1080,1003,0,0,12,0,836,804,0,710,0,0
+838,"EX+<Indent/>: Perfectionnement de matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion cosmique",164,15,0,0,False,6,450,838,1000,1080,1004,0,0,12,0,837,805,0,711,0,0
+839," Lubrifiant résiduel",180,16,0,0,False,1,0,839,1200,2400,1005,0,0,0,0,0,806,1,712,0,0
+840," Accompagnement pour sagepain",181,16,0,0,False,1,0,840,1200,2400,1006,0,0,0,0,0,807,1,713,0,0
+841," Rations longue conservation",182,16,0,0,False,1,0,841,1200,2400,1007,0,0,0,0,0,808,1,714,0,0
+842," Levures expérimentales",183,16,0,0,False,1,0,842,1200,2400,1008,0,0,0,0,0,809,1,715,0,0
+843," Préparation basique d'aliments de culture",184,16,0,0,False,1,0,843,1200,2400,1009,0,0,0,0,0,810,1,716,0,0
+844," Support de la pisciculture",185,16,0,0,False,1,0,844,1200,2400,1010,0,0,0,0,0,811,1,717,0,0
+845," Lubrifiant résistant aux intempéries",180,16,0,0,False,2,0,845,1200,2400,1011,0,0,0,0,0,812,1,718,0,0
+846," Accompagnement amélioré de sagepain",181,16,0,0,False,2,0,846,1200,2400,1012,0,0,0,0,0,813,1,719,0,0
+847," Amélioration de levures expérimentales",183,16,0,3,False,2,0,847,1300,3000,1013,0,0,0,0,0,814,1,720,0,0
+848," Production massive de rations longue conservation",182,16,0,3,False,2,0,848,700,1500,1014,0,0,0,0,0,815,1,721,0,0
+849," Préparation pratique d'aliments de culture",184,16,0,3,False,2,0,849,1100,2500,1015,0,0,0,0,0,816,1,722,0,0
+850," Support amélioré de la pisciculture",185,16,0,3,False,2,0,850,1100,2500,1016,0,0,0,0,0,817,1,723,0,0
+851," Extraction d'huile de pseudo-plantes",186,16,0,3,False,2,0,851,700,1500,1017,0,0,0,0,0,818,1,724,0,0
+852," Sagepain raffiné",181,16,0,0,False,3,0,852,1600,2400,1018,0,0,0,0,0,819,1,725,0,0
+853," Réserves de lubrifiant résistant aux intempéries",180,16,0,0,False,3,0,853,1600,2400,1019,0,0,0,0,0,820,1,726,0,0
+854," Rations pour base d'exploration",182,16,0,0,False,3,0,854,1000,1600,1020,0,0,0,0,0,821,1,727,0,0
+855," Levures raffinées",183,16,0,3,False,3,0,855,2700,3000,1021,0,0,0,0,0,822,1,728,0,0
+856," Préparation améliorée d'aliments de culture",184,16,0,0,False,3,0,856,1600,2400,1022,0,0,0,0,0,823,1,729,0,0
+857," Préparatifs de la fête de mi-projet",187,16,0,3,False,3,0,857,2700,3000,1023,0,0,0,0,0,824,1,730,0,0
+858," Support de la pisciculture spécialisée",185,16,0,0,False,3,0,858,1000,1300,1024,0,0,0,0,0,825,1,731,0,0
+859," Extraction améliorée d'huile de pseudo-plantes",186,16,0,0,False,3,0,859,1000,1300,1025,0,0,0,0,0,826,1,732,0,0
+860,"Amélioration de sagepain raffiné",181,16,0,0,False,4,0,860,1800,2400,1026,0,0,0,0,0,827,0,733,0,0
+861,"Lubrifiant pour machines de précision",180,16,0,0,False,4,1200,861,1800,2400,1027,0,0,0,0,0,828,0,734,0,0
+862,"Aliments longue conservation résistants aux intempéries",182,16,0,3,False,4,0,862,700,1000,1028,0,0,0,0,0,829,0,735,0,0
+863,"Amélioration de levures raffinées",183,16,0,3,False,4,0,863,700,1000,1029,0,0,0,0,0,830,0,736,0,0
+864,"Support amélioré de la pisciculture spécialisée",185,16,0,3,False,4,0,864,2600,3000,1030,0,0,0,0,0,831,0,737,0,0
+865,"EX<Indent/>: Préparation automatisée d'aliments de culture",184,16,0,3,False,5,0,865,2500,3000,1031,0,0,0,0,0,832,0,738,0,0
+866,"EX<Indent/>: Douceurs pour la fête de fin de projet",188,16,0,3,False,5,0,866,2500,3000,1032,0,0,0,0,0,833,0,739,0,0
+867,"EX<Indent/>: Extraction pour pseudo-café",186,16,0,0,False,5,1200,867,800,1050,1033,0,0,11,15,0,834,0,740,0,0
+868,"EX+<Indent/>: Transformation de produits laitiers",189,16,0,3,False,6,0,868,980,1080,1034,0,0,0,22,0,835,0,741,0,0
+869,"EX+<Indent/>: Application de cultures expérimentales",190,16,0,3,False,6,540,869,1800,2000,1035,0,0,0,16,0,836,0,742,0,0
+870,"Articles de gra<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tion",191,16,0,3,False,4,0,870,2300,3000,1036,0,0,0,0,0,837,0,743,0,0
+871,"Amélioration d'articles de gra<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tion",191,16,0,3,False,4,0,871,2300,3000,1037,0,0,0,0,870,838,0,744,0,0
+872,"EX<Indent/>: Desserts pour la fête de fin de projet",192,16,0,3,False,5,0,872,1700,2000,1038,0,0,0,0,0,839,0,745,0,0
+873,"EX<Indent/>: Amélioration des desserts pour la fête de fin de projet",192,16,0,0,False,5,0,873,600,800,1039,0,0,0,0,872,840,0,746,0,0
+874,"EX<Indent/>: Perfectionnement des desserts pour la fête de fin de projet",192,16,0,3,False,5,1200,874,850,1000,1040,0,0,0,0,873,841,0,747,0,0
+875,"Aliments d'urgence",193,16,0,3,False,4,0,875,1400,2000,1041,0,0,0,3,0,842,0,748,0,0
+876,"EX<Indent/>: Aliments pour nuits blanches",193,16,0,3,False,5,0,876,850,1000,1042,0,0,11,0,875,843,0,749,0,0
+877,"EX+<Indent/>: Plateaux de suppléments alimentaires",193,16,0,0,False,6,540,877,1000,1600,1043,0,0,12,0,876,844,0,750,0,0
+878,"EX+<Indent/>: Aliments nutritifs complets",164,16,0,3,False,6,0,878,980,1080,1044,0,0,12,7,0,845,0,751,0,0
+879,"EX+<Indent/>: Amélioration d'aliments nutritifs complets",164,16,0,3,False,6,600,879,980,1080,1045,0,0,12,0,878,846,0,752,0,0
+880,"EX+<Indent/>: Perfectionnement d'aliments nutritifs complets",164,16,0,0,False,6,450,880,1000,1080,1046,0,0,12,0,879,847,0,753,0,0
+881," Étude géologique des alentours de la station",195,17,0,0,False,1,600,881,1550,1700,585,0,0,0,0,0,0,1,0,5309,0
+882," Inspection d'itinéraire pour les machines",197,17,0,0,False,1,600,882,4920,5020,586,0,0,0,0,0,0,1,0,5309,0
+883," Étude des ressources de Phaenna",198,17,0,0,False,1,600,883,1550,1700,587,0,0,0,0,0,0,1,0,5309,0
+884," Étude géologique de l'antre des Souffleurs de verre",195,17,0,0,False,3,600,884,1550,1700,588,0,0,0,0,0,0,1,0,5309,0
+885," Matériaux résistants à la chaleur",197,17,0,0,False,3,600,885,4920,5020,589,0,0,0,0,0,0,1,0,5309,0
+886," Matériaux pour la purification de l'eau",198,17,0,0,False,3,600,886,1550,1700,590,0,0,0,0,0,0,1,0,5309,0
+887," Essais de techniques de récolte",200,17,0,0,False,3,600,887,2350,2850,591,0,0,0,0,0,0,1,0,5309,0
+888," Récolte continue de verre Milliaflore",196,17,0,0,False,1,600,888,750,850,592,0,0,0,0,0,0,1,0,5303,0
+889," Enquête sur les exercices en conditions réelles",197,17,0,0,False,1,600,889,4920,5020,593,0,0,0,0,0,0,1,0,5303,0
+890," Matériaux pour verre multi-usage",198,17,0,0,False,1,600,890,1550,1700,594,0,0,0,0,0,0,1,0,5303,0
+891,"EX+<Indent/>: Éthérolyse de matériaux rares",204,17,0,4,False,6,300,891,900,1300,595,0,0,0,20,0,0,0,0,5303,0
+892," Récolte continue de verre irisé",196,17,0,0,False,3,600,892,750,850,596,0,0,0,0,0,0,1,0,5305,0
+893," Matériaux conducteurs pour cosmo-navette",199,17,0,0,False,3,600,893,1600,2000,597,0,0,0,0,0,0,1,0,5305,0
+894," Matériaux pour transformation avancée",201,17,0,3,False,3,600,894,120,140,598,0,0,0,0,0,0,1,0,5305,0
+895," Matériaux pour lentille polarisante",197,17,0,0,False,3,600,895,4920,5020,599,0,0,0,0,0,0,1,0,5305,0
+896,"EX+<Indent/>: Aide à la fabrication de lentilles ultra-réfractantes",201,17,0,3,False,6,180,896,1000,1200,600,0,0,0,15,0,0,0,0,5305,0
+897,"Aide à l'étude de matériaux pour polissage du verre",205,17,0,0,False,4,600,897,2350,2500,601,0,0,0,0,0,0,0,0,5303,0
+898,"EX<Indent/>: Matériaux pour structure de panneau énergétique",206,17,0,0,False,5,600,898,2700,3100,602,0,0,0,0,0,0,0,0,5303,0
+899,"Sélection de verre bronze",201,17,0,3,False,4,600,899,600,700,603,0,0,0,0,0,0,0,0,5303,0
+900,"Matériaux pour alliage métallique",199,17,0,0,False,4,600,900,3400,4000,604,0,0,0,0,0,0,0,0,5303,0
+901,"EX<Indent/>: Matériaux pour dispositif de transmission",195,17,0,0,False,5,600,901,2350,2700,605,0,0,0,0,0,0,0,0,5303,0
+902," Étude des sols des alentours des Flots sodocalciques",195,17,0,0,False,2,600,902,1550,1700,606,0,0,0,0,0,0,1,0,5304,0
+903," Minerais rares",198,17,0,0,False,2,600,903,1550,1700,607,0,0,0,0,0,0,1,0,5306,0
+904," Récolte continue de pegmatite",196,17,0,0,False,2,600,904,750,850,608,0,0,0,0,0,0,1,0,5306,0
+905," Matériaux d'essais pour lentilles",199,17,0,0,False,2,600,905,1600,2000,609,0,0,0,0,0,0,1,0,5306,0
+906,"Étude des sols avancée des alentours des Flots sodocalciques",195,17,0,0,False,4,600,906,2350,2500,610,0,0,0,0,0,0,0,0,5304,0
+907,"Étude conjointe sur la dis<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion des minerais",197,17,0,0,False,4,600,907,4600,4700,611,0,0,0,0,0,0,0,0,5306,0
+908,"Matériaux pour l'affinage du verre",198,17,0,0,False,4,600,908,2600,3000,612,0,0,0,0,0,0,0,0,5306,0
+909,"EX<Indent/>: Extraction d'ingrédients d'alchimie pour éthérolyse",202,17,0,4,False,5,600,909,1350,1600,613,0,0,0,0,0,0,0,0,5306,0
+910,"Étude des sols avancée du fond de la rivière",207,17,0,0,False,4,600,910,2350,2500,614,0,0,0,2,0,0,0,0,5304,0
+911," Matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion",197,17,0,0,False,2,600,911,4920,5020,615,0,0,0,0,0,0,1,0,5306,0
+912," Essais de techniques de récolte continue",200,17,0,0,False,2,600,912,2350,2850,616,0,0,0,0,0,0,1,0,5306,0
+913," Roches naturelles de Phaenna",201,17,0,3,False,2,600,913,120,140,617,0,0,0,0,0,0,1,0,5306,0
+914,"Aide à l'étude de matériaux pour soudage thermique",205,17,0,0,False,4,600,914,4600,4700,618,0,0,0,0,897,0,0,0,5306,0
+915,"EX<Indent/>: Matériaux pour machine à fusion du verre",206,17,0,0,False,5,600,915,4000,4600,619,0,0,0,0,898,0,0,0,5306,0
+916,"EX<Indent/>: Matériaux pour noyau conducteur",206,17,0,3,False,5,600,916,800,900,620,0,0,0,0,915,0,0,0,5306,0
+917,"EX<Indent/>: Étude des sols du gouffre aux Capsules",203,17,0,3,False,5,600,917,1130,1370,621,0,0,11,16,0,0,0,0,5317,0
+918,"EX<Indent/>: Matériaux pour miroir hautement réfléchissant",207,17,0,4,False,5,600,918,3700,4100,622,0,0,11,0,910,0,0,0,5317,0
+919,"EX+<Indent/>: Étude des sols des hauteurs volcaniques",207,17,0,3,False,6,180,919,1000,1200,623,0,0,12,0,918,0,0,0,5308,0
+920,"EX+<Indent/>: Composants résistants à la chaleur",208,17,0,4,False,6,300,920,900,1300,624,0,0,12,9,0,0,0,0,5308,0
+921,"EX+<Indent/>: Recherche sur la réduction du bruit optique",208,17,0,4,False,6,180,921,2000,2500,625,0,0,12,0,920,0,0,0,5308,0
+922,"EX+<Indent/>: Matériaux d'atténuation des vibrations",208,17,0,3,False,6,300,922,1400,1750,626,0,0,12,0,921,0,0,0,5308,0
+923," Étude des végétaux des alentours de la station",195,18,0,0,False,1,600,923,1550,1700,627,0,0,0,0,0,0,1,0,5303,0
+924," Inspection d'itinéraire pour les machines",197,18,0,0,False,1,600,924,4920,5020,628,0,0,0,0,0,0,1,0,5303,0
+925," Étude des ressources de Phaenna",198,18,0,0,False,1,600,925,1550,1700,629,0,0,0,0,0,0,1,0,5303,0
+926," Étude des végétaux de la colline Milliaflore",195,18,0,0,False,3,600,926,1550,1700,630,0,0,0,0,0,0,1,0,5303,0
+927," Matériaux isothermes",197,18,0,0,False,3,600,927,4920,5020,631,0,0,0,0,0,0,1,0,5303,0
+928," Matériaux pour la purification de l'eau",198,18,0,0,False,3,600,928,1550,1700,632,0,0,0,0,0,0,1,0,5303,0
+929," Essais de techniques de récolte",200,18,0,0,False,3,600,929,2350,2850,633,0,0,0,0,0,0,1,0,5303,0
+930," Récolte continue de verre en spirale",196,18,0,0,False,1,600,930,750,850,634,0,0,0,0,0,0,1,0,5310,0
+931," Enquête sur les exercices en conditions réelles",197,18,0,0,False,1,600,931,4920,5020,635,0,0,0,0,0,0,1,0,5310,0
+932," Matériaux pour verre multi-usage",198,18,0,0,False,1,600,932,1550,1700,636,0,0,0,0,0,0,1,0,5310,0
+933,"EX+<Indent/>: Éthérolyse de matériaux rares",204,18,0,4,False,6,300,933,900,1300,637,0,0,0,22,0,0,0,0,5310,0
+934," Récolte continue d'arbres à fleurs miniatures",196,18,0,0,False,3,600,934,750,850,638,0,0,0,0,0,0,1,0,5319,0
+935," Matériaux conducteurs pour cosmo-navette",199,18,0,0,False,3,600,935,1600,2000,639,0,0,0,0,0,0,1,0,5319,0
+936," Matériaux pour transformation avancée",201,18,0,3,False,3,600,936,120,140,640,0,0,0,0,0,0,1,0,5319,0
+937," Matériaux pour lentille polarisante",197,18,0,0,False,3,600,937,4920,5020,641,0,0,0,0,0,0,1,0,5319,0
+938,"EX+<Indent/>: Aide à la fabrication de lentilles ultra-fines",201,18,0,3,False,6,180,938,1000,1200,642,0,0,0,16,0,0,0,0,5319,0
+939,"Aide à l'étude de matériaux pour polissage du verre",205,18,0,0,False,4,600,939,2350,2500,643,0,0,0,0,0,0,0,0,5303,0
+940,"EX<Indent/>: Matériaux de base pour fibre optique",206,18,0,0,False,5,600,940,2700,3100,644,0,0,0,0,0,0,0,0,5303,0
+941,"Sélection de feuilles-présentoir rares",201,18,0,3,False,4,600,941,600,700,645,0,0,0,0,0,0,0,0,5303,0
+942,"Matériaux pour lingot de verre",199,18,0,0,False,4,600,942,3400,4000,646,0,0,0,0,0,0,0,0,5303,0
+943,"EX<Indent/>: Matériaux pour dispositif de transmission",195,18,0,0,False,5,600,943,2350,2700,647,0,0,0,0,0,0,0,0,5303,0
+944," Étude des sols des Marches iridescentes",195,18,0,0,False,2,600,944,1550,1700,648,0,0,0,0,0,0,1,0,5306,0
+945," Fibres en verre pour transformation",198,18,0,0,False,2,600,945,1550,1700,649,0,0,0,0,0,0,1,0,5306,0
+946," Récolte continue de ciboule à facettes bleue",196,18,0,0,False,2,600,946,750,850,650,0,0,0,0,0,0,1,0,5306,0
+947," Colorant de verre bleu",199,18,0,0,False,2,600,947,1600,2000,651,0,0,0,0,0,0,1,0,5306,0
+948,"Étude des sols avancée des Marches iridescentes",195,18,0,0,False,4,600,948,2350,2500,652,0,0,0,0,0,0,0,0,5306,0
+949,"Étude conjointe sur la dis<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion des pseudo-plantes",197,18,0,0,False,4,600,949,4600,4700,653,0,0,0,0,0,0,0,0,5306,0
+950,"Matériaux pour l'affinage du verre",198,18,0,0,False,4,600,950,2600,3000,654,0,0,0,0,0,0,0,0,5306,0
+951,"EX<Indent/>: Extraction d'ingrédients d'alchimie pour éthérolyse",202,18,0,4,False,5,600,951,1350,1600,655,0,0,0,0,0,0,0,0,5306,0
+952,"Étude des sols avancée des verres colorés en terrasse",207,18,0,0,False,4,600,952,2350,2500,656,0,0,0,6,0,0,0,0,5306,0
+953," Colorant de verre rouge",197,18,0,0,False,2,600,953,4920,5020,657,0,0,0,0,0,0,1,0,5306,0
+954," Essais de techniques de récolte continue",200,18,0,0,False,2,600,954,2350,2850,658,0,0,0,0,0,0,1,0,5306,0
+955," Étude de champignons proliférateurs",201,18,0,3,False,2,600,955,120,140,659,0,0,0,0,0,0,1,0,5306,0
+956,"Aide à l'étude de matériaux pour soudage thermique",205,18,0,0,False,4,600,956,4600,4700,660,0,0,0,0,939,0,0,0,5306,0
+957,"EX<Indent/>: Matériaux d'affinage du verre phaennien",206,18,0,0,False,5,600,957,4000,4600,661,0,0,0,0,940,0,0,0,5306,0
+958,"EX<Indent/>: Étude pour l'usage de champignons mutants",206,18,0,3,False,5,600,958,800,900,662,0,0,0,0,957,0,0,0,5306,0
+959,"EX<Indent/>: Étude des sols du gouffre aux Capsules",203,18,0,3,False,5,600,959,1130,1370,663,0,0,11,15,0,0,0,0,5307,0
+960,"EX<Indent/>: Recherche sur les corps à haute conductivité éthéréenne",207,18,0,4,False,5,600,960,3700,4100,664,0,0,11,0,952,0,0,0,5307,0
+961,"EX+<Indent/>: Étude des sols des hauteurs volcaniques",207,18,0,3,False,6,180,961,1000,1200,665,0,0,12,0,960,0,0,0,5308,0
+962,"EX+<Indent/>: Composants résistants à la chaleur",208,18,0,4,False,6,300,962,900,1300,666,0,0,12,1,0,0,0,0,5308,0
+963,"EX+<Indent/>: Recherche sur la réduction du bruit optique",208,18,0,4,False,6,180,963,2000,2500,667,0,0,12,0,962,0,0,0,5308,0
+964,"EX+<Indent/>: Matériaux d'atténuation des vibrations",208,18,0,3,False,6,300,964,1400,1750,668,0,0,12,0,963,0,0,0,5308,0
+965," Produits de la pêche comestibles",209,19,0,0,False,1,1800,965,16500,16800,669,0,0,0,0,0,470,1,0,5286,0
+966," Livraison efficace de grands spécimens",210,19,0,0,False,1,1800,966,780,1110,670,0,0,0,0,0,471,1,0,5287,0
+967," Étude à la Croisée opalescente",211,19,0,0,False,1,1800,967,14600,15300,671,0,0,0,0,0,472,1,0,5288,0
+968," Livraison de vivres en grande quantité",212,19,0,0,False,1,1800,968,1200,1500,672,0,0,0,0,0,473,1,0,5286,0
+969," Livraison de la Croisée opalescente",213,19,0,0,False,1,1800,969,16100,16500,673,0,0,0,0,0,474,1,0,5288,0
+970," Étude d'espèces grandissantes",214,19,0,0,False,1,1800,970,8000,10000,674,0,0,0,0,0,475,1,0,5287,0
+971," Livraison efficace de produits de la pêche",210,19,0,0,False,2,1800,971,2040,3690,675,0,0,0,0,0,476,1,0,5286,0
+972," Étude à l'ouest de la station Souffleverre",211,19,0,0,False,2,1800,972,14700,15400,676,0,0,0,0,0,477,1,0,5287,0
+973," Livraison de pâte de poisson",212,19,0,0,False,2,1800,973,1600,2000,677,0,0,0,0,0,478,1,0,5286,0
+974," Étude d'appâts universels",215,19,0,0,False,2,1800,974,3000,4000,678,0,0,0,0,0,479,1,0,5287,0
+975," Livraison urgente de vivres",214,19,0,0,False,2,1800,975,20800,26000,679,0,0,0,0,0,480,1,0,5286,0
+976," Capture de spécimens vitrifiés",216,19,0,3,False,2,1800,976,1200,2750,680,0,0,0,0,0,481,1,0,5288,0
+977," Étude de bassins riches en silicium",213,19,0,0,False,2,1800,977,13800,14600,681,0,0,0,0,0,482,1,0,5288,0
+978," Étude en amont des Flots sodocalciques",211,19,0,0,False,3,1800,978,14400,15600,682,0,0,0,0,0,483,1,0,5289,0
+979," Étude en aval des Flots sodocalciques",212,19,0,0,False,3,1800,979,2400,3000,683,0,0,0,0,0,484,1,0,5290,0
+980," Essais de bras universel",218,19,0,3,False,3,1800,980,1600,2000,684,0,0,0,0,0,485,1,0,5291,0
+981," Étude de grands spécimens en aval",217,19,0,0,False,3,1800,981,9240,11100,685,0,0,0,0,0,486,1,0,5292,0
+982," Étude des ressources naturelles",216,19,0,3,False,3,1800,982,1500,2500,686,0,0,0,0,0,487,1,0,5293,0
+983," Étude des mutations aquatiques",213,19,0,0,False,3,1800,983,13100,14000,687,0,0,0,0,0,488,1,0,5287,0
+984," Étude de spécimens vitrifiés",209,19,0,0,False,3,1800,984,13500,14400,688,0,0,0,0,0,489,1,0,5288,0
+985," Étude de grands spécimens variés",214,19,0,0,False,3,1800,985,32000,40000,689,0,0,0,0,0,490,1,0,5293,0
+986,"Étude de prolifération aquatique",211,19,0,0,False,4,1800,986,11900,13100,690,0,0,0,0,0,491,0,0,5286,11200
+987,"Essais d'appâts allogènes",218,19,0,3,False,4,1800,987,2400,3000,691,0,0,0,0,0,492,0,0,5287,11200
+988,"Étude de pseudo-esprits aquatiques",209,19,0,0,False,4,1800,988,14400,15100,692,0,0,0,0,0,493,0,0,5288,11200
+989,"Étude du cloaque prismatique",212,19,0,0,False,4,1800,989,3200,4000,693,0,0,0,0,0,494,0,0,5293,11200
+990,"Étude de spécimens aquatiques vitrifiés",216,19,0,3,False,4,1800,990,7000,10000,694,0,0,0,0,0,495,0,0,5290,11200
+991,"EX<Indent/>: Essais de mouches écarlates cosmiques",210,19,0,0,False,5,1800,991,5540,14060,695,0,0,0,0,0,496,0,0,5291,11100
+992,"EX<Indent/>: Étude de grands spécimens de rivière",214,19,0,0,False,5,1800,992,22000,27500,696,0,0,0,0,0,497,0,0,5292,11100
+993,"EX<Indent/>: Étude des étangs aux Capsules",216,19,0,3,False,5,1800,993,800,3200,697,0,0,11,16,0,498,0,0,5294,11100
+994,"EX+<Indent/>: Étude de grands spécimens",214,19,0,0,False,6,180,994,29500,34500,698,0,0,0,18,0,499,0,0,5293,11000
+995,"EX+<Indent/>: Essais d'appâts allogènes",218,19,0,3,False,6,360,995,4880,5680,699,0,0,0,15,0,500,0,0,5289,11000
+996,"Support à l'élaboration de lentilles",219,19,0,0,False,4,1800,996,5540,7390,700,0,0,0,0,0,501,0,0,5289,11200
+997,"Livraison de conducteurs éthéréens",219,19,0,0,False,4,1800,997,14300,15000,701,0,0,0,0,996,502,0,0,5290,11200
+998,"EX<Indent/>: Capture de grands spécimens",220,19,0,0,False,5,1800,998,5540,7390,702,0,0,0,0,0,503,0,0,5290,11100
+999,"EX<Indent/>: Livraison de produits aquatiques rares",220,19,0,0,False,5,1800,999,12100,13300,703,0,0,0,0,998,504,0,0,5291,11100
+1000,"EX<Indent/>: Étude de pseudo-esprits de rivière",220,19,0,0,False,5,1800,1000,12000,15000,704,0,0,0,0,999,505,0,0,5292,11100
+1001,"Étude en aval des Flots sodocalciques",221,19,0,3,False,4,1800,1001,1600,2000,705,0,0,0,5,0,506,0,0,5292,11200
+1002,"EX<Indent/>: Étude de L'Enfer bulleux",221,19,0,0,False,5,1800,1002,13090,29600,706,0,0,11,0,1001,507,0,0,5295,11100
+1003,"EX+<Indent/>: Étude de la coulée de Fusingway",221,19,0,14,False,6,360,1003,450,900,707,0,0,12,0,1002,508,0,0,5296,11000
+1004,"EX+<Indent/>: Étude de pseudo-esprits des bas-fonds",222,19,0,0,False,6,360,1004,23000,43000,708,0,0,12,10,0,509,0,0,5293,11000
+1005,"EX+<Indent/>: Étude de pseudo-esprits aquatiques",222,19,0,0,False,6,600,1005,2800,4200,709,0,0,12,0,1004,510,0,0,5294,11000
+1006,"EX+<Indent/>: Étude de pseudo-esprits vitrifiés",222,19,0,14,False,6,600,1006,22200,22590,710,0,0,12,0,1005,511,0,0,5296,11000
+1007," Caisse à outils pour réparation de câbles",223,9,0,0,True,1,1200,1007,0,0,1065,1066,0,0,0,0,848,1,754,5302,24000
+1008," Purification d'échan<SoftHyphen/>til<SoftHyphen/>lons de plantes mutantes",229,9,0,0,True,1,1200,1008,0,0,1067,1068,0,15,0,0,849,1,755,5306,24000
+1009," Fournitures pour collecte de poussière",231,9,0,0,True,1,1200,1009,0,0,1069,1070,0,15,0,0,850,1,756,5307,24000
+1010," Pièces de paratonnerre d'essai",226,10,0,0,True,1,1200,1010,0,0,1071,1072,0,14,0,0,851,1,757,5305,24500
+1011," Outils de jardinage renforcés",228,10,0,0,True,1,1200,1011,0,0,1073,1074,0,0,0,0,852,1,758,5304,24500
+1012," Larges buses d'aspiration",234,10,0,0,True,1,1200,1012,0,0,1075,1076,0,12,0,0,853,1,759,5305,24500
+1013," Pièces de rechange",230,11,0,0,True,1,1200,1013,0,0,1077,1078,0,15,0,0,854,1,760,5303,24500
+1014," Réservoirs à poussière de verre",231,11,0,0,True,1,1200,1014,0,0,1079,1080,0,15,0,0,855,1,761,5307,24000
+1015," Plaques pour réparation de rover",233,11,0,0,True,1,1200,1015,0,0,1081,1082,0,12,0,0,856,1,762,5304,24000
+1016," Composants de rechange",224,12,0,0,True,1,1200,1016,0,0,1083,1084,0,0,0,0,857,1,763,5303,24500
+1017," Câbles métalliques à haute conductivité électrique",225,12,0,0,True,1,1200,1017,0,0,1085,1086,0,14,0,0,858,1,764,5303,24000
+1018," Pièces de rechange pour véhicules",233,12,0,0,True,1,1200,1018,0,0,1087,1088,0,12,0,0,859,1,765,5304,24000
+1019," Gants pour réparation de câbles",223,13,0,0,True,1,1200,1019,0,0,1089,1090,0,0,0,0,860,1,766,5302,24000
+1020," Chaussures de protection pour bûcherons",228,13,0,0,True,1,1200,1020,0,0,1091,1092,0,0,0,0,861,1,767,5304,24500
+1021," Masques anti-poussière",231,13,0,0,True,1,1200,1021,0,0,1093,1094,0,15,0,0,862,1,768,5307,24000
+1022," Tissus de réparation",224,14,0,0,True,1,1200,1022,0,0,1095,1096,0,0,0,0,863,1,769,5303,24500
+1023," Ceintures à outils",225,14,0,0,True,1,1200,1023,0,0,1097,1098,0,14,0,0,864,1,770,5303,24000
+1024," Filtres à poussière",234,14,0,0,True,1,1200,1024,0,0,1099,1100,0,12,0,0,865,1,771,5305,24500
+1025," Caoutchouc pour réparation de câbles",223,15,0,0,True,1,1200,1025,0,0,1101,1102,0,0,0,0,866,1,772,5302,24000
+1026," Batteries amplificatrices d'essai",226,15,0,0,True,1,1200,1026,0,0,1103,1104,0,14,0,0,867,1,773,5305,24500
+1027," Agent protecteur",234,15,0,0,True,1,1200,1027,0,0,1105,1106,0,12,0,0,868,1,774,5305,24500
+1028," Soupe chaude",227,16,0,0,True,1,1200,1028,0,0,1107,1108,0,0,0,0,869,1,775,5302,24000
+1029," Huile pour travaux de rénovation",230,16,0,0,True,1,1200,1029,0,0,1109,1110,0,15,0,0,870,1,776,5303,24500
+1030," Échantillons d'eau",232,16,0,0,True,1,1200,1030,0,0,1111,1112,0,15,0,0,871,1,777,5307,24500
+1031," Matériaux pour paratonnerre",226,17,0,0,True,1,1200,1031,0,0,1047,1048,0,14,0,0,0,1,0,5305,24500
+1032," Ressources rares en verre",227,17,0,0,True,1,1200,1032,0,0,1049,1050,0,0,0,0,0,1,0,5302,24000
+1033," Livraison d'éléments métalliques",233,17,0,0,True,1,1200,1033,0,0,1051,1052,0,12,0,0,0,1,0,5304,24000
+1034," Désherbage de voie de transport",225,18,0,0,True,1,1200,1034,0,0,1053,1054,0,14,0,0,0,1,0,5303,24000
+1035," Abattage des plantes à pics",228,18,0,0,True,1,1200,1035,0,0,1055,1056,0,0,0,0,0,1,0,5304,24500
+1036," Plantes mutantes",229,18,0,0,True,1,1200,1036,0,0,1057,1058,0,15,0,0,0,1,0,5306,24000
+1037," Ingrédient de base pour bouillon",227,19,0,0,True,1,1200,1037,0,0,1059,1060,0,0,0,0,872,1,0,5286,24000
+1038," Produits aquatiques pour extraction d'huile",230,19,0,0,True,1,1200,1038,0,0,1061,1062,0,15,0,0,873,1,0,5288,24500
+1039," Capture de pseudo-esprits aquatiques",232,19,0,0,True,1,1200,1039,0,0,1063,1064,0,15,0,0,874,1,0,5295,24500
+1040," Matériaux fibreux multi-usage",252,9,0,0,False,1,0,1040,1200,2400,1169,0,0,0,0,0,875,1,778,0,0
+1041," Traitement de ressources d'adaptation environnementale",256,9,0,0,False,1,0,1041,1200,2400,1170,0,0,0,0,0,876,1,779,0,0
+1042," Matériaux amortisseurs pour transport",254,9,0,0,False,1,0,1042,1200,2400,1171,0,0,0,0,0,877,1,780,0,0
+1043," Matériaux antigravitationnels",255,9,0,0,False,1,0,1043,1200,2400,1172,0,0,0,0,0,878,1,781,0,0
+1044," Matériaux fibreux multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,9,0,0,False,2,0,1044,1200,2400,1173,0,0,0,0,0,879,1,782,0,0
+1045," Traitement amélioré de ressources d'adaptation environnementale",256,9,0,0,False,2,0,1045,1200,2400,1174,0,0,0,0,0,880,1,783,0,0
+1046," Matériaux amortisseurs renforcés",254,9,0,3,False,2,0,1046,1300,3000,1175,0,0,0,0,0,881,1,784,0,0
+1047," Amélioration de matériaux antigravitationnels",255,9,0,3,False,2,0,1047,700,1500,1176,0,0,0,0,0,882,1,785,0,0
+1048," Matériaux fibreux innovants",252,9,0,0,False,3,0,1048,1600,2400,1177,0,0,0,0,0,883,1,786,0,0
+1049," Traitement avancé de ressources d'adaptation environnementale",256,9,0,0,False,3,0,1049,1600,2400,1178,0,0,0,0,0,884,1,787,0,0
+1050," Amélioration de matériaux amortisseurs renforcés",254,9,0,3,False,3,0,1050,2700,3000,1179,0,0,0,0,0,885,1,788,0,0
+1051," Perfectionnement de matériaux antigravitationnels",255,9,0,3,False,3,0,1051,1000,1500,1180,0,0,0,0,0,886,1,789,0,0
+1052," Tentes adaptées à l'environnement",257,9,0,0,False,3,0,1052,1600,2100,1181,0,0,0,0,0,887,1,790,0,0
+1053,"Matériaux fibreux innovants sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,9,0,0,False,4,0,1053,1000,1600,1182,0,0,0,0,0,888,0,791,0,0
+1054,"Traitement de matériaux combustibles et conservation d'échan<SoftHyphen/>til<SoftHyphen/>lons",253,9,0,0,False,4,0,1054,1000,1600,1183,0,0,0,0,0,889,0,792,0,0
+1055,"Matériaux amortisseurs ultraperformants",254,9,0,3,False,4,0,1055,1400,2000,1184,0,0,0,0,0,890,0,793,0,0
+1056,"Aide à l'élaboration de solutions antigravitationnelles",255,9,0,3,False,4,0,1056,1400,2000,1185,0,0,0,0,0,891,0,794,0,0
+1057,"Traitement de pointe de ressources d'adaptation environnementale",256,9,0,0,False,4,1200,1057,1000,1600,1186,0,0,0,0,0,892,0,795,0,0
+1058,"Tente de haute sécurité",257,9,0,0,False,4,1200,1058,880,1050,1187,0,0,0,0,0,893,0,796,0,0
+1059,"EX<Indent/>: Aide à la production massive de matériaux de transport",258,9,0,3,False,5,1200,1059,800,1000,1188,0,0,0,0,0,894,0,797,0,0
+1060,"EX<Indent/>: Matériels d'excavation essentiels",259,9,0,3,False,5,0,1060,800,1000,1189,0,0,0,0,0,895,0,798,0,0
+1061,"EX<Indent/>: Appui matériel au site d'excavation",260,9,0,3,False,5,0,1061,800,1000,1190,0,0,0,0,0,896,0,799,0,0
+1062,"EX<Indent/>: Articles de vacances à la plage",261,9,0,0,False,5,0,1062,1000,1600,1191,0,0,17,23,0,897,0,800,0,0
+1063,"EX+<Indent/>: Contrôle de l'ex<SoftHyphen/>ploi<SoftHyphen/>ta<SoftHyphen/>tion des ressources planétaires",262,9,0,3,False,6,0,1063,980,1080,1192,0,0,0,21,0,898,0,801,0,0
+1064,"EX+<Indent/>: Traitement avancé de ressources végétales",263,9,0,3,False,6,540,1064,1800,2000,1193,0,0,0,15,0,899,0,802,0,0
+1065,"EX+<Indent/>: Étude de carburants renouvelables",264,9,0,3,False,6,0,1065,980,1080,1194,0,0,18,1,0,900,0,803,0,0
+1066,"EX+<Indent/>: Étude améliorée de carburants renouvelables",264,9,0,3,False,6,600,1066,980,1080,1195,0,0,18,0,1065,901,0,804,0,0
+1067,"EX+<Indent/>: Étude perfectionnée de carburants renouvelables",264,9,0,0,False,6,480,1067,1000,1080,1196,0,0,18,0,1066,902,0,805,0,0
+1068," Composants en alliage multi-usage",239,10,0,0,False,1,0,1068,1200,2400,1197,0,0,0,0,0,903,1,806,0,0
+1069," Traitement de métaux adapté à Oizys",244,10,0,0,False,1,0,1069,1200,2400,1198,0,0,0,0,0,904,1,807,0,0
+1070," Matériel antigravitationnel",241,10,0,0,False,1,0,1070,1200,2400,1199,0,0,0,0,0,905,1,808,0,0
+1071," Matériel manquant au site d'excavation",242,10,0,0,False,1,0,1071,1200,2400,1200,0,0,0,0,0,906,1,809,0,0
+1072," Composants en alliage multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,10,0,0,False,2,0,1072,1200,2400,1201,0,0,0,0,0,907,1,810,0,0
+1073," Amélioration du traitement de métaux adapté à Oizys",244,10,0,0,False,2,0,1073,1200,2400,1202,0,0,0,0,0,908,1,811,0,0
+1074," Amélioration du matériel antigravitationnel",241,10,0,3,False,2,0,1074,1300,3000,1203,0,0,0,0,0,909,1,812,0,0
+1075," Amélioration du matériel manquant au site d'excavation",242,10,0,3,False,2,0,1075,700,1500,1204,0,0,0,0,0,910,1,813,0,0
+1076," Composants en alliage améliorés",239,10,0,0,False,3,0,1076,1600,2400,1205,0,0,0,0,0,911,1,814,0,0
+1077," Conteneurs adaptés à Oizys",244,10,0,0,False,3,0,1077,1600,2400,1206,0,0,0,0,0,912,1,815,0,0
+1078," Perfectionnement du matériel antigravitationnel",241,10,0,3,False,3,0,1078,2700,3000,1207,0,0,0,0,0,913,1,816,0,0
+1079," Matériel avancé manquant au site d'excavation",242,10,0,3,False,3,0,1079,1000,1500,1208,0,0,0,0,0,914,1,817,0,0
+1080," Composants de combinaison cosmo-alimentée",247,10,0,0,False,3,0,1080,1600,2100,1209,0,0,0,0,0,915,1,818,0,0
+1081,"Composants en alliage améliorés sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,10,0,0,False,4,0,1081,1000,1600,1210,0,0,0,0,0,916,0,819,0,0
+1082,"Aide à l'étude de la civilisation des pionniers",240,10,0,0,False,4,0,1082,1000,1600,1211,0,0,0,0,0,917,0,820,0,0
+1083,"Traitement avancé de matériel antigravitationnel",241,10,0,3,False,4,0,1083,1400,2000,1212,0,0,0,0,0,918,0,821,0,0
+1084,"Foreuses pour gros travaux",242,10,0,3,False,4,0,1084,1400,2000,1213,0,0,0,0,0,919,0,822,0,0
+1085,"Traitement antirouille d'ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions en bordure d'eau",243,10,0,0,False,4,1200,1085,1000,1600,1214,0,0,0,0,0,920,0,823,0,0
+1086,"Amélioration de conteneurs adaptés à Oizys",244,10,0,0,False,4,1200,1086,880,1050,1215,0,0,0,0,0,921,0,824,0,0
+1087,"EX<Indent/>: Affinage d'azurite gravitationnelle",245,10,0,3,False,5,1200,1087,800,1000,1216,0,0,0,0,0,922,0,825,0,0
+1088,"EX<Indent/>: Générateurs de gravité de taille réduite",246,10,0,3,False,5,0,1088,800,1000,1217,0,0,0,0,0,923,0,826,0,0
+1089,"EX<Indent/>: Composants pour torse de combinaison cosmo-alimentée",247,10,0,3,False,5,0,1089,800,1000,1218,0,0,0,0,0,924,0,827,0,0
+1090,"EX<Indent/>: Traitement avancé de composants de maintenance",248,10,0,0,False,5,0,1090,1000,1600,1219,0,0,17,15,0,925,0,828,0,0
+1091,"EX+<Indent/>: Amélioration de générateurs de gravité de taille réduite",249,10,0,3,False,6,0,1091,980,1080,1220,0,0,0,22,0,926,0,829,0,0
+1092,"EX+<Indent/>: Restauration de reliques des pionniers",250,10,0,3,False,6,540,1092,1800,2000,1221,0,0,0,23,0,927,0,830,0,0
+1093,"EX+<Indent/>: Reproduction d'outils des pionniers",251,10,0,3,False,6,0,1093,980,1080,1222,0,0,18,3,0,928,0,831,0,0
+1094,"EX+<Indent/>: Reproduction améliorée d'outils des pionniers",251,10,0,3,False,6,600,1094,980,1080,1223,0,0,18,0,1093,929,0,832,0,0
+1095,"EX+<Indent/>: Restauration d'appareils des pionniers",251,10,0,0,False,6,480,1095,1000,1080,1224,0,0,18,0,1094,930,0,833,0,0
+1096," Composants en alliage multi-usage",239,11,0,0,False,1,0,1096,1200,2400,1225,0,0,0,0,0,931,1,834,0,0
+1097," Traitement de métaux adapté à Oizys",244,11,0,0,False,1,0,1097,1200,2400,1226,0,0,0,0,0,932,1,835,0,0
+1098," Matériel antigravitationnel",241,11,0,0,False,1,0,1098,1200,2400,1227,0,0,0,0,0,933,1,836,0,0
+1099," Matériel manquant au site d'excavation",242,11,0,0,False,1,0,1099,1200,2400,1228,0,0,0,0,0,934,1,837,0,0
+1100," Composants en alliage multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,11,0,0,False,2,0,1100,1200,2400,1229,0,0,0,0,0,935,1,838,0,0
+1101," Amélioration du traitement de métaux adapté à Oizys",244,11,0,0,False,2,0,1101,1200,2400,1230,0,0,0,0,0,936,1,839,0,0
+1102," Amélioration du matériel antigravitationnel",241,11,0,3,False,2,0,1102,1300,3000,1231,0,0,0,0,0,937,1,840,0,0
+1103," Amélioration du matériel manquant au site d'excavation",242,11,0,3,False,2,0,1103,700,1500,1232,0,0,0,0,0,938,1,841,0,0
+1104," Composants en alliage améliorés",239,11,0,0,False,3,0,1104,1600,2400,1233,0,0,0,0,0,939,1,842,0,0
+1105," Conteneurs adaptés à Oizys",244,11,0,0,False,3,0,1105,1600,2400,1234,0,0,0,0,0,940,1,843,0,0
+1106," Perfectionnement du matériel antigravitationnel",241,11,0,3,False,3,0,1106,2700,3000,1235,0,0,0,0,0,941,1,844,0,0
+1107," Matériel avancé manquant au site d'excavation",242,11,0,3,False,3,0,1107,1000,1500,1236,0,0,0,0,0,942,1,845,0,0
+1108," Composants de combinaison cosmo-alimentée",247,11,0,0,False,3,0,1108,1600,2100,1237,0,0,0,0,0,943,1,846,0,0
+1109,"Composants en alliage améliorés sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,11,0,0,False,4,0,1109,1000,1600,1238,0,0,0,0,0,944,0,847,0,0
+1110,"Aide à l'étude de la civilisation des pionniers",240,11,0,0,False,4,0,1110,1000,1600,1239,0,0,0,0,0,945,0,848,0,0
+1111,"Traitement avancé de matériel antigravitationnel",241,11,0,3,False,4,0,1111,1400,2000,1240,0,0,0,0,0,946,0,849,0,0
+1112,"Foreuses pour gros travaux",242,11,0,3,False,4,0,1112,1400,2000,1241,0,0,0,0,0,947,0,850,0,0
+1113,"Traitement antirouille d'ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions en bordure d'eau",243,11,0,0,False,4,1200,1113,1000,1600,1242,0,0,0,0,0,948,0,851,0,0
+1114,"Amélioration de conteneurs adaptés à Oizys",244,11,0,0,False,4,1200,1114,880,1050,1243,0,0,0,0,0,949,0,852,0,0
+1115,"EX<Indent/>: Affinage d'azurite gravitationnelle",245,11,0,3,False,5,1200,1115,800,1000,1244,0,0,0,0,0,950,0,853,0,0
+1116,"EX<Indent/>: Générateurs de gravité de taille réduite",246,11,0,3,False,5,0,1116,800,1000,1245,0,0,0,0,0,951,0,854,0,0
+1117,"EX<Indent/>: Composants pour manches de combinaison cosmo-alimentée",247,11,0,3,False,5,0,1117,800,1000,1246,0,0,0,0,0,952,0,855,0,0
+1118,"EX<Indent/>: Traitement avancé de composants de maintenance",248,11,0,0,False,5,0,1118,1000,1600,1247,0,0,17,23,0,953,0,856,0,0
+1119,"EX+<Indent/>: Amélioration de générateurs de gravité de taille réduite",249,11,0,3,False,6,0,1119,980,1080,1248,0,0,0,17,0,954,0,857,0,0
+1120,"EX+<Indent/>: Restauration de reliques des pionniers",250,11,0,3,False,6,540,1120,1800,2000,1249,0,0,0,15,0,955,0,858,0,0
+1121,"EX+<Indent/>: Reproduction d'outils des pionniers",251,11,0,3,False,6,0,1121,980,1080,1250,0,0,18,5,0,956,0,859,0,0
+1122,"EX+<Indent/>: Reproduction améliorée d'outils des pionniers",251,11,0,3,False,6,600,1122,980,1080,1251,0,0,18,0,1121,957,0,860,0,0
+1123,"EX+<Indent/>: Transformation avancée de reproductions",251,11,0,0,False,6,480,1123,1000,1080,1252,0,0,18,0,1122,958,0,861,0,0
+1124," Composants en alliage multi-usage",239,12,0,0,False,1,0,1124,1200,2400,1253,0,0,0,0,0,959,1,862,0,0
+1125," Traitement de métaux adapté à Oizys",244,12,0,0,False,1,0,1125,1200,2400,1254,0,0,0,0,0,960,1,863,0,0
+1126," Matériel antigravitationnel",241,12,0,0,False,1,0,1126,1200,2400,1255,0,0,0,0,0,961,1,864,0,0
+1127," Matériel manquant au site d'excavation",242,12,0,0,False,1,0,1127,1200,2400,1256,0,0,0,0,0,962,1,865,0,0
+1128," Composants en alliage multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,12,0,0,False,2,0,1128,1200,2400,1257,0,0,0,0,0,963,1,866,0,0
+1129," Amélioration du traitement de métaux adapté à Oizys",244,12,0,0,False,2,0,1129,1200,2400,1258,0,0,0,0,0,964,1,867,0,0
+1130," Amélioration du matériel antigravitationnel",241,12,0,3,False,2,0,1130,1300,3000,1259,0,0,0,0,0,965,1,868,0,0
+1131," Amélioration du matériel manquant au site d'excavation",242,12,0,3,False,2,0,1131,700,1500,1260,0,0,0,0,0,966,1,869,0,0
+1132," Composants en alliage améliorés",239,12,0,0,False,3,0,1132,1600,2400,1261,0,0,0,0,0,967,1,870,0,0
+1133," Conteneurs adaptés à Oizys",244,12,0,0,False,3,0,1133,1600,2400,1262,0,0,0,0,0,968,1,871,0,0
+1134," Perfectionnement du matériel antigravitationnel",241,12,0,3,False,3,0,1134,2700,3000,1263,0,0,0,0,0,969,1,872,0,0
+1135," Matériel avancé manquant au site d'excavation",242,12,0,3,False,3,0,1135,1000,1500,1264,0,0,0,0,0,970,1,873,0,0
+1136," Composants de combinaison cosmo-alimentée",247,12,0,0,False,3,0,1136,1600,2100,1265,0,0,0,0,0,971,1,874,0,0
+1137,"Composants en alliage améliorés sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",239,12,0,0,False,4,0,1137,1000,1600,1266,0,0,0,0,0,972,0,875,0,0
+1138,"Aide à l'étude de la civilisation des pionniers",240,12,0,0,False,4,0,1138,1000,1600,1267,0,0,0,0,0,973,0,876,0,0
+1139,"Traitement avancé de matériel antigravitationnel",241,12,0,3,False,4,0,1139,1400,2000,1268,0,0,0,0,0,974,0,877,0,0
+1140,"Foreuses pour gros travaux",242,12,0,3,False,4,0,1140,1400,2000,1269,0,0,0,0,0,975,0,878,0,0
+1141,"Traitement antirouille d'ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions en bordure d'eau",243,12,0,0,False,4,1200,1141,1000,1600,1270,0,0,0,0,0,976,0,879,0,0
+1142,"Amélioration de conteneurs adaptés à Oizys",244,12,0,0,False,4,1200,1142,880,1050,1271,0,0,0,0,0,977,0,880,0,0
+1143,"EX<Indent/>: Affinage d'azurite gravitationnelle",245,12,0,3,False,5,1200,1143,800,1000,1272,0,0,0,0,0,978,0,881,0,0
+1144,"EX<Indent/>: Générateurs de gravité de taille réduite",246,12,0,3,False,5,0,1144,800,1000,1273,0,0,0,0,0,979,0,882,0,0
+1145,"EX<Indent/>: Composants pour ceinture de combinaison cosmo-alimentée",247,12,0,3,False,5,0,1145,800,1000,1274,0,0,0,0,0,980,0,883,0,0
+1146,"EX<Indent/>: Traitement avancé de composants de maintenance",248,12,0,0,False,5,0,1146,1000,1600,1275,0,0,17,15,0,981,0,884,0,0
+1147,"EX+<Indent/>: Amélioration de générateurs de gravité de taille réduite",249,12,0,3,False,6,0,1147,980,1080,1276,0,0,0,18,0,982,0,885,0,0
+1148,"EX+<Indent/>: Restauration de reliques des pionniers",250,12,0,3,False,6,540,1148,1800,2000,1277,0,0,0,23,0,983,0,886,0,0
+1149,"EX+<Indent/>: Reproduction d'outils des pionniers",251,12,0,3,False,6,0,1149,980,1080,1278,0,0,18,7,0,984,0,887,0,0
+1150,"EX+<Indent/>: Reproduction améliorée d'outils des pionniers",251,12,0,3,False,6,600,1150,980,1080,1279,0,0,18,0,1149,985,0,888,0,0
+1151,"EX+<Indent/>: Transformation avancée de reproductions",251,12,0,0,False,6,480,1151,1000,1080,1280,0,0,18,0,1150,986,0,889,0,0
+1152," Matériaux fibreux multi-usage",252,13,0,0,False,1,0,1152,1200,2400,1281,0,0,0,0,0,987,1,890,0,0
+1153," Traitement de ressources d'adaptation environnementale",256,13,0,0,False,1,0,1153,1200,2400,1282,0,0,0,0,0,988,1,891,0,0
+1154," Matériaux amortisseurs pour transport",254,13,0,0,False,1,0,1154,1200,2400,1283,0,0,0,0,0,989,1,892,0,0
+1155," Matériaux antigravitationnels",255,13,0,0,False,1,0,1155,1200,2400,1284,0,0,0,0,0,990,1,893,0,0
+1156," Matériaux fibreux multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,13,0,0,False,2,0,1156,1200,2400,1285,0,0,0,0,0,991,1,894,0,0
+1157," Traitement amélioré de ressources d'adaptation environnementale",256,13,0,0,False,2,0,1157,1200,2400,1286,0,0,0,0,0,992,1,895,0,0
+1158," Matériaux amortisseurs renforcés",254,13,0,3,False,2,0,1158,1300,3000,1287,0,0,0,0,0,993,1,896,0,0
+1159," Amélioration de matériaux antigravitationnels",255,13,0,3,False,2,0,1159,700,1500,1288,0,0,0,0,0,994,1,897,0,0
+1160," Matériaux fibreux innovants",252,13,0,0,False,3,0,1160,1600,2400,1289,0,0,0,0,0,995,1,898,0,0
+1161," Traitement avancé de ressources d'adaptation environnementale",256,13,0,0,False,3,0,1161,1600,2400,1290,0,0,0,0,0,996,1,899,0,0
+1162," Amélioration de matériaux amortisseurs renforcés",254,13,0,3,False,3,0,1162,2700,3000,1291,0,0,0,0,0,997,1,900,0,0
+1163," Perfectionnement de matériaux antigravitationnels",255,13,0,3,False,3,0,1163,1000,1500,1292,0,0,0,0,0,998,1,901,0,0
+1164," Tentes adaptées à l'environnement",257,13,0,0,False,3,0,1164,1600,2100,1293,0,0,0,0,0,999,1,902,0,0
+1165,"Matériaux fibreux innovants sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,13,0,0,False,4,0,1165,1000,1600,1294,0,0,0,0,0,1000,0,903,0,0
+1166,"Traitement de matériaux combustibles et conservation d'échan<SoftHyphen/>til<SoftHyphen/>lons",253,13,0,0,False,4,0,1166,1000,1600,1295,0,0,0,0,0,1001,0,904,0,0
+1167,"Matériaux amortisseurs ultraperformants",254,13,0,3,False,4,0,1167,1400,2000,1296,0,0,0,0,0,1002,0,905,0,0
+1168,"Aide à l'élaboration de solutions antigravitationnelles",255,13,0,3,False,4,0,1168,1400,2000,1297,0,0,0,0,0,1003,0,906,0,0
+1169,"Traitement de pointe de ressources d'adaptation environnementale",256,13,0,0,False,4,1200,1169,1000,1600,1298,0,0,0,0,0,1004,0,907,0,0
+1170,"Tente de haute sécurité",257,13,0,0,False,4,1200,1170,880,1050,1299,0,0,0,0,0,1005,0,908,0,0
+1171,"EX<Indent/>: Aide à la production massive de matériaux de transport",258,13,0,3,False,5,1200,1171,800,1000,1300,0,0,0,0,0,1006,0,909,0,0
+1172,"EX<Indent/>: Matériels d'excavation essentiels",259,13,0,3,False,5,0,1172,800,1000,1301,0,0,0,0,0,1007,0,910,0,0
+1173,"EX<Indent/>: Appui matériel au site d'excavation",260,13,0,3,False,5,0,1173,800,1000,1302,0,0,0,0,0,1008,0,911,0,0
+1174,"EX<Indent/>: Articles de vacances à la plage",261,13,0,0,False,5,0,1174,1000,1600,1303,0,0,17,23,0,1009,0,912,0,0
+1175,"EX+<Indent/>: Contrôle de l'ex<SoftHyphen/>ploi<SoftHyphen/>ta<SoftHyphen/>tion des ressources planétaires",262,13,0,3,False,6,0,1175,980,1080,1304,0,0,0,19,0,1010,0,913,0,0
+1176,"EX+<Indent/>: Traitement avancé de ressources végétales",263,13,0,3,False,6,540,1176,1800,2000,1305,0,0,0,15,0,1011,0,914,0,0
+1177,"EX+<Indent/>: Élément jambier pour tenue de seigneur Casque Sombre",264,13,0,3,False,6,0,1177,980,1080,1306,0,0,18,9,0,1012,0,915,0,0
+1178,"EX+<Indent/>: Amélioration d'élément jambier pour tenue de seigneur Casque Sombre",264,13,0,3,False,6,600,1178,980,1080,1307,0,0,18,0,1177,1013,0,916,0,0
+1179,"EX+<Indent/>: Perfectionnement d'élément jambier pour tenue de seigneur Casque Sombre",264,13,0,0,False,6,480,1179,1000,1080,1308,0,0,18,0,1178,1014,0,917,0,0
+1180," Matériaux fibreux multi-usage",252,14,0,0,False,1,0,1180,1200,2400,1309,0,0,0,0,0,1015,1,918,0,0
+1181," Traitement de ressources d'adaptation environnementale",256,14,0,0,False,1,0,1181,1200,2400,1310,0,0,0,0,0,1016,1,919,0,0
+1182," Matériaux amortisseurs pour transport",254,14,0,0,False,1,0,1182,1200,2400,1311,0,0,0,0,0,1017,1,920,0,0
+1183," Matériaux antigravitationnels",255,14,0,0,False,1,0,1183,1200,2400,1312,0,0,0,0,0,1018,1,921,0,0
+1184," Matériaux fibreux multi-usage sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,14,0,0,False,2,0,1184,1200,2400,1313,0,0,0,0,0,1019,1,922,0,0
+1185," Traitement amélioré de ressources d'adaptation environnementale",256,14,0,0,False,2,0,1185,1200,2400,1314,0,0,0,0,0,1020,1,923,0,0
+1186," Matériaux amortisseurs renforcés",254,14,0,3,False,2,0,1186,1300,3000,1315,0,0,0,0,0,1021,1,924,0,0
+1187," Amélioration de matériaux antigravitationnels",255,14,0,3,False,2,0,1187,700,1500,1316,0,0,0,0,0,1022,1,925,0,0
+1188," Matériaux fibreux innovants",252,14,0,0,False,3,0,1188,1600,2400,1317,0,0,0,0,0,1023,1,926,0,0
+1189," Traitement avancé de ressources d'adaptation environnementale",256,14,0,0,False,3,0,1189,1600,2400,1318,0,0,0,0,0,1024,1,927,0,0
+1190," Amélioration de matériaux amortisseurs renforcés",254,14,0,3,False,3,0,1190,2700,3000,1319,0,0,0,0,0,1025,1,928,0,0
+1191," Perfectionnement de matériaux antigravitationnels",255,14,0,3,False,3,0,1191,1000,1500,1320,0,0,0,0,0,1026,1,929,0,0
+1192," Tentes adaptées à l'environnement",257,14,0,0,False,3,0,1192,1600,2100,1321,0,0,0,0,0,1027,1,930,0,0
+1193,"Matériaux fibreux innovants sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res",252,14,0,0,False,4,0,1193,1000,1600,1322,0,0,0,0,0,1028,0,931,0,0
+1194,"Traitement de matériaux combustibles et conservation d'échan<SoftHyphen/>til<SoftHyphen/>lons",253,14,0,0,False,4,0,1194,1000,1600,1323,0,0,0,0,0,1029,0,932,0,0
+1195,"Matériaux amortisseurs ultraperformants",254,14,0,3,False,4,0,1195,1400,2000,1324,0,0,0,0,0,1030,0,933,0,0
+1196,"Aide à l'élaboration de solutions antigravitationnelles",255,14,0,3,False,4,0,1196,1400,2000,1325,0,0,0,0,0,1031,0,934,0,0
+1197,"Traitement de pointe de ressources d'adaptation environnementale",256,14,0,0,False,4,1200,1197,1000,1600,1326,0,0,0,0,0,1032,0,935,0,0
+1198,"Tente de haute sécurité",257,14,0,0,False,4,1200,1198,880,1050,1327,0,0,0,0,0,1033,0,936,0,0
+1199,"EX<Indent/>: Aide à la production massive de matériaux de transport",258,14,0,3,False,5,1200,1199,800,1000,1328,0,0,0,0,0,1034,0,937,0,0
+1200,"EX<Indent/>: Matériels d'excavation essentiels",259,14,0,3,False,5,0,1200,800,1000,1329,0,0,0,0,0,1035,0,938,0,0
+1201,"EX<Indent/>: Appui matériel au site d'excavation",260,14,0,3,False,5,0,1201,800,1000,1330,0,0,0,0,0,1036,0,939,0,0
+1202,"EX<Indent/>: Articles de vacances à la plage",261,14,0,0,False,5,0,1202,1000,1600,1331,0,0,17,15,0,1037,0,940,0,0
+1203,"EX+<Indent/>: Contrôle de l'ex<SoftHyphen/>ploi<SoftHyphen/>ta<SoftHyphen/>tion des ressources planétaires",262,14,0,3,False,6,0,1203,980,1080,1332,0,0,0,20,0,1038,0,941,0,0
+1204,"EX+<Indent/>: Traitement avancé de ressources végétales",263,14,0,3,False,6,540,1204,1800,2000,1333,0,0,0,23,0,1039,0,942,0,0
+1205,"EX+<Indent/>: Élément ornemental pour tenue de seigneur Casque Sombre",264,14,0,3,False,6,0,1205,980,1080,1334,0,0,18,11,0,1040,0,943,0,0
+1206,"EX+<Indent/>: Amélioration d'élément ornemental pour tenue de seigneur Casque Sombre",264,14,0,3,False,6,600,1206,980,1080,1335,0,0,18,0,1205,1041,0,944,0,0
+1207,"EX+<Indent/>: Perfectionnement d'élément ornemental pour tenue de seigneur Casque Sombre",264,14,0,0,False,6,480,1207,1000,1080,1336,0,0,18,0,1206,1042,0,945,0,0
+1208," Réserves d'eau d'urgence",265,15,0,0,False,1,0,1208,1200,2400,1337,0,0,0,0,0,1043,1,946,0,0
+1209," Ferrofluide pour matériel d'exploration",266,15,0,0,False,1,0,1209,1200,2400,1338,0,0,0,0,0,1044,1,947,0,0
+1210," Aide à la fabrication de matériaux antisismiques",267,15,0,0,False,1,0,1210,1200,2400,1339,0,0,0,0,0,1045,1,948,0,0
+1211," Recherche sur les combustibles recyclés",268,15,0,0,False,1,0,1211,1200,2400,1340,0,0,0,0,0,1046,1,949,0,0
+1212," Protection des sources d'eau",265,15,0,0,False,2,0,1212,1200,2400,1341,0,0,0,0,0,1047,1,950,0,0
+1213," Ferrofluide pour machines de précision",266,15,0,0,False,2,0,1213,1200,2400,1342,0,0,0,0,0,1048,1,951,0,0
+1214," Amélioration des matériaux antisismiques",267,15,0,3,False,2,0,1214,1300,3000,1343,0,0,0,0,0,1049,1,952,0,0
+1215," Amélioration des combustibles recyclés",268,15,0,3,False,2,0,1215,700,1500,1344,0,0,0,0,0,1050,1,953,0,0
+1216," Échantillons de sources d'eau",265,15,0,0,False,3,0,1216,1600,2400,1345,0,0,0,0,0,1051,1,954,0,0
+1217," Ferrofluide pour poupées magiques",266,15,0,0,False,3,0,1217,1600,2400,1346,0,0,0,0,0,1052,1,955,0,0
+1218," Aide à la fabrication de matériaux résistants aux tempêtes",267,15,0,3,False,3,0,1218,2700,3000,1347,0,0,0,0,0,1053,1,956,0,0
+1219," Support à l'élaboration de combustibles recyclés",268,15,0,3,False,3,0,1219,1000,1500,1348,0,0,0,0,0,1054,1,957,0,0
+1220," Réserves d'aliments préservés de qualité",270,15,0,0,False,3,0,1220,1600,2100,1349,0,0,0,0,0,1055,1,958,0,0
+1221,"Obtention d'eau ultra-pure",265,15,0,0,False,4,0,1221,1000,1600,1350,0,0,0,0,0,1056,0,959,0,0
+1222,"Ferrofluide pour matériel de communication avancé",266,15,0,0,False,4,0,1222,1000,1600,1351,0,0,0,0,0,1057,0,960,0,0
+1223,"Matériaux de renforcement des ruines",267,15,0,3,False,4,0,1223,1400,2000,1352,0,0,0,0,0,1058,0,961,0,0
+1224,"Amélioration de l'élaboration de carburant recyclé",268,15,0,3,False,4,0,1224,1400,2000,1353,0,0,0,0,0,1059,0,962,0,0
+1225,"Amélioration des réserves d'aliments préservés de qualité",269,15,0,0,False,4,1200,1225,1000,1600,1354,0,0,0,0,0,1060,0,963,0,0
+1226,"Perfectionnement des réserves d'aliments préservés de qualité",270,15,0,0,False,4,1200,1226,880,1050,1355,0,0,0,0,0,1061,0,964,0,0
+1227,"EX<Indent/>: Amélioration du sagepain",271,15,0,3,False,5,1200,1227,800,1000,1356,0,0,0,0,0,1062,0,965,0,0
+1228,"EX<Indent/>: Recherche sur les levures",272,15,0,3,False,5,0,1228,800,1000,1357,0,0,0,0,0,1063,0,966,0,0
+1229,"EX<Indent/>: Inspection des cultures",273,15,0,3,False,5,0,1229,800,1000,1358,0,0,0,0,0,1064,0,967,0,0
+1230,"EX<Indent/>: Amélioration du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment des postes extérieurs",274,15,0,0,False,5,0,1230,1000,1600,1359,0,0,17,23,0,1065,0,968,0,0
+1231,"EX+<Indent/>: Matériaux pour la restauration des structures cristallines",275,15,0,3,False,6,0,1231,980,1080,1360,0,0,0,21,0,1066,0,969,0,0
+1232,"EX+<Indent/>: Matériaux pour fouilles archéologiques",276,15,0,3,False,6,540,1232,1800,2000,1361,0,0,0,15,0,1067,0,970,0,0
+1233,"EX+<Indent/>: Renforcement des outils cosmiques",277,15,0,3,False,6,0,1233,980,1080,1362,0,0,18,4,0,1068,0,971,0,0
+1234,"EX+<Indent/>: Amélioration des outils cosmiques",277,15,0,3,False,6,600,1234,980,1080,1363,0,0,18,0,1233,1069,0,972,0,0
+1235,"EX+<Indent/>: Perfectionnement des outils cosmiques",277,15,0,0,False,6,480,1235,1000,1080,1364,0,0,18,0,1234,1070,0,973,0,0
+1236," Réserves d'eau d'urgence",265,16,0,0,False,1,0,1236,1200,2400,1365,0,0,0,0,0,1071,1,974,0,0
+1237," Ferrofluide pour matériel d'exploration",266,16,0,0,False,1,0,1237,1200,2400,1366,0,0,0,0,0,1072,1,975,0,0
+1238," Aide à la fabrication de matériaux antisismiques",267,16,0,0,False,1,0,1238,1200,2400,1367,0,0,0,0,0,1073,1,976,0,0
+1239," Recherche sur les engrais recyclés",268,16,0,0,False,1,0,1239,1200,2400,1368,0,0,0,0,0,1074,1,977,0,0
+1240," Protection des sources d'eau",265,16,0,0,False,2,0,1240,1200,2400,1369,0,0,0,0,0,1075,1,978,0,0
+1241," Ferrofluide pour machines de précision",266,16,0,0,False,2,0,1241,1200,2400,1370,0,0,0,0,0,1076,1,979,0,0
+1242," Amélioration des matériaux antisismiques",267,16,0,3,False,2,0,1242,1300,3000,1371,0,0,0,0,0,1077,1,980,0,0
+1243," Amélioration des combustibles recyclés",268,16,0,3,False,2,0,1243,700,1500,1372,0,0,0,0,0,1078,1,981,0,0
+1244," Échantillons de sources d'eau",265,16,0,0,False,3,0,1244,1600,2400,1373,0,0,0,0,0,1079,1,982,0,0
+1245," Ferrofluide pour poupées magiques",266,16,0,0,False,3,0,1245,1600,2400,1374,0,0,0,0,0,1080,1,983,0,0
+1246," Aide à la fabrication de matériaux résistants aux tempêtes",267,16,0,3,False,3,0,1246,2700,3000,1375,0,0,0,0,0,1081,1,984,0,0
+1247," Support à l'élaboration de combustibles recyclés",268,16,0,3,False,3,0,1247,1000,1500,1376,0,0,0,0,0,1082,1,985,0,0
+1248," Réserves d'aliments préservés de qualité",270,16,0,0,False,3,0,1248,1600,2100,1377,0,0,0,0,0,1083,1,986,0,0
+1249,"Obtention d'eau ultra-pure",265,16,0,0,False,4,0,1249,1000,1600,1378,0,0,0,0,0,1084,0,987,0,0
+1250,"Ferrofluide pour matériel de communication avancé",266,16,0,0,False,4,0,1250,1000,1600,1379,0,0,0,0,0,1085,0,988,0,0
+1251,"Matériaux de renforcement des ruines",267,16,0,3,False,4,0,1251,1400,2000,1380,0,0,0,0,0,1086,0,989,0,0
+1252,"Amélioration de l'élaboration de carburant recyclé",268,16,0,3,False,4,0,1252,1400,2000,1381,0,0,0,0,0,1087,0,990,0,0
+1253,"Amélioration des réserves d'aliments préservés de qualité",269,16,0,0,False,4,1200,1253,1000,1600,1382,0,0,0,0,0,1088,0,991,0,0
+1254,"Perfectionnement des réserves d'aliments préservés de qualité",270,16,0,0,False,4,1200,1254,880,1050,1383,0,0,0,0,0,1089,0,992,0,0
+1255,"EX<Indent/>: Amélioration du sagepain",271,16,0,3,False,5,1200,1255,800,1000,1384,0,0,0,0,0,1090,0,993,0,0
+1256,"EX<Indent/>: Recherche sur les levures",272,16,0,3,False,5,0,1256,800,1000,1385,0,0,0,0,0,1091,0,994,0,0
+1257,"EX<Indent/>: Inspection des cultures",273,16,0,3,False,5,0,1257,800,1000,1386,0,0,0,0,0,1092,0,995,0,0
+1258,"EX<Indent/>: Amélioration du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment des postes extérieurs",274,16,0,0,False,5,0,1258,1000,1600,1387,0,0,17,15,0,1093,0,996,0,0
+1259,"EX+<Indent/>: Matériaux pour la restauration des structures cristallines",275,16,0,3,False,6,0,1259,980,1080,1388,0,0,0,22,0,1094,0,997,0,0
+1260,"EX+<Indent/>: Matériaux pour fouilles archéologiques",276,16,0,3,False,6,540,1260,1800,2000,1389,0,0,0,23,0,1095,0,998,0,0
+1261,"EX+<Indent/>: Affinage des outils cosmiques",277,16,0,3,False,6,0,1261,980,1080,1390,0,0,18,2,0,1096,0,999,0,0
+1262,"EX+<Indent/>: Amélioration des outils cosmiques",277,16,0,3,False,6,600,1262,980,1080,1391,0,0,18,0,1261,1097,0,1000,0,0
+1263,"EX+<Indent/>: Perfectionnement des outils cosmiques",277,16,0,0,False,6,480,1263,1000,1080,1392,0,0,18,0,1262,1098,0,1001,0,0
+1264," Étude des sols autour de la base",278,17,0,0,False,1,600,1264,1550,1700,1113,0,0,0,0,0,0,1,0,5408,0
+1265," Étude de la gravité environnante",279,17,0,0,False,1,600,1265,4920,5020,1114,0,0,0,0,0,0,1,0,5408,0
+1266," Livraison de minerais communs",280,17,0,0,False,1,600,1266,1550,1700,1115,0,0,0,0,0,0,1,0,5408,0
+1267," Récolte continue d'agates d'Oizys",281,17,0,0,False,1,600,1267,750,850,1116,0,0,0,0,0,0,1,0,5408,0
+1268," Étude du désert de l'Emporte-brise",278,17,0,0,False,2,600,1268,1550,1700,1117,0,0,0,0,0,0,1,0,5408,0
+1269," Étude de minéraux éthéréens",279,17,0,0,False,2,600,1269,4920,5020,1118,0,0,0,0,0,0,1,0,5408,0
+1270," Livraison de matériel antigravitationnel",280,17,0,0,False,2,600,1270,1550,1700,1119,0,0,0,0,0,0,1,0,5408,0
+1271," Étude de matériaux antigravitationnels",282,17,0,0,False,2,600,1271,1600,2000,1120,0,0,0,0,0,0,1,0,5408,0
+1272," Étude des sols du cap Géras",278,17,0,0,False,3,600,1272,1550,1700,1121,0,0,0,0,0,0,1,0,5419,0
+1273," Étude de matériaux d'entretien",279,17,0,0,False,3,600,1273,4920,5020,1122,0,0,0,0,0,0,1,0,5419,0
+1274," Livraison de matériaux éthéréens",280,17,0,0,False,3,600,1274,1550,1700,1123,0,0,0,0,0,0,1,0,5419,0
+1275," Étude de matériaux éthéréens",282,17,0,0,False,3,600,1275,1600,2000,1124,0,0,0,0,0,0,1,0,5419,0
+1276," Essais de récolte continue sur Oizys",283,17,0,0,False,3,600,1276,2350,2850,1125,0,0,0,0,0,0,1,0,5419,0
+1277,"Étude des sols autour de L'Ancre",278,17,0,0,False,4,600,1277,2350,2500,1126,0,0,0,0,0,0,0,0,5422,0
+1278,"Livraison de nouvelles matières premières",280,17,0,0,False,4,600,1278,2600,3000,1127,0,0,0,0,0,0,0,0,5409,0
+1279,"Livraison d'alun d'Oizys",285,17,0,3,False,4,600,1279,600,700,1128,0,0,0,0,0,0,0,0,5422,0
+1280,"Livraison de poudre antigravitationnelle",286,17,0,3,False,4,600,1280,1130,1370,1129,0,0,0,0,0,0,0,0,5422,0
+1281,"Éthérolyse de matériaux polyvalents",284,17,0,4,False,4,600,1281,3700,4100,1130,0,0,17,23,0,0,0,0,5412,0
+1282,"Éthérolyse des strates d'Oizys",287,17,0,4,False,4,600,1282,1350,1600,1131,0,0,0,0,0,0,0,0,5409,0
+1283,"EX<Indent/>: Livraison de minéraux chargés en éther",279,17,0,0,False,5,600,1283,4100,4200,1132,0,0,0,0,0,0,0,0,5422,0
+1284,"EX<Indent/>: Récolte continue d'indicolite",281,17,0,0,False,5,600,1284,4200,4800,1133,0,0,0,0,0,0,0,0,5409,0
+1285,"EX<Indent/>: Étude des strates",282,17,0,0,False,5,600,1285,5200,6400,1134,0,0,0,0,0,0,0,0,5409,0
+1286,"EX<Indent/>: Essais de récolte continue de matériaux rares",283,17,0,0,False,5,600,1286,9100,10800,1135,0,0,0,0,0,0,0,0,5409,0
+1287,"EX+<Indent/>: Éthérolyse de ressources d'exploration",284,17,0,4,False,6,300,1287,900,1300,1136,0,0,0,15,0,0,0,0,5409,0
+1288,"EX+<Indent/>: Étude de minéraux éthéréens rares",279,17,0,0,False,6,300,1288,1700,1800,1137,0,0,0,20,0,0,0,0,5408,0
+1289,"EX+<Indent/>: Fouilles des ruines souterraines",288,17,0,0,False,6,150,1289,6400,7400,1138,0,0,18,2,0,0,0,0,5413,0
+1290,"EX+<Indent/>: Analyse organique des pionniers",288,17,0,0,False,6,120,1290,9900,11400,1139,0,0,18,0,1289,0,0,0,5413,0
+1291,"EX+<Indent/>: Fouilles de vestiges des pionniers",288,17,0,3,False,6,300,1291,1400,1750,1140,0,0,18,0,1290,0,0,0,5413,0
+1292," Étude des plantes autour de la base",278,18,0,0,False,1,600,1292,1550,1700,1141,0,0,0,0,0,0,1,0,5409,0
+1293," Étude des nœuds éthérés environnants",279,18,0,0,False,1,600,1293,4920,5020,1142,0,0,0,0,0,0,1,0,5409,0
+1294," Livraison de plantes communes",280,18,0,0,False,1,600,1294,1550,1700,1143,0,0,0,0,0,0,1,0,5409,0
+1295," Récolte continue d'herbe régolithe",281,18,0,0,False,1,600,1295,750,850,1144,0,0,0,0,0,0,1,0,5409,0
+1296," Étude de plantes à l'Oasis des Pionniers",278,18,0,0,False,2,600,1296,1550,1700,1145,0,0,0,0,0,0,1,0,5418,0
+1297," Étude de l'éther aquatique",279,18,0,0,False,2,600,1297,4920,5020,1146,0,0,0,0,0,0,1,0,5418,0
+1298," Livraison d'échan<SoftHyphen/>til<SoftHyphen/>lons des Pionniers",280,18,0,0,False,2,600,1298,1550,1700,1147,0,0,0,0,0,0,1,0,5418,0
+1299," Étude d'échan<SoftHyphen/>til<SoftHyphen/>lons des Pionniers",282,18,0,0,False,2,600,1299,1600,2000,1148,0,0,0,0,0,0,1,0,5418,0
+1300," Étude des plantes au Reg levant",278,18,0,0,False,3,600,1300,1550,1700,1149,0,0,0,0,0,0,1,0,5409,0
+1301," Étude de fibres ex<SoftHyphen/>cep<SoftHyphen/>tion<SoftHyphen/>nelles",279,18,0,0,False,3,600,1301,4920,5020,1150,0,0,0,0,0,0,1,0,5409,0
+1302," Livraison de plantes surréalistes",280,18,0,0,False,3,600,1302,1550,1700,1151,0,0,0,0,0,0,1,0,5409,0
+1303," Étude de plantes surréalistes",282,18,0,0,False,3,600,1303,1600,2000,1152,0,0,0,0,0,0,1,0,5409,0
+1304," Essais de récolte continue sur Oizys",283,18,0,0,False,3,600,1304,2350,2850,1153,0,0,0,0,0,0,1,0,5409,0
+1305,"Étude des plantes du Reg levant",278,18,0,0,False,4,600,1305,2350,2500,1154,0,0,0,0,0,0,0,0,5409,0
+1306,"Livraison de plantes flottantes",280,18,0,0,False,4,600,1306,2600,3000,1155,0,0,0,0,0,0,0,0,5422,0
+1307,"Livraison de sarments de cèdre torsadé",285,18,0,3,False,4,600,1307,600,700,1156,0,0,0,0,0,0,0,0,5409,0
+1308,"Livraison de fibres antigravitationnelles",286,18,0,3,False,4,600,1308,1130,1370,1157,0,0,0,0,0,0,0,0,5409,0
+1309,"Éthérolyse de matériaux polyvalents",284,18,0,4,False,4,600,1309,3700,4100,1158,0,0,0,0,0,0,0,0,5409,0
+1310,"Éthérolyse des strates d'Oizys",287,18,0,4,False,4,600,1310,1350,1600,1159,0,0,0,0,0,0,0,0,5409,0
+1311,"EX<Indent/>: Livraison de végétaux chargés en éther",279,18,0,0,False,5,600,1311,4100,4200,1160,0,0,0,0,0,0,0,0,5409,0
+1312,"EX<Indent/>: Récolte continue d'anémones de terre rouge",281,18,0,0,False,5,600,1312,4200,4800,1161,0,0,0,0,0,0,0,0,5422,0
+1313,"EX<Indent/>: Étude des variations environnementales",282,18,0,0,False,5,600,1313,5200,6400,1162,0,0,0,0,0,0,0,0,5422,0
+1314,"EX<Indent/>: Essais de récolte continue de matériaux rares",283,18,0,0,False,5,600,1314,9100,10800,1163,0,0,17,15,0,0,0,0,5409,0
+1315,"EX+<Indent/>: Éthérolyse de ressources alchimiques",284,18,0,4,False,6,300,1315,900,1300,1164,0,0,0,23,0,0,0,0,5409,0
+1316,"EX+<Indent/>: Étude de plantes éthéréennes rares",279,18,0,0,False,6,300,1316,1700,1800,1165,0,0,0,22,0,0,0,0,5418,0
+1317,"EX+<Indent/>: Analyse de l'environnement des ruines",288,18,0,0,False,6,150,1317,6400,7400,1166,0,0,18,6,0,0,0,0,5413,0
+1318,"EX+<Indent/>: Analyse des nœuds éthérés des ruines",288,18,0,0,False,6,120,1318,9900,11400,1167,0,0,18,0,1317,0,0,0,5413,0
+1319,"EX+<Indent/>: Analyse des matériaux des ruines",288,18,0,3,False,6,300,1319,1400,1750,1168,0,0,18,0,1318,0,0,0,5413,0
+1320," Étude de l'impact des anomalies gravitationnelles sur la pisciculture",289,19,0,0,False,1,1800,1320,16750,17000,1393,0,0,0,0,0,1115,1,0,5425,0
+1321," Étude à l'est de Mégalithopolis",291,19,0,0,False,1,1800,1321,14600,15300,1394,0,0,0,0,0,1116,1,0,5426,0
+1322," Étude corrélative de l'environnement de l'Oasis des Pionniers",292,19,0,0,False,1,1800,1322,1200,1500,1395,0,0,0,0,0,1117,1,0,5425,0
+1323," Livraison de matériaux temporaires pour la station",293,19,0,0,False,1,1800,1323,15900,16200,1396,0,0,0,0,0,1118,1,0,5426,0
+1324," Étude de grands spécimens aquatiques",290,19,0,0,False,2,1800,1324,2040,3690,1397,0,0,0,0,0,1119,1,0,5425,0
+1325," Étude de la viabilité d'appâts spécifiques",295,19,0,0,False,2,1800,1325,3000,4000,1398,0,0,0,0,0,1120,1,0,5426,0
+1326," Grands échan<SoftHyphen/>til<SoftHyphen/>lons aquatiques en urgence",294,19,0,0,False,2,1800,1326,20800,26000,1399,0,0,0,0,0,1121,1,0,5425,0
+1327," Collecte d'échan<SoftHyphen/>til<SoftHyphen/>lons du plateau",296,19,0,3,False,2,1800,1327,1200,2750,1400,0,0,0,0,0,1122,1,0,5426,0
+1328," Étude corrélative de l'environnement de la Lisière d'Eau",292,19,0,0,False,3,1800,1328,2400,3000,1401,0,0,0,0,0,1123,1,0,5427,0
+1329," Étude sur l'utilisation de bras universels d'eau douce",298,19,0,3,False,3,1800,1329,1600,2000,1402,0,0,0,0,0,1124,1,0,5428,0
+1330," Soutien à l'étude des usurpoissons océaniques",297,19,0,0,False,3,1800,1330,7390,12940,1403,0,0,0,0,0,1125,1,0,5427,0
+1331," Collecte d'échan<SoftHyphen/>til<SoftHyphen/>lons des ruines",296,19,0,3,False,3,1800,1331,1500,2500,1404,0,0,0,0,0,1126,1,0,5428,0
+1332," Étude sur l'adaptation de la pisciculture aux anomalies gravitationnelles ",289,19,0,0,False,3,1800,1332,15100,15700,1405,0,0,0,0,0,1127,1,0,5427,0
+1333,"Étude à la galerie effondrée",291,19,0,0,False,4,1800,1333,14400,15100,1406,0,0,0,0,0,1128,0,0,5428,0
+1334,"Étude sur l'utilisation de paniers de mouches écarlates cosmiques",298,19,0,3,False,4,1800,1334,1600,2000,1407,0,0,0,0,0,1129,0,0,5428,0
+1335,"Étude de la comestibilité de produits océaniques",289,19,0,0,False,4,1800,1335,14300,15000,1408,0,0,0,0,0,1130,0,0,5427,0
+1336,"Étude corrélative de l'environnement du Puits de Moros",292,19,0,0,False,4,1800,1336,3000,3800,1409,0,0,0,0,0,1131,0,0,5429,0
+1337,"Collecte d'échan<SoftHyphen/>til<SoftHyphen/>lons océaniques",296,19,0,3,False,4,1800,1337,9000,12000,1410,0,0,0,0,0,1132,0,0,5427,0
+1338,"Étude de spécimens océaniques",290,19,0,0,False,4,1800,1338,5540,6290,1411,0,0,0,0,0,1133,0,0,5427,0
+1339,"EX<Indent/>: Étude de grands spécimens mutants",290,19,0,0,False,5,1800,1339,7390,14790,1412,0,0,0,0,0,1134,0,0,5428,0
+1340,"EX<Indent/>: Grands échan<SoftHyphen/>til<SoftHyphen/>lons des bas-fonds en urgence",294,19,0,0,False,5,1800,1340,29600,37000,1413,0,0,0,0,0,1135,0,0,5429,0
+1341,"EX<Indent/>: Étude corrélative de l'environnement du Terrier désertique",292,19,0,0,False,5,1800,1341,12000,15000,1414,0,0,18,0,0,1136,0,0,5431,0
+1342,"EX<Indent/>: Collecte d'échan<SoftHyphen/>til<SoftHyphen/>lons soumis à l'influence des anomalies gravitationnelles",296,19,0,3,False,5,1800,1342,4000,6000,1415,0,0,17,23,0,1137,0,0,5430,0
+1343,"EX+<Indent/>: Grands échan<SoftHyphen/>til<SoftHyphen/>lons améliorés des bas-fonds en urgence",294,19,0,0,False,6,210,1343,27000,31000,1416,0,0,0,18,0,1138,0,0,5429,0
+1344,"EX+<Indent/>: Étude sur l'utilisation de krills cosmiques",298,19,0,3,False,6,360,1344,4880,5680,1417,0,0,0,15,0,1139,0,0,5427,0
+1345,"EX+<Indent/>: Soutien à l'étude des vestiges",299,19,0,0,False,6,540,1345,2100,3000,1418,0,0,18,10,0,1140,0,0,5430,0
+1346,"EX+<Indent/>: Soutien sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re à l'étude des vestiges",299,19,0,3,False,6,720,1346,22500,35000,1419,0,0,18,0,1345,1141,0,0,5429,0
+1347,"EX+<Indent/>: Étude des flux aquatiques dans les profondeurs des vestiges",299,19,0,0,False,6,600,1347,1000,2500,1420,0,0,18,0,1346,1142,0,0,5431,0
+1348," Combustible végétal",303,9,0,0,True,1,1200,1348,0,0,1433,1434,0,0,0,0,1099,1,1002,5418,24000
+1349," Balais pour restauration",306,9,0,0,True,1,1200,1349,0,0,1435,1436,0,0,0,0,1100,1,1003,5409,24500
+1350," Générateurs de gravité portables",301,10,0,0,True,1,1200,1350,0,0,1437,1438,0,0,0,0,1101,1,1004,5414,24000
+1351," Lames pour cosmoforeuse",307,10,0,0,True,1,1200,1351,0,0,1439,1440,0,0,0,0,1102,1,1005,5417,24000
+1352," Chaînes pour rover",302,11,0,0,True,1,1200,1352,0,0,1441,1442,0,0,0,0,1103,1,1006,5407,24500
+1353," Réparation de rover",305,11,0,0,True,1,1200,1353,0,0,1443,1444,0,0,0,0,1104,1,1007,5409,24000
+1354," Éclairages de secours",302,12,0,0,True,1,1200,1354,0,0,1445,1446,0,0,0,0,1105,1,1008,5407,24500
+1355," Forge de coraux métalliques",304,12,0,0,True,1,1200,1355,0,0,1447,1448,0,0,0,0,1106,1,1009,5419,24500
+1356," Sangles en cuir",301,13,0,0,True,1,1200,1356,0,0,1449,1450,0,0,0,0,1107,1,1010,5414,24000
+1357," Gants de maintenance",305,13,0,0,True,1,1200,1357,0,0,1451,1452,0,0,0,0,1108,1,1011,5409,24000
+1358," Bâches pour rover",302,14,0,0,True,1,1200,1358,0,0,1453,1454,0,0,0,0,1109,1,1012,5407,24500
+1359," Bandages pour premiers secours",308,14,0,0,True,1,1200,1359,0,0,1455,1456,0,0,0,0,1110,1,1013,5407,24500
+1360," Agent nettoyant pour restauration",306,15,0,0,True,1,1200,1360,0,0,1457,1458,0,0,0,0,1111,1,1014,5409,24500
+1361," Onguent pour premiers secours",308,15,0,0,True,1,1200,1361,0,0,1459,1460,0,0,0,0,1112,1,1015,5407,24500
+1362," Additifs pour combustible végétal",303,16,0,0,True,1,1200,1362,0,0,1461,1462,0,0,0,0,1113,1,1016,5418,24000
+1363," Nouilles cosmiques",305,16,0,0,True,1,1200,1363,0,0,1463,1464,0,0,0,0,1114,1,1017,5409,24000
+1364," Récolte de coraux métalliques",304,17,0,0,True,1,1200,1364,0,0,1421,1422,0,0,0,0,0,1,0,5419,24500
+1365," Récolte de pierres oubliées",307,17,0,0,True,1,1200,1365,0,0,1423,1424,0,0,0,0,0,1,0,5417,24000
+1366," Récolte de plantes hygrophiles",303,18,0,0,True,1,1200,1366,0,0,1425,1426,0,0,0,0,0,1,0,5418,24000
+1367," Récolte de plantes médicinales",308,18,0,0,True,1,1200,1367,0,0,1427,1428,0,0,0,0,0,1,0,5414,24500
+1368," Récupération de coraux métalliques",304,19,0,0,True,1,1200,1368,0,0,1429,1430,0,0,0,0,1143,1,0,5427,24500
+1369," Récupération de ruines englouties",306,19,0,0,True,1,1200,1369,0,0,1431,1432,0,0,0,0,1144,1,0,5426,24500
+1370,"",0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,171 @@
+﻿key,0,1
+#,Image,Description
+int32,Image,str
+0,0,""
+1,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Le Front sud de Bozja est une mission spéciale durant laquelle les joueurs doivent coopérer en grand nombre afin de soutenir les résistants dans leur lutte contre la 4e légion impériale.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>0F</UIForeground>* Les pages suivantes expliquent les règles propres à cette mission.
+Les lire vous permettront de profiter pleinement de cette mission de grande envergure.<UIForeground>01</UIForeground>"
+2,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Synchronisation spéciale des jobs au niveau 80<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Le Front sud de Bozja est ouvert à tous les jobs de niveau 71 ou plus.
+Une fois dans l'instance, les personnages sont tous synchronisés au niveau 80.
+En outre, leur niveau d'objet est lui aussi synchronisé. Il n'est donc pas nécessaire de revêtir un équipement spécial pour profiter de cette mission.
+
+<UIForeground>0F</UIForeground>* Une fois sur le Front sud de Bozja, toutes les actions de jobs jusqu'au niveau 80 deviennent disponibles.<UIForeground>01</UIForeground>"
+3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Faites grimper votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> en accumulant des points de faits d'armes<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Participer à des combats spéciaux, comme les escarmouches ou les af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux, permet d'obtenir des points de faits d'armes. Vous en recevez d'autant plus que l'évaluation de votre par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion à ces combats est élevée.
+
+<UIForeground>0F</UIForeground>* Vaincre des bêtes sauvages ou des troupes impériales n'octroie à eux seuls aucun point de faits d'armes.<UIForeground>01</UIForeground>"
+4,86802,"Une fois que vous avez accumulé assez de points de faits d'armes, il suffit de parler à l'officier d'état-major du front sud pour qu'il vous octroie le rang de résistant<If(PlayerParameter(4))>e<Else/></If> suivant. Un rang plus élevé permet d'étendre la zone de combat en repoussant les lignes ennemies, mais aussi de progresser dans la quête principale de Garde-la-Reine.
+
+<UIForeground>0F</UIForeground>* Votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> n'augmentera pas sans points de faits d'armes. Brillez sur le champ de bataille et rapportez vos exploits à l'état-major pour gagner du galon<Indent/>!<UIForeground>01</UIForeground>"
+5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ L'occasion parfaite de monter vos autres jobs<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Remporter des escarmouches ou des af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux permet aussi de gagner des points d'expérience et de passer des niveaux pour le job utilisé. Con<SoftHyphen/>trai<SoftHyphen/>re<SoftHyphen/>ment aux rangs de résistant, ces gains sont automatiques, et il n'est pas nécessaire de s'adresser à l'officier d'état-major pour les obtenir.
+
+Profitez-en donc pour monter vos jobs qui ne sont pas encore au niveau 80<Indent/>!"
+6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Des interrogations<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Si vous pensez ne pas avoir bien compris le fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment du Front sud de Bozja, Sjeros à Gangos et le guide de la résistance sur le front pourront vous renseigner. N'hésitez pas à leur demander des précisions, ils sont là pour ça<Indent/>!"
+7,86804,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Les donjons, une autre forme d'aventure<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Les donjons sont des lieux remplis de monstres à occire et de mécanismes à déjouer, à explorer en <UIForeground>0F</UIForeground>coopération<UIForeground>01</UIForeground> avec <UIForeground>0F</UIForeground>d'autres joueurs<UIForeground>01</UIForeground> ou des <UIForeground>0F</UIForeground>PNJ alliés<UIForeground>01</UIForeground>. Au fond de chacun se trouve un <UIForeground>0F</UIForeground>boss<UIForeground>01</UIForeground> qu'il vous faudra vaincre pour obtenir des <UIForeground>0F</UIForeground>récompenses<UIForeground>01</UIForeground>.
+Certains donjons devront être accomplis pour progresser dans l'<UIForeground>0F</UIForeground>épopée<UIForeground>01</UIForeground>.
+Les donjons doivent être accomplis en un temps donné. Qui plus est, vous ne pourrez pas changer de classe ou de job en cours de mission.
+Lisez la page suivante pour savoir comment vous lancer dans l'exploration d'un donjon."
+8,86805,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ① Deux façons de se lancer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Il est possible d'explorer un donjon selon deux modalités différentes<Indent/>: en <UIForeground>0F</UIForeground>solo<UIForeground>01</UIForeground>, avec l'aide de <UIForeground>0F</UIForeground>PNJ alliés<UIForeground>01</UIForeground>, ou avec <UIForeground>0F</UIForeground>d'autres joueurs<UIForeground>01</UIForeground>, trouvés à l'aide de la fonction de <UIForeground>0F</UIForeground>groupement<UIForeground>01</UIForeground>. Bien sûr, il est également possible de s'enregistrer avec son équipe préalablement formée.
+Les donjons peuvent être accomplis de la même façon, quelle que soit la modalité de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion."
+9,86806,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ② Avec des PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Vous pouvez faire appel à des <UIForeground>0F</UIForeground>PNJ alliés<UIForeground>01</UIForeground> pour explorer un donjon en <UIForeground>0F</UIForeground>solo<UIForeground>01</UIForeground>, une fonctionnalité désignée sous le nom de <UIForeground>0F</UIForeground>Renforts<UIForeground>01</UIForeground>.
+
+Les donjons compatibles avec le système de renforts sont indiqués par un <UIForeground>0F</UIForeground>icone<UIForeground>01</UIForeground> au niveau de leur entrée."
+10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ③ Avec des PNJ alliés (suite)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>0F</UIForeground>option<UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>0F</UIForeground>fenêtre<UIForeground>01</UIForeground> des renforts.
+
+Les <UIForeground>0F</UIForeground>classes/jobs<UIForeground>01</UIForeground> des PNJ seront fixés en fonction de votre propre classe/job, de façon à former <UIForeground>0F</UIForeground>au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment<UIForeground>01</UIForeground> l'équipe la mieux équilibrée possible.
+Passez en revue les in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions fournies, puis pressez le bouton <UIForeground>0F</UIForeground>Participer<UIForeground>01</UIForeground> pour lancer la mission<Indent/>!"
+11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ④ En formant une équipe de joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Vous cherchez des <UIForeground>0F</UIForeground>coéquipiers<UIForeground>01</UIForeground> pour explorer un donjon<Indent/>? Dans ce cas, facilitez-vous la tâche avec l'<UIForeground>0F</UIForeground>outil de mission<UIForeground>01</UIForeground><Indent/>!
+
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>0F</UIForeground>option<UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>0F</UIForeground>fenêtre<UIForeground>01</UIForeground> de l'outil de mission.
+Sélectionnez ensuite les <UIForeground>0F</UIForeground>destinations<UIForeground>01</UIForeground> de votre choix et pressez le bouton <UIForeground>0F</UIForeground>Participer<UIForeground>01</UIForeground>. Vous serez alors au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment <UIForeground>0F</UIForeground>groupé(e)<UIForeground>01</UIForeground> avec d'autres joueurs désirant explorer les mêmes lieux."
+12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ⑤ En formant une équipe de joueurs (suite)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Un <UIForeground>0F</UIForeground>signal sonore<UIForeground>01</UIForeground> retentira une fois le groupement accompli.
+Pressez alors le bouton <UIForeground>0F</UIForeground>Commencer<UIForeground>01</UIForeground> pour lancer la mission<Indent/>!
+
+Lorsque vous faites équipe avec <UIForeground>0F</UIForeground>d'autres joueurs<UIForeground>01</UIForeground>, soyez courtois(e) et <UIForeground>0F</UIForeground>coopérez<UIForeground>01</UIForeground> autant que possible pour assurer la réussite de la mission<Indent/>!"
+13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Toujours plus de donjons à explorer<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+À mesure que vous progresserez dans le jeu, vous aurez accès à de plus en plus de donjons.
+Il se peut que certains soient <UIForeground>0F</UIForeground>incompatibles<UIForeground>01</UIForeground> avec le système de renforts, auquel cas vous pourrez toujours les explorer en vous enregistrant via l'<UIForeground>0F</UIForeground>outil de mission<UIForeground>01</UIForeground>.
+
+Vous pourrez également revisiter les donjons déjà accomplis, aussi bien avec l'<UIForeground>0F</UIForeground>outil de mission<UIForeground>01</UIForeground> que le système de <UIForeground>0F</UIForeground>renforts<UIForeground>01</UIForeground> (tous deux accessibles à partir de la rubrique <UIForeground>0F</UIForeground>Missions<UIForeground>01</UIForeground> du <UIForeground>0F</UIForeground>menu principal<UIForeground>01</UIForeground>)."
+14,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Besoin d'aide<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Dans la fenêtre de l'outil de mission ou des renforts, pressez le <UIForeground>0F</UIForeground>bouton<Indent/>?<UIForeground>01</UIForeground> pour ouvrir l'aide correspondante.
+
+L'outil de mission et le système de renforts sont des fonctionnalités incontournables pour progresser dans le jeu. Faites-en bon usage tout au long de votre aventure<Indent/>!"
+15,86812,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Les donjons à embranchements, une affaire de choix<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Les <UIForeground>0F</UIForeground>donjons à embranchements<UIForeground>01</UIForeground> sont des donjons spéciaux offrant de <UIForeground>0F</UIForeground>multiples chemins<UIForeground>01</UIForeground> à parcourir en compagnie d'un personnage clef.
+En les explorant, vous découvrirez des <UIForeground>0F</UIForeground>fragments d'histoire<UIForeground>01</UIForeground> à col<SoftHyphen/>lec<SoftHyphen/>tion<SoftHyphen/>ner.
+
+Vos découvertes seront consignées dans un journal d'exploration.
+
+À noter qu'il existe des embranchements cachés au sein de chaque chemin. Trouvez-les tous pour connaître le fin mot de l'histoire<Indent/>!"
+16,86812,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Des donjons à explorer seul(e) ou en équipe<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+La difficulté des donjons à embranchements <UIForeground>0F</UIForeground>s'adapte au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment<UIForeground>01</UIForeground> au nombre de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants, qui peut aller de un à quatre joueurs.
+
+Faites équipe avec vos amis, trouvez des alliés à l'aide du système de groupement... ou lancez-vous en solo si la difficulté ne vous effraie pas."
+17,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Les actions embranchées<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Utilisables au sein des donjons à embranchements, les <UIForeground>0F</UIForeground>actions embranchées<UIForeground>01</UIForeground> permettent de pallier les faiblesses d'une équipe, aucune structure n'étant imposée pour ce type de missions. Par exemple, un tank ou un DPS pourra jouer le rôle de soigneur à l'aide d'actions comme <UIForeground>0F</UIForeground>Soin embranché<UIForeground>01</UIForeground> ou <UIForeground>0F</UIForeground>Vie embranchée<UIForeground>01</UIForeground>.
+
+Vous pouvez choisir jusqu'à deux actions embranchées, et en changer à tout moment durant la mission via la fenêtre des donjons spéciaux."
+18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>S'enregistrer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Pour explorer un donjon à embranchements, enregistrez-vous via la fenêtre dédiée. Ouvrez-la en parlant au <UIForeground>0F</UIForeground>PNJ<UIForeground>01</UIForeground> à l'entrée du donjon, ou en choisissant <UIForeground>0F</UIForeground>Donjons spéciaux<UIForeground>01</UIForeground> dans la rubrique Missions du menu principal.
+
+Depuis cette fenêtre, vous pouvez également modifier vos actions embranchées, consulter votre journal d'exploration, ou encore régler certains paramètres de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion."
+19,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Soyez les bienvenus sur votre Félicité insulaire, un petit coin de nature rien qu'à vous, au milieu de l'archipel des Cieldalaes<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Explorez l'île et partez à la recherche de vues imprenables, lancez-vous dans l'agriculture, ou élevez des animaux, il existe de nombreuses façons de profiter de votre bout de paradis selon vos envies."
+20,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Aucune restriction de classe ou de job<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Peu importe votre expérience avec l'artisanat ou la récolte, n'importe qui peut s'adonner aux joies de la Félicité insulaire. Venez comme vous êtes<Indent/>!"
+21,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ EXP insulaire et rang de félicité<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Accomplissez certaines tâches pour gagner de l'EXP insulaire. Une fois atteint un certain seuil, vous augmenterez votre rang de félicité d'un niveau. Cela vous permettra également d'accéder à de nouvelles activités sur votre île."
+22,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Objectifs de développement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Atteignez ces différents buts pour obtenir l'accès à de nouvelles activités sur votre Félicité insulaire. Si vous ne savez pas quoi faire pour développer votre île, ces objectifs sauront vous guider vers la prochaine étape."
+23,86814,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>La Salle des novices est disponible<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Vous pourrez y apprendre, en solo et à votre rythme, les bases du combat pour les différents rôles qui composent une équipe.
+
+Pour y accéder, choisissez “Missions” dans le menu principal puis “Salle des novices”, ou adressez-vous directement à un PNJ “chef instructeur”.
+
+En réussissant les divers exercices proposés, vous obtiendrez des équipements et des accessoires, alors n'hésitez pas à relever le défi<Indent/>!"
+24,86815,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>De nouveaux exercices sont disponibles à la Salle des novices<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Ils vous apprendront à éviter une multitude d'attaques complexes pour vous préparer à affronter les défis les plus difficiles<Indent/>!
+
+Pour y accéder, choisissez “Missions” dans le menu principal puis “Salle des novices”, ou adressez-vous directement à un PNJ “chef instructeur”.
+
+En plus d'acquérir des réflexes et des con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces nécessaires aux combats à difficulté élevée, des récompenses sont également à la clef<Indent/>!"
+25,86817,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>L'exploration de l'île de Lunule est lancée<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+De nombreuses activités vous attendent sur ce petit bout de terre perdu au milieu de l'océan et enveloppé d'une mystérieuse barrière magique. Enchaînez les combats contre la faune hostile, participez à des af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments à grande échelle contre des boss redoutables, ou fouillez simplement chaque recoin de l'île pour percer à jour ses multiples secrets<Indent/>!
+
+<UIForeground>0F</UIForeground>* Les pages suivantes expliquent les règles propres à cette mission. Veuillez les lire pour ne rien rater de cette pas<SoftHyphen/>sion<SoftHyphen/>nan<SoftHyphen/>te exploration<Indent/>!<UIForeground>01</UIForeground>"
+26,86818,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Conditions de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Seuls les <UIForeground>0F</UIForeground>disciples de la guerre et de la magie de niveau 100 ou plus<UIForeground>01</UIForeground> peuvent participer à cette mission. Le <UIForeground>0F</UIForeground>niveau d'objet moyen requis est de 690<UIForeground>01</UIForeground>, et ce dernier est <UIForeground>0F</UIForeground>synchronisé à 700<UIForeground>01</UIForeground> pendant l'exploration.
+
+À noter qu'il est possible de changer de job pendant la mission, tant que les conditions sont respectées."
+27,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Niveau de savoir ①<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+La progression sur l'île de Lunule est représentée par le <UIForeground>0F</UIForeground>niveau de savoir<UIForeground>01</UIForeground>. Terminer des quêtes et remporter certains combats vous permettra de gagner des <UIForeground>0F</UIForeground>points de savoir<UIForeground>01</UIForeground>, l'équivalent des points d'expérience dans cette mission."
+28,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Niveau de savoir ②<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+L'écart entre votre niveau de savoir et celui de vos ennemis pouvant avoir une influence importante sur l'issue d'un combat, réfléchissez bien avant de vous attaquer à des monstres dont le niveau est plus élevé que le vôtre<Indent/>!"
+29,86820,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Confrontations critiques<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Pendant l'exploration, vous pourrez rejoindre des <UIForeground>0F</UIForeground>confrontations critiques<UIForeground>01</UIForeground>, des af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments à grande échelle pour 72 joueurs maximum. Le niveau de savoir n'y étant pas pris en compte, vous pourrez y participer librement. Remporter la victoire vous octroiera des récompenses alléchantes et une grande quantité de points de savoir, donc n'hésitez pas à relever le défi<Indent/>!
+D'autre part, notez que l'action Rapatriement est remplacée par <UIForeground>0F</UIForeground>Demi-rapatriement<UIForeground>01</UIForeground> durant l'exploration, ce qui vous permettra de retourner à votre point de départ sans vous soucier d'un long temps de recharge."
+30,0,""
+31,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Bienvenue sur le projet d'exploration cosmique !<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+En tant que nouveau membre d'équipage, votre tâche consiste à <UIForeground>0F</UIForeground>collaborer avec d'autres joueurs du même Monde<UIForeground>01</UIForeground> afin d'explorer les différentes zones que vous allez traverser et d'aider à leur développement.
+
+Mettez à con<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion vos talents d'artisan ou de récolteur afin de soutenir l'évolution du projet ! Lorsque celui-ci aura progressé jusqu'à une certaine étape, le paysage se transformera avec l'apparition de nouvelles infrastructures."
+32,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Classes éligibles et synchronisation de niveau<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Les différentes missions proposées au sein de l'exploration cosmique ne peuvent être effectuées qu'avec les classes d'artisan et de récolteur.
+
+Les missions cosmiques sont également soumises à une <UIForeground>0F</UIForeground>synchronisation de niveau<UIForeground>01</UIForeground>, leur difficulté et le montant des récompenses obtenues variant en fonction du niveau du joueur."
+33,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Règles spéciales lors de l'exploration<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+La régulation du cristal central, présent dans chaque zone explorable, permet aux joueurs de bénéficier du Cosmosprint, qui offre une vitesse de déplacement et une durée d'effet plus importante que le Sprint classique."
+34,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Les fonctions de la tablette cosmique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Outre les missions cosmiques et les in<SoftHyphen/>ter<SoftHyphen/>ven<SoftHyphen/>tions mécaniques, de nombreuses autres missions et objectifs peuvent être réalisés au cours de l'exploration cosmique.
+
+Vous pouvez retrouver des ex<SoftHyphen/>pli<SoftHyphen/>ca<SoftHyphen/>tions sur chaque type de contenu avec le <UIForeground>0F</UIForeground>Guide d'exploration<UIForeground>01</UIForeground> accessible depuis votre <UIForeground>0F</UIForeground>tablette cosmique<UIForeground>01</UIForeground>.
+
+Pensez à y jeter un œil si la moindre interrogation vous effleure l'esprit !"
+35,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Accéder aux zones d'exploration<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Afin de faire progresser l'explorations cosmique, il est nécessaire de se trouver dans une zone d'exploration.
+Vous pouvez accéder à Sinus Ardorum en vous adressant au PNJ Drivingway, à Mare Lamentorum, ou vous rendre directement sur la planète la plus récente en intéragissant avec l'éthérite du halot de Bestway.
+Les zones d'exploration sont parfois divisées en plusieurs instances afin de gérer les périodes d'encombrement.
+"

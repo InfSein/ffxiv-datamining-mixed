@@ -1,0 +1,132 @@
+﻿key,0,1,2,3,4,5,6
+#,Color,Shade,SubOrder,Name,Name2,,
+int32,Color,byte,byte,str,str,bit&01,bit&02
+0,0,2,1,"aucune","Aucune",False,True
+1,14999504,2,2,"blanc neige","Blanc neige",False,True
+2,11315362,2,3,"gris cendre","Gris cendre",False,True
+3,9013124,2,4,"gris goobbue","Gris goobbue",False,True
+4,6645093,2,5,"gris ardoise","Gris ardoise",False,True
+5,4736834,2,6,"gris charbon","Gris charbon",False,True
+6,2828579,2,7,"noir suie","Noir suie",False,True
+7,15114134,4,1,"rose floral","Rose floral",False,True
+8,8612201,4,2,"lilas","Lilas",False,True
+9,5969705,4,3,"rouge rolanbaie","Rouge rolanbaie",False,True
+10,7871002,4,4,"rouge Dalamud","Rouge Dalamud",False,True
+11,6431239,4,5,"rouille","Rouille",False,True
+12,4527377,4,6,"lie-de-vin","Lie-de-vin",False,True
+13,13397086,4,7,"rose corail","Rose corail",False,True
+14,9517863,4,8,"rouge sang","Rouge sang",False,True
+15,14985866,4,9,"rose saumon","Rose saumon",False,True
+16,12016685,5,1,"orange couchant","Orange couchant",False,True
+17,8206598,5,2,"vermillon terne","Vermillon terne",False,True
+18,6966071,5,3,"marron écorce","Marron écorce",False,True
+19,7224612,5,4,"chocolat","Chocolat",False,True
+20,5188895,5,5,"brun fauve","Brun fauve",False,True
+21,3154203,5,6,"brun kobold","Brun kobold",False,True
+22,13209942,5,7,"brun liège","Brun liège",False,True
+23,10055231,5,8,"brun qiqirn","Brun qiqirn",False,True
+24,8084525,5,9,"brun opo-opo","Brun opo-opo",False,True
+25,10651484,5,10,"brun bouquetin","Brun bouquetin",False,True
+26,12940324,5,11,"orange citrouille","Orange citrouille",False,True
+27,9328667,5,12,"brun noisette","Brun noisette",False,True
+28,6570518,5,13,"feuille-morte","Feuille-morte",False,True
+29,4008205,5,14,"brun châtaigne","Brun châtaigne",False,True
+30,12166281,5,15,"brun gobelin","Brun gobelin",False,True
+31,9601388,5,16,"brun schiste","Brun schiste",False,True
+32,6378053,5,17,"brun taupe","Brun taupe",False,True
+33,4141865,5,18,"brun argile","Brun argile",False,True
+34,15455136,6,1,"ivoire","Ivoire",False,True
+35,12034928,6,2,"ocre uldien","Ocre uldien",False,True
+36,14398551,6,3,"jaune chocobo","Jaune désert",False,True
+37,16434731,6,4,"jaune miel","Jaune miel",False,True
+38,14982708,6,5,"jaune milli-maïs","Jaune milli-maïs",False,True
+39,12355588,6,6,"jaune coeurl","Jaune coeurl",False,True
+40,15914864,6,7,"jaune crème","Jaune crème",False,True
+41,10847280,6,8,"jaune Halatali","Jaune Halatali",False,True
+42,4207377,6,9,"raisin sec","Raisin sec",False,True
+43,5788208,7,1,"kaki","Kaki",False,True
+44,12303242,7,2,"vert sylphe","Vert sylphe",False,True
+45,11251796,7,3,"vert citron","Vert citron",False,True
+46,7369510,7,4,"vert mousse","Vert mousse",False,True
+47,9149539,7,5,"vert prairie","Vert prairie",False,True
+48,4936242,7,6,"vert olive","Vert olive",False,True
+49,3290657,7,7,"vert viridien","Vert viridien",False,True
+50,10204003,7,8,"vert pomme","Vert pomme",False,True
+51,6652481,7,9,"vert cactuar","Vert cactuar",False,True
+52,2640684,7,10,"vert chasseur","Vert chasseur",False,True
+53,4219705,7,11,"vert otyugh","Vert otyugh",False,True
+54,6255960,7,12,"vert adamankhélone","Vert adamankhélone",False,True
+55,3886396,7,13,"vert Nophica","Vert Nophica",False,True
+56,1976865,7,14,"vert sapin","Vert sapin",False,True
+57,9878969,7,15,"vert céleste","Vert céleste",False,True
+58,4420210,7,16,"turquoise","Turquoise",False,True
+59,2049606,7,17,"vert morbol","Vert morbol",False,True
+60,11715790,8,1,"bleu glace","Bleu glace",False,True
+61,8630482,8,2,"bleu ciel","Bleu ciel",False,True
+62,6586784,8,3,"bleu horizon","Bleu horizon",False,True
+63,3893382,8,4,"bleu paon","Bleu paon",False,True
+64,1850708,8,5,"bleu de Rhotano","Bleu de Rhotano",False,True
+65,9345964,8,6,"bleu charron","Bleu charron",False,True
+66,5199718,8,7,"bleu céruleum","Bleu céruleum",False,True
+67,3094609,8,8,"bleu guède","Bleu guède",False,True
+68,1711911,8,9,"bleu encre","Bleu encre",False,True
+69,5996480,8,10,"bleu raptor","Bleu raptor",False,True
+70,3102857,8,11,"bleu d'Othard","Bleu d'Othard",False,True
+71,2310514,8,12,"bleu tempête","Bleu tempête",False,True
+72,1124676,8,13,"bleu du néant","Bleu du néant",False,True
+73,2568295,8,14,"bleu royal","Bleu royal",False,True
+74,1579319,8,15,"bleu de minuit","Bleu de minuit",False,True
+75,3618631,8,16,"bleu turquin","Bleu turquin",False,True
+76,3222871,8,17,"bleu marine","Bleu marine",False,True
+77,8880046,9,1,"lavande","Lavande",False,True
+78,5326176,9,2,"colombin","Colombin",False,True
+79,3288123,9,3,"cassis","Cassis",False,True
+80,12033724,9,4,"iris","Iris",False,True
+81,3877437,9,5,"raisin","Raisin",False,True
+82,16699125,9,6,"mauve lotus","Mauve lotus",False,True
+83,14457802,9,7,"mauve colibri","Mauve colibri",False,True
+84,7950956,9,8,"prune","Prune",False,True
+85,6697038,9,9,"byzantium","Byzantium",False,True
+86,14942225,4,10,"rouge rubis","Rouge rubis",False,True
+87,16070555,4,11,"rose cerise","Rose cerise",False,True
+88,16709732,6,10,"jaune serin","Jaune serin",False,True
+89,16511412,6,11,"jaune vanille","Jaune vanille",False,True
+90,3746,8,18,"bleu dragon","Bleu dragon",False,True
+91,307149,8,19,"bleu turquoise","Bleu turquoise",False,True
+92,6316136,10,21,"bronze à canon","Bronze à canon",True,False
+93,15328218,10,22,"blanc perlé","Blanc perlé",True,False
+94,15192471,10,23,"cuivre jaune","Cuivre jaune",True,False
+95,14551830,4,12,"rouge carmin","Rouge carmin",False,True
+96,15536526,4,13,"rose néon","Rose néon",False,True
+97,16011281,5,19,"orange brillant","Orange brillant",False,True
+98,14674440,6,12,"jaune néon","Jaune néon",False,True
+99,11925264,7,18,"vert néon","Vert néon",False,True
+100,3820688,8,20,"bleu azur","Bleu azur",False,True
+101,16382196,10,1,"blanc immaculé","Blanc immaculé",False,True
+102,1973790,10,2,"noir de jais","Noir de jais",False,True
+103,16632006,10,3,"rose pastel","Rose pastel",False,True
+104,3283225,10,4,"rouge foncé","Rouge foncé",False,True
+105,2629916,10,5,"brun foncé","Brun foncé",False,True
+106,12242858,10,6,"vert pastel","Vert pastel",False,True
+107,1387564,10,7,"vert foncé","Vert foncé",False,True
+108,9872601,10,8,"bleu pastel","Bleu pastel",False,True
+109,1187629,10,9,"bleu foncé","Bleu foncé",False,True
+110,12301786,10,10,"violet pastel","Violet pastel",False,True
+111,2301990,10,11,"violet foncé","Violet foncé",False,True
+112,10987431,10,12,"argent","Argent brillant",True,False
+113,15590973,10,13,"or","Or brillant",True,False
+114,11935051,10,14,"rouge métallique","Rouge métallique",True,False
+115,14978095,10,15,"orange métallique","Orange métallique",True,False
+116,16046662,10,16,"jaune métallique","Jaune métallique",True,False
+117,2271063,10,17,"vert métallique","Vert métallique",True,False
+118,6214886,10,18,"bleu ciel métallique","Bleu ciel métallique",True,False
+119,5264089,10,19,"bleu métallique","Bleu métallique",True,False
+120,10708674,10,20,"violet métallique","Violet métallique",True,False
+121,6443151,9,10,"violet pourpre","Violet pourpre",False,True
+122,10639723,10,24,"rose métallique","Rose métallique",True,False
+123,2031616,10,25,"rouge rubis métallique","Rouge rubis métallique",True,False
+124,1393215,10,26,"vert de cobalt métallique","Vert de cobalt métallique",True,False
+125,524831,10,27,"bleu foncé métallique","Bleu foncé métallique",True,False
+126,0,0,0,"","",False,False
+127,0,0,0,"","",False,False
+128,0,0,0,"","",False,False

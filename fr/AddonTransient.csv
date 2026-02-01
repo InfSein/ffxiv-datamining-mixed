@@ -1,0 +1,1156 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"<CommandIcon(10)/> Retirer l'objet"
+2,"<CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+3,"<CommandIcon(8)/> Changer l'ordre  <CommandIcon(10)/> Sous-menu"
+4,"<CommandIcon(11)/> Rechercher"
+5,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Acheter  <CommandIcon(11)/> Vendre un objet"
+6,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Liste des commandes texte"
+7,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Nouvelle lettre"
+8,"<CommandIcon(10)/> Sous-menu"
+9,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+10,"<CommandIcon(8)/> Choix des objets joints"
+11,"<CommandIcon(10)/> Affichage prioritaire dans la liste des objectifs/cacher  <CommandIcon(24)/> Défiler"
+12,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Revenir"
+13,"<CommandIcon(12)/>"
+14,"<CommandIcon(13)/>"
+15,"<CommandIcon(10)/> Placer dans les raccourcis  <CommandIcon(8)/> Exécuter"
+16,"<CommandIcon(10)/> Sous-menu"
+17,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>+<CommandIcon(23)/> Zoomer  <CommandIcon(8)/> Changer de carte"
+18,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte <CommandIcon(12)/>＋<CommandIcon(10)/> Changer de section  <CommandIcon(12)/>+<CommandIcon(23)/> Zoomer  <CommandIcon(8)/> Changer de carte"
+19,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+20,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+21,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+22,"<CommandIcon(10)/> Sous-menu"
+23,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Sélection d'objet"
+24,"<CommandIcon(8)/> Mettre en vente  <CommandIcon(10)/> Sous-menu"
+25,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Sélection d'objet"
+26,"<CommandIcon(10)/> Sous-menu"
+27,"<CommandIcon(10)/> Sous-menu"
+28,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+29,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+30,"<CommandIcon(8)/> Accepter  <CommandIcon(11)/> Ouvrir le journal  <CommandIcon(24)/> Défiler"
+31,"<CommandIcon(11)/> Rechercher"
+32,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Voir les résultats  <CommandIcon(9)/> Retour"
+33,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Voir les résultats  <CommandIcon(9)/> Retour  <CommandIcon(12)/><CommandIcon(13)/> Changer de page"
+34,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+35,"<CommandIcon(11)/> Mettre à jour la liste  <CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Voir les détails"
+36,"<CommandIcon(11)/> Rechercher"
+37,"<CommandIcon(10)/><CommandIcon(11)/>Alterner entre les différents rôles  <CommandIcon(8)/> Modifier les classes/jobs recherchés"
+38,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Échanger"
+39,"<CommandIcon(10)/> Sous-menu"
+40,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Fermer"
+41,"<CommandIcon(13)/>"
+42,"<CommandIcon(12)/>"
+43,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>+<CommandIcon(23)/> Zoomer  <CommandIcon(8)/> Se téléporter"
+44,"<CommandIcon(10)/> Sous-menu"
+45,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+46,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Macros  <CommandIcon(24)/> Défilement"
+47,"<CommandIcon(8)/> Choisir  <CommandIcon(11)/> Retour à la liste"
+48,"<CommandIcon(8)/> Annuler le choix  <CommandIcon(11)/> Choisir dans l'inventaire"
+49,"<CommandIcon(11)/> Choisir dans l'inventaire"
+50,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Chercher cet objet"
+51,"<CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Rotation  <CommandIcon(12)/>+<CommandIcon(24)/> Zoom avant/arrière"
+52,"<CommandIcon(12)/><CommandIcon(13)/> Changer de liste"
+53,"<CommandIcon(23)/> Défiler"
+54,"<CommandIcon(10)/> Annuler"
+55,"<CommandIcon(8)/> Aller dans la chambre  <CommandIcon(10)/> Profil de la chambre"
+56,"<CommandIcon(8)/> Entraîner  <CommandIcon(10)/> Sous-menu"
+57,"<CommandIcon(8)/> Entraîner  <CommandIcon(10)/> Sous-menu"
+58,"<CommandIcon(11)/> Voir le rapport d'exploration  <CommandIcon(10)/> Sous-menu"
+59,"<CommandIcon(11)/> Voir l'indice  <CommandIcon(10)/> Sous-menu"
+60,"<CommandIcon(10)/> Placer dans les raccourcis  <CommandIcon(8)/> Exécuter"
+61,"<CommandIcon(10)/> Sous-menu"
+62,"<CommandIcon(11)/> Changer l'affichage des cartes <CommandIcon(10)/> Sous-menu"
+63,"<CommandIcon(10)/> Sous-menu"
+64,"<CommandIcon(11)/> Confirmer"
+65,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Sélectionner"
+66,"<CommandIcon(10)/> Sous-menu"
+67,"<CommandIcon(10)/> Sous-menu  <CommandIcon(1)/> Sélection du log  <CommandIcon(11)/> Agrandissement du log"
+68,"<CommandIcon(1)/> Sélection du log  <CommandIcon(11)/>  Agrandissement du log"
+69,"<CommandIcon(8)/> Sélectionner une action"
+70,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Sélectionner"
+71,"<CommandIcon(8)/> Changer d'équipement  <CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie"
+72,"<CommandIcon(10)/> Sous-menu  <CommandIcon(1)/> Sélection du log   <CommandIcon(2)/> Sélection de l'onglet <CommandIcon(11)/> Agrandissement du log"
+73,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Discussion  <CommandIcon(11)/> Agrandissement du log"
+74,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Discussion  <CommandIcon(11)/> Réinitialise la taille du log"
+75,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer  <CommandIcon(13)/> Traduction automatique  <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+76,"<CommandIcon(3)/> Précédent  <CommandIcon(4)/> Suivant  <CommandIcon(13)/> Traduction automatique"
+77,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Appliquer"
+78,"<CommandIcon(11)/> Appliquer  <CommandIcon(10)/> Supprimer les paramètres"
+79,"<CommandIcon(8)/> Passer  <CommandIcon(9)/> Annuler"
+80,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la classe"
+81,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Conditions de recherche"
+82,"<CommandIcon(5)/> Trier  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+83,"<CommandIcon(7)/> Déplacer  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+84,"<CommandIcon(11)/> Modifier l'annonce de la compagnie"
+85,"<CommandIcon(10)/> Sous-menu"
+86,"<CommandIcon(8)/> Vérifier l'état en ligne  <CommandIcon(10)/> Sous-menu"
+87,"<CommandIcon(11)/> Appliquer"
+88,"<CommandIcon(11)/> Appliquer"
+89,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Appliquer"
+90,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+91,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+92,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+93,"<CommandIcon(8)/> Placer dans l'arsenal  <CommandIcon(10)/> Sous-menu"
+94,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie"
+95,"<CommandIcon(8)/> Placer dans l'inventaire  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie"
+96,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+97,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+98,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+99,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+100,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+101,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+102,"<CommandIcon(10)/> Sous-menu"
+103,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie"
+104,"<CommandIcon(10)/> Sous-menu  <CommandIcon(3)/><CommandIcon(4)/> Changer de page"
+105,"<CommandIcon(8)/> Vérifier l'état en ligne  <CommandIcon(10)/> Sous-menu  <CommandIcon(3)/><CommandIcon(4)/> Changer de page"
+106,"<CommandIcon(23)/> Défiler"
+107,"<CommandIcon(8)/> Utiliser  <CommandIcon(10)/> Sous-menu"
+108,"<CommandIcon(10)/> Placer dans les raccourcis"
+109,"<CommandIcon(10)/> Sélectionner  <CommandIcon(11)/> Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion  <CommandIcon(24)/> Défiler"
+110,"<CommandIcon(10)/> Reprendre l'objet"
+111,"<CommandIcon(8)/> Choisir un objet"
+112,"<CommandIcon(5)/> Défiler"
+113,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Choisir un objet"
+114,"<CommandIcon(7)/> Déplacer  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+115,"<CommandIcon(8)/> Sortir un objet <CommandIcon(11)/> Choisir un objet"
+116,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+117,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie  <CommandIcon(9)/> Retour"
+118,"<CommandIcon(10)/> Placer dans les raccourcis"
+119,"<CommandIcon(10)/> Sous-menu"
+120,"<CommandIcon(8)/> Mettre/retirer"
+121,"<CommandIcon(11)/> Choix aléatoire"
+122,"<CommandIcon(8)/> Choisir la couleur  <CommandIcon(11)/> Choix aléatoire"
+123,"<CommandIcon(8)/> Sélectionner  <CommandIcon(11)/> Choix aléatoire"
+124,"<CommandIcon(24)/> Défilement des in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions"
+125,"<CommandIcon(3)/><CommandIcon(4)/> Déplacer <CommandIcon(8)/> Confirmer"
+126,"<CommandIcon(11)/> Appliquer"
+127,"<CommandIcon(11)/> Choisir un objet"
+128,"<CommandIcon(10)/> Sous-menu  <CommandIcon(1)/> Sélection du log  <CommandIcon(11)/> Taille normale du log"
+129,"<Gui(17)/> Réduction de la fenêtre  <CommandIcon(11)/> Cacher/Afficher"
+130,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Vérifier la tenue"
+131,"<CommandIcon(8)/> Bons coins"
+132,"<CommandIcon(23)/> Défilement de la carte"
+133,"<CommandIcon(23)/> Défilement de la carte <CommandIcon(8)/> Nomenclature"
+134,"<CommandIcon(1)/> Sélection du log  <CommandIcon(2)/> Sélection de l'onglet <CommandIcon(11)/> Agrandissement du log"
+135,"<CommandIcon(1)/> Sélection du log  <CommandIcon(11)/> Taille normale du log"
+136,"<CommandIcon(11)/> Choisir un objet"
+137,"<CommandIcon(10)/> Annuler les changements"
+138,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Liste du mobilier"
+139,"<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Inventaire <If(Equal(PlayerParameter(105),0))><CommandIcon(14)/><CommandIcon(15)/> Basculer entre rangés/entrepôt<Else/></If>"
+140,"<CommandIcon(11)/> Se déplacer"
+141,"<CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+142,"<CommandIcon(10)/> Sous-menu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+143,"<CommandIcon(10)/> Placer dans les raccourcis"
+144,"<CommandIcon(10)/> Sous-menu  <CommandIcon(1)/> Sélection du log  <CommandIcon(2)/> Sélection de l'onglet"
+145,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+146,"<CommandIcon(1)/> Sélection du log  <CommandIcon(2)/> Sélection de l'onglet"
+147,"<CommandIcon(12)/><CommandIcon(13)/> Naviguer entre les onglets"
+148,"<CommandIcon(9)/> Discussion  <CommandIcon(11)/> Agrandissement du log"
+149,"<CommandIcon(9)/> Discussion  <CommandIcon(11)/> Réinitialise la taille du log"
+150,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>+<CommandIcon(23)/> Zoom avant/arrière"
+151,"<CommandIcon(10)/> Sous-menu"
+152,"<CommandIcon(9)/> Retour"
+153,"<CommandIcon(1)/> Sélection du log  <CommandIcon(2)/> Sélection de l'onglet"
+154,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la classe"
+155,"<CommandIcon(12)/><CommandIcon(13)/> Choix de la catégorie  <CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Synthétiser"
+156,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Synthétiser"
+157,"<CommandIcon(9)/> Bouton “Fermer”"
+158,"<CommandIcon(9)/> Bouton “Fermer”"
+159,"<CommandIcon(10)/> Sous-menu"
+160,"<CommandIcon(10)/> Sous-menu"
+161,"<CommandIcon(10)/> Sous-menu"
+162,"<CommandIcon(10)/> Sous-menu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+163,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>+<CommandIcon(23)/> Zoom avant/arrière  <CommandIcon(12)/>+<CommandIcon(13)/> Lien de carte"
+164,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>＋<CommandIcon(10)/> Changer de section  <CommandIcon(12)/>+<CommandIcon(23)/> Zoom avant/arrière  <CommandIcon(12)/>+<CommandIcon(13)/> Lien de carte"
+165,"<CommandIcon(11)/> Choix aléatoire"
+166,"<CommandIcon(10)/> Sous-menu"
+167,"<CommandIcon(10)/> Sous-menu"
+168,"<CommandIcon(11)/> Choix aléatoire"
+169,"<CommandIcon(10)/> Sous-menu"
+170,"<CommandIcon(11)/> Règles"
+171,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Choisir un objet"
+172,"<CommandIcon(9)/> Bouton “Fermer”"
+173,"------------------------
+lua 5.1.4 / MIT License
+------------------------
+Copyright (C) 1994-2008 Lua.org, PUC-Rio.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+------------------------
+rsa-md5 / RSA Data Security License
+------------------------
+Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+
+License to copy and use this software is granted provided that it is identified as the “RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing this software or this function.
+
+License is also granted to make and use derivative works provided that such works are identified as “derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing the derived work.
+
+RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided “as is” without express or implied warranty of any kind.
+
+These notices must be retained in any copies of any part of this documentation and/or software. 
+
+
+------------------------
+SHA-1 (Internet Society)
+------------------------
+Copyright (C) The Internet Society (2001). All Rights Reserved.
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.
+
+This document and the information contained herein is provided on an “AS IS” basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Acknowledgement
+
+Funding for the RFC Editor function is currently provided by the Internet Society.
+
+
+----------------
+zstream.h (zlib)
+----------------
+Copyright (c) 1997
+Christian Michelsen Research AS
+Advanced Computing
+Fantoftvegen 38, 5036 BERGEN, Norway
+http://www.cmr.no
+
+Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.
+
+
+------
+LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
+------
+“DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+174,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie"
+175,"<CommandIcon(12)/><CommandIcon(13)/> Changer de phase de con<SoftHyphen/>struc<SoftHyphen/>tion  <CommandIcon(10)/> Sous-menu"
+176,"<CommandIcon(12)/><CommandIcon(13)/> Changer de phase de con<SoftHyphen/>struc<SoftHyphen/>tion  <CommandIcon(10)/> Sous-menu"
+177,"<CommandIcon(9)/> Retour  <CommandIcon(11)/> Expédier"
+178,"<CommandIcon(10)/> Sous-menu"
+179,"<CommandIcon(8)/> Sélectionner  <CommandIcon(9)/> Fermer  <CommandIcon(11)/> Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion"
+180,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+181,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Valider et fermer"
+182,"<CommandIcon(9)/> Valider et fermer"
+183,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Encyclopédie des mascottes"
+184,"<CommandIcon(8)/> Invoquer"
+185,"<CommandIcon(24)/> Défiler"
+186,"<CommandIcon(10)/> Placer dans les barres CdM  <CommandIcon(11)/> Éditer les barres CdM  <CommandIcon(8)/> Exécuter"
+187,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Fonctions des ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Pierre arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    Votre ennemi et vous en disposez chacun de trois.
+    Le premier qui détruit les pierres arcaniques de l'autre
+    remporte la victoire.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Portail<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    Ils servent de point d'accès aux mascottes, et ces
+    dernières récupèrent des PV en s'y tenant.
+    Les portails peuvent toutefois être détruits, auquel
+    cas, les mascottes ne peuvent plus y entrer, si elles
+    sont à l'extérieur, ou en sortir, si elles sont dedans.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Œil scrutateur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    Il permet de rendre visibles les mascottes ennemies.
+    Si un œil scrutateur est détruit, les troupes adverses
+    qui sont éloignées ne sont plus détectables.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Bouclier<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    Cette installation protège les pierres arcaniques.
+    Ces dernières prendront donc plus de dégâts si jamais
+    le bouclier est détruit.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Destruction et réta<SoftHyphen/>blis<SoftHyphen/>se<SoftHyphen/>ment<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  Mis à part les pierres arcaniques, les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions
+  deviennent momentanément inopérantes lorsque détruites.
+  Passé un certain délai, elles se rétabliront.
+  * Il est possible de raccourcir ce délai en disposant une
+  ou plusieurs de ses mascottes près de l'installation.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Effets destructeurs des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  Les mascottes peuvent se montrer plus efficaces contre
+  certains types d'ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions lorsqu'il s'agit de les
+  détruire. Ces effets sont indiqués dans leur description.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Techniques des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  Pour déclencher une technique, il est nécessaire de
+  remplir les conditions suivantes<Indent/>:
+    - Avoir au moins 4 mascottes identiques groupées
+    - Avoir leur barre de PdT pleine
+    (La barre de points de technique (PdT) se remplit
+    au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment avec le temps.)
+  Il suffit ensuite de choisir une des mascottes et de
+  sélectionner “Utiliser la technique” dans le menu.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pièges<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  Grâce à leur technique, certaines mascottes placent
+  des pièges, qui peuvent être déclenchés 10 secondes
+  plus tard en choisissant l'option correspondante
+  dans le menu.
+  * Un seul piège peut être placé à la fois.
+
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la manette<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    - Sélection individuelle
+　　　<CommandIcon(12)/>+<CommandIcon(7)/><Indent/>: Sélectionne une mascotte dans la liste d'équipe
+    - Sélection groupée
+　　　<CommandIcon(11)/><Indent/>: Crée un cadre et sélectionne les mascottes dedans
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Fonctions spéciales<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    - Commandes générales
+　　　<Gui(17)/><Indent/>: Alterne entre les portails
+　　　<CommandIcon(15)/><Indent/>: Affiche/cache la liste d'équipe
+　　　<Gui(16)/><Indent/>: Sélectionne la liste d'attente d'invocation
+　　　<CommandIcon(12)/>+<Gui(10)/><Indent/>: Utilise la technique de la mascotte
+　　　<CommandIcon(13)/>+<CommandIcon(20)/><Indent/>: Déplace le point de ciblage au sol
+　　　<CommandIcon(13)/>＋<Gui(16)/><Indent/>: Réinitialise la position du point de ciblage au sol
+　　　<CommandIcon(18)/><Indent/>: Ouvre l'aide de jeu
+    - Sélection des mascottes
+　　　<CommandIcon(12)/>+<Gui(11)/><Indent/>: Sélectionne les mascottes identiques à la cible près d'elle
+　　　<CommandIcon(12)/>+<Gui(8)/><Indent/>: Sélectionne les mascottes alliées près de la cible
+　　　<CommandIcon(12)/>+<Gui(9)/><Indent/>: Sélectionne les mascottes alliées identiques à la cible
+    - Commandes de la carte
+　　　<CommandIcon(14)/> enfoncé<If(GreaterThan(PlayerParameter(75),0))>e<Else/></If><Indent/>: Mémorise le point de saut de carte
+                          (relâcher pour déplacer)
+　　　<CommandIcon(14)/>+<CommandIcon(23)/><Indent/>: Déplace le point de saut de carte
+　　　<CommandIcon(14)/>+<Gui(17)/><Indent/>: Réinitialise le point de saut de carte
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la souris<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　 Clic gauche<Indent/>: Sélectionne une mascotte
+      * Faire un clic gauche sur une mascotte déjà ciblée
+      permet de sélectionner celles identiques autour.
+　　 Glisser gauche<Indent/>: Sélectionne les mascottes dans le cadre
+<Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la souris<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　 Clic gauche<Indent/>: Sélectionne une mascotte
+      * Faire un clic gauche sur une mascotte déjà ciblée
+      permet de sélectionner celles identiques autour.
+　　 Glisser gauche<Indent/>: Sélectionne les mascottes dans le cadre
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la manette<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    - Sélection individuelle
+　　　<CommandIcon(12)/>+<CommandIcon(7)/><Indent/>: Sélectionne une mascotte dans la liste d'équipe
+    - Sélection groupée
+　　　<CommandIcon(11)/><Indent/>: Crée un cadre et sélectionne les mascottes dedans
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Fonctions spéciales<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+    - Commandes générales
+　　　<Gui(17)/><Indent/>: Alterne entre les portails
+　　　<CommandIcon(15)/><Indent/>: Affiche/cache la liste d'équipe
+　　　<Gui(16)/><Indent/>: Sélectionne la liste d'attente d'invocation
+　　　<CommandIcon(12)/>+<Gui(10)/><Indent/>: Utilise la technique de la mascotte
+　　　<CommandIcon(13)/>+<CommandIcon(20)/><Indent/>: Déplace le point de ciblage au sol
+　　　<CommandIcon(18)/><Indent/>: Ouvre l'aide de jeu
+    - Sélection des mascottes
+　　　<CommandIcon(12)/>+<Gui(11)/><Indent/>: Sélectionne les mascottes identiques à la cible près d'elle
+　　　<CommandIcon(12)/>+<Gui(8)/><Indent/>: Sélectionne les mascottes alliées près de la cible
+　　　<CommandIcon(12)/>+<Gui(9)/><Indent/>: Sélectionne les mascottes alliées identiques à la cible
+    - Commandes de la carte
+　　　<CommandIcon(14)/> enfoncé<If(GreaterThan(PlayerParameter(75),0))>e<Else/></If><Indent/>: Mémorise le point de saut de carte
+                          (relâcher pour déplacer)
+　　　<CommandIcon(14)/>+<CommandIcon(23)/><Indent/>: Déplace le point de saut de carte
+　　　<CommandIcon(14)/>+<Gui(17)/><Indent/>: Réinitialise le point de saut de carte
+</If>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Raccourcis clavier<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  Les raccourcis clavier suivants sont au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment
+  attribués à des fonctions de Choc des mascottes lors
+  des batailles.
+<If(Equal(PlayerParameter(75),1))><Else/>    Barre CdM supérieure<Indent/>: cases 1 à 12 de la barre n°2
+    Barre CdM inférieure<Indent/>: cases 1 à 12 de la barre n°1
+    Utiliser la technique<Indent/>: case 1 de la barre n°3
+    Déclencher le piège<Indent/>: case 2 de la barre n°3
+    Renvoyer<Indent/>: case 3 de la barre n°3
+</If>    Activer le cadre de sélection<Indent/>: Sauter
+    Alterner entre les portails<Indent/>: Dégainer / rengainer
+    Liste CdM<Indent/>: Encyclopédie des mascottes"
+188,"<CommandIcon(8)/> Sélectionner  <CommandIcon(11)/> Participer  <CommandIcon(24)/> Défiler"
+189,"<CommandIcon(8)/> Changer l'ordre/changer de niveau  <CommandIcon(10)/> Affichage  <CommandIcon(11)/> Appliquer"
+190,"<CommandIcon(10)/> Sous-menu"
+191,"<CommandIcon(5)/> Déplacer  <CommandIcon(6)/> Changer de niveau  <CommandIcon(8)/><CommandIcon(9)/> Confirmer  <CommandIcon(10)/> Affichage  <CommandIcon(11)/> Appliquer"
+192,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie  <CommandIcon(8)/> Écouter  <CommandIcon(11)/> Sélectionner  <CommandIcon(10)/> Sous-menu"
+193,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie  <CommandIcon(8)/> Sélectionner  <CommandIcon(11)/> Ne plus écouter  <CommandIcon(10)/> Sous-menu"
+194,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie  <CommandIcon(8)/> Arrêter  <CommandIcon(10)/> Sous-menu"
+195,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie  <CommandIcon(8)/> Jouer  <CommandIcon(10)/> Sous-menu"
+196,"<CommandIcon(8)/> Racheter"
+197,"<CommandIcon(10)/> Sous-menu"
+198,"<CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoom avant/arrière"
+199,"<CommandIcon(10)/> Sous-menu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+200,"<CommandIcon(8)/> Sélectionner  <CommandIcon(11)/> Commencer  <CommandIcon(24)/> Défiler"
+201,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie"
+202,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Sélection de la liste"
+203,"<CommandIcon(8)/> Changer l'ordre  <CommandIcon(11)/> Appliquer"
+204,"<CommandIcon(5)/> Déplacer  <CommandIcon(8)/><CommandIcon(9)/> Confirmer  <CommandIcon(11)/> Appliquer"
+205,"<CommandIcon(10)/> Sélectionner  <CommandIcon(11)/> Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion  <CommandIcon(24)/> Défiler"
+206,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Vérifier le set d'actions"
+207,"<CommandIcon(9)/> Fermer  <CommandIcon(24)/> Défiler"
+208,"<CommandIcon(9)/> Fermer  <CommandIcon(24)/> Défiler"
+209,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+210,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+211,"<CommandIcon(8)/> Écouter  <CommandIcon(11)/> Jouer  <CommandIcon(10)/> Sous-menu"
+212,"<CommandIcon(8)/> Jouer  <CommandIcon(11)/> Ne plus écouter  <CommandIcon(10)/> Sous-menu"
+213,"<CommandIcon(8)/> Arrêter  <CommandIcon(10)/> Sous-menu"
+214,"<CommandIcon(11)/> Composition de l'escouade"
+215,"<CommandIcon(10)/> Confirmer  <CommandIcon(9)/> Fermer"
+216,"<CommandIcon(10)/> Sous-menu"
+217,"<CommandIcon(10)/> Sous-menu"
+218,"<CommandIcon(10)/> Sous-menu"
+219,"<CommandIcon(14)/><CommandIcon(15)/> Changer de caméra <CommandIcon(18)/> Ouvrir le menu"
+220,"<CommandIcon(8)/> Accéder à votre appartement  <CommandIcon(10)/> Profil de l'appartement"
+221,"<CommandIcon(10)/> Sous-menu"
+222,"<CommandIcon(10)/> Sous-menu"
+223,"<CommandIcon(23)/> Défiler  <CommandIcon(12)/>+<CommandIcon(23)/> Zoomer  <CommandIcon(13)/> Changer de caméra"
+224,"<CommandIcon(10)/> Sous-menu"
+225,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Changer le milieu"
+226,"<CommandIcon(9)/> Fermer  <CommandIcon(24)/>  Défiler"
+227,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie  <CommandIcon(8)/> Ajouter  <CommandIcon(10)/> Sous-menu"
+228,"<CommandIcon(10)/> Sous-menu"
+229,"<CommandIcon(10)/> Sous-menu"
+230,"<CommandIcon(10)/> Sous-menu"
+231,"<CommandIcon(10)/> Sous-menu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+232,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+233,"<CommandIcon(10)/> Sous-menu"
+234,"<CommandIcon(10)/> Sous-menu"
+235,"<CommandIcon(10)/> Placer dans les raccourcis  <CommandIcon(8)/> Exécuter"
+236,"<CommandIcon(8)/> Enregistrer dans les talents JcJ"
+237,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Sélectionner"
+238,"<CommandIcon(3)/><CommandIcon(4)/> Déplacer  <CommandIcon(8)/> Confirmer"
+239,"<CommandIcon(23)/> Défiler <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>＋<CommandIcon(10)/> Changer de section  <CommandIcon(12)/>+<CommandIcon(23)/> Zoom avant/arrière"
+240,"<CommandIcon(8)/> Enregistrer le trait JcJ"
+241,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+242,"<CommandIcon(9)/> Sélectionner “Abandonner”"
+243,"<CommandIcon(9)/> Sélectionner “Fermer”"
+244,"<CommandIcon(5)/> Défiler <CommandIcon(9)/> Fermer"
+245,"<CommandIcon(11)/> Composition de l'escouade"
+246,"<CommandIcon(8)/> Vérifier l'état en ligne  <CommandIcon(10)/> Sous-menu"
+247,"Il est strictement interdit de jouer de la musique provenant de tiers avec les Actions d'interprétation. Vous pouvez enregistrer et télécharger votre performance et par là même accorder à Square Enix et d'autres la licence d'utiliser lesdits enregistrements, en accord avec les termes de la Politique d'utilisation des Matériels de FINAL FANTASY XIV."
+248,"<CommandIcon(10)/> Sous-menu"
+249,"<CommandIcon(11)/> Commencer/Abandonner"
+250,"<CommandIcon(11)/> Commencer/Réessayer <CommandIcon(10)/> Fermer"
+251,"<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Choisir un objet"
+252,"<CommandIcon(7)/> Déplacer  <CommandIcon(8)/> Confirmer <CommandIcon(9)/> Annuler"
+253,"<CommandIcon(10)/> Sous-menu <CommandIcon(9)/> Retour"
+254,"<CommandIcon(10)/> Sous-menu <CommandIcon(9)/> Retour"
+255,"<CommandIcon(10)/> Sous-menu <CommandIcon(12)/><CommandIcon(13)/> Changer de catégorie <CommandIcon(9)/> Retour"
+256,"<CommandIcon(11)/> Appliquer"
+257,"<CommandIcon(8)/> Apposer une magicite <CommandIcon(10)/> Retirer une magicite"
+258,"<CommandIcon(11)/> Changer de fenêtre <CommandIcon(10)/> Sous-menu"
+259,"<CommandIcon(9)/><CommandIcon(11)/> Changer de fenêtre <CommandIcon(10)/> Sous-menu"
+260,"<CommandIcon(10)/> Sous-menu"
+261,"<CommandIcon(9)/> Revenir à la planche mirage"
+262,"<CommandIcon(10)/> Sous-menu <CommandIcon(9)/> Revenir à la planche mirage"
+263,"<CommandIcon(10)/> Sous-menu <CommandIcon(20)/> Déplacer <CommandIcon(25)/> Tourner <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+264,"<CommandIcon(10)/> Sous-menu"
+265,"<CommandIcon(10)/> Sous-menu"
+266,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+267,"<CommandIcon(9)/> Fermer"
+268,"<CommandIcon(10)/> Sous-menu"
+269,"<CommandIcon(11)/> Tout sélectionner/Annuler"
+270,"<CommandIcon(10)/> Sous-menu"
+271,"<CommandIcon(8)/> Annuler <CommandIcon(11)/> Donner"
+272,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+273,"<CommandIcon(24)/> Défiler"
+274,"<CommandIcon(10)/><CommandIcon(8)/> Sous-menu"
+275,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Modifier l'emplacement des favoris"
+276,"<CommandIcon(11)/> Choisir un objet"
+277,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/>Sous-menu <CommandIcon(11)/> Éditer les barres CdM"
+278,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/>Sous-menu <CommandIcon(11)/> Déplacer une mascotte"
+279,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/> Confirmer <CommandIcon(9)/> Annuler"
+280,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+281,"<CommandIcon(5)/> Déplacer <CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
+282,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
+283,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Déplacer une monture"
+284,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/> Confirmer <CommandIcon(9)/> Annuler"
+285,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+286,"<CommandIcon(5)/> Déplacer <CommandIcon(8)/> Utiliser <CommandIcon(10)/> Sous-menu"
+287,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/> Confirmer <CommandIcon(9)/> Annuler"
+288,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
+289,"<CommandIcon(11)/> Nouvelle lettre"
+290,"<CommandIcon(10)/> Sous-menu <CommandIcon(8)/> Récupérer"
+291,"<CommandIcon(8)/> Activer/Désactiver cette action"
+292,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Modifier la position"
+293,"<CommandIcon(7)/> Déplacer  <CommandIcon(8)/> Confirmer  <CommandIcon(9)/> Annuler"
+294,"<CommandIcon(9)/> Fermer"
+295,"<CommandIcon(10)/> Sous-menu <CommandIcon(8)/> Ajouter <CommandIcon(9)/> Mélangeur <CommandIcon(11)/> Actions Logos"
+296,"<CommandIcon(8)/> Activer <CommandIcon(11)/> Fermer"
+297,"<CommandIcon(11)/> Sélectionner l'éclat Logos <CommandIcon(10)/> Sous-menu"
+298,"<CommandIcon(10)/><CommandIcon(8)/> Sous-menu"
+299,"<CommandIcon(10)/> Sous-menu <CommandIcon(9)/><CommandIcon(11)/> Mélangeur"
+300,"<CommandIcon(11)/>Sélectionner l'éclat Logos <CommandIcon(9)/> Fermer"
+301,"<CommandIcon(10)/> Sous-menu"
+302,"<CommandIcon(10)/> Sous-menu"
+303,"<CommandIcon(8)/><CommandIcon(10)/> Profil de la chambre"
+304,"<CommandIcon(8)/><CommandIcon(10)/> Profil de l'appartement"
+305,"<CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+306,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+307,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action <CommandIcon(11)/> Éditer les barres CdM"
+308,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action"
+309,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action"
+310,"<CommandIcon(12)/><CommandIcon(13)/> Informations sur la phase"
+311,"<CommandIcon(8)/> Confirmer  <CommandIcon(24)/> Défiler"
+312,"<CommandIcon(8)/> Confirmer "
+313,"<CommandIcon(10)/> Annonces <CommandIcon(11)/> Aide"
+314,"<CommandIcon(8)/> Vérifier l'état en ligne  <CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+315,"<CommandIcon(12)/><CommandIcon(13)/> Informations sur la phase  <CommandIcon(8)/> Vérifier les vulnérabilités"
+316,"<CommandIcon(8)/> Sélectionner  <CommandIcon(10)/> Sous-menu"
+317,"<CommandIcon(8)/> Sélectionner  <CommandIcon(10)/> Sous-menu"
+318,"<CommandIcon(5)/> Défiler"
+319,"<CommandIcon(8)/> Choisir un objet"
+320,"<CommandIcon(8)/> Ajouter/Retirer un équipier"
+321,"<CommandIcon(10)/>Sous-menu <CommandIcon(8)/> Ajouter/Retirer un équipier"
+322,"<CommandIcon(8)/> Cocher/Décocher  <CommandIcon(10)/> Cocher/Décocher reste de la catégorie  <CommandIcon(11)/> Confirmer"
+323,"<CommandIcon(9)/> Fermer  <CommandIcon(24)/> Défiler"
+324,"<CommandIcon(8)/> Sélectionner  <CommandIcon(9)/> Fermer  <CommandIcon(11)/> Confirmer  <CommandIcon(24)/> Défiler"
+325,"<CommandIcon(8)/> Afficher les détails  <CommandIcon(24)/> Défiler  <CommandIcon(10)/> Sous-menu"
+326,"<CommandIcon(10)/> Sous-menu"
+327,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/>Activer/Désactiver la récolte auto"
+328,"<CommandIcon(8)/> Afficher les détails  <CommandIcon(24)/> Défiler  <CommandIcon(10)/> Sous-menu"
+329,"<CommandIcon(10)/> Sous-menu"
+330,"<CommandIcon(10)/> Sous-menu"
+331,"<CommandIcon(10)/> Sous-menu  <CommandIcon(12)/><CommandIcon(13)/> Changer de page"
+332,"<CommandIcon(10)/> Sous-menu"
+333,"<CommandIcon(10)/> Placer dans les raccourcis  <CommandIcon(8)/> Exécuter"
+334,"<CommandIcon(24)/> Défiler"
+335,"<CommandIcon(10)/> Sous-menu"
+336,"<CommandIcon(10)/> Sous-menu   <CommandIcon(11)/> Retour   <CommandIcon(9)/> Fermer"
+337,"<CommandIcon(10)/> Sous-menu"
+338,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Sélectionner"
+339,"<CommandIcon(11)/> Appliquer"
+340,"<CommandIcon(10)/> Sous-menu <CommandIcon(12)/><CommandIcon(13)/> Changer de page"
+341,"<CommandIcon(10)/> Sous-menu"
+342,"<CommandIcon(9)/> Retour à la boîte à mini-jeux"
+343,"<CommandIcon(9)/> Bouton “Fermer”"
+344,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
+345,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Exécuter"
+346,"<CommandIcon(8)/> Utiliser  <CommandIcon(11)/> Fermer"
+347,"<CommandIcon(7)/> Déplacer  <CommandIcon(8)/> Tourner une tuile"
+348,"<CommandIcon(8)/> Ajouter au mémento  <CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Manipuler le mémento"
+349,"<CommandIcon(8)/> Utiliser  <CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Fermer"
+350,"<CommandIcon(8)/> Revenir à la malle du rappel  <CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Manipuler la malle du rappel"
+351,"<CommandIcon(11)/> Fermer"
+352,"<CommandIcon(11)/> Manipuler la malle du rappel"
+353,"<CommandIcon(11)/> Aide"
+354,"<CommandIcon(11)/> Fermer"
+355,"<CommandIcon(24)/> Défiler"
+356,"<CommandIcon(10)/> Sous-menu"
+357,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Échanger"
+358,"<CommandIcon(10)/> Sous-menu"
+359,"<CommandIcon(10)/> Afficher sur la carte"
+360,"<CommandIcon(1)/>"
+361,"<CommandIcon(2)/>"
+362,"<CommandIcon(3)/>"
+363,"<CommandIcon(4)/>"
+364,"<CommandIcon(5)/>"
+365,"<CommandIcon(6)/>"
+366,"<CommandIcon(7)/>"
+367,"<CommandIcon(8)/>"
+368,"<CommandIcon(9)/>"
+369,"<CommandIcon(10)/>"
+370,"<CommandIcon(11)/>"
+371,"<CommandIcon(12)/>"
+372,"<CommandIcon(13)/>"
+373,"<CommandIcon(14)/>"
+374,"<CommandIcon(15)/>"
+375,"<Gui(16)/>"
+376,"<Gui(17)/>"
+377,"<CommandIcon(18)/>"
+378,"<CommandIcon(19)/>"
+379,"<CommandIcon(20)/>"
+380,"<CommandIcon(21)/>"
+381,"<CommandIcon(22)/>"
+382,"<CommandIcon(23)/>"
+383,"<CommandIcon(24)/>"
+384,"<CommandIcon(25)/>"
+385,"<CommandIcon(11)/> Défilement rapide <CommandIcon(10)/> Sous-menu"
+386,"<CommandIcon(5)/> Historique <CommandIcon(12)/>+ <CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+387,"<CommandIcon(8)/> Obtenir une récompense <CommandIcon(10)/> Sous-menu"
+388,"<CommandIcon(10)/> Sous-menu"
+389,"<CommandIcon(10)/> Sous-menu"
+390,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la classe  <CommandIcon(10)/> Sous-menu"
+391,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la classe  <CommandIcon(8)/> Afficher la carte"
+392,"<CommandIcon(5)/>Sélectionner une destination  <CommandIcon(8)/> Se téléporter  <CommandIcon(11)/> Dernier lieu <CommandIcon(23)/> Basculer sur la carte"
+393,"<CommandIcon(23)/> Défiler  <CommandIcon(7)/> Basculer sur la liste  <CommandIcon(11)/> Dernier lieu"
+394,"<CommandIcon(23)/> Défiler  <CommandIcon(8)/> Se téléporter  <CommandIcon(11)/> Dernier lieu <CommandIcon(7)/>Basculer sur la liste"
+395,"<CommandIcon(10)/> Alterner entre les différents rôles  <CommandIcon(8)/> Modifier les classes/jobs recherchés  <CommandIcon(11)/> Rechercher"
+396,"<CommandIcon(10)/> Tout cocher/décocher  <CommandIcon(11)/> Rechercher"
+397,"<CommandIcon(10)/> Basculer entre sélection unique et multiple"
+398,"<CommandIcon(10)/> Basculer entre sélection unique et multiple"
+399,"<CommandIcon(11)/> Valider et fermer"
+400,"<CommandIcon(23)/> Défiler  <CommandIcon(11)/> Type de carte  <CommandIcon(12)/>＋<CommandIcon(10)/> Changer de section  <CommandIcon(12)/>＋<CommandIcon(23)/> Zoomer  <CommandIcon(8)/> Se téléporter"
+401,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion  <CommandIcon(24)/> Défiler"
+402,"<CommandIcon(9)/> Revenir à la liste <CommandIcon(24)/> Défiler"
+403,"<CommandIcon(10)/> Sous-menu  <CommandIcon(24)/> Défiler"
+404,"<CommandIcon(24)/> Défiler"
+405,"<CommandIcon(8)/><CommandIcon(11)/> Aperçu  <CommandIcon(10)/> Sous-menu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Tourner  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomer"
+406,"<CommandIcon(11)/>Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion  <CommandIcon(10)/>Modifier l'équipe"
+407,"<CommandIcon(8)/>Ajouter/Retirer un équipier  <CommandIcon(9)/>Fermer"
+408,"L'adjuration"
+409,"Les donjons instanciés de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>niveau 71 et plus<UIGlow>01</UIGlow><UIForeground>01</UIForeground> déjà traversés au cours de l'épopée peuvent être accomplis avec l'aide d'une équipe d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>alter ego<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des personnages de l'histoire.
+Ces alter ego gagnent de l'expérience et des niveaux en participant à ces donjons.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>* En utilisant le système d'adjuration, les coffres offrent moins de récompenses, et certains ennemis ne lâchent pas d'objets lorsqu'ils sont terrassés.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+410,"Les mirages"
+411,"Les PNJ ayant atteint le niveau 80 auront accès aux <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>mirages<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Leur apparence pourra être modifiée à l'écran de sélection des équipiers, via l'option Mirages du sous-menu ou en cliquant sur l'icone dédié."
+412,"Limitations"
+413,"Certains alter ego ne peuvent pas participer à toutes les missions."
+414,"Les modalités de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion"
+415,"Il est possible d'explorer un donjon selon deux modalités différentes<Indent/>: en <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>solo<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, avec l'aide de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, ou avec <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>d'autres joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, trouvés à l'aide de la fonction de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>groupement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Bien sûr, il est également possible de s'enregistrer avec son équipe préalablement formée.
+Les donjons peuvent être accomplis de la même façon, quelle que soit la modalité de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>* En utilisant le système de renforts, les coffres offrent moins de récompenses, et certains ennemis ne lâchent pas d'objets lorsqu'ils sont terrassés.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+416,"Le système de renforts"
+417,"Vous pouvez faire appel à des <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour explorer un donjon en <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>solo<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, une fonctionnalité désignée sous le nom de “<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Renforts<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”.
+
+Les donjons compatibles avec le système de renforts sont indiqués par un <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>icone<UIGlow>01</UIGlow><UIForeground>01</UIForeground> au niveau de leur entrée.
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>option<UIGlow>01</UIGlow><UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>fenêtre<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des renforts.
+
+Les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>classes/jobs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des PNJ seront fixés en fonction de votre propre classe/job, de façon à former <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment<UIGlow>01</UIGlow><UIForeground>01</UIForeground> l'équipe la mieux équilibrée possible.
+Passez en revue les in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions fournies, puis pressez le bouton “<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Participer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>” pour lancer la mission<Indent/>!"
+418,"La fenêtre de confirmation"
+419,"Un <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>signal sonore<UIGlow>01</UIGlow><UIForeground>01</UIForeground> retentira une fois tous les préparatifs terminés.
+Pressez le bouton <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Commencer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et lancez-vous corps et âme dans la bataille<Indent/>!
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>En cas d'absence de confirmation de votre part, votre par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion sera au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment annulée à l'issue du temps imparti, et vous devrez alors réitérer la procédure d'enregistrement.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+420,"Les missions disponibles"
+421,"À mesure que vous progresserez dans le jeu, vous aurez accès à de plus en plus de donjons et défis.
+Il se peut que certaines missions soient <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>incompatibles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec le système de renforts, auquel cas vous pourrez toujours les jouer en vous enregistrant via l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Vous pourrez également rejouer les missions déjà accomplies, aussi bien avec l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground> que le système de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>renforts<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (tous deux accessibles à partir de la rubrique <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Missions<UIGlow>01</UIGlow><UIForeground>01</UIForeground> du <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>menu principal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)."
+422,"Modifier l'équipe"
+423,"Les donjons et défis de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>niveau 71 et plus<UIGlow>01</UIGlow><UIForeground>01</UIForeground> rencontrés au cours de l'épopée peuvent être accomplis avec l'aide d'une équipe de PNJ alliés <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>personnalisable<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Pour modifier l'équipe, cliquez sur les portraits des PNJ. Une fenêtre s'ouvrira alors, vous montrant les PNJ que vous pouvez sélectionner."
+424,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+425,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
+426,""
+427,""
+428,"L'outil de mission"
+429,"Vous cherchez des <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>coéquipiers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour explorer un donjon<Indent/>? Dans ce cas, facilitez-vous la tâche avec l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Indent/>!
+
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>option<UIGlow>01</UIGlow><UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>fenêtre<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de l'outil de mission."
+430,"S'enregistrer pour des missions"
+431,"Pour procéder à l'enregistrement dans l'outil de mission, sélectionnez les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>destinations<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre choix et pressez le bouton <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Participer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Vous serez alors au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>groupé(e)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec d'autres joueurs désirant explorer les mêmes lieux.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>* Vous pouvez sélectionner jusqu'à cinq missions différentes simultanément.
+* Les missions pour lesquelles vous ne remplissez pas les conditions de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion sont indiquées par un icone en forme de cadenas.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+432,"Les in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions d'enregistrement"
+433,"Une fois l'enregistrement effectué, l'icone de l'outil de mission apparaît dans la liste des objectifs. Celui-ci vous permet de vérifier diverses in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions, telles que la formation de l'équipe, l'état des réservations, etc."
+434,"La fenêtre de confirmation"
+435,"Un <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>signal sonore<UIGlow>01</UIGlow><UIForeground>01</UIForeground> retentira une fois le groupement accompli.
+Pressez alors le bouton <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Commencer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour lancer la mission<Indent/>!
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>En cas d'absence de confirmation de votre part, votre par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion sera au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment annulée à l'issue du temps imparti, et vous devrez alors réitérer la procédure d'enregistrement.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+436,"Les donjons disponibles"
+437,"À mesure que vous progresserez dans le jeu, vous aurez accès à de plus en plus de donjons.
+Il se peut que certains soient <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>incompatibles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec le système de renforts, auquel cas vous pourrez toujours les explorer en vous enregistrant via l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Vous pourrez également revisiter les donjons déjà accomplis, aussi bien avec l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground> que le système de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>renforts<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (tous deux accessibles à partir de la rubrique <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Missions<UIGlow>01</UIGlow><UIForeground>01</UIForeground> du <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>menu principal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)."
+438,"<CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Rotation  <CommandIcon(12)/>+<CommandIcon(24)/> Zoom avant/arrière"
+439,"<CommandIcon(10)/> Sous-menu"
+440,"<CommandIcon(10)/> Sous-menu"
+441,"Commandes de visionnage"
+442,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les touches du mode clavier/souris mentionnées ci-dessous sont celles de la configuration par défaut.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(75),0))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/>/Touches Z, Q, S, D (déplacement)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/>/Touche W (dégainer/rengainer)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/>/Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/>/<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/>/Touche R, bouton  (course automatique)<Else/>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touches Z, Q, S, D (déplacement)/<CommandIcon(20)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche W (dégainer/rengainer)/<Gui(16)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)/<CommandIcon(11)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
+443,"Enregistrement des missions"
+444,"Les conditions ci-dessous sont requises<Indent/>:
+1. Activer l'enregistrement des missions
+2. Commencer une mission enregistrable
+3. Avoir le nombre de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants requis
+4. Effectuer un appel d'enregistrement et obtenir l'accord de tous les équipiers
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* L'enregistrement des missions n'est pas disponible avec l'option “Sans restriction”.
+* Un appel d'enregistrement ne peut être lancé que pendant les 5 premières minutes d'une mission.
+* Un maximum de trois enregistrements peuvent être sauvegardés. Ils sont ensuite écrasés par ordre d'ancienneté.
+* Jusqu'à deux enregistrements peuvent être protégés contre les écrasements.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+445,"Visionnage des enregistrements"
+446,"Le visionnage des missions enregistrées ne peut se faire que dans les conditions suivantes<Indent/>:
+1. Être dans une chambre d'auberge
+2. Avoir une version récente des données d'enregistrement
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les données d'enregistrement peuvent devenir in<SoftHyphen/>uti<SoftHyphen/>li<SoftHyphen/>sa<SoftHyphen/>bles en cas de mise à jour ou de correctif d'urgence du jeu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+447,"Commandes de visionnage"
+448,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les touches du mode clavier/souris mentionnées ci-dessous sont celles de la configuration par défaut.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(75),0))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/>/Touches Z, Q, S, D (déplacement)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/>/Touche W (dégainer/rengainer)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/>/Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/>/<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/>/Touche R, bouton  (course automatique)<Else/>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touches Z, Q, S, D (déplacement)/<CommandIcon(20)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche W (dégainer/rengainer)/<Gui(16)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)/<CommandIcon(11)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
+449,"Fonctions de visionnage"
+450,"- Pause
+- Sélection de chapitre
+- Chapitre précédent
+- Chapitre suivant
+- Afficher/Cacher l'ATH
+- Activer/Désactiver la cible focalisée
+- Fin du visionnage"
+451,"<CommandIcon(10)/> Sous-menu"
+452,"<CommandIcon(24)/> Défiler"
+453,"<CommandIcon(8)/> Ouvrir  <CommandIcon(24)/> Défiler"
+454,"<CommandIcon(24)/> Défiler"
+455,"<CommandIcon(10)/> Sous-menu"
+456,"<CommandIcon(8)/> Choisir<CommandIcon(10)/> Sous-menu<CommandIcon(11)/> Déplacer une mascotte"
+457,"<CommandIcon(10)/> Sous-menu"
+458,"<CommandIcon(10)/> Sous-menu"
+459,"<CommandIcon(10)/> Sous-menu"
+460,"<CommandIcon(10)/> Sous-menu  <CommandIcon(24)/> Défiler"
+461,"<CommandIcon(5)/> Déplacer<CommandIcon(8)/> Choisir<CommandIcon(10)/>Sous-menu"
+462,"<CommandIcon(8)/> Choisir<CommandIcon(10)/> Sous-menu"
+463,"<CommandIcon(10)/> Sous-menu"
+464,"<CommandIcon(10)/> Sous-menu"
+465,"<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Sélection multiple"
+466,"<CommandIcon(10)/>サブコマンド <CommandIcon(20)/>移動 <CommandIcon(24)/>拡縮 <CommandIcon(12)/><CommandIcon(13)/>回転"
+467,"<CommandIcon(8)/> Honorer l'équipier"
+468,"<CommandIcon(24)/> Défiler"
+469,"<CommandIcon(11)/> Obtention de récompense<CommandIcon(24)/> Défiler"
+470,"<CommandIcon(10)/> Sous-menu<CommandIcon(24)/> Défiler"
+471,"<CommandIcon(11)/> Obtention de récompense<CommandIcon(10)/> Sous-menu<CommandIcon(24)/> Défiler"
+472,"<CommandIcon(10)/> Sous-menu"
+473,"<CommandIcon(10)/> Sous-menu"
+474,"<CommandIcon(11)/> Envoyer"
+475,"<CommandIcon(10)/> Placer dans les raccourcis <CommandIcon(12)/><CommandIcon(13)/> Changer de page"
+476,"<CommandIcon(12)/><CommandIcon(13)/> Changer de page"
+477,"<CommandIcon(8)/> Afficher les points de harponnage"
+478," <CommandIcon(10)/> Sous-menu"
+479," <CommandIcon(10)/> Sous-menu"
+480," <CommandIcon(10)/> Sous-menu"
+481,"<CommandIcon(18)/> Terminer l'arrangement du mobilier"
+482,"<Gui(13)/>+<Gui(20)/> Déplacer <CommandIcon(14)/><CommandIcon(15)/> Tourner <CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Activer/Désactiver la fonction d'ancrage"
+483,"<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Liste du mobilier"
+484,"<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Inventaire <If(Equal(PlayerParameter(105),0))><CommandIcon(14)/><CommandIcon(15)/> Basculer entre enregistrés/placés<Else/></If>"
+485,"<CommandIcon(11)/> Appliquer"
+486,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Activer/Désactiver la fonction d'ancrage"
+487,"<CommandIcon(10)/> Sous-menu"
+488,"<CommandIcon(18)/> Terminer la teinture du mobilier"
+489,"<CommandIcon(18)/> Terminer l'arrangement du mobilier"
+490,"<Gui(13)/>+<Gui(20)/> Déplacer <CommandIcon(14)/><CommandIcon(15)/> Tourner <CommandIcon(11)/> Activer/Désactiver la fonction d'ancrage"
+491,"<CommandIcon(11)/> Activer/Désactiver la fonction d'ancrage"
+492,"<CommandIcon(8)/> Sélectionner"
+493,"<CommandIcon(10)/> Sous-menu <CommandIcon(8)/> Équiper"
+494,"<CommandIcon(11)/> Activer/Désactiver la récolte auto"
+495,"<CommandIcon(11)/> Synthétiser"
+496,"<CommandIcon(10)/> Sous-menu"
+497,"<CommandIcon(10)/> Sous-menu"
+498,"<CommandIcon(11)/> Appliquer"
+499,"<CommandIcon(24)/> Défiler"
+500,"<CommandIcon(24)/> Défiler"
+501,"<CommandIcon(24)/> Défiler"
+502,"<CommandIcon(10)/> Sous-menu"
+503,"<CommandIcon(10)/> Afficher sur la carte"
+504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
+505,"<CommandIcon(8)/> Ouvrir/Fermer l'aperçu  <CommandIcon(11)/> Aperçu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Rotation  <CommandIcon(12)/>+<CommandIcon(24)/> Zoom avant/arrière"
+506,"<CommandIcon(11)/> Appliquer"
+507,""
+508,""
+509,""
+510,""
+511,""
+512,""
+513,""
+514,""
+515,""
+516,""
+517,""
+518,""
+519,""
+520,""
+521,""
+522,""
+523,""
+524,""
+525,""
+526,""
+527,""
+528,""
+529,""
+530,""
+531,""
+532,""
+533,""
+534,""
+535,""
+536,""
+537,""
+538,""
+539,""
+540,""
+541,""
+542,""
+543,""
+544,""
+545,""
+546,""
+547,""
+548,""
+549,""
+550,""
+551,""
+552,""
+553,""
+554,""
+555,""
+556,""
+557,""
+558,""
+559,""
+560,""
+561,""
+562,""
+563,""
+564,""
+565,""
+566,""
+567,""
+568,""
+569,""
+570,""
+571,""
+572,""
+573,""
+574,""
+575,""
+576,""
+577,""
+578,""
+579,""
+580,""
+581,""
+582,""
+583,""
+584,""
+585,""
+586,""
+587,""
+588,""
+589,""
+590,""
+591,""
+592,""
+593,""
+594,""
+595,""
+596,""
+597,""
+598,""
+599,""
+600,""
+1000,"L'envoi du message a échoué. Veuillez réessayer."
+1001,""
+1002,""
+1003,"Les communautés"
+1004,"Les communautés sont des groupes de joueurs partageant les mêmes intérêts. Elles sont inter-Monde et peuvent accueillir jusqu'à 1 000 personnes.
+Vous pouvez rejoindre jusqu'à 10 communautés en vous faisant inviter ou en sélectionnant Recherche de communautés dans la rubrique Communication du menu principal pour voir lesquelles recrutent ac<SoftHyphen/>tu<SoftHyphen/>el<SoftHyphen/>le<SoftHyphen/>ment.
+Il est aussi possible de créer la vôtre<Indent/>! Une fois fondée, il vous suffit d'inviter de nouveaux membres vous-même ou de lancer une campagne de recrutement lors de laquelle chacun sera libre de vous rejoindre.
+La hiérarchie d'une communauté se compose d'un président (fondateur ou non, si cette personne a été nommée par un prédécesseur), de re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants disposants de certains pouvoirs et de membres.
+Dès que vous rejoignez ou fondez une communauté, celle-ci est ajoutée à votre liste et vous pouvez consulter les détails la concernant."
+1005,"“Général”"
+1006,"■Annonce de la communauté
+Le président et les re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants peuvent utiliser cet espace pour y écrire un message d'accueil ou toutes sortes d'annonces.
+
+■Sondage
+Le président et les re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants peuvent créer des sondages auxquels les membres de la communauté peuvent ensuite répondre (la réponse ne peut pas être modifiée une fois soumise).
+
+■Bloc-notes
+Le président et les re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants peuvent laisser jusqu'à 5 courtes notes dans cet espace visible par tous les membres."
+1007,"“Panneau d'affichage”"
+1008,"Tous les membres de la communauté peuvent laisser des messages sur ce panneau. Ils s'affichent en partant du plus récent, et les plus anciens sont effacés au-delà de 100.
+Le président et les re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants ont le droit exclusif de les supprimer.
+
+* Les personnages de la version d'essai gratuit doivent faire partie de la communauté depuis au moins 14 jours avant de pouvoir laisser un message sur le panneau d'affichage."
+1009,"“Membres”"
+1010,"Cet onglet affiche la liste des membres de la communauté.
+Afficher le sous-menu en sélectionnant un membre particulier donne accès à différentes options.
+Par exemple, le président peut nommer des re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants au sein des membres de la communauté ou nommer un nouveau président pour lui succéder.
+Il peut aussi ajouter un membre à la liste noire de la communauté, auquel cas ce dernier s'en retrouve exclu et ne peut plus la rejoindre même lors d'une période de recrutement. Cette fonctionnalité peut se révéler utile notamment en cas d'abus de la part de certains membres."
+1011,"Autres fonctionnalités"
+1012,"■Modification du profil de la communauté
+Seul le président a accès à cette fonctionnalité.
+Il peut modifier le nom de la communauté, ses activités, gérer sa liste noire ou la dissoudre.
+
+■Recruter des membres
+Cette fonctionnalité permet de recruter au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment des membres jusqu'au seuil fixé.
+Le recrutement s'étale sur une semaine, mais peut prendre fin plus tôt si le seuil de membres fixé est atteint avant.
+
+■Remarques
+Le président nomme lui-même les re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tants en les choisissant parmi les membres de sa communauté.
+De plus, il ne peut léguer son titre de président qu'à un re<SoftHyphen/>pré<SoftHyphen/>sen<SoftHyphen/>tant, et ne peut donc quitter la communauté dont il a la charge avant d'avoir nommé son successeur."
+1013,"Trouver une communauté"
+1014,"Cet outil permet de voir quelles sont les communautés qui recrutent ac<SoftHyphen/>tu<SoftHyphen/>el<SoftHyphen/>le<SoftHyphen/>ment des membres.
+Vous pouvez affiner votre recherche en choisissant l'activité qui vous plaît et les langues acceptées par les communautés."
+1015,"Avertissement"
+1016,"<UIForeground>F20202</UIForeground>■Concernant les actions d'interprétation<UIForeground>01</UIForeground>
+Il est strictement interdit de jouer de la musique provenant de tiers avec les Actions d'interprétation. Vous pouvez enregistrer et télécharger votre performance et par là même accorder à Square Enix et d'autres la licence d'utiliser lesdits enregistrements, en accord avec les termes de la Politique d'utilisation des Matériels de FINAL FANTASY XIV."
+1017,"Le mode orchestral"
+1018,"<UIForeground>F20202</UIForeground>■Le mode orchestral<UIForeground>01</UIForeground>
+Le mode orchestral synchronise vos actions d'interprétation et celles des membres de votre équipe avant de les jouer ensemble, offrant ainsi un meilleur rendu à votre auditoire.
+
+<UIForeground>F20202</UIForeground>■Différence avec le mode normal<UIForeground>01</UIForeground>
+Le mode orchestral introduit un délai entre le moment où les notes sont jouées et le moment où les joueurs les entendent, ce qui peut être gênant pour les musiciens. Afin de ne pas vous déconcentrer, vous avez accès à deux types d'écoute<Indent/>:
+ - Moi seul<If(PlayerParameter(4))>e<Else/></If><Indent/>: vous n'entendrez que vos propres notes, mais instantanément.
+ - Tout l'orchestre<Indent/>: vous entendrez la même chose que votre auditoire. Vos notes et celles de toute votre équipe vous parviendront cependant avec un délai sonore.
+* Votre auditoire, lui, entendra l'orchestre au complet, quel que soit le type d'écoute choisi.
+
+<UIForeground>F20202</UIForeground>■Activer le mode orchestral<UIForeground>01</UIForeground>
+1. Lancer un appel de préparation par l'intermédiaire du métronome.
+2. Cocher “Activer le mode orchestral”.
+3. Lancer l'appel.
+Le mode orchestral se lance au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment une fois que tout l'orchestre a répondu présent.
+
+<UIForeground>F20202</UIForeground>■Restrictions<UIForeground>01</UIForeground>
+Les restrictions suivantes s'appliquent au mode orchestral<Indent/>:
+1. Le chef du groupe doit être en train d'utiliser l'interprétation musicale.
+2. Se trouver dans une zone appropriée (chambres d'auberges et caserne exclues).
+3. Le nombre d'équipe à utiliser le mode orchestral dans la zone ne doit pas avoir dépassé la limite admise."
+1019,"Les partitions"
+1020,"<UIForeground>F20202</UIForeground>■Utilité<UIForeground>01</UIForeground>
+Une partition indique en temps réel quelle note jouer sur le clavier musical et facilite ainsi votre interprétation.
+
+<UIForeground>F20202</UIForeground>■Utiliser une partition<UIForeground>01</UIForeground>
+1. Sélectionner “Partitions” sur le clavier musical.
+2. Choisir la partition à jouer.
+3. Effectuer les derniers réglages, comme la vitesse de défilement ou l'activation du métronome, puis commencer.
+
+<UIForeground>F20202</UIForeground>■Avertissement<UIForeground>01</UIForeground>
+Lorsque vous jouez une partition, vous déclinez au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment tout appel de préparation à jouer en orchestre."
+1021,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Le Front sud de Bozja est une mission spéciale durant laquelle les joueurs doivent coopérer en grand nombre afin de soutenir les résistants dans leur lutte contre la 4e légion impériale.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>0F</UIForeground>* Les pages suivantes expliquent les règles propres à cette mission.
+Les lire vous permettront de profiter pleinement de cette mission de grande envergure.<UIForeground>01</UIForeground>"
+1022,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Synchronisation spéciale des jobs au niveau 80<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Le Front sud de Bozja est ouvert à tous les jobs de niveau 71 ou plus.
+Une fois dans l'instance, les personnages sont tous synchronisés au niveau 80.
+En outre, leur niveau d'objet est lui aussi synchronisé. Il n'est donc pas nécessaire de revêtir un équipement spécial pour profiter de cette mission.
+
+<UIForeground>0F</UIForeground>* Une fois sur le Front sud de Bozja, toutes les actions de jobs jusqu'au niveau 80 deviennent disponibles.<UIForeground>01</UIForeground>"
+1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Faites grimper votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> en accumulant des points de faits d'armes<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Participer à des combats spéciaux, comme les escarmouches ou les af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux, permet d'obtenir des points de faits d'armes. Vous en recevez d'autant plus que l'évaluation de votre par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion à ces combats est élevée.
+
+<UIForeground>0F</UIForeground>* Vaincre des bêtes sauvages ou des troupes impériales n'octroie à eux seuls aucun point de faits d'armes.<UIForeground>01</UIForeground>"
+1024,"Une fois que vous avez accumulé assez de points de faits d'armes, il suffit de parler à l'officier d'état-major du front sud pour qu'il vous octroie le rang de résistant<If(PlayerParameter(4))>e<Else/></If> suivant. Un rang plus élevé permet d'étendre la zone de combat en repoussant les lignes ennemies, mais aussi de progresser dans la quête principale de Garde-la-Reine.
+
+<UIForeground>0F</UIForeground>* Votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> n'augmentera pas sans points de faits d'armes. Brillez sur le champ de bataille et rapportez vos exploits à l'état-major pour gagner du galon<Indent/>!<UIForeground>01</UIForeground>"
+1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ L'occasion parfaite de monter vos autres jobs<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Remporter des escarmouches ou des af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux permet aussi de gagner des points d'expérience et de passer des niveaux pour le job utilisé. Con<SoftHyphen/>trai<SoftHyphen/>re<SoftHyphen/>ment aux rangs de résistant, ces gains sont automatiques, et il n'est pas nécessaire de s'adresser à l'officier d'état-major pour les obtenir.
+
+Profitez-en donc pour monter vos jobs qui ne sont pas encore au niveau 80<Indent/>!"
+1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Des interrogations<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Si vous pensez ne pas avoir bien compris le fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment du Front sud de Bozja, Sjeros à Gangos et le guide de la résistance sur le front pourront vous renseigner. N'hésitez pas à leur demander des précisions, ils sont là pour ça<Indent/>!"
+1027,"Les objets collectionnables"
+1028,"Les objets collectionnables, même ceux de nom identique, ont un attribut spécial qui leur est propre<Indent/>: leur <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>valeur de collection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Les PNJ demandent parfois qu'on leur livre des objets collectionnables, et ils précisent dans ce cas la valeur de collection minimum qu'ils attendent.
+
+Prenez donc soin de satisfaire ce prérequis lorsque vous récoltez ces objets."
+1029,"Manière de récolter"
+1030,"La technique de récolte diffère de celle des objets standards pour les botanistes et les mineurs.
+
+Une fois l'objet sélectionné dans le point de récolte, une fenêtre spéciale apparaît permettant d'augmenter la valeur de collection de l'objet et de le récolter une fois que celle-ci a atteint un niveau satisfaisant."
+1031,"La valeur de collection"
+1032,"L'augmentation de la valeur de collection se fait par le biais des actions de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Leur utilisation permet de se débarrasser des parties indésirables afin d'améliorer la valeur générale de l'objet qui sera récolté.
+
+Bien sûr, ce procédé peut amoindrir la quantité qu'il sera possible de récolter ensuite et doit donc être utilisé avec parcimonie."
+1033,"Les actions de Sélection"
+1034,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection instinctive<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection méthodique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> consomment chacune une tentative de récolte.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la valeur de collection d'un montant faible, mais fixe.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection instinctive<UIGlow>01</UIGlow><UIForeground>01</UIForeground> peut faire gagner plus, mais peut aussi faire gagner moins avec son montant variable.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection méthodique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente plus faiblement la valeur de collection que <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, mais a une chance de ne coûter aucune tentative de récolte.
+
+* La puissance des actions de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground> peut être augmentée en améliorant sa <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Collecte<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Essayez donc de rassembler un équipement en conséquence afin de viser une plus haute valeur de collection. "
+1035,"Récolter l'objet"
+1036,"Une fois que l'objet a atteint la valeur de collection souhaitée, vous pouvez l'obtenir en utilisant l'action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Récolte<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+N'oubliez pas que vos tentatives de récolte s'amenuisent aussi au fur et à mesure que vous utilisez les actions de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. À vous de trouver un bon équilibre entre quantité et valeur de collection, et quoi que vous décidiez, pensez toujours à conserver au moins une tentative de récolte pour obtenir le fruit de votre dur labeur.
+
+* Prenez aussi en compte vos chances de récolte. Si elles sont inférieures à 100%, vous n'obtiendrez peut-être pas l'objet en question du premier coup."
+1037,"Effets bonus"
+1038,"En plus des actions de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, il existe une autre action et deux effets bonus qui permettent d'obtenir une meilleure valeur de collection.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inspection rigoureuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la puissance de la prochaine action de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et ne coûte aucune tentative de récolte. Elle consomme en revanche des <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>points de récolte<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Assurez-vous donc d'en avoir assez pour l'utiliser, et si vous pensez en manquer, essayez d'augmenter votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Savoir-faire<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en améliorant votre équipement."
+1039,"L'Intuition"
+1040,"Lorsque vous utilisez une action de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, vous avez une chance d'obtenir l'effet <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Intuition<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, qui augmente grandement le prochain gain de valeur de collection.
+
+* Les chances d'obtenir ce bonus augmentent avec votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Savoir-faire<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, accumulez-en donc un maximum en améliorant votre équipement. De plus, l'action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Œil du col<SoftHyphen/>lec<SoftHyphen/>tion<SoftHyphen/>neur<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente les chances d'obtenir ce bonus."
+1041,"Œil vif"
+1042,"Lorsque vous utilisez une action de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, vous avez une chance d'obtenir l'effet <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Œil vif<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Ce bonus augmente grandement la puissance de votre prochaine <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection instinctive<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ou de votre prochaine <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sélection méthodique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, utilisez donc une de ces deux actions lorsque cette occasion se présente."
+1043,"Les autres actions"
+1044,"En plus des actions déjà citées, vous pouvez utiliser les actions suivantes<Indent/>:
+
+- Les actions qui augmentent les chances de récolte, comme <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Vue perçante<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour les mineurs et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Maîtrise du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour les botanistes.
+- Les actions qui influent sur le nombre de tentatives de récolte, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Raison solide<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour les mineurs et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sagesse du fermier<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour les botanistes.
+
+Assurez-vous donc de les ajouter à votre barre de raccourcis afin que votre récolte soit abondante<Indent/>!"
+1045,"Objets volatils et sublimation"
+1046,"Les objets volatils sont des objets collectionnables qui, une fois qu'ils ont atteint leur valeur de collection maximale, peuvent produire des objets rares une fois éthérolysés.
+
+Par ailleurs, lorsque ces objets sont récoltés à leur valeur de collection maximale, il se peut qu'ils deviennent sublimés, produisant à coup sûr des objets rares une fois éthérolysés.
+
+Plus la ca<SoftHyphen/>rac<SoftHyphen/>té<SoftHyphen/>ris<SoftHyphen/>ti<SoftHyphen/>que de “Collecte” est élevée, plus les chances de sublimation des objets volatils sont grandes."
+1047,"Valeur de collection"
+1048,"La valeur de collection est un attribut propre aux objets collectionnables<Indent/>: une valeur minimale est requise lors de la livraison d'objets de ce type.
+
+* Lorsqu'un objet est détruit par éthérolyse, la valeur de collection minimale désigne la valeur minimale pour obtenir des matériaux autres que des cristaux."
+1049,""
+1050,"La fenêtre des donjons spéciaux"
+1051,"Pour explorer un donjon spécial, enregistrez-vous via la fenêtre dédiée. Ouvrez-la en parlant au PNJ correspondant, ou en choisissant <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Donjons spéciaux<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans la rubrique Missions du menu principal.
+
+Les in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions et paramètres de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion sont contenus dans cette même fenêtre."
+1052,"Les donjons à embranchements"
+1053,"Les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>donjons à embranchements<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sont des donjons spéciaux jouables de un à quatre joueurs dont la difficulté <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>s'adapte au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment<UIGlow>01</UIGlow><UIForeground>01</UIForeground> au nombre de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants. Il est possible, mais difficile, de les explorer en solo.
+
+Pour participer seul(e) ou uniquement avec vos équipiers actuels, décochez l'option <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Grouper si l'équipe compte moins de 4 joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (désactivée par défaut).
+
+Cochez-la si vous voulez compléter votre équipe."
+1054,"Les actions embranchées"
+1055,"Utilisables au sein des donjons à embranchements, les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>actions embranchées<UIGlow>01</UIGlow><UIForeground>01</UIForeground> permettent de pallier les faiblesses d'une équipe, aucune structure n'étant imposée pour ce type de missions.
+
+Par exemple, un tank ou un DPS pourra jouer le rôle de soigneur à l'aide d'actions comme <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Soin embranché<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ou <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Vie embranchée<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Vous pouvez choisir jusqu'à deux actions embranchées, et en changer à tout moment durant la mission en appuyant sur le bouton <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Modifier<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de la fenêtre des donjons spéciaux."
+1056,"Les fragments d'histoire"
+1057,"Les donjons à embranchements offrent de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>multiples chemins<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à parcourir en compagnie d'un personnage clef. En les explorant, vous découvrirez des <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>fragments d'histoire<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à col<SoftHyphen/>lec<SoftHyphen/>tion<SoftHyphen/>ner.
+
+Vos découvertes seront consignées dans un journal d'exploration.
+
+Pour l'ouvrir, sélectionnez le portrait du personnage dans la fenêtre des donjons spéciaux. Choisissez ensuite l'entrée que vous souhaitez consulter."
+1058,"Les donjons alternatifs"
+1059,"Les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>donjons alternatifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sont des donjons spéciaux à la difficulté par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement élevée.
+
+Pour vous enregistrer, rendez-vous dans l'onglet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Donjons alternatifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, en haut de la fenêtre des donjons spéciaux.
+
+Il n'y a pas de PNJ accompagnateur, d'embranchements ou de fragments d'histoire à col<SoftHyphen/>lec<SoftHyphen/>tion<SoftHyphen/>ner dans les donjons alternatifs. L'onglet affiche d'autres in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions comme la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des donjons<UIGlow>01</UIGlow><UIForeground>01</UIForeground> disponibles ou les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>devises<UIGlow>01</UIGlow><UIForeground>01</UIForeground> qu'il est possible d'obtenir en récompense."
+1060,"Les donjons alternatifs - restrictions"
+1061,"Con<SoftHyphen/>trai<SoftHyphen/>re<SoftHyphen/>ment aux donjons à embranchements, les donjons alternatifs <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>n'autorisent pas le changement de job<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en cours de mission.
+Par ailleurs, les actions de résurrection classiques comme Vie y sont interdites, vous obligeant à user d'actions embranchées équivalentes.
+
+Les actions embranchées <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ne sont pas disponibles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans les versions <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>sadiques<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de ces donjons.
+
+Enfin, les versions sadiques sont uniquement accessibles en équipe préformée de 4 joueurs remplissant les conditions requises."
+1062,"Expulsion d'un logement"
+1063,"Les joueurs possédant une autorité d'expulsion peuvent interdire de séjour d'autres joueurs spécifiques, pendant une durée donnée. Depuis le menu principal, rendez-vous dans Communication > Logement > Réglages pour accéder aux Paramètres de l'autorité d'expulsion dans une nouvelle fenêtre."
+1064,"Autorité d'expulsion"
+1065,"Seuls les personnages disposant de l'autorité nécessaire peuvent en expulser d'autres. L'autorité principale est attribuée au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment en fonction du type de logement, et des autorités secondaires peuvent être assignées.
+Pour les logements de compagnie libre, le maître dispose de l'autorité principale et peut désigner jusqu'à 4 membres comme autorités secondaires.
+Dans le cas des maisons individuelles, le pro<SoftHyphen/>prié<SoftHyphen/>taire est désigné comme autorité principale et peut choisir des cohabitants comme autorités secondaires.
+Pour les appartements et chambres individuelles, seul le pro<SoftHyphen/>prié<SoftHyphen/>taire peut disposer d'une autorité d'expulsion."
+1066,"Personnages expulsés"
+1067,"Vous pouvez consulter le répertoire des personnages interdits de séjour dans la liste des expulsés. Celle-ci est consultable dans le menu “Paramètres de l'autorité d'expulsion” par tout personnage possédant une autorité d'expulsion.
+Inscrire un personnage dans cette liste l'expulse de force en dehors du logement et lui interdit l'accès pendant une durée de 10 jours.
+Pour expulser un personnage, vous devez être présent dans le logement, et posséder une autorité suffisante. Ciblez le personnage à expulser puis sélectionnez “Gestion des invités indésirables” dans le sous-menu, puis “Ajouter à la liste des expulsés”.
+
+À noter que l'autorité principale du logement peut choisir de révoquer les expulsions."
+1068,"Application de la liste noire"
+1069,"La fonction d'application de la liste noire permet d'interdire au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment l'accès au logement aux personnages figurant sur la liste noire d'un personnage détenant une autorité.
+Cette fonction est au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment appliquée lorsqu'une autorité l'ayant activée se trouve dans le logement. Les personnages inscrits dans sa liste noire sont alors im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment renvoyés, interdits d'accès et ajoutés dans la liste des expulsés.
+L'autorité principale peut activer ou désactiver cette fonction en cochant les cases situées à gauche du nom de chaque autorité secondaire."
+1070,"Exceptions"
+1071,"Selon le type de logement, certains personnages ne peuvent être ajoutés dans la liste des expulsés, ou ne peuvent être expulsés, même s'ils ont été ajoutés dans la liste.
+
+Personnages exemptés<Indent/>:
+- Autorité principale du logement
+- Membres de la maison de compagnie libre
+- Cohabitants du logement"
+1072,"Rénovation d'intérieur"
+1073,"La rénovation d'intérieur est une fonctionnalité qui vous permet de modifier intégralement l'apparence d'une pièce de votre maison.
+
+Pour effectuer une rénovation d'intérieur, sélectionnez “Logement” depuis “Communication” dans le menu principal, et enfin “Rénovation d'intérieur” pour ouvrir la fenêtre dédiée. Il vous suffit ensuite de sélectionner le style souhaité.
+
+À partir de cette fenêtre, vous pouvez modifier intégralement l'aménagement d'une pièce à l'exception des revêtements muraux, du plancher et des éclairages. La modification inclut parfois la position des marches ou la forme du plancher."
+1074,"Conditions à la rénovation d'intérieur"
+1075,"La rénovation d'intérieur peut être utilisée sur les maisons de toutes tailles. Elle n'est pas disponible pour les appartements et les chambres individuelles.
+
+La rénovation implique un changement intégral de l'apparence, le mobilier déjà posé sera donc retiré et stocké dans l'entrepôt. Par conséquent, il n'est pas possible d'effectuer une rénovation d'intérieur si vous n'avez pas suf<SoftHyphen/>fi<SoftHyphen/>sam<SoftHyphen/>ment d'espace libre dans votre entrepôt.
+
+De plus, la rénovation d'intérieur devient indisponible s'il reste moins de quinze jours avant la cession automatique de votre terrain."
+1076,"Rénovation d'intérieur et autorités"
+1077,"Seuls les personnages disposant d'une autorité sur le logement peuvent effectuer une rénovation d'intérieur.
+
+Dans le cas d'une maison de compagnie libre, les membres disposant des droits “Extérieur et intérieur” et “Ajout/Retrait/Déplacement du mobilier” peuvent effectuer une rénovation.
+
+Dans le cas d'une maison individuelle, les personnages pouvant effectuer une rénovation sont le pro<SoftHyphen/>prié<SoftHyphen/>taire du logement et les cohabitants disposant du droit “Ajout/Retrait/Déplacement/Teinture”."
+1078,"<CommandIcon(10)/> Sous-menu　<CommandIcon(11)/> Accélération de curseur"
+1079,"<CommandIcon(10)/> Sous-menu"
+1080,""
+1081,""
+1082,""
+1083,""
+1084,""
+1085,""
+1086,""
+1087,""
+1088,""
+1089,""
+1090,""
+1091,""
+1092,""
+1093,""
+1094,""
+1095,""
+1096,""
+1097,""
+1098,""
+1099,""
+2000,""

@@ -1,0 +1,19 @@
+﻿key,0,1,2
+#,Icon,Name,Description
+int32,Image,str,str
+0,0,"",""
+1,216801,"Aura : Cécité","La précision est réduite pour vous et vos équipiers."
+2,216802,"Aura : PV maximums réduits","Les PV maximums sont réduits pour vous et vos équipiers."
+3,216803,"Aura : Dégâts infligés réduits","Les dégâts infligés sont réduits pour vous et vos équipiers."
+4,216804,"Aura : Aptitudes inutilisables","Les aptitudes sont inutilisables pour vous et vos équipiers."
+5,216805,"Aura : Hâte","Le délai des attaques automatiques ainsi que le temps de recharge des techniques d'arme et des sorts de magie sont réduits pour vous et vos équipiers."
+6,216806,"Aura : PV et PM maximums augmentés","Les PV et PM maximums sont augmentés pour vous et vos équipiers."
+7,216807,"Aura : Objets désactivés","L'utilisation des objets et de certains objets spéciaux est désactivée pour vous et vos équipiers."
+8,216808,"Aura : Sprint désactivé","L'utilisation du sprint est désactivée pour vous et vos équipiers."
+9,216809,"Aura : Projections désactivées","L'effet des projections et des attractions est désactivé pour vous, vos équipiers et vos ennemis."
+10,216810,"Aura : Auto-récupération des PV désactivée","La régénération automatique des PV est désactivée pour vous et vos équipiers."
+11,216811,"Aura : Brume du néant","Une brume menaçante augmente les dégâts infligés ainsi que la vitesse de déplacement, et réduit les dégâts subis pour tous vos ennemis."
+12,216812,"Aura : Sprint","La vitesse de déplacement est accélérée pour vous et vos équipiers."
+13,216813,"Aura : Magilithes inutilisables","Les magilithes sont inutilisables pour vous et vos équipiers."
+14,216814,"Aura : Semi-clones inutilisables","Les semi-clones sont inutilisables pour vous et vos équipiers."
+15,216815,"Aura : Encens inutilisable","L'encens de genévrier est inutilisable pour vous et vos équipiers."

@@ -1,0 +1,186 @@
+﻿key,0,1,2,3,4,5
+#,,,,,,
+int32,str,byte,uint32,uint32,uint16,uint16
+0,"Accomplir une mission cosmique.",1,1,0,50,0
+1,"Accomplir trois missions cosmiques différentes.",1,3,0,75,1
+2,"Obtenir un rang or lors d'une mission cosmique.",1,1,0,75,2
+3,"Accomplir une mission critique.",1,1,0,50,3
+4,"Accomplir une intervention mécanique.",1,1,0,100,4
+5,"Faire tourner une fois la Roue de la fortune cosmique.",1,1,0,50,5
+6,"Accomplir 10 missions cosmiques sur la lune.",2,10,1,300,6
+7,"Accomplir 50 missions cosmiques sur la lune.",2,50,1,450,7
+8,"Accomplir 100 missions cosmiques sur la lune.",2,100,1,900,8
+9,"Accomplir 500 missions cosmiques sur la lune.",2,500,1,1500,9
+10,"Accomplir 10 missions cosmiques différentes sur la lune.",2,10,1,300,10
+11,"Accomplir 50 missions cosmiques différentes sur la lune.",2,50,1,900,11
+12,"Accomplir 100 missions cosmiques différentes sur la lune.",2,100,1,2400,12
+13,"Obtenir un rang or pour 10 missions cosmiques différentes sur la lune.",2,10,1,300,13
+14,"Obtenir un rang or pour 50 missions cosmiques différentes sur la lune.",2,50,1,900,14
+15,"Obtenir un rang or pour 100 missions cosmiques différentes sur la lune.",2,100,1,2400,15
+16,"Accomplir une mission critique sur la lune.",2,1,2,500,16
+17,"Accomplir 10 missions critiques sur la lune.",2,10,2,1000,17
+18,"Accomplir 30 missions critiques sur la lune.",2,30,2,3000,18
+19,"Accomplir une intervention mécanique sur la lune en pilotant une machine.",2,1,1,1500,22
+20,"Accomplir 5 interventions mécaniques sur la lune en pilotant une machine.",2,5,1,3000,23
+21,"Accomplir 10 interventions mécaniques sur la lune en pilotant une machine.",2,10,1,4500,24
+22,"Accomplir 5 interventions mécaniques sur la lune en tant qu'assistant.",2,5,1,300,25
+23,"Accomplir 20 interventions mécaniques sur la lune en tant qu'assistant.",2,20,1,900,26
+24,"Accomplir 50 interventions mécaniques sur la lune en tant qu'assistant.",2,50,1,2100,27
+25,"Accomplir 3 missions de menuisier de classe D différentes sur la lune.",2,3,3,50,28
+26,"Accomplir 4 missions de menuisier de classe C différentes sur la lune.",2,4,3,100,29
+27,"Obtenir un rang or pour 3 missions de menuisier de classe B différentes sur la lune.",2,3,3,200,30
+28,"Accomplir 3 missions de forgeron de classe D différentes sur la lune.",2,3,7,50,31
+29,"Accomplir 4 missions de forgeron de classe C différentes sur la lune.",2,4,7,100,32
+30,"Obtenir un rang or pour 3 missions de forgeron de classe B différentes sur la lune.",2,3,7,200,33
+31,"Accomplir 3 missions d'armurier de classe D différentes sur la lune.",2,3,11,50,34
+32,"Accomplir 4 missions d'armurier de classe C différentes sur la lune.",2,4,11,100,35
+33,"Obtenir un rang or pour 3 missions d'armurier de classe B différentes sur la lune.",2,3,11,200,36
+34,"Accomplir 3 missions d'orfèvre de classe D différentes sur la lune.",2,3,15,50,37
+35,"Accomplir 4 missions d'orfèvre de classe C différentes sur la lune.",2,4,15,100,38
+36,"Obtenir un rang or pour 3 missions d'orfèvre de classe B différentes sur la lune.",2,3,15,200,39
+37,"Accomplir 3 missions de tanneur de classe D différentes sur la lune.",2,3,19,50,40
+38,"Accomplir 4 missions de tanneur de classe C différentes sur la lune.",2,4,19,100,41
+39,"Obtenir un rang or pour 3 missions de tanneur de classe B différentes sur la lune.",2,3,19,200,42
+40,"Accomplir 3 missions de couturier de classe D différentes sur la lune.",2,3,23,50,43
+41,"Accomplir 4 missions de couturier de classe C différentes sur la lune.",2,4,23,100,44
+42,"Obtenir un rang or pour 3 missions de couturier de classe B différentes sur la lune.",2,3,23,200,45
+43,"Accomplir 3 missions d'alchimiste de classe D différentes sur la lune.",2,3,27,50,46
+44,"Accomplir 4 missions d'alchimiste de classe C différentes sur la lune.",2,4,27,100,47
+45,"Obtenir un rang or pour 3 missions d'alchimiste de classe B différentes sur la lune.",2,3,27,200,48
+46,"Accomplir 3 missions de cuisinier de classe D différentes sur la lune.",2,3,31,50,49
+47,"Accomplir 4 missions de cuisinier de classe C différentes sur la lune.",2,4,31,100,50
+48,"Obtenir un rang or pour 3 missions de cuisinier de classe B différentes sur la lune.",2,3,31,200,51
+49,"Accomplir 3 missions de botaniste de classe D différentes sur la lune.",2,3,39,50,55
+50,"Accomplir 4 missions de botaniste de classe C différentes sur la lune.",2,4,39,100,56
+51,"Obtenir un rang or pour 3 missions de botaniste de classe B différentes sur la lune.",2,3,39,200,57
+52,"Accomplir 3 missions de mineur de classe D différentes sur la lune.",2,3,35,50,52
+53,"Accomplir 4 missions de mineur de classe C différentes sur la lune.",2,4,35,100,53
+54,"Obtenir un rang or pour 3 missions de mineur de classe B différentes sur la lune.",2,3,35,200,54
+55,"Accomplir 3 missions de pêcheur de classe D différentes sur la lune.",2,3,43,50,58
+56,"Accomplir 4 missions de pêcheur de classe C différentes sur la lune.",2,4,43,100,59
+57,"Obtenir un rang or pour 3 missions de pêcheur de classe B différentes sur la lune.",2,3,43,200,60
+58,"Jouer 5 fois à la Roue de la fortune cosmique sur la lune.",2,5,1,300,61
+59,"Jouer 30 fois à la Roue de la fortune cosmique sur la lune.",2,30,1,600,62
+60,"Jouer 100 fois à la Roue de la fortune cosmique sur la lune.",2,100,1,900,63
+61,"Accomplir 5 missions critiques différentes sur la lune.",2,5,2,1000,19
+62,"Accomplir 15 missions critiques différentes sur la lune.",2,15,2,2000,20
+63,"Accomplir 33 missions critiques différentes sur la lune.",2,33,2,3000,21
+64,"Accomplir 10 missions cosmiques sur Phaenna.",2,10,1,500,6
+65,"Accomplir 50 missions cosmiques sur Phaenna.",2,50,1,800,7
+66,"Accomplir 100 missions cosmiques sur Phaenna.",2,100,1,1600,8
+67,"Accomplir 500 missions cosmiques sur Phaenna.",2,500,1,2500,9
+68,"Accomplir 10 missions cosmiques différentes sur Phaenna.",2,10,1,500,10
+69,"Accomplir 50 missions cosmiques différentes sur Phaenna.",2,50,1,1500,11
+70,"Accomplir 100 missions cosmiques différentes sur Phaenna.",2,100,1,4000,12
+71,"Obtenir un rang or pour 10 missions cosmiques différentes sur Phaenna.",2,10,1,500,13
+72,"Obtenir un rang or pour 50 missions cosmiques différentes sur Phaenna.",2,50,1,1500,14
+73,"Obtenir un rang or pour 100 missions cosmiques différentes sur Phaenna.",2,100,1,4000,15
+74,"Accomplir une mission critique sur Phaenna.",2,1,47,500,16
+75,"Accomplir 10 missions critiques sur Phaenna.",2,10,47,1000,17
+76,"Accomplir 30 missions critiques sur Phaenna.",2,30,47,3000,18
+77,"Accomplir une intervention mécanique sur Phaenna en pilotant une machine.",2,1,1,1500,22
+78,"Accomplir 5 interventions mécaniques sur Phaenna en pilotant une machine.",2,5,1,3000,23
+79,"Accomplir 10 interventions mécaniques sur Phaenna en pilotant une machine.",2,10,1,4500,24
+80,"Accomplir 5 interventions mécaniques sur Phaenna en tant qu'assistant.",2,5,1,300,25
+81,"Accomplir 20 interventions mécaniques sur Phaenna en tant qu'assistant.",2,20,1,900,26
+82,"Accomplir 50 interventions mécaniques sur Phaenna en tant qu'assistant.",2,50,1,2100,27
+83,"Accomplir 5 missions cosmiques de menuisier différentes sur Phaenna.",2,5,3,75,28
+84,"Accomplir 10 missions cosmiques de menuisier différentes sur Phaenna.",2,10,3,150,29
+85,"Accomplir 15 missions cosmiques de menuisier différentes sur Phaenna.",2,15,3,300,30
+86,"Accomplir 5 missions cosmiques de forgeron différentes sur Phaenna.",2,5,7,75,31
+87,"Accomplir 10 missions cosmiques de forgeron différentes sur Phaenna.",2,10,7,150,32
+88,"Accomplir 15 missions cosmiques de forgeron différentes sur Phaenna.",2,15,7,300,33
+89,"Accomplir 5 missions cosmiques d'armurier différentes sur Phaenna.",2,5,11,75,34
+90,"Accomplir 10 missions cosmiques d'armurier différentes sur Phaenna.",2,10,11,150,35
+91,"Accomplir 15 missions cosmiques d'armurier différentes sur Phaenna.",2,15,11,300,36
+92,"Accomplir 5 missions cosmiques d'orfèvre différentes sur Phaenna.",2,5,15,75,37
+93,"Accomplir 10 missions cosmiques d'orfèvre différentes sur Phaenna.",2,10,15,150,38
+94,"Accomplir 15 missions cosmiques d'orfèvre différentes sur Phaenna.",2,15,15,300,39
+95,"Accomplir 5 missions cosmiques de tanneur différentes sur Phaenna.",2,5,19,75,40
+96,"Accomplir 10 missions cosmiques de tanneur différentes sur Phaenna.",2,10,19,150,41
+97,"Accomplir 15 missions cosmiques de tanneur différentes sur Phaenna.",2,15,19,300,42
+98,"Accomplir 5 missions cosmiques de couturier différentes sur Phaenna.",2,5,23,75,43
+99,"Accomplir 10 missions cosmiques de couturier différentes sur Phaenna.",2,10,23,150,44
+100,"Accomplir 15 missions cosmiques de couturier différentes sur Phaenna.",2,15,23,300,45
+101,"Accomplir 5 missions cosmiques d'alchimiste différentes sur Phaenna.",2,5,27,75,46
+102,"Accomplir 10 missions cosmiques d'alchimiste différentes sur Phaenna.",2,10,27,150,47
+103,"Accomplir 15 missions cosmiques d'alchimiste différentes sur Phaenna.",2,15,27,300,48
+104,"Accomplir 5 missions cosmiques de cuisinier différentes sur Phaenna.",2,5,31,75,49
+105,"Accomplir 10 missions cosmiques de cuisinier différentes sur Phaenna.",2,10,31,150,50
+106,"Accomplir 15 missions cosmiques de cuisinier différentes sur Phaenna.",2,15,31,300,51
+107,"Accomplir 5 missions cosmiques de botaniste différentes sur Phaenna.",2,5,39,75,55
+108,"Accomplir 10 missions cosmiques de botaniste différentes sur Phaenna.",2,10,39,150,56
+109,"Accomplir 15 missions cosmiques de botaniste différentes sur Phaenna.",2,15,39,300,57
+110,"Accomplir 5 missions cosmiques de mineur différentes sur Phaenna.",2,5,35,75,52
+111,"Accomplir 10 missions cosmiques de mineur différentes sur Phaenna.",2,10,35,150,53
+112,"Accomplir 15 missions cosmiques de mineur différentes sur Phaenna.",2,15,35,300,54
+113,"Accomplir 5 missions cosmiques de pêcheur différentes sur Phaenna.",2,5,43,75,58
+114,"Accomplir 10 missions cosmiques de pêcheur différentes sur Phaenna.",2,10,43,150,59
+115,"Accomplir 15 missions cosmiques de pêcheur différentes sur Phaenna.",2,15,43,300,60
+116,"Jouer 5 fois à la Roue de la fortune cosmique sur Phaenna.",2,5,1,500,61
+117,"Jouer 30 fois à la Roue de la fortune cosmique sur Phaenna.",2,30,1,1000,62
+118,"Jouer 100 fois à la Roue de la fortune cosmique sur Phaenna.",2,100,1,1500,63
+119,"Accomplir 5 missions critiques différentes sur Phaenna.",2,5,47,1000,19
+120,"Accomplir 15 missions critiques différentes sur Phaenna.",2,15,47,2000,20
+121,"Accomplir 33 missions critiques différentes sur Phaenna.",2,33,47,3000,21
+122,"Accomplir 10 missions cosmiques sur Oizys.",2,10,1,500,6
+123,"Accomplir 50 missions cosmiques sur Oizys.",2,50,1,800,7
+124,"Accomplir 100 missions cosmiques sur Oizys.",2,100,1,1600,8
+125,"Accomplir 500 missions cosmiques sur Oizys.",2,500,1,2500,9
+126,"Accomplir 10 missions cosmiques différentes sur Oizys.",2,10,1,500,10
+127,"Accomplir 50 missions cosmiques différentes sur Oizys.",2,50,1,1500,11
+128,"Accomplir 100 missions cosmiques différentes sur Oizys.",2,100,1,4000,12
+129,"Obtenir un rang or pour 10 missions cosmiques différentes sur Oizys.",2,10,1,500,13
+130,"Obtenir un rang or pour 50 missions cosmiques différentes sur Oizys.",2,50,1,1500,14
+131,"Obtenir un rang or pour 100 missions cosmiques différentes sur Oizys.",2,100,1,4000,15
+132,"Accomplir une mission critique sur Oizys.",2,1,48,500,16
+133,"Accomplir 10 missions critiques sur Oizys.",2,10,48,1000,17
+134,"Accomplir 30 missions critiques sur Oizys.",2,30,48,3000,18
+135,"Accomplir une intervention mécanique sur Oizys en pilotant une machine.",2,1,1,1500,22
+136,"Accomplir 5 interventions mécaniques sur Oizys en pilotant une machine.",2,5,1,3000,23
+137,"Accomplir 10 interventions mécaniques sur Oizys en pilotant une machine.",2,10,1,4500,24
+138,"Accomplir 5 interventions mécaniques sur Oizys en tant qu'assistant.",2,5,1,300,25
+139,"Accomplir 20 interventions mécaniques sur Oizys en tant qu'assistant.",2,20,1,900,26
+140,"Accomplir 50 interventions mécaniques sur Oizys en tant qu'assistant.",2,50,1,2100,27
+141,"Accomplir 5 missions cosmiques de menuisier différentes sur Oizys.",2,5,3,75,28
+142,"Accomplir 10 missions cosmiques de menuisier différentes sur Oizys.",2,10,3,150,29
+143,"Accomplir 15 missions cosmiques de menuisier différentes sur Oizys.",2,15,3,300,30
+144,"Accomplir 5 missions cosmiques de forgeron différentes sur Oizys.",2,5,7,75,31
+145,"Accomplir 10 missions cosmiques de forgeron différentes sur Oizys.",2,10,7,150,32
+146,"Accomplir 15 missions cosmiques de forgeron différentes sur Oizys.",2,15,7,300,33
+147,"Accomplir 5 missions cosmiques d'armurier différentes sur Oizys.",2,5,11,75,34
+148,"Accomplir 10 missions cosmiques d'armurier différentes sur Oizys.",2,10,11,150,35
+149,"Accomplir 15 missions cosmiques d'armurier différentes sur Oizys.",2,15,11,300,36
+150,"Accomplir 5 missions cosmiques d'orfèvre différentes sur Oizys.",2,5,15,75,37
+151,"Accomplir 10 missions cosmiques d'orfèvre différentes sur Oizys.",2,10,15,150,38
+152,"Accomplir 15 missions cosmiques d'orfèvre différentes sur Oizys.",2,15,15,300,39
+153,"Accomplir 5 missions cosmiques de tanneur différentes sur Oizys.",2,5,19,75,40
+154,"Accomplir 10 missions cosmiques de tanneur différentes sur Oizys.",2,10,19,150,41
+155,"Accomplir 15 missions cosmiques de tanneur différentes sur Oizys.",2,15,19,300,42
+156,"Accomplir 5 missions cosmiques de couturier différentes sur Oizys.",2,5,23,75,43
+157,"Accomplir 10 missions cosmiques de couturier différentes sur Oizys.",2,10,23,150,44
+158,"Accomplir 15 missions cosmiques de couturier différentes sur Oizys.",2,15,23,300,45
+159,"Accomplir 5 missions cosmiques d'alchimiste différentes sur Oizys.",2,5,27,75,46
+160,"Accomplir 10 missions cosmiques d'alchimiste différentes sur Oizys.",2,10,27,150,47
+161,"Accomplir 15 missions cosmiques d'alchimiste différentes sur Oizys.",2,15,27,300,48
+162,"Accomplir 5 missions cosmiques de cuisinier différentes sur Oizys.",2,5,31,75,49
+163,"Accomplir 10 missions cosmiques de cuisinier différentes sur Oizys.",2,10,31,150,50
+164,"Accomplir 15 missions cosmiques de cuisinier différentes sur Oizys.",2,15,31,300,51
+165,"Accomplir 5 missions cosmiques de botaniste différentes sur Oizys.",2,5,39,75,55
+166,"Accomplir 10 missions cosmiques de botaniste différentes sur Oizys.",2,10,39,150,56
+167,"Accomplir 15 missions cosmiques de botaniste différentes sur Oizys.",2,15,39,300,57
+168,"Accomplir 5 missions cosmiques de mineur différentes sur Oizys.",2,5,35,75,52
+169,"Accomplir 10 missions cosmiques de mineur différentes sur Oizys.",2,10,35,150,53
+170,"Accomplir 15 missions cosmiques de mineur différentes sur Oizys.",2,15,35,300,54
+171,"Accomplir 5 missions cosmiques de pêcheur différentes sur Oizys.",2,5,43,75,58
+172,"Accomplir 10 missions cosmiques de pêcheur différentes sur Oizys.",2,10,43,150,59
+173,"Accomplir 15 missions cosmiques de pêcheur différentes sur Oizys.",2,15,43,300,60
+174,"Jouer 5 fois à la Roue de la fortune cosmique sur Oizys.",2,5,1,500,61
+175,"Jouer 30 fois à la Roue de la fortune cosmique sur Oizys.",2,30,1,1000,62
+176,"Jouer 100 fois à la Roue de la fortune cosmique sur Oizys.",2,100,1,1500,63
+177,"Accomplir 5 missions critiques différentes sur Oizys.",2,5,48,1000,19
+178,"Accomplir 12 missions critiques différentes sur Oizys.",2,12,48,2000,20
+179,"Accomplir 22 missions critiques différentes sur Oizys.",2,22,48,3000,21
+180,"Accomplir 10 fouilles archéologiques sur Oizys.",2,10,48,1000,64
+181,"Accomplir 30 fouilles archéologiques sur Oizys.",2,30,48,3000,65
+182,"Accomplir 100 fouilles archéologiques sur Oizys.",2,100,48,5000,66

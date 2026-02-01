@@ -1,0 +1,74 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Name,,Action[0],Action[1],Action[2],Action[3],,,,
+int32,str,sbyte,Action,Action,Action,Action,uint16,uint16,uint16,bit&01
+0,"",0,0,0,0,0,0,0,0,True
+1,"Combo Rage de Halone",0,17355,0,0,0,0,0,0,False
+2,"Combo Autorité royale",0,17355,0,0,0,0,0,0,False
+3,"Combo Billot du boucher",0,17355,0,0,0,0,0,0,False
+4,"Combo Couperet de justice",0,17355,0,0,0,0,0,0,False
+5,"Combo Taillade puissante",0,17355,0,0,0,0,0,0,False
+6,"Combo Dévoreur d'âme",0,17355,0,0,0,0,0,0,False
+7,"Combo Coup de poing brusque",0,17355,0,0,0,0,0,0,False
+8,"Combo Démolition",1,17355,0,0,0,0,0,0,False
+9,"Combo Percée tournante",0,17355,0,0,0,0,0,0,False
+10,"Combo Percée tournante",1,17355,0,0,0,0,0,0,False
+11,"Combo Lame éolienne",0,17355,0,0,0,0,0,0,False
+12,"Combo Croc d'ombre",1,17355,0,0,0,0,0,0,False
+13,"Combo Yukikaze",0,17355,0,0,0,0,0,0,False
+14,"Combo Gekkô",1,17355,0,0,0,0,0,0,False
+15,"Combo Kasha",2,17355,0,0,0,0,0,0,False
+16,"Combo Tir droit",0,17355,0,0,0,0,0,0,False
+17,"Combo Morsure de la tempête",0,17355,0,0,0,0,0,0,False
+18,"Combo Tir net chauffé",0,17355,0,0,0,0,0,0,False
+19,"Combo Redoublement enchanté",0,17355,0,0,0,0,0,0,False
+20,"Combo Salve tranchante",0,17355,0,0,0,0,0,0,False
+21,"Combo Serre vicieuse",2,17355,0,0,0,0,0,0,False
+22,"Combo Fontaine",0,17355,0,0,0,0,0,0,False
+23,"Combo Spadassin",0,16788,16269,16984,0,0,0,0,False
+24,"Combo Éclipse suprême",1,16789,16985,0,0,0,0,0,False
+25,"Combo Salve tranchante",0,16434,16418,16435,0,0,0,0,False
+26,"Combo Tourment du Coerthas",0,18772,18773,18774,0,0,0,0,False
+27,"Combo Évidence",1,17355,0,0,0,0,0,0,False
+28,"Combo Cyclone de fer",1,17355,0,0,0,0,0,0,False
+29,"Combo Noirceur insoumise",1,17355,0,0,0,0,0,0,False
+30,"Combo Briseur de rocs",1,17355,0,0,0,0,0,0,False
+31,"Combo Tourment du Coerthas",1,17355,0,0,0,0,0,0,False
+32,"Combo Hakke Mujinsatsu",1,17355,0,0,0,0,0,0,False
+33,"Combo Kasha",0,17355,0,0,0,0,0,0,False
+34,"Combo Ôka",1,17355,0,0,0,0,0,0,False
+35,"Combo Massacre démoniaque",1,17355,0,0,0,0,0,0,False
+36,"Combo Averse de lames",1,17355,0,0,0,0,0,0,False
+37,"Combo Yagetsu",0,14840,19046,19047,0,0,0,0,False
+38,"Combo Sabre éthéré",0,20490,20491,20492,0,0,0,0,False
+39,"Combo VerBrasier",0,20529,20530,20531,20532,0,0,0,False
+40,"Combo Infect",0,21612,22502,22817,21613,0,0,0,False
+41,"Combo Roi des couronnes",0,21499,21607,0,0,0,0,0,False
+42,"Combo Parchemin de Thaliak",1,24066,21610,0,0,0,0,0,False
+43,"Combo Calcination",1,24917,24918,24919,24920,21496,21923,24831,False
+44,"Combo Rage de Halone",0,26249,26250,26251,0,0,0,0,False
+45,"Combo VerBrasier",0,27048,27049,27050,27051,27052,0,0,False
+46,"Combo Calcination",1,27054,27055,27056,27057,27058,27059,24898,False
+47,"Combo Salve tranchante",0,27427,27428,27429,0,0,0,0,False
+48,"Combo Tranchage infernal",0,17355,0,0,0,0,0,0,False
+49,"Combo Faux cauchemardesque",1,17355,0,0,0,0,0,0,False
+50,"Combo Autorité royale",0,29058,29059,29060,0,0,0,0,True
+51,"Combo Couperet de justice",0,29074,29075,29076,0,0,0,0,True
+52,"Combo Dévoreur d'âme",0,29085,29086,29087,0,0,0,0,True
+53,"Combo Frappe explosive",0,29098,29099,29100,29101,0,0,0,True
+54,"Combo Fontaine",0,29416,29417,0,0,0,0,0,True
+55,"Combo Rixe évanescente",0,29475,29476,29477,41444,41445,41446,29478,True
+56,"Combo Fléau du dragon",0,29486,29487,29488,41449,0,0,0,True
+57,"Combo Lame éolienne",0,29500,29501,29502,0,0,0,0,True
+58,"Combo Kasha",0,29523,29524,29525,0,0,0,0,True
+59,"Combo Tranchage infernal",0,29538,29539,29540,0,0,0,0,True
+60,"Combo Rage du gentilhomme",0,31393,31394,31395,0,0,0,0,True
+61,"Combo Tranchage infernal",0,31786,31787,31788,0,0,0,0,True
+62,"Combo Faux cauchemardesque",0,31789,31790,0,0,0,0,0,True
+63,"Combo Coup de queue du br'aax",0,37120,37121,37122,0,0,0,0,True
+64,"Combo Rudesse du Tural",0,37127,37128,37126,0,0,0,0,True
+65,"Combo Posture des crochets",0,39157,39159,39161,39158,39160,39163,0,True
+66,"",0,0,0,0,0,0,0,0,False
+67,"Combo Eau en bleu",0,46756,46757,46758,0,0,0,0,True
+68,"Combo Extra Eau en bleu",1,46759,46760,46761,0,0,0,0,True
+69,"",0,0,0,0,0,0,0,0,False
+70,"",0,0,0,0,0,0,0,0,False

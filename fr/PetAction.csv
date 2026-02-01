@@ -1,0 +1,127 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Name,Description,Icon,Action,Pet,MasterOrder,DisableOrder,
+int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
+0,"","",405,0,0,False,True,False
+1,"Renvoyer","Renvoie le familier.",530,0,0,False,True,False
+2,"Suivre","Ordonne au familier de vous suivre.",529,0,0,False,True,False
+3,"Se placer","Ordonne au familier de se placer à l'endroit désigné.",527,0,0,False,True,False
+4,"Attendre","Ordonne au familier de rester où il est.",528,0,0,False,True,False
+5,"Défendre","Ordonne au familier de n'attaquer que lorsque vous attaquez ou lorsque vous êtes attaqué<If(PlayerParameter(4))>e<Else/></If>.",531,0,0,False,True,False
+6,"Passif","Ordonne au familier de n'attaquer que lorsque vous en donnez l'ordre.",532,0,0,False,True,False
+7,"Libre arbitre","Ordonne au familier d'attaquer librement.",786,0,0,True,False,False
+8,"Obéir","Ordonne au familier d'attaquer, mais il n'accomplit pas certaines actions sans votre ordre.",786,0,0,True,False,False
+9,"Coup de vent","Effectue une attaque magique de vent sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90",786,637,1,True,False,False
+10,"Éjection","Effectue une attaque magique de vent sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 80
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> projette la cible 15 yalms en arrière
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,638,1,True,False,False
+11,"Rafale descendante","Effectue une attaque magique de vent sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 80
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,639,1,True,False,False
+12,"Émeraude scintillante","Augmente de 10% les dégâts magiques subis par la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,640,1,True,False,False
+13,"Griffes","Effectue une attaque magique de terre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 70
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente l'inimitié envers le familier.",786,633,2,True,False,False
+14,"Topaze scintillante","Effectue une attaque magique de terre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente l'inimitié envers le familier.
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,634,2,True,False,False
+15,"Pelotonnement","Réduit de 20% les dégâts subis par le familier.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,635,2,True,False,False
+16,"Charge","Effectue une attaque magique de terre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Étourdissement.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 2s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,636,2,True,False,False
+17,"Lame de vent","Effectue une attaque magique de vent sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100",786,792,5,True,False,False
+18,"Onde de choc","Effectue une attaque magique de vent sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> projette la cible 15 yalms en arrière.
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,793,5,True,False,False
+19,"Taillade aérienne","Effectue une attaque magique de vent sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,794,5,True,False,False
+20,"Contagion","Augmente de 10% les dégâts magiques subis par la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,795,5,True,False,False
+21,"Rafale aérienne","Effectue une attaque magique de vent sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250
+Requiert l'utilisation de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Galvanisation<UIGlow>01</UIGlow><UIForeground>01</UIForeground> par le maître.",786,796,5,True,False,False
+22,"Casse-roc","Effectue une attaque magique de terre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 85
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente l'inimitié envers le familier.",786,787,4,True,False,False
+23,"Casse-montagnes","Effectue une attaque magique de terre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 70
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente l'inimitié envers le familier
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,788,4,True,False,False
+24,"Barrière terrestre","Réduit de 20% les dégâts subis par le familier.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,789,4,True,False,False
+25,"Glissement de terrain","Effectue une attaque magique de terre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 70
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Étourdissement.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 2s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,790,4,True,False,False
+26,"Fureur tellurique","Effectue une attaque magique de terre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> crée une zone de dégâts.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+Requiert l'utilisation de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Galvanisation<UIGlow>01</UIGlow><UIForeground>01</UIForeground> par le maître.",786,791,4,True,False,False
+27,"Cyclone écarlate","Effectue une attaque magique de feu sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 110
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Étourdissement.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 2s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,797,3,True,False,False
+28,"Frappe ardente","Effectue une attaque magique de feu sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 135",786,798,3,True,False,False
+29,"Bouclier radiant","Crée une barrière sur vous et les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet de la barrière<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100% de chances que les dégâts physiques subis par l'assaillant soient augmentés de 2% pendant 4 secondes.
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,799,3,True,False,False
+30,"Fracassement flamboyant","Effectue une attaque magique de feu sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 110
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,800,3,True,False,False
+31,"Flammes de l'enfer","Effectue une attaque magique de feu dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de feu.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+Requiert l'utilisation de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Galvanisation<UIGlow>01</UIGlow><UIForeground>01</UIForeground> par le maître.",786,801,3,True,False,False
+32,"Embrassement","Restaure les PV de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250",786,802,6,True,False,False
+33,"Murmure de l'aurore","Restaure périodiquement les PV du familier et des équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 120 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,803,6,True,False,False
+34,"Alliance féerique","Augmente de 20% la défense magique du familier et des équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,804,6,True,False,False
+35,"Illumination féerique","Augmente de 10% les PV restaurés par les sorts curatifs du familier et des équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,805,6,True,False,False
+36,"Embrassement","Restaure les PV de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250",786,806,7,True,False,False
+37,"Silence de l'aurore","Inflige Silence à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,807,7,True,False,False
+38,"Caresse féerique","Soigne une altération d'état des équipiers alentour.
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,810,7,True,False,False
+39,"Vent féerique","Réduit de 3% le délai des attaques automatiques et les temps de lancement et de recharge des techniques d'arme et des sorts de magie du familier et des équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+En mode <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Obéir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, requiert l'ordre du maître.",786,811,7,True,False,False
+40,"Mode attaque","Ordonne à l'auto-tourelle de se concentrer sur l'attaque.",405,0,8,True,False,False
+41,"Mode soutien","Ordonne à l'auto-tourelle de se concentrer sur le soutien.",405,0,8,True,False,False
+42,"","",405,7428,10,True,False,False
+43,"","",405,7449,10,True,False,False
+44,"","",405,7450,0,True,False,False
+45,"","",405,7416,8,True,False,False
+46,"","",405,7417,9,True,False,False
+47,"","",405,7438,0,True,False,False
+48,"","",405,7440,0,True,False,False
+49,"","",405,7441,0,True,False,False
+50,"","",405,8879,0,True,False,False
+51,"","",405,8881,0,True,False,False
+52,"","",405,9127,0,True,False,False

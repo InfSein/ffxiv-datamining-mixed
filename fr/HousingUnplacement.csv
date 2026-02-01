@@ -1,0 +1,42 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Retirer ce meuble<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* L'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+2,"Congédier <SheetFr(ENpcResident,6,IntegerParameter(1),1,1)/><Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les changements apportés à l'apparence du personnage seront perdus.
+* La licence de recrutement sera remise dans votre inventaire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+3,"Retirer ce servant<Indent/>? <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les changements apportés à l'apparence du personnage seront perdus.
+* L'au<SoftHyphen/>to<SoftHyphen/>ri<SoftHyphen/>sa<SoftHyphen/>tion de vente sera remise dans votre inventaire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+4,"Retirer ce meuble alors qu<If(Equal(IntegerParameter(1),1))>'un<Else/>e <Value>IntegerParameter(1)</Value></If> repas <If(Equal(IntegerParameter(1),1))>peut<Else/>peuvent</If> encore être fait<If(Equal(IntegerParameter(1),1))><Else/>s</If> avec<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* L'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+5,"Retirer ce meuble<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si une fleur est disposée dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+6,"Retirer l'aquarium<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les objets qu'il contient seront perdus.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7,"Retirer ce meuble<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si une peinture est placée dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+8,"Retirer ce meuble<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si un papier-peint est placé dessus, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+9,"Remettre la licence de recrutement dans votre inventaire depuis l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les changements faits à l'apparence du personnage seront perdus.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+10,"Retirer ce servant de l'entrepôt et remettre l'au<SoftHyphen/>to<SoftHyphen/>ri<SoftHyphen/>sa<SoftHyphen/>tion de vente dans votre inventaire<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les changements faits à l'apparence du personnage seront perdus.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+11,"Retirer ce meuble de l'entrepôt alors qu<If(Equal(IntegerParameter(1),1))>'un<Else/>e <Value>IntegerParameter(1)</Value></If> repas <If(Equal(IntegerParameter(1),1))>peut<Else/>peuvent</If> encore être fait<If(Equal(IntegerParameter(1),1))><Else/>s</If> avec<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* L'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12,"Retirer ce meuble de l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si une fleur est disposée dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13,"Retirer l'aquarium de l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les objets qu'il contient seront perdus.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+14,"Retirer ce meuble de l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si une peinture est placée dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15,"Retirer ce meuble de l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si un revêtement est placé dessus, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+16,"Congédier l'employé(e) de maison<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Les changements apportés à l'apparence du personnage seront perdus.
+* La licence de recrutement sera remise dans votre inventaire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+17,"Retirer ce meuble<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si un ichtyogramme est placé dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+18,"Retirer ce meuble de l'entrepôt<Indent/>?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Si un ichtyogramme est placé dedans, l'objet correspondant sera définitivement perdu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

@@ -1,0 +1,22 @@
+﻿key,0,1,2,3,4
+#,,,,,
+int32,byte,byte,int32,str,str
+0,0,0,-1,"",""
+1,1,4,82201,"Défense améliorée","Augmente l'effet de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Défense<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 90%."
+2,1,5,82202,"Prière améliorée","Augmente la puissance de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Prière<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 5000."
+3,2,3,82203,"Fureur améliorée","Permet de recevoir <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Brutalité<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque vous utilisez <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Fureur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Brutalité<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> plus des dégâts sont subis pendant la durée de l'effet, plus la puissance de la prochaine action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Frappes brutales<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s"
+4,3,4,82204,"Coups de pied améliorés","Augmente l'effet de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Coups de pied<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 7%."
+5,3,6,82205,"Coups de pied améliorés II","Augmente l'effet de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Coups de pied<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 9%."
+6,4,3,82206,"Ciblage amélioré","Augmente l'effet de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ciblage<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 30% et permet aux attaques de toucher à coup sûr."
+7,4,5,82207,"Ciblage amélioré II","Augmente l'effet de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ciblage<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 50% et permet aux attaques de toucher à coup sûr."
+8,5,5,82208,"Iainuki amélioré","Augmente la puissance de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Iainuki<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 500 et les chances d'infliger Mort à 10%."
+9,6,2,82209,"Chants améliorés","Augmente l'effet de certains chants en fonction du niveau de job de soutien de barde fantôme."
+10,12,6,82212,"Passe-partout","Permet d'ouvrir toutes les portes verrouillées dans un donjon."
+11,9,5,82211,"Tir amélioré","Accorde 5% de chances d'infliger Mort à certaines cibles lors de l'utilisation de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tir<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+12,7,5,82210,"Cloches améliorées","Augmente l'effet de chaque degré de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cloche d'attaque<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 5%.
+Augmente la puissance curative de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cloche de détente<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à 3000."
+13,0,0,-1,"",""
+14,0,0,-1,"",""
+15,0,0,-1,"",""

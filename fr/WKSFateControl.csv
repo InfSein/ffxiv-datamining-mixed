@@ -1,0 +1,68 @@
+﻿key,0,1,2
+#,,,
+int32,uint16,str,str
+0,0,"",""
+1,1978,"Un ouvrage collectif va bientôt avoir lieu dans la station sélénienne.
+Nous réquerons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Premier agrandissement de la station” est en cours dans la station sélénienne ! À vos outils !"
+2,1979,"Un ouvrage collectif va bientôt avoir lieu dans la station sélénienne.
+Nous réquerons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Mise en place du premier réseau de cosmo-navettes” est en cours dans la station sélénienne ! À vos outils !"
+3,1980,"Un ouvrage collectif va bientôt avoir lieu au sud-est de la station sélénienne. Nous réquerons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Installation des modules d'habitation” est en cours au sud-est de la station sélénienne ! À vos outils !"
+4,1981,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la station sélénienne. Nous réquerons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Premier aménagement du cosmoport” est en cours au nord-ouest de la station sélénienne ! À vos outils !"
+5,1982,"Un ouvrage collectif va bientôt avoir lieu au nord-est de la station sélénienne. Nous réquerons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Premier agrandissement du hangar” est en cours au nord-est de la station sélénienne ! À vos outils !"
+6,0,"Le chantier au nord-ouest de Sinus Ardorum est bientôt terminé.
+La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+7,0,"Le chantier au sud-est de Sinus Ardorum est bientôt terminé.
+La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+8,1983,"Un ouvrage collectif va bientôt avoir lieu au sud de Sinus Ardorum.
+Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Première excavation du tunnel” est en cours au sud de Sinus Ardorum ! À vos outils !"
+9,1984,"Un ouvrage collectif va bientôt avoir lieu au sud de Sinus Ardorum.
+Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Seconde excavation du tunnel” est en cours au sud de Sinus Ardorum ! À vos outils !"
+10,0,"Le chantier au sud-ouest de Sinus Ardorum est bientôt terminé.
+La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+11,1985,"Un ouvrage collectif va bientôt avoir lieu dans la station sélénienne.
+Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Second agrandissement de la station” est en cours à la station sélénienne ! À vos outils !"
+12,1986,"Un ouvrage collectif va bientôt avoir lieu au sud-ouest de la station sélénienne. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Expansion des infrastructures énergétiques” est en cours au sud-ouest de la station sélénienne ! À vos outils !"
+13,1987,"Un ouvrage collectif va bientôt avoir lieu à l'ouest de la station sélénienne. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Expansion des infrastructures de dis<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion d'eau” est en cours à l'ouest de la station sélénienne ! À vos outils !"
+14,1988,"Un ouvrage collectif va bientôt avoir lieu au nord-est de la station sélénienne. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Second agrandissement du hangar” est en cours au nord-est de la station sélénienne ! À vos outils !"
+15,1989,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la station sélénienne. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Second aménagement du cosmoport” est en cours au nord-ouest de la station sélénienne ! À vos outils !"
+16,1990,"Un ouvrage collectif va bientôt avoir lieu au nord-est de Sinus Ardorum. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Première préparation du site pour l'ascenseur” est en cours au nord-est de Sinus Ardorum ! À vos outils !"
+17,1991,"Un ouvrage collectif va bientôt avoir lieu au nord-est de Sinus Ardorum. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Seconde préparation du site pour l'ascenseur” est en cours au nord-est de Sinus Ardorum ! À vos outils !"
+18,0,"Le chantier souterrain au nord-est de Sinus Ardorum est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+19,1992,"Un ouvrage collectif va bientôt avoir lieu dans la station sélénienne.
+Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Agrandissement général des ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions” est en cours dans la station sélénienne ! À vos outils !"
+20,2008,"Un ouvrage collectif va bientôt avoir lieu à la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Premier agrandissement de la station” est en cours ! À vos outils !"
+21,2009,"Un ouvrage collectif va bientôt avoir lieu dans l'antre des Souffleurs de verre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Mise en place du premier réseau de cosmo-navettes” est en cours ! À vos outils !"
+22,2010,"Un ouvrage collectif va bientôt avoir lieu au nord-est de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Installation des modules d'habitation” est en cours ! À vos outils !"
+23,2011,"Un ouvrage collectif va bientôt avoir lieu au sud-est de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Expansion des infrastructures énergétiques” est en cours ! À vos outils !"
+24,2012,"Un ouvrage collectif va bientôt avoir lieu au sud-est de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Expansion des infrastructures de dis<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion d'eau” est en cours ! À vos outils !"
+25,2013,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Premier agrandissement du hangar” est en cours ! À vos outils !"
+26,0,"Le réseau de cosmo-navettes des plaines est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+27,2014,"Un ouvrage collectif va bientôt avoir lieu au sud-est de la colline Milliaflore. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Première préparation des grues” est en cours ! À vos outils !"
+28,2015,"Un ouvrage collectif va bientôt avoir lieu au nord-est du gouffre aux Capsules. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Seconde préparation des grues” est en cours<Indent/>! À vos outils !"
+29,0,"Le réseau de cosmo-navettes du gouffre est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+30,2016,"Un ouvrage collectif va bientôt avoir lieu à la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Second agrandissement de la station” est en cours ! À vos outils !"
+31,2017,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Second agrandissement du hangar” est en cours ! À vos outils !"
+32,2018,"Un ouvrage collectif va bientôt avoir lieu au sud-ouest de la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Support à l'aménagement du cosmoport” est en cours ! À vos outils !"
+33,2019,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la Croisée opalescente. Nous requérons l'aide d'autant de volontaires que possible !","L'ouvrage collectif “Première préparation du réseau” est en cours ! À vos outils !"
+34,2020,"Un ouvrage collectif va bientôt avoir lieu au nord-ouest de la colline Milliaflore. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Seconde préparation du réseau” est en cours<Indent/>! À vos outils<Indent/>!"
+35,2021,"Un ouvrage collectif va bientôt avoir lieu au sud des berges de Salpêtre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Construction de la station des drones” est en cours<Indent/>! À vos outils<Indent/>!"
+36,2022,"Un ouvrage collectif va bientôt avoir lieu à la Cheminée de Fusingway. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Première opération de refroidissement” est en cours<Indent/>! À vos outils<Indent/>!"
+37,2023,"Un ouvrage collectif va bientôt avoir lieu à la Cheminée de Fusingway. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Seconde opération de refroidissement” est en cours<Indent/>! À vos outils<Indent/>!"
+38,0,"Le réseau de cosmo-navettes du volcan est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+39,2024,"Un ouvrage collectif va bientôt avoir lieu à la station Souffleverre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","L'ouvrage collectif “Agrandissement général des ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions” est en cours<Indent/>! À vos outils<Indent/>!"
+40,2046,"Un ouvrage collectif va bientôt avoir lieu au nord de la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours au nord de la station Terra Firma ! À vos outils !"
+41,0,"Le réseau de cosmo-navettes du plateau central est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+42,2047,"Un premier ouvrage collectif va bientôt avoir lieu à l'ouest de la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un premier ouvrage collectif est en cours à l'ouest de la station Terra Firma ! À vos outils !"
+43,2048,"Un second ouvrage collectif va bientôt avoir lieu à l'ouest de la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un second ouvrage collectif est en cours à l'ouest de la station Terra Firma ! À vos outils !"
+44,2049,"Un ouvrage collectif va bientôt avoir lieu à L'Ancre. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours à L'Ancre ! À vos outils !"
+45,0,"Le réseau de cosmo-navettes du Bâtiment ombré est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+46,2050,"Un ouvrage collectif va bientôt avoir lieu à la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours à la station Terra Firma ! À vos outils !"
+47,2051,"Un ouvrage collectif va bientôt avoir lieu à la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours à la station Terra Firma ! À vos outils !"
+48,2052,"Un ouvrage collectif va bientôt avoir lieu au nord de la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours au nord de la station Terra Firma<Indent/>! À vos outils<Indent/>!"
+49,2053,"Un ouvrage collectif va bientôt avoir lieu aux Échos d'Émeraude. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours aux Échos d'Émeraude<Indent/>! À vos outils<Indent/>!"
+50,2054,"Un ouvrage collectif va bientôt avoir lieu aux Échos d'Émeraude. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours aux Échos d'Émeraude ! À vos outils !"
+51,2055,"Un ouvrage collectif va bientôt avoir lieu aux Échos d'Émeraude. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours aux Échos d'Émeraude ! À vos outils !"
+52,2056,"Un ouvrage collectif va bientôt avoir lieu aux Échos d'Émeraude. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours aux Échos d'Émeraude ! À vos outils !"
+53,0,"Le réseau de cosmo-navettes des Échos d'Émeraude est bientôt terminé. La zone deviendra inaccessible à l'heure prévisionnelle d'achèvement.",""
+54,2057,"Un ouvrage collectif va bientôt avoir lieu à la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours à la station Terra Firma ! À vos outils !"
+55,2058,"Un ouvrage collectif va bientôt avoir lieu sur le toit de la station Terra Firma. Nous requérons l'aide d'autant de volontaires que possible<Indent/>!","Un ouvrage collectif est en cours sur le toit de la station Terra Firma ! À vos outils !"

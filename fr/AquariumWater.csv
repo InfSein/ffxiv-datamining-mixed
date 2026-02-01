@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,Name
+int32,byte,str
+0,0,"Invalide"
+1,1,"Eau douce"
+2,2,"Eau de mer"

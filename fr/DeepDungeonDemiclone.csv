@@ -1,0 +1,11 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,,Plural,,,,,,TitleCase,Description
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27970,"semi-clone d'Unéi",0,"semi-clones d'Unéi",0,0,1,0,0,"Semi-clone d'Unéi","Un mémoquartz contenant les données pour un semi-clone d'Unéi. À utiliser avec votre générateur pour créer le semi-clone."
+2,27971,"semi-clone de Doga",0,"semi-clones de Doga",0,0,1,0,0,"Semi-clone de Doga","Un mémoquartz contenant les données pour un semi-clone de Doga. À utiliser avec votre générateur pour créer le semi-clone."
+3,27972,"semi-clone de chevalier Oignon",0,"semi-clones de chevalier Oignon",0,0,1,0,0,"Semi-clone de chevalier Oignon","Un mémoquartz contenant les données pour un semi-clone de chevalier Oignon. À utiliser avec votre générateur pour créer le semi-clone."
+4,27973,"bâton d'encens de genévrier de la sagacité",0,"bâtons d'encens de genévrier de la sagacité",0,0,1,0,0,"Encens de genévrier de la sagacité","Cet encens de genévrier est brûlé en l'honneur des morts lors de leur enterrement dans l'église de l'Aurore.
+Il permet d'invoquer le Monarque féérique pour éclairer le chemin des pèlerins."
+5,27974,"bâton d'encens de genévrier de la quiétude",0,"bâtons d'encens de genévrier de la quiétude",0,0,1,0,0,"Encens de genévrier de la quiétude","Cet encens de genévrier est brûlé en l'honneur des morts lors de leur enterrement dans l'église de l'Aurore.
+Il permet d'invoquer le Monarque féérique pour obtenir sa bénédiction."

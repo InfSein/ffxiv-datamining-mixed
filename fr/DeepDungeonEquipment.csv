@@ -1,0 +1,12 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Description
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27961,"substrat d'arme magique",0,"substrats d'armes magiques",0,0,1,0,0,"Substrat d'arme magique","Un artefact magique créé par le Padjal E-Una-Kotor et qui transforme l'éther en arme (ou arme et bouclier)."
+2,27962,"substrat d'armure magique",0,"substrats d'armures magiques",0,0,1,0,0,"Substrat d'armure magique","Un artefact magique créé par le Padjal E-Una-Kotor et qui transforme l'éther en armure."
+3,27961,"substrat d'arme magique",0,"substrats d'armes magiques",0,0,1,0,0,"Substrat d'arme magique","Un artefact magique créé selon des techniques ancestrales et secrètes, et qui transforme l'éther en arme (ou arme et bouclier)."
+4,27962,"substrat d'armure magique",0,"substrats d'armures magiques",0,0,1,0,0,"Substrat d'armure magique","Un artefact magique créé selon des techniques ancestrales et secrètes, et qui transforme l'éther en armure."
+5,27961,"substrat d'arme magique",0,"substrats d'armes magiques",0,0,1,0,0,"Substrat d'arme magique","Un artefact magique créé par l'archimage Noah et qui transforme l'éther en arme (ou arme et bouclier)."
+6,27962,"substrat d'armure magique",0,"substrats d'armures magiques",0,0,1,0,0,"Substrat d'armure magique","Un artefact magique créé par l'archimage Noah et qui transforme l'éther en armure."
+7,27961,"substrat d'arme magique",0,"substrats d'armes magiques",0,0,1,0,0,"Substrat d'arme magique","Un artefact magique créé pour les cérémonies de l'église de l'Aurore, et qui transforme l'éther en arme (ou arme et bouclier)."
+8,27962,"substrat d'armure magique",0,"substrats d'armures magiques",0,0,1,0,0,"Substrat d'armure magique","Un artefact magique créé pour les cérémonies de l'église de l'Aurore, et qui transforme l'éther en armure."

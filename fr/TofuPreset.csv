@@ -1,0 +1,26 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+#,,,,,,,,,,,,,,
+int32,bit&01,int32,uint16,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+0,False,0,0,"",0,0,0,0,0,0,0,0,0,0
+1,True,1,0,"Cercle quadrillé",21,0,0,0,0,0,0,0,0,0
+2,True,1,0,"Carré quadrillé",25,0,0,0,0,0,0,0,0,0
+3,False,1,0,"未使用",0,0,0,0,0,0,0,0,0,0
+4,True,2,10,"Grand",24,0,0,0,0,0,0,0,0,0
+5,True,2,11,"Moyen",23,0,0,0,0,0,0,0,0,0
+6,True,2,12,"Petit",22,0,0,0,0,0,0,0,0,0
+7,True,3,10,"Petite équipe",1,2,3,0,4,0,0,0,0,0
+8,True,3,11,"Équipe complète : déploiement 1",5,6,7,8,9,10,11,12,0,0
+9,True,3,12,"Équipe complète : déploiement 2",13,14,15,16,17,18,19,20,0,0
+10,True,3,13,"Équipe complète : déploiement 3",38,39,40,41,42,43,44,45,0,0
+11,True,3,14,"Équipe complète : déploiement 4",46,47,48,49,50,51,52,53,0,0
+12,True,4,10,"Quatre points cardinaux",26,27,28,29,0,0,0,0,0,0
+13,True,4,11,"Huit points cardinaux 1",26,27,28,29,30,31,32,33,0,0
+14,True,4,12,"Huit points cardinaux 2",26,27,28,29,34,35,36,37,0,0
+15,True,2,0,"Aucun",0,0,0,0,0,0,0,0,0,0
+16,True,3,0,"Aucune",0,0,0,0,0,0,0,0,0,0
+17,True,4,0,"Aucune",0,0,0,0,0,0,0,0,0,0
+18,True,3,15,"Équipe complète : déploiement 5",54,55,56,57,58,59,60,61,0,0
+19,True,4,20,"Proches 1",62,63,64,65,0,0,0,0,0,0
+20,True,4,21,"Proches 2",66,67,68,69,0,0,0,0,0,0
+21,True,4,22,"Proches 3",70,71,72,73,74,75,76,77,0,0
+22,True,4,23,"Proches 4",78,79,80,81,82,83,84,85,0,0

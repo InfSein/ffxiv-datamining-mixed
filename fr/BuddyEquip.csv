@@ -1,0 +1,115 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Model{Top},Model{Body},Model{Legs},GrandCompany,Icon{Head},Icon{Body},Icon{Legs},Order
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,int32,int32,int32,GrandCompany,Image,Image,Image,byte
+0,"harnachement en cuir",0,"harnachements en cuir",0,0,1,0,0,"Harnachement en cuir",0,0,0,0,0,0,0,0
+1,"harnachement du Maelstrom",0,"harnachements du Maelstrom",0,0,1,0,0,"Harnachement du Maelstrom",65538,65541,65538,1,58549,58553,58551,1
+2,"demi-barde du Maelstrom",0,"demi-bardes du Maelstrom",0,0,1,1,0,"Demi-barde du Maelstrom",65542,65542,65542,1,58501,58502,58503,2
+3,"barde du Maelstrom",0,"bardes du Maelstrom",0,0,1,1,0,"Barde du Maelstrom",131078,131078,131078,1,58504,58505,58506,3
+4,"barde lourde du Maelstrom",0,"bardes lourde du Maelstrom",0,0,1,1,0,"Barde lourde du Maelstrom",196614,196614,196614,1,58507,58508,58509,4
+5,"harnachement des Deux Vipères",0,"harnachements des Deux Vipères",0,0,1,0,0,"Harnachement des Deux Vipères",65538,131077,65538,2,58549,58556,58551,5
+6,"demi-barde des Deux Vipères",0,"demi-bardes des Deux Vipères",0,0,1,1,0,"Demi-barde des Deux Vipères",65543,65543,65543,2,58510,58511,58512,6
+7,"barde des Deux Vipères",0,"bardes des Deux Vipères",0,0,1,1,0,"Barde des Deux Vipères",131079,131079,131079,2,58513,58514,58515,7
+8,"barde lourde des Deux Vipères",0,"bardes lourdes des Deux Vipères",0,0,1,1,0,"Barde lourde des Deux Vipères",196615,196615,196615,2,58516,58517,58518,8
+9,"harnachement des Immortels",0,"harnachements des Immortels",0,0,1,0,0,"Harnachement des Immortels",65538,196613,65538,3,58549,58559,58551,9
+10,"demi-barde des Immortels",0,"demi-bardes des Immortels",0,0,1,1,0,"Demi-barde des Immortels",65544,65544,65544,3,58519,58520,58521,10
+11,"barde des Immortels",0,"bardes des Immortels",0,0,1,1,0,"Barde des Immortels",131080,131080,131080,3,58522,58523,58524,11
+12,"barde lourde des Immortels",0,"bardes lourde des Immortels",0,0,1,1,0,"Barde lourde des Immortels",196616,196616,196616,3,58525,58526,58527,12
+13,"barde de paladin",0,"bardes de paladin",0,0,1,1,0,"Barde de paladin",65546,65546,65546,0,58528,58529,58530,13
+14,"barde de chevalier dragon",0,"bardes de chevalier dragon",0,0,1,1,0,"Barde de chevalier dragon",65547,65547,65547,0,58531,58532,58533,14
+15,"barde de mage blanc",0,"bardes de mage blanc",0,0,1,1,0,"Barde de mage blanc",65549,65549,65549,0,58534,58535,58536,15
+16,"barde de Sleipnir",0,"bardes de Sleipnir",0,0,1,1,0,"Barde de Sleipnir",65550,65550,65550,0,58537,58538,58539,171
+17,"barde de béhémoth",0,"bardes de béhémoth",0,0,1,1,0,"Barde de béhémoth",65551,65551,65551,0,58540,58541,58542,172
+18,"chanfrein d'aviateur",0,"chanfreins d'aviateur",0,0,1,0,0,"Chanfrein d'aviateur",65555,0,0,0,58543,0,0,51
+19,"barde de mage noir",0,"bardes de mage noir",0,0,1,1,0,"Barde de mage noir",65548,65548,65548,0,58546,58547,58548,21
+20,"chanfrein du roi chocobo",0,"chanfreins du roi chocobo",0,0,1,0,0,"Chanfrein du roi chocobo",65553,0,0,0,58561,0,0,52
+21,"barde de la fête des étoiles",0,"bardes de la fête des étoiles",0,0,1,1,0,"Barde de la fête des étoiles",65540,65540,65540,0,58564,58565,58566,101
+22,"barde de Léviathan",0,"bardes de Léviathan",0,0,1,1,0,"Barde de Léviathan",65556,65556,65556,0,58567,58568,58569,125
+23,"barde de la Lumière",0,"bardes de la Lumière",0,0,1,1,0,"Barde de la Lumière",65557,65557,65557,0,58570,58571,58572,41
+24,"chanfrein ovoïde",0,"chanfreins ovoïde",0,0,1,0,0,"Chanfrein ovoïde",65558,0,0,0,58573,0,0,102
+25,"barde de Ramuh",0,"bardes de Ramuh",0,0,1,1,0,"Barde de Ramuh",65560,65560,65560,0,58576,58577,58578,126
+26,"chanfrein à panache",0,"chanfreins à panache",0,0,1,0,0,"Chanfrein à panache",65559,0,0,0,58579,0,0,53
+27,"barde d'effroi",0,"bardes d'effroi",0,0,1,1,0,"Barde d'effroi",65561,65561,65561,0,58582,58583,58584,103
+28,"barde de Shiva",0,"bardes de Shiva",0,0,1,1,0,"Barde de Shiva",65562,65562,65562,0,58585,58586,58587,127
+29,"barde de flambeur",0,"bardes de flambeur",0,0,1,1,0,"Barde de flambeur",65565,65565,65565,0,58591,58592,58593,42
+30,"barde de soupirant",0,"bardes de soupirant",0,0,1,1,0,"Barde de soupirant",65566,65566,65566,0,58588,58589,58590,104
+31,"demi-barde ishgardaise",0,"demi-bardes ishgardaises",0,0,1,1,0,"Demi-barde ishgardaise",65567,65567,65567,0,58594,58595,58596,54
+32,"barde ishgardaise",0,"bardes ishgardaises",0,0,1,1,0,"Barde ishgardaise",131103,131103,131103,0,58597,58598,58599,55
+33,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+34,"barde de Bismarck",0,"bardes de Bismarck",0,0,1,1,0,"Barde de Bismarck",65568,65568,65568,0,58603,58604,58605,128
+35,"barde de Ravana",0,"bardes de Ravana",0,0,1,1,0,"Barde de Ravana",65569,65569,65569,0,58606,58607,58608,129
+36,"barde noble",0,"bardes nobles",0,0,1,1,0,"Barde noble",65570,65570,65570,0,58609,58610,58611,57
+37,"barde orthodoxe",0,"bardes orthodoxes",0,0,1,1,0,"Barde orthodoxe",131106,131106,131106,0,58612,58613,58614,58
+38,"barde des Hautes terres",0,"bardes des Hautes terres",0,0,1,1,0,"Barde des Hautes terres",65571,65571,65571,0,58615,58616,58617,59
+39,"barde de la rose sauvage",0,"bardes de la rose sauvage",0,0,1,1,0,"Barde de la rose sauvage",65573,65573,65573,0,58618,58619,58620,43
+40,"barde de la Table ronde",0,"bardes de la Table ronde",0,0,1,1,0,"Barde de la Table ronde",65574,65574,65574,0,58621,58622,58623,130
+41,"barde de Sephirot",0,"bardes de Sephirot",0,0,1,1,0,"Barde de Sephirot",65572,65572,65572,0,58624,58626,58625,131
+42,"barde de chasseur de Prœufs",0,"bardes de chasseur de Prœufs",0,0,1,1,0,"Barde de chasseur de Prœufs",65575,65575,65575,0,58627,58629,58628,105
+43,"barde orientale",0,"bardes orientales",0,0,1,1,0,"Barde orientale",65577,65577,65577,0,58630,58632,58631,60
+44,"barde de course",0,"bardes de course",0,0,1,1,0,"Barde de course",65579,65579,65579,0,58633,58635,58634,61
+45,"barde de Nidhogg",0,"bardes de Nidhogg",0,0,1,1,0,"Barde de Nidhogg",65578,65578,65578,0,58636,58638,58637,132
+46,"barde de majordome",0,"bardes de majordome",0,0,1,1,0,"Barde de majordome",65580,65580,65580,0,58639,58641,58640,62
+47,"barde de Sophia",0,"bardes de Sophia",0,0,1,1,0,"Barde de Sophia",65576,65576,65576,0,58642,58644,58643,133
+48,"barde de servante",0,"bardes de servante",0,0,1,1,0,"Barde de servante",65581,65581,65581,0,58645,58647,58646,63
+49,"barde de servante des Manderville",0,"bardes de servante des Manderville",0,0,1,1,0,"Barde de servante des Manderville",131117,131117,131117,0,58648,58650,58649,64
+50,"barde angélique",0,"bardes angéliques",0,0,1,1,0,"Barde angélique",65583,65583,65583,0,58651,58653,58652,65
+51,"barde démoniaque",0,"bardes démoniaques",0,0,1,1,0,"Barde démoniaque",65584,65584,65584,0,58654,58656,58655,66
+52,"barde de Zurvan",0,"bardes de Zurvan",0,0,1,1,0,"Barde de Zurvan",65582,65582,65582,0,58657,58659,58658,134
+53,"barde de Susano",0,"bardes de Susano",0,0,1,1,0,"Barde de Susano",65585,65585,65585,0,58660,58662,58661,135
+54,"barde mhigoise",0,"bardes mhigoise",0,0,1,1,0,"Barde mhigoise",65586,65586,65586,0,58663,58665,58664,67
+55,"barde de Lakshmi",0,"bardes de Lakshmi",0,0,1,1,0,"Barde de Lakshmi",65587,65587,65587,0,58666,58668,58667,136
+56,"barde chocobo hingashienne",0,"bardes chocobo hingashiennes",0,0,1,1,0,"Barde chocobo hingashienne",65588,65588,65588,0,58669,58671,58670,68
+57,"barde mog hingashienne",0,"bardes mog hingashiennes",0,0,1,1,0,"Barde mog hingashienne",131124,131124,131124,0,58672,58674,58673,69
+58,"barde de Nezha",0,"bardes de Nezha",0,0,1,1,0,"Barde de Nezha",65589,65589,65589,0,58675,58677,58676,70
+59,"barde de Shinryu",0,"bardes de Shinryu",0,0,1,1,0,"Barde de Shinryu",65590,65590,65590,0,58678,58680,58679,137
+60,"barde d'Ixion",0,"bardes d'Ixion",0,0,1,1,0,"Barde d'Ixion",65591,65591,65591,0,58681,58683,58682,173
+61,"barde de mage rouge",0,"bardes de mage rouge",0,0,1,1,0,"Barde de mage rouge",65592,65592,65592,0,58684,58686,58685,22
+62,"barde de Byakko",0,"bardes de Byakko",0,0,1,1,0,"Barde de Byakko",65593,65593,65593,0,58687,58689,58688,138
+63,"barde imperméable",0,"bardes imperméables",0,0,1,1,0,"Barde imperméable",65594,65594,65594,0,58690,58692,58691,71
+64,"barde de Tsukuyomi",0,"bardes de Tsukuyomi",0,0,1,1,0,"Barde de Tsukuyomi",65595,65595,65595,0,58693,58695,58694,139
+65,"barde de Suzaku",0,"bardes de Suzaku",0,0,1,1,0,"Barde de Suzaku",65596,65596,65596,0,58696,58698,58697,140
+66,"barde de samouraï",0,"bardes de samouraï",0,0,1,1,0,"Barde de samouraï",65597,65597,65597,0,58699,58701,58700,23
+67,"barde de Seiryû",0,"bardes de Seiryû",0,0,1,1,0,"Barde de Seiryû",65598,65598,65598,0,58702,58704,58703,141
+68,"barde de Yojimbo",0,"bardes de Yojimbo",0,0,1,1,0,"Barde de Yojimbo",65599,65599,65599,0,58705,58707,58706,174
+69,"barde de Titania",0,"bardes de Titania",0,0,1,1,0,"Barde de Titania",65600,65600,65600,0,58708,58710,58709,142
+70,"barde d'Innocence",0,"bardes d'Innocence",0,0,1,1,0,"Barde d'Innocence",65601,65601,65601,0,58711,58713,58712,143
+71,"barde de danseur",0,"bardes de danseur",0,0,1,1,0,"Barde de danseur",65602,65602,65602,0,58714,58716,58715,24
+72,"barde de la Pleine-ombre",0,"bardes de la Pleine-ombre",0,0,1,1,0,"Barde de la Pleine-ombre",65603,65603,65603,0,58717,58719,58718,72
+73,"barde d'Hadès",0,"bardes d'Hadès",0,0,1,1,0,"Barde d'Hadès",65604,65604,65604,0,58720,58722,58721,144
+74,"barde sainte",0,"bardes saintes",0,0,1,1,0,"Barde sainte",65605,65605,65605,0,58723,58725,58724,106
+75,"barde Rubinus",0,"bardes Rubinus",0,0,1,1,0,"Barde Rubinus",65606,65606,65606,0,58726,58728,58727,145
+76,"barde de machiniste",0,"bardes de machiniste",0,0,1,1,0,"Barde de machiniste",65607,65607,65607,0,58729,58731,58730,25
+77,"barde de la Lumière véritable",0,"bardes de la Lumière véritable",0,0,1,1,0,"Barde de la Lumière véritable",65608,65608,65608,0,58732,58734,58733,146
+78,"barde Smaragdus",0,"bardes Smaragdus",0,0,1,1,0,"Barde Smaragdus",65609,65609,65609,0,58735,58737,58736,147
+79,"barde-la-Reine",0,"bardes-la-Reine",0,0,1,1,0,"Barde-la-Reine",65610,65610,65610,0,58738,58740,58739,148
+80,"barde bozjienne",0,"bardes bozjiennes",0,0,1,1,0,"Barde bozjienne",65611,65611,65611,0,58741,58743,58742,150
+81,"barde Adamas",0,"bardes Adamas",0,0,1,1,0,"Barde Adamas",65612,65612,65612,0,58744,58746,58745,149
+82,"barde des Ténèbres éternelles",0,"bardes des Ténèbres éternelles",0,0,1,1,0,"Barde des Ténèbres éternelles",65613,65613,65613,0,58747,58749,58748,151
+83,"barde de la Lumière divine",0,"bardes de la Lumière divine",0,0,1,1,0,"Barde de la Lumière divine",65614,65614,65614,0,58750,58752,58751,152
+84,"barde de postier",0,"bardes de postier",0,0,1,1,0,"Barde de postier",65615,65615,65615,0,58753,58755,58754,107
+85,"barde thavnairoise",0,"bardes thavnairoises",0,0,1,1,0,"Barde thavnairoise",65616,65616,65616,0,58756,58758,58757,73
+86,"barde à plumes bleues",0,"bardes à plumes bleues",0,0,1,1,0,"Barde à plumes bleues",65617,65617,65617,0,58759,58761,58760,153
+87,"barde de loup",0,"bardes de loup",0,0,1,1,0,"Barde de loup",65618,65618,65618,0,58762,58764,58763,74
+88,"barde de Barbariccia",0,"bardes de Barbariccia",0,0,1,1,0,"Barde de Barbariccia",65619,65619,65619,0,58768,58770,58769,154
+89,"barde de pionnier insulaire",0,"bardes de pionnier insulaire",0,0,1,1,0,"Barde de pionnier insulaire",65620,65620,65620,0,58765,58767,58766,75
+90,"barde de Rubicante",0,"bardes de Rubicante",0,0,1,1,0,"Barde de Rubicante",65621,65621,65621,0,58771,58773,58772,155
+91,"barde allagoise",0,"bardes allagoises",0,0,1,1,0,"Barde allagoise",65622,65622,65622,0,58774,58776,58775,76
+92,"barde de Golbez",0,"bardes de Golbez",0,0,1,1,0,"Barde de Golbez",65623,65623,65623,0,58777,58779,58778,156
+93,"barde de Chamoiselle",0,"bardes de Chamoiselle",0,0,1,1,0,"Barde de Chamoiselle",65624,65624,65624,0,58780,58782,58781,78
+94,"barde de Zeromus",0,"bardes de Zeromus",0,0,1,1,0,"Barde de Zeromus",65625,65625,65625,0,58783,58785,58784,157
+95,"barde d'arpenteur",0,"bardes d'arpenteur",0,0,1,1,0,"Barde d'arpenteur",65626,65626,65626,0,58786,58788,58787,79
+96,"barde turalienne",0,"bardes turaliennes",0,0,1,1,0,"Barde turalienne",65627,65627,65627,0,58789,58791,58790,80
+97,"barde de Valigarmanda",0,"bardes de Valigarmanda",0,0,1,1,0,"Barde de Valigarmanda",65628,65628,65628,0,58792,58794,58793,161
+98,"barde en électrope",0,"bardes en électrope",0,0,1,1,0,"Barde en électrope",65629,65629,65629,0,58795,58797,58796,162
+99,"barde des contrées sauvages",0,"bardes des contrées sauvages",0,0,1,1,0,"Barde des contrées sauvages",65630,65630,65630,0,58798,58800,58799,83
+100,"barde éternelle",0,"bardes éternelles",0,0,1,1,0,"Barde éternelle",65631,65631,65631,0,58801,58803,58802,163
+101,"barde à tonnelet",0,"bardes à tonnelet",0,0,1,1,0,"Barde à tonnelet",65632,65632,65632,0,58804,58806,58805,108
+102,"barde chevaleresque",0,"bardes chevaleresques",0,0,1,1,0,"Barde chevaleresque",65633,65633,65633,0,58807,58809,58808,164
+103,"barde nécronique",0,"bardes nécroniques",0,0,1,1,0,"Barde nécronique",65634,65634,65634,0,58810,58812,58811,165
+104,"barde de pèlerin",0,"bardes de pèlerin",0,0,1,1,0,"Barde de pèlerin",65635,65635,65635,0,58813,58815,58814,84
+105,"barde de Glasya-Labolas",0,"bardes de Glasya-Labolas",0,0,1,1,0,"Barde de Glasya-Labolas",65636,65636,65636,0,58816,58818,58817,166
+106,"barde de l'exploration cosmique",0,"bardes de l'exploration cosmique",0,0,1,1,0,"Barde de l'exploration cosmique",65637,65637,65637,0,58819,58821,58820,85
+107,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+108,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+109,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+110,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0
+111,"",0,"",0,0,0,0,0,"",0,0,0,0,0,0,0,0

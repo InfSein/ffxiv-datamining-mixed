@@ -1,0 +1,19 @@
+﻿key,0,1
+#,Icon,Name
+int32,Image,str
+0,0,""
+1,62501,"Mercenariat"
+2,62510,"Mineur"
+3,62511,"Botaniste"
+4,62512,"Pêcheur"
+5,62502,"Menuisier"
+6,62503,"Forgeron"
+7,62504,"Armurier"
+8,62505,"Orfèvre"
+9,62506,"Tanneur"
+10,62507,"Couturier"
+11,62508,"Alchimiste"
+12,62509,"Cuisinier"
+13,61461,"Le Maelstrom"
+14,61462,"L'ordre des Deux Vipères"
+15,61463,"Les Immortels"

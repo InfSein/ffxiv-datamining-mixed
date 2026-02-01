@@ -1,0 +1,22 @@
+﻿key,0,1,2,3
+#,,,,
+int32,uint16,int32,str,str
+0,1,0,"",""
+1,282,82107,"Style de Brumée","Ce style architectural noscéen destiné aux habitations de petite taille est pensé pour résister aux puissants vents marins."
+2,283,82108,"Style de Brumée","Ce style architectural noscéen destiné aux habitations de taille moyenne est pensé pour résister aux puissants vents marins."
+3,284,82109,"Style de Brumée","Ce style architectural noscéen destiné aux habitations de grande taille est pensé pour résister aux puissants vents marins."
+4,342,82104,"Style de Lavandière","Ce style architectural gridanien destiné aux habitations de petite taille fait la part belle aux matériaux naturels issus de la forêt de Sombrelinceul."
+5,343,82105,"Style de Lavandière","Ce style architectural gridanien destiné aux habitations de taille moyenne fait la part belle aux matériaux naturels issus de la forêt de Sombrelinceul."
+6,344,82106,"Style de Lavandière","Ce style architectural gridanien destiné aux habitations de grande taille fait la part belle aux matériaux naturels issus de la forêt de Sombrelinceul."
+7,345,82101,"Style de La Coupe","Ce style architectural uldien destiné aux habitations de petite taille a été conçu pour vivre confortablement malgré les écarts de température extrêmes du désert."
+8,346,82102,"Style de La Coupe","Ce style architectural uldien destiné aux habitations de taille moyenne a été conçu pour vivre confortablement malgré les écarts de température extrêmes du désert."
+9,347,82103,"Style de La Coupe","Ce style architectural uldien destiné aux habitations de grande taille a été conçu pour vivre confortablement malgré les écarts de température extrêmes du désert."
+10,649,82113,"Style de Shirogane","Ce style architectural kuganien destiné aux habitations de petite taille a été spécifiquement pensé pour refléter le changement des saisons."
+11,650,82114,"Style de Shirogane","Ce style architectural kuganien destiné aux habitations de taille moyenne a été spécifiquement pensé pour refléter le changement des saisons."
+12,651,82115,"Style de Shirogane","Ce style architectural kuganien destiné aux habitations de grande taille a été spécifiquement pensé pour refléter le changement des saisons."
+13,980,82110,"Style d'Empyrée","Ce style architectural coerthien destiné aux habitations de petite taille inclut tous les éléments nécessaires pour résister aux grands froids."
+14,981,82111,"Style d'Empyrée","Ce style architectural coerthien destiné aux habitations de taille moyenne inclut tous les éléments nécessaires pour résister aux grands froids."
+15,982,82112,"Style d'Empyrée","Ce style architectural coerthien destiné aux habitations de grande taille inclut tous les éléments nécessaires pour résister aux grands froids."
+16,1249,82116,"Style épuré","Ce style architectural simple et épuré destiné aux habitations de petite taille permet d'obtenir un intérieur sobre et dégagé grâce à des techniques réduisant le nombre de poutres et de piliers apparents."
+17,1250,82117,"Style épuré","Ce style architectural simple et épuré destiné aux habitations de taille moyenne permet d'obtenir un intérieur sobre et dégagé grâce à des techniques réduisant le nombre de poutres et de piliers apparents."
+18,1251,82118,"Style épuré","Ce style architectural simple et épuré destiné aux habitations de grande taille permet d'obtenir un intérieur sobre et dégagé grâce à des techniques réduisant le nombre de poutres et de piliers apparents."

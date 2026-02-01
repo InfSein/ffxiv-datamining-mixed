@@ -1,0 +1,10 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Tooltip
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27966,"magilithe d'Ifrit",0,"magilithes d'Ifrit",0,0,1,1,0,"Magilithe d'Ifrit","Un objet enchanté qui utilise une technique ancestrale pour sonder les souvenirs de celui qui en fait usage afin de recréer un simulacre du Primordial des flammes infernales."
+2,27967,"magilithe de Titan",0,"magilithes de Titan",0,0,1,1,0,"Magilithe de Titan","Un objet enchanté qui utilise une technique ancestrale pour sonder les souvenirs de celui qui en fait usage afin de recréer un simulacre du Primordial des tremblements dévastateurs."
+3,27968,"magilithe de Garuda",0,"magilithes de Garuda",0,0,1,1,0,"Magilithe de Garuda","Un objet enchanté qui utilise une technique ancestrale pour sonder les souvenirs de celui qui en fait usage afin de recréer un simulacre du Primordial des rafales cinglantes."
+4,27969,"magilithe d'Odin",0,"magilithes d'Odin",0,0,1,1,0,"Magilithe d'Odin","Un objet enchanté qui utilise une technique ancestrale pour sonder les souvenirs de celui qui en fait usage afin de recréer un simulacre du Chevalier des ombres."
+5,27975,"bâton d'encens de genévrier de la fatalité",0,"bâtons d'encens de genévrier de la fatalité",0,0,1,0,0,"Encens de genévrier de la fatalité","Cet encens de genévrier est brûlé en l'honneur des morts lors de leur enterrement dans l'église de l'Aurore.
+Il permet d'invoquer le Monarque féérique pour condamner à mort toutes les créatures hostiles."

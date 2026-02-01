@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,Name
+int32,int32,str
+0,0,""
+1,0,"Personnage"
+2,0,"Missions"
+3,0,"Carnets"
+4,0,"Déplacements"
+5,0,"Équipe"
+6,0,"Communication"
+7,0,"Système"

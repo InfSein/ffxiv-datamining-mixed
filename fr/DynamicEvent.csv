@@ -1,0 +1,68 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+#,EventType,EnemyType,,,LGBEventObject,LGBMapRange,Quest,,SingleBattle,Announce,Name,Description,,,,,,
+int32,DynamicEventType,DynamicEventEnemyType,byte,byte,bit&01,uint32,Quest,uint32,DynamicEventSingleBattle,LogMessage,uint32,str,str,int16,int16,int16,uint32,uint32
+0,0,0,0,0,True,0,0,0,0,0,0,"","",0,0,0,0,0
+1,1,4,48,20,True,8373717,8511877,69477,0,0,0,"Grandeur et pestilence","L'infâme Clarricie a libéré un monstre fait de putréfaction végétale sur le champ de bataille. Abattez cette horreur de Peeriefool avant que sa pestilence ne mette toutes vos troupes hors d'état de combattre.",0,0,0,0,0
+2,1,2,48,20,True,8374110,8511881,69477,0,0,0,"Le chien des enfers","Les mages impériaux sèment le chaos sur le front et ont invoqué le féroce Canis Dirus, chien tricéphale enragé. Empêchez-le de faire des ravages parmi les rangs de la résistance.",0,0,0,0,0
+3,1,1,48,20,True,8367113,8511882,69477,0,0,0,"Vigile de feu","Une version améliorée du scorpion magitek piloté par Dabog sème la terreur sur le champ de bataille. Détruisez Vigile.",0,0,0,0,0
+4,2,3,1,20,True,8367033,8511886,69477,0,1,0,"Force divine","Dabog joue sa carte maîtresse en utilisant l'armure volante magitek Gabriel. Détruisez cette menace aérienne avant qu'elle ne décime les troupes.",0,0,0,0,0
+5,1,4,48,20,True,8342248,8511887,69477,0,0,0,"Les ailes noires de la mort","Les dresseurs impériaux ont décidément plus d'une créature cauchemardesque dans leur poche. Akbaba, l'oiseau de mauvais augure, sème la panique sur le champ de bataille. Il vous faut l'arrêter à tout prix.",0,0,0,0,0
+6,1,5,48,20,True,8367316,8511891,69481,0,0,0,"Menace spectrale","Alors que Llofii est parvenue à s'échapper avec son monocéros, les Impériaux ont lancé un terrible ennemi à sa poursuite : Spartoi, le spectre enragé. Abattez-le pour aider l'invocatrice à fuir.",0,0,0,0,0
+7,1,4,48,20,True,8374867,8511892,69481,0,0,0,"Une ruée en rouge","Une horde de chocobos rouges a fait irruption sur le front sud ! Empêchez la meute de faire trop de dégâts en abattant son chef, Comète rouge !",0,0,0,0,0
+8,2,3,1,20,True,8374963,8511893,69481,0,2,0,"Le Roi bestial","Lyon, le commandant de la cohorte bestiale vous défie en combat singulier ! Remportez la victoire contre ce redoutable ennemi pour apporter un avantage décisif à la résistance bozjienne.",0,0,0,0,0
+9,3,2,24,20,True,8375462,8511895,69481,0,0,0,"Brasier de guerre","Les pyromanciens de la centurie des tisons ont déployé des pyrobolos qui réduisent le champ de bataille en cendres. À vous de les arrêter !",0,0,0,0,0
+10,1,1,48,20,True,8374781,8511898,69481,0,0,0,"Les fusils du patriote","Les Impériaux ont fait appel à une de leurs plus infâmes créations technologiques pour défendre leur position. Détruisez la machine magitek Patriote afin de repousser les Garlemaldais !",0,0,0,0,0
+11,1,2,24,20,True,8377121,8511901,69484,0,0,0,"L'œil du malin","La cohorte des incantateurs a invoqué Éale, un monstre au regard démoniaque, sur le champ de bataille. Abattez cette créature avant qu'elle ne fasse des ravages !",0,0,0,0,0
+12,2,3,1,20,True,8374538,8511905,69484,0,3,0,"L'envol du phénix","Le plus terrible des pyromanciens de la 4e légion sévit sur le champ de bataille. Affrontrez Sartauvoir le fer rouge pour enfin mettre un terme à ses exactions !",0,0,0,0,0
+13,1,1,48,20,True,8367337,8511910,69484,0,0,0,"Le guerrier de métal","Sicinius, l'ingénieur magitek, a déployé une de ses nouvelles créations sur le front : Dáinsleif. Mettez ce monstre de métal en pièces !",0,0,0,0,0
+14,1,1,48,20,True,8377886,8511912,69484,0,0,0,"Le soulèvement des machines","Sicinius continue de vous mettre des bâtons dans les roues avec ses créations mécaniques. Sa dernière trouvaille a été de restaurer une arme antique. Elle sème maintenant la panique sur le champ de bataille. À vous d'arrêter ce colosse de métal !",0,0,0,0,0
+15,1,5,48,20,True,8367328,8511913,69484,0,0,0,"Le mastodonte enragé","La cohorte bestiale est parvenue à l'aide de potions extraordinaires à faire revenir le terrible mastodonte Chlevnik d'entre les morts. Empêchez-le de décimer vos rangs avec ses puissantes cornes !",0,0,0,0,0
+16,4,6,48,20,True,0,0,69487,1,0,9626,"Assaut sur Castrum Lacus Litore","L'heure est enfin venue de capturer Castrum Lacus Litore, base militaire des Impériaux et point névralgique du Front sud de Bozja. Avec vos camarades résistants à vos côtés, rien ne pourra vous arrêter !",0,0,0,0,0
+17,3,2,48,20,True,8664684,8664761,69620,0,0,0,"Zirnitrop","La centurie des invocateurs tente une poussée à grand renfort de familiers. Éliminez-les, eux et ces zirnitra qu'ils semblent adorer tant.",0,0,0,0,0
+18,1,1,48,20,True,8664685,8664762,69629,0,0,0,"On arrête le progrès","L'Escarre semble être le successeur des plongeurs infernaux. Faites-en un amas de tôles froissées, histoire que la 4e légion abandonne pour de bon le développement de ces machines de mort.",0,0,0,0,0
+19,2,3,1,20,True,8664686,8664763,69620,0,4,0,"Dabog l'hyper-renforcé","La cohorte d'infanterie mécanisée emploie des soldats entre homme et machine, mais Dabog ne semble plus rentrer dans l'une ou l'autre catégorie. Abattez le monstre qu'il est devenu.",0,0,0,0,0
+20,1,8,48,20,True,8664687,8664764,69620,0,0,0,"Le Sycophante","Un prêtre magitek de la 4e légion a utilisé une auralithe sacrée et s'est sacrifié pour invoquer une créature mythique. Envoyez Shemhazai dans l'au-delà puisqu'il tient tant à contrôler les âmes outre-tombe.",0,0,0,0,0
+21,1,4,48,20,True,8664688,8664765,69620,0,0,0,"C'est dans ma nature","Les dresseurs de la 4e légion ont à leur disposition une véritable ménagerie. Preuve en est, ce scorpion mythique qu'ils ont capturé dans L'Escarre, un arachnide aussi inaccueillant que son lieu d'origine.",0,0,0,0,0
+22,3,7,48,20,True,8664689,8664766,69628,0,0,0,"Un cavalier qui surgit hors de la nuit","Les renforts de la 4e légion sont arrivés, et avec eux, des armures magitek autonomes. Mais peut-être devrait-on donc parler d'armes, ou même d'autre chose en ce qui concerne leur commandant. Désarçonnez tous ces cavaliers.",0,0,0,0,0
+23,2,3,1,20,True,8664690,8664767,69628,0,5,0,"Mener par l'exemple","Le commandant du détachement chargé de prendre Bozja, Menenius en personne, vous a jeté le gant. Relevez-le, et montrez-lui que la résistance ne s'avouera jamais vaincue.",0,0,0,0,0
+24,1,2,48,20,True,8664691,8664768,69628,0,0,0,"Le Roi des cendres","Un invocateur assoiffé de sang a appelé Hanbi. Ne lui en offrez pas une goutte et offrez à ce soi-disant roi ses propres cendres.",0,0,0,0,0
+25,1,2,48,20,True,8664692,8664769,69628,0,0,0,"Et n'y Hród'viens plus !","Les mages de la 4e légion ont et continuent encore de payer un cher tribut d'éther pour invoquer ce loup de glace. Malheureusement pour eux, un brasier assez chaud pour le faire fondre brûle en vous. Abattez Hródvitnir.",0,0,0,0,0
+26,1,8,48,20,True,8664693,8664770,69628,0,0,0,"Le Titan","Un prêtre magitek de la 4e légion a utilisé une auralithe sacrée et s'est sacrifié pour invoquer une créature mythique. Bélias a déjà fait son temps au Phare de Ridorana. Vainquez-le.",0,0,0,0,0
+27,3,1,48,20,True,8664694,8664771,69629,0,0,0,"Réusinage de code","Sicinius, l'ingénieur en chef de la 4e légion, teste de nouvelles armes magitek sur le champ de bataille. Envoyez-les toutes à la casse, et montrez à leur créateur ce que la simple huile de coude peut accomplir.",0,0,0,0,0
+28,1,4,48,20,True,8664695,8664772,69629,0,0,0,"Oiseau d'enfer","Les dresseurs ornithologues de la cohorte bestiale ont sorti le grand jeu avec cet alkonost. Volez-lui dans les plumes.",0,0,0,0,0
+29,1,8,48,20,True,8664696,8664773,69620,0,0,0,"Le Grand Ordonnateur","Un prêtre magitek de la 4e légion a utilisé une auralithe sacrée et s'est sacrifié pour invoquer une créature mythique. Heureusement, Hashmal ne vous impressionne plus avec ses petites tours. Vainquez-le.",0,0,0,0,0
+30,1,2,48,20,True,8664697,8664774,69629,0,0,0,"Écaillage en règle","Les invocateurs de la 4e légion ont cette fois fait appel à Ayida, le serpent arc-en-ciel aussi magnifique que mortel. La plupart tremblent devant lui, mais à vos yeux ce n'est qu'un Léviathan modèle réduit à abattre.",0,0,0,0,0
+31,2,3,1,20,True,8664698,8664775,69629,0,6,0,"La revanche de Lyon","Lyon n'a pas bien digéré sa défaite à Castrum Lacus Litore et a bien l'intention de réaffirmer sa supériorité. Quelqu'un aura-t-il assez de courage et de pugnacité pour dompter le Roi bestial ?",0,0,0,0,0
+32,4,6,48,20,True,0,0,69624,5,0,9678,"Assaut sur le Dalriada","Les moteurs du Dalriada ont calé, le rendant à la merci d'un assaut au sol. Rejoignez vos camarades de la résistance et menez un ultime assaut contre les forces de la 4e légion pour les bouter hors de Bozja !",222,302,-661,0,0
+33,1,4,72,20,True,10962704,0,0,0,0,0,"Défi : l'encéphalophage","Une créature du néant aimant se repaître de cervelles fraîches tente de faire de vous sa proie. Protégez votre matière grise et abattez l'ensorceleur.",0,0,0,0,0
+34,3,4,72,20,True,10940977,0,0,0,0,0,"Plumes d'encre","Les chocobos noirs de Lunule se sont rassemblés en une véritable escadrille aviaire attaquant tout ce qui bouge. Volez-leur dans les plumes.",0,0,0,0,0
+35,1,4,72,20,True,10962716,0,0,0,0,0,"Défi : le rageux","Un familier auquel son créateur a insufflé un irrépressible sentiment de rage sème le chaos sur son passage. Calmez ses ardeurs par la force.",0,0,0,0,0
+36,1,4,72,20,True,10940989,0,0,0,0,0,"Défi : face de griffes","Un esprit malfaisant invoqué par un sort interdit hante les parages et tourmente les vivants. Renvoyez-le dans l'au-delà.",0,0,0,0,0
+37,1,4,72,20,True,10941018,0,0,0,0,0,"Défi : Cloître à perpétuité","Une créature du néant de haut rang qui avait été scellée par le maître de l'île est revenue de sa dimension parallèle et tente à présent de briser ses chaînes. Terrassez-la pour de bon.",0,0,0,0,0
+38,1,4,72,20,True,10962728,0,0,0,0,0,"Défi : écailles de cristal","Le dragon cristallin est un familier créé par le maître de l'île pour jauger l'habileté au combat des intrus pénétrant dans son domaine. Montrez-vous à la hauteur.",0,0,0,0,0
+39,1,4,72,20,True,10937430,0,0,0,0,0,"Défi : idole surprise","Une étrange idole d'apparence divinement sinistre – ou sinistrement divine – se dresse sur votre route. Brisez-la.",0,0,0,0,0
+40,3,4,72,20,True,11131960,0,0,0,0,0,"L'armée des argileux","Une myriade de statues de chevalier se sont animées afin de défendre les édifices environnants. Réduisez-les en miettes.",0,0,0,0,0
+41,1,4,72,20,True,11102245,0,0,0,0,0,"Défi : homo selachus","Vous tombez nez à nez avec le petalodus des légendes nymiennes, un requin anthropoïde particulièrement violent. Faites-lui la peau.",0,0,0,0,0
+42,1,4,72,20,True,10937461,0,0,0,0,0,"Défi : à rugir debout","Une statue de lion animée grâce au pouvoir de la magie blanche est apparue dans la Forteresse perdue. Démolissez-la.",0,0,0,0,0
+43,1,4,72,20,True,11102367,0,0,0,0,0,"Cordon de sécurité","Des sentinelles de pierre chargées du maintien de l'ordre public vous voient, vous et les autres aventuriers, comme des fauteurs de trouble. Défendez-vous.",0,0,0,0,0
+44,1,4,72,20,True,10941033,0,0,0,0,0,"Défi : mammouth fâché","Courroucé par d'insolents oiseaux venus le narguer sans relâche, le néo-garula est entré dans une rage incontrôlable. Envoyez-le au tapis.",0,0,0,0,0
+45,1,4,72,20,True,10962741,0,0,0,0,0,"Défi : être aux pièces","Une tortue terrestre rendue intelligente par le pouvoir de la magie s'est aussitôt lancée dans le commerce agressif – pour ne pas dire coercitif – de fétiches. Ne vous laissez pas escroquer.",0,0,0,0,0
+46,1,4,72,20,True,10937473,0,0,0,0,0,"Défi : comme un lion nouveau","Une machine de défense ayant servi durant la Guerre de la magie a visiblement été réparée afin de chasser les intrus. Venez-en à bout.",0,0,0,0,0
+47,1,4,72,20,True,10962753,0,0,0,0,0,"Défi : les ailes de pierre","L'âme d'une créature du néant s'est incarnée dans une ancienne statue d'oiseau, hantant ainsi les lieux. Exorcisez-la.",0,0,0,0,0
+48,4,6,48,30,False,0,0,70853,0,0,0,"Tour fourchue de la Force","Au sud de l'île de Lunule se dresse une mystérieuse tour que l'on prendrait presque pour un mirage... Faites équipe avec les autres explorateurs, et tâchez de découvir ce qui se cache à son sommet.",0,0,0,63978,63978
+49,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+50,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+51,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+52,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+53,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+54,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+55,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+56,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+57,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+58,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+59,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+60,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+61,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+62,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+63,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0
+64,0,0,0,0,False,0,0,0,0,0,0,"","",0,0,0,0,0

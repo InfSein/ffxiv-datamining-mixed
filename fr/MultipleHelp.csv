@@ -1,0 +1,10 @@
+﻿key,0,1,2
+#,,,
+int32,uint16,str,str
+0,0,"",""
+1,0,"",""
+2,2,"Aide de l'outil de raid",""
+3,3,"Aide de l'outil de mission",""
+4,4,"Aide de la fenêtre des donjons spéciaux",""
+5,5,"Aide de la présentation des équipiers",""
+6,6,"Aide de la fenêtre d'accès rapide",""

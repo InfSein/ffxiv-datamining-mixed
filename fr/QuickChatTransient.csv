@@ -1,0 +1,127 @@
+﻿key,0
+#,Text{Output}
+int32,str
+0,""
+1,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Salut<Indent/>!<28>01</28><27>02</27></Color>"
+2,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>C'était un beau combat<Indent/>!<28>01</28><27>02</27></Color>"
+3,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Merci<Indent/>!<28>01</28><27>02</27></Color>"
+4,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Bien joué<Indent/>!<28>01</28><27>02</27></Color>"
+5,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Talent 1]<Indent/>: utilisable<Indent/>!
+[Talent 1]<Indent/>: utilisable dans [??]s<Indent/>!<28>01</28><27>02</27></Color>"
+6,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Transcendance du job [job]<Indent/>: utilisable<Indent/>!
+Transcendance du job [job]<Indent/>: [??]%<Indent/>!<28>01</28><27>02</27></Color>"
+7,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je m'occupe du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment offensif<Indent/>!<28>01</28><27>02</27></Color>"
+8,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je m'occupe du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment défensif<Indent/>!<28>01</28><27>02</27></Color>"
+9,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je m'occupe du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment adrénergique<Indent/>!<28>01</28><27>02</27></Color>"
+10,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je m'occupe du ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment cœur-de-loup<Indent/>!<28>01</28><27>02</27></Color>"
+11,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'attaque le tank<Indent/>!<28>01</28><27>02</27></Color>"
+12,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'attaque le soigneur<Indent/>!<28>01</28><27>02</27></Color>"
+13,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'attaque le DPS de mêlée<Indent/>!<28>01</28><27>02</27></Color>"
+14,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'attaque le DPS à distance<Indent/>!<28>01</28><27>02</27></Color>"
+15,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'immobilise le tank<Indent/>!<28>01</28><27>02</27></Color>"
+16,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'immobilise le soigneur<Indent/>!<28>01</28><27>02</27></Color>"
+17,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'immobilise le DPS de mêlée<Indent/>!<28>01</28><27>02</27></Color>"
+18,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'immobilise le DPS à distance<Indent/>!<28>01</28><27>02</27></Color>"
+19,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je récupère les médailles<Indent/>!<28>01</28><27>02</27></Color>"
+20,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Récupérez les médailles<Indent/>!<28>01</28><27>02</27></Color>"
+21,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>À l'attaque<Indent/>!<28>01</28><27>02</27></Color>"
+22,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Replions-nous<Indent/>!<28>01</28><27>02</27></Color>"
+23,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>PM<Indent/>: [??]%<Indent/>!<28>01</28><27>02</27></Color>"
+24,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>PT<Indent/>: [??]%<Indent/>!<28>01</28><27>02</27></Color>"
+25,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'attaque leur [job de la cible]<Indent/>!"
+26,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je fais entrave à leur [job de la cible]<Indent/>!"
+27,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Talent 2]<Indent/>: utilisable<Indent/>!
+[Talent 2]<Indent/>: utilisable dans [??]s<Indent/>!<28>01</28><27>02</27></Color>"
+28,"Expression figée disponible uniquement dans The Feast.
+Affiche un compteur de 5 secondes au-dessus de la cible.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Focalisez vos attaques sur<Indent/>: [job de la cible]<Indent/>!<28>01</28><27>02</27></Color>"
+29,"Expression figée disponible uniquement dans The Feast.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Cessez de focaliser vos attaques<Indent/>!<28>01</28><27>02</27></Color>"
+30,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Pardon<Indent/>!<28>01</28><27>02</27></Color>"
+31,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je passe devant<Indent/>!<28>01</28><27>02</27></Color>"
+32,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Je passe derrière<Indent/>!<28>01</28><27>02</27></Color>"
+33,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[job] : J'escorte le cristal tactique<Indent/>!<28>01</28><27>02</27></Color>"
+34,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Escortez le cristal tactique<Indent/>!<28>01</28><27>02</27></Color>"
+35,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>J'aide notre [job de la cible]<Indent/>!<28>01</28><27>02</27></Color>"
+36,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[job]<Indent/>: J'active ma Transcendance<Indent/>!<28>01</28><27>02</27></Color>"
+37,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Regroupons-nous<Indent/>!<28>01</28><27>02</27></Color>"
+38,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Dépuration<Indent/>: utilisable<Indent/>!
+Dépuration<Indent/>: utilisable dans [??]s<Indent/>!<28>01</28><27>02</27></Color>"
+39,"Expression figée disponible uniquement dans Crystalline Conflict.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Garde<Indent/>: utilisable<Indent/>!
+Garde<Indent/>: utilisable dans [??]s<Indent/>!<28>01</28><27>02</27></Color>"

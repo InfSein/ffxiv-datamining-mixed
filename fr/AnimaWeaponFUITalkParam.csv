@@ -1,0 +1,35 @@
+﻿key,0,1
+#,Prologue,Epilogue
+int32,str,str
+0,"",""
+1,"Que dites-vous de ça, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>?
+J'ai le sentiment que ma force s'est encore rapprochée de la vôtre.","Que dites-vous de ça, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>?
+J'ai le sentiment que ma force s'est encore rapprochée de la vôtre."
+2,"J'ai hâte de trouver un nouveau défi à relever pour vous montrer ce dont je suis capable<Indent/>!","J'ai hâte de trouver un nouveau défi à relever pour vous montrer ce dont je suis capable<Indent/>!"
+3,"Les obstacles qui se dressent devant nous dépassent de loin ce que j'avais imaginé...
+Serai-je assez fort<Indent/>?","Les obstacles qui se dressent devant nous dépassent de loin ce que j'avais imaginé...
+Serai-je assez forte<Indent/>?"
+4,"Voilà une épreuve qui semble insurmontable...
+Mais à vos côtés, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, je me sens invincible<Indent/>!","Voilà une épreuve qui semble insurmontable...
+Mais à vos côtés, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, je me sens invincible<Indent/>!"
+5,"Pourquoi me regardez-vous avec un air si grave, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>?
+Ne vous en faites pas pour moi, je suis encore en état de combattre<Indent/>!","Pourquoi me regardez-vous avec un air si grave, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>?
+Ne vous en faites pas pour moi, je suis encore en état de combattre<Indent/>!"
+6,"Devons-nous vraiment faire tout ça pour devenir plus forts<Indent/>?
+... Non, ce n'est pas le moment de flancher.
+En avant, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>!","Devons-nous vraiment faire tout ça pour devenir plus <If(PlayerParameter(4))>fortes<Else/>forts</If><Indent/>?
+... Non, ce n'est pas le moment de flancher.
+En avant, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If><Indent/>!"
+7,"Regardez, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, je commence à contrôler mon pouvoir<Indent/>!
+Ardashir avait raison, nos efforts portent leurs fruits<Indent/>!","Regardez, <If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, je commence à contrôler mon pouvoir<Indent/>!
+Ardashir avait raison, nos efforts portent leurs fruits<Indent/>!"
+8,"<If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, suis-je à la hauteur de vos attentes<Indent/>?
+Vous pouvez compter sur moi pour faire toujours plus d'efforts à votre service<Indent/>!","<If(PlayerParameter(4))>Maîtresse<Else/>Maître</If>, suis-je à la hauteur de vos attentes<Indent/>?
+Vous pouvez compter sur moi pour faire toujours plus d'efforts à votre service<Indent/>!"
+9,"Toutes ces expériences vécues à vos côtés...
+Je sens qu'elles se matérialisent en un pouvoir immense<Indent/>!","Toutes ces expériences vécues à vos côtés...
+Je sens qu'elles se matérialisent en un pouvoir immense<Indent/>!"
+10,"Encore quelques efforts et j'aurai un contrôle total sur le pouvoir qui m'habite.","Encore quelques efforts et j'aurai un contrôle total sur le pouvoir qui m'habite."
+11,"Tout ce pouvoir qui afflue en moi...
+Grâce à nos voyages, je parviens enfin à le canaliser<Indent/>!","Tout ce pouvoir qui afflue en moi...
+Grâce à nos voyages, je parviens enfin à le canaliser<Indent/>!"

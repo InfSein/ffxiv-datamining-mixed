@@ -1,0 +1,163 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
+#,Destination,Location,X,Y,Z,Map,StartingPoint,Stars,RankReq,CeruleumTankReq,SurveyDuration<min>,SurveyDistance,ExpReward
+int32,str,str,int16,int16,int16,SubmarineMap,bit&01,byte,byte,byte,uint16,byte,uint32
+0,"","",483,927,0,1,True,0,0,0,0,0,0
+1,"Écueils d'Ivoire (A)","A",640,880,100,1,False,1,1,1,180,10,10610
+2,"Mer des noyades 1 (B)","B",570,750,300,1,False,1,1,1,180,10,10610
+3,"Mer des noyades 2 (C)","C",740,700,300,1,False,1,4,1,240,10,27840
+4,"Bassin sans lumière (D)","D",400,850,500,1,False,1,4,2,240,10,27840
+5,"Mer des noyades 3 (E)","E",650,610,200,1,False,1,7,2,300,11,46660
+6,"Sud de la fosse de Rimilala (F)","F",850,850,600,1,False,1,7,3,300,11,46660
+7,"Détroit du Parapluie (G)","G",260,760,100,1,False,1,10,1,360,11,75920
+8,"Trou de l'Agresseur (H)","H",120,840,100,1,False,2,14,1,420,12,102600
+9,"Île des Néolithes (I)","I",380,660,100,1,False,2,17,1,420,12,118350
+10,"Épave sans nom (J)","J",900,600,600,1,False,2,20,3,480,12,146210
+11,"Haut-fond indigo (K)","K",520,550,300,1,False,2,20,6,480,12,146210
+12,"Bassin mystérieux (L)","L",260,570,600,1,False,3,24,6,540,13,174980
+13,"Mer des noyades 4 (M)","M",90,630,100,1,False,3,27,6,600,13,200430
+14,"Flanc de la fosse de Rimilala (N)","N",800,550,400,1,False,3,27,6,600,13,200430
+15,"Épave du <Emphasis>Découverte I</Emphasis> (O)","O",630,490,500,1,False,3,30,6,660,14,231750
+16,"Île verdoyante (P)","P",290,365,100,1,False,3,30,6,660,14,231750
+17,"Île aux monts métallifère (Q)","Q",115,350,0,1,False,4,34,6,720,14,263530
+18,"Repaire de l'armada (R)","R",150,540,600,1,False,4,37,6,780,15,292170
+19,"Mer des noyades 5 (S)","S",320,230,200,1,False,4,37,6,780,15,292170
+20,"Île du purgatoire (T)","T",130,180,100,1,False,4,40,6,840,15,338330
+21,"Mer des noyades 6 (U)","U",465,330,100,1,False,4,40,6,840,15,338330
+22,"Large talus de la fosse de Rimilala (V)","V",555,225,600,1,False,5,44,6,900,16,374020
+23,"Mer des noyades 7 (W)","W",710,370,300,1,False,5,44,6,900,16,374020
+24,"Bassin des sables scintillants (X)","X",900,355,800,1,False,5,47,6,960,16,406590
+25,"Vallée écumeuse du crépuscule (Y)","Y",210,90,100,1,False,5,47,6,960,16,406590
+26,"Épave de <Emphasis>L'Avancée</Emphasis> (Z)","Z",430,100,1000,1,False,5,50,6,1020,17,440990
+27,"Zone des contre-courants (AA)","AA",830,210,800,1,False,5,50,6,1020,17,440990
+28,"Fin fond de la fosse de Rimilala (AB)","AB",750,90,1000,1,False,5,50,6,1020,17,440990
+29,"Ruines du temple de pierre (AC)","AC",895,100,1000,1,False,5,50,6,1020,17,440990
+30,"Ancien écrin (AD)","AD",595,100,800,1,False,5,50,6,1020,17,440990
+31,"","",483,927,0,2,True,0,0,0,0,0,0
+32,"Rive sud de l'Île Zozonan (A)","A",290,750,100,2,False,1,50,6,480,12,440990
+33,"Épave du <Emphasis>Marche-Vent</Emphasis> (B)","B",150,840,100,2,False,1,50,6,480,12,440990
+34,"Rive nord de l'Île Zozonan (C)","C",280,570,100,2,False,2,54,6,540,13,480270
+35,"Mer de Cendre 1 (D)","D",430,660,300,2,False,2,54,6,540,13,480270
+36,"Sud de la Fosse crématoire (E)","E",590,750,600,2,False,2,57,6,600,14,522300
+37,"Mer de Cendre 2 (F)","F",180,440,300,2,False,2,57,6,600,14,522300
+38,"Mer de Cendre 3 (G)","G",350,480,300,2,False,3,60,6,660,15,548410
+39,"Crypte des Ascètes (H)","H",340,330,600,2,False,3,60,6,660,15,548410
+40,"Flanc de la Fosse crématoire (I)","I",500,580,600,2,False,3,60,6,660,15,548410
+41,"Grotte du Révérend (J)","J",460,420,600,2,False,3,60,6,660,15,548410
+42,"Mer de Cendre 4 (K)","K",140,310,300,2,False,3,60,6,660,15,548410
+43,"Bassin sédimentaire (L)","L",440,200,600,2,False,4,63,6,720,16,595020
+44,"Île du gant esseulé (M)","M",820,550,100,2,False,4,63,6,720,16,595020
+45,"Île de la chaussette trouée (N)","N",870,400,100,2,False,4,65,6,780,17,645590
+46,"Repaire des contrebandiers (O)","O",760,660,300,2,False,4,65,6,780,17,645590
+47,"Île de la robe fripée (P)","P",584,195,100,2,False,4,65,6,780,20,645590
+48,"Cheminée de Nald'thal (Q)","Q",761,885,600,2,False,4,66,6,800,20,661730
+49,"Mer de Chasse-Ancre (R)","R",818,145,400,2,False,5,67,6,820,21,678274
+50,"Estomac goulu (S)","S",680,285,300,2,False,5,69,6,860,21,712612
+51,"Trou bleu (T)","T",168,140,600,2,False,5,70,6,880,22,730428
+52,"","",64,591,0,3,True,0,0,0,0,0,0
+53,"Île du Sacrement (A)","A",199,455,100,3,False,1,70,6,880,22,730428
+54,"Tombe du Kraken (B)","B",246,703,1000,3,False,1,70,6,880,22,730428
+55,"Mer de Jade 1 (C)","C",261,289,400,3,False,1,70,6,880,22,730428
+56,"Chasse de Rogo-Tumu-Here (D)","D",101,203,1000,3,False,1,72,6,900,23,767407
+57,"Ventouse de pierre (E)","E",474,89,700,3,False,1,72,6,900,23,767407
+58,"Repos de Rogo-Tumu-Here (F)","F",214,98,1000,3,False,1,73,6,920,24,786593
+59,"Hameçon de Tangaroa (G)","G",689,253,500,3,False,1,74,6,930,24,806258
+60,"Mer de Jade 2 (H)","H",676,76,400,3,False,2,75,6,940,25,826415
+61,"Fjord aveugle (I)","I",842,186,200,3,False,2,75,6,940,25,826415
+62,"Mer de Jade 3 (J)","J",723,387,300,3,False,2,75,6,940,25,826415
+63,"Forge de Moergynn (K)","K",855,96,500,3,False,2,76,6,950,26,847076
+64,"Fanal de Tangaroa (L)","L",889,305,100,3,False,3,78,6,960,28,889960
+65,"Mer de Jade 4 (M)","M",659,637,300,3,False,3,80,6,980,30,935015
+66,"Forêt d'algues (N)","N",626,805,500,3,False,3,81,6,1000,31,958391
+67,"Mer de Jade 5 (O)","O",938,188,600,3,False,4,83,6,1040,32,1006910
+68,"Abîme émoussé (P)","P",481,918,100,3,False,4,85,6,1080,33,1057886
+69,"Port-tempête (Q)","Q",889,445,500,3,False,5,87,6,1120,34,1111443
+70,"Repos du dragon (R)","R",736,764,600,3,False,5,88,6,1140,35,1139230
+71,"Mer de Jade 6 (S)","S",852,617,1000,3,False,5,89,6,1160,36,1167711
+72,"Crypte du diable (T)","T",832,888,1000,3,False,5,90,6,1180,37,1751567
+73,"","",177,927,0,4,True,0,0,0,0,0,0
+74,"Bassin de cérumen (A)","A",201,748,200,4,False,1,90,6,1180,37,1751567
+75,"Mer du Chant des sirènes 1 (B)","B",427,704,700,4,False,1,90,6,1180,37,1751567
+76,"Mer du Chant des sirènes 2 (C)","C",340,532,300,4,False,1,90,6,1180,37,1751567
+77,"Île d'Anthémuse (D)","D",447,253,200,4,False,1,91,6,1190,38,1926724
+78,"Bouche du démon des mers (E)","E",583,593,800,4,False,1,92,6,1210,39,2119397
+79,"Pertuis des naufrages (F)","F",687,644,400,4,False,2,93,6,1220,40,2331337
+80,"Récif de la mort (G)","G",66,383,900,4,False,2,95,6,1250,41,2820919
+81,"Mer du Chant des sirènes 3 (H)","H",352,118,500,4,False,3,96,6,1270,42,3074802
+82,"Courant sous-marin d'Anthémuse (I)","I",557,183,800,4,False,3,96,6,1270,42,3074802
+83,"Mer du Chant des sirènes 4 (J)","J",738,555,400,4,False,3,97,6,1280,42,3351535
+84,"Détroit aux tourbillons (K)","K",802,436,800,4,False,3,98,6,1300,43,3653174
+85,"Baie du Bec (L)","L",620,806,300,4,False,4,99,6,1310,44,3981960
+86,"Geôle du démon des mers (M)","M",136,138,1000,4,False,4,100,6,1330,44,4340337
+87,"Atoll des exilés (N)","N",533,68,100,4,False,4,101,6,1340,45,4687564
+88,"Plage de Lugat (O)","O",885,400,400,4,False,4,101,6,1340,45,4687564
+89,"Source givrée (P)","P",502,899,200,4,False,5,102,6,1360,46,5062570
+90,"Mer du Chant des sirènes 5 (Q)","Q",873,106,1000,4,False,5,103,6,1370,47,5467576
+91,"Île du tumulte (R)","R",678,289,0,4,False,5,104,6,1390,47,5904983
+92,"Colline de sang pourpre (S)","S",937,651,1000,4,False,5,105,6,1400,48,6377382
+93,"Source cristalline (T)","T",747,901,200,4,False,5,105,6,1400,48,6377382
+94,"","",49,928,0,5,True,0,0,0,0,0,0
+95,"Arche de glycines aguichantes (A)","A",177,858,600,5,False,1,105,6,1400,48,6377382
+96,"Île blanchie (B)","B",189,713,100,5,False,1,105,6,1400,48,6377382
+97,"Haut-fond de l'oiseau vagabond (C)","C",494,744,300,5,False,1,105,6,1400,48,6377382
+98,"Mer de lilas 1 (D)","D",90,514,300,5,False,1,106,6,1420,48,6536817
+99,"Île du râle (E)","E",545,898,100,5,False,1,107,6,1430,48,6700238
+100,"Centre de la fosse des campanules (F)","F",366,534,1000,5,False,2,108,6,1450,49,6867744
+101,"Mer de lilas 2 (G)","G",741,797,300,5,False,2,110,6,1480,49,7215424
+102,"Mer de lilas 3 (H)","H",901,898,300,5,False,3,111,6,1490,50,7395810
+103,"Nord-ouest de la fosse des campanules (I)","I",174,394,1000,5,False,3,112,6,1510,50,7580706
+104,"Île des couronnes florales (J)","J",533,457,100,5,False,3,113,6,1520,50,7770224
+105,"Sud-est de la fosse des campanules (K)","K",646,677,1000,5,False,3,114,6,1540,50,7964480
+106,"Lagon en fleur (L)","L",562,320,600,5,False,4,115,6,1550,51,8163592
+107,"Île des tiges ailées (M)","M",806,570,100,5,False,4,115,6,1550,51,8163592
+108,"Île de l'étendard (N)","N",690,212,100,5,False,4,116,6,1570,51,8367682
+109,"Baie des orchidées papillon (O)","O",737,433,600,5,False,4,117,6,1580,51,8576875
+110,"Mer de lilas 4 (P)","P",62,88,600,5,False,5,118,6,1600,52,8791297
+111,"Île de la carène (Q)","Q",374,296,100,5,False,5,119,6,1610,52,9011080
+112,"Est de la vallée sous-marine de Dodie (R)","R",922,340,1000,5,False,5,119,6,1610,52,9011080
+113,"Mer de lilas 5 (S)","S",804,64,1000,5,False,5,120,6,1630,52,9236357
+114,"Ouest de la vallée sous-marine de Dodie (T)","T",485,62,1000,5,False,5,120,6,1630,52,9236357
+115,"","",934,60,0,6,True,0,0,0,0,0,0
+116,"Hauts-fonds indigo (A)","A",822,159,100,6,False,1,120,6,1630,52,9236357
+117,"Base d'exploration intermédiaire (B)","B",661,378,0,6,False,1,120,6,1630,52,9236357
+118,"Nord des profondeurs de la Mer de cobalt (C)","C",624,168,400,6,False,1,120,6,1630,52,9236357
+119,"Vallée sous-marine du Berceau des pluies (D)","D",907,517,1000,6,False,1,121,6,1640,52,9467266
+120,"Océan Indigo méridional 1 (E)","E",431,86,700,6,False,1,122,6,1660,52,9703948
+121,"Infinité bleue (F)","F",480,438,800,6,False,2,123,6,1670,53,9946547
+122,"Océan Indigo méridional 2 (G)","G",393,257,700,6,False,2,125,6,1700,53,10450092
+123,"Île des serres (H)","H",286,364,0,6,False,3,126,6,1720,54,10711345
+124,"Sud de L'Infinité bleue (I)","I",508,600,500,6,False,3,127,6,1730,54,10979129
+125,"Océan Indigo méridional 3 (J)","J",85,93,500,6,False,3,128,6,1750,54,11253608
+126,"Large de l'île des serres (K)","K",76,316,700,6,False,3,129,6,1760,54,11534949
+127,"Île de l'iris aigue-marine (L)","L",728,764,100,6,False,4,130,6,1780,55,11823323
+128,"Bas-fonds des Étoiles ciselées (M)","M",331,660,400,6,False,4,130,6,1780,55,11823323
+129,"Île de la Lune gibbeuse (N)","N",206,650,0,6,False,4,131,6,1790,55,12118907
+130,"Profondeurs émeraude (O)","O",895,919,1000,6,False,4,132,6,1810,55,12421880
+131,"Océan Indigo méridional 4 (P)","P",86,494,800,6,False,5,133,6,1820,56,12732427
+132,"Sud des profondeurs de la Mer de cobalt (Q)","Q",461,816,800,6,False,5,134,6,1840,56,13050738
+133,"Moyennes profondeurs des Étoiles ciselées (R)","R",196,810,900,6,False,5,134,6,1840,56,13050738
+134,"Vallée sous-marine du Berceau des vents (S)","S",520,926,1000,6,False,5,135,6,1850,56,13377007
+135,"Grands fonds des Étoiles ciselées (T)","T",88,927,1000,6,False,5,135,6,1850,56,13377007
+136,"","",933,940,0,7,True,0,0,0,0,0,0
+137,"Est du caillot de sang noir (A)","A",883,870,500,7,False,1,135,6,1850,56,13377007
+138,"Port des loups de mer (B)","B",907,579,1000,7,False,1,135,6,1850,56,13377007
+139,"Rive sud de l'île ar<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>cielle (C)","C",803,779,0,7,False,1,135,6,1850,56,13377007
+140,"Lac d'Oeya Seik (D)","D",727,634,400,7,False,1,136,6,1870,56,13711433
+141,"Nord-est de l'île ar<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>cielle (E)","E",850,360,0,7,False,1,137,6,1880,56,14054219
+142,"Plage de Fejer (F)","F",551,645,600,7,False,2,138,6,1900,58,14405575
+143,"Rivage des griffes (G)","G",472,432,600,7,False,2,140,6,1930,58,15134858
+144,"","",0,0,0,0,False,0,0,0,0,0,0
+145,"","",0,0,0,0,False,0,0,0,0,0,0
+146,"","",0,0,0,0,False,0,0,0,0,0,0
+147,"","",0,0,0,0,False,0,0,0,0,0,0
+148,"","",0,0,0,0,False,0,0,0,0,0,0
+149,"","",0,0,0,0,False,0,0,0,0,0,0
+150,"","",0,0,0,0,False,0,0,0,0,0,0
+151,"","",0,0,0,0,False,0,0,0,0,0,0
+152,"","",0,0,0,0,False,0,0,0,0,0,0
+153,"","",0,0,0,0,False,0,0,0,0,0,0
+154,"","",0,0,0,0,False,0,0,0,0,0,0
+155,"","",0,0,0,0,False,0,0,0,0,0,0
+156,"","",0,0,0,0,False,0,0,0,0,0,0
+157,"","",0,0,0,0,False,0,0,0,0,0,0
+158,"","",0,0,0,0,False,0,0,0,0,0,0
+159,"","",0,0,0,0,False,0,0,0,0,0,0

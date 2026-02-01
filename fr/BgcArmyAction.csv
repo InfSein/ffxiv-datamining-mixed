@@ -1,0 +1,10 @@
+﻿key,0,1,2,3,4
+#,,,,,
+int32,uint16,str,int32,byte,bit&01
+0,0,"",0,0,False
+1,0,"Ordre : engager le combat",791,2,False
+2,0,"Ordre : repli temporaire",792,3,False
+3,0,"Ordre : fin de repli",793,5,True
+4,0,"Ordre : Transcendance",794,4,False
+5,0,"Ordre : barre d'ordres",795,1,False
+6,0,"",0,0,False

@@ -1,0 +1,8 @@
+﻿key,0,1,2
+#,,,
+int32,bit&01,byte,str
+0,False,0,""
+1,True,1,"Type de terrain"
+2,True,2,"Type d'ennemi"
+3,True,3,"Configuration de l'équipe"
+4,True,4,"Marques au sol"

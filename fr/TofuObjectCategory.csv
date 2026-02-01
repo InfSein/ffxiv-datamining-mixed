@@ -1,0 +1,10 @@
+﻿key,0,1,2,3
+#,,,,
+int32,bit&01,uint16,byte,str
+0,False,0,255,""
+1,True,5,5,"Terrains"
+2,True,1,1,"Classes/Jobs"
+3,True,3,2,"Icones/Marques"
+4,True,4,3,"Formes/Symboles"
+5,False,0,255,"グループ"
+6,True,2,0,"Aires d'effet"

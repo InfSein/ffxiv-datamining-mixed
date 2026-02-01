@@ -1,0 +1,47 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42
+#,,,,,,,Fail Image,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor,Good,Great,Excellent,,,,
+int32,byte,byte,byte,byte,uint16,byte,Image,sbyte,sbyte,sbyte,uint32,byte,sbyte,sbyte,sbyte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,byte,byte,byte,byte,Image,Image,Image,Image,str,str,str,str
+2359296,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",""
+2359297,0,30,42,0,1,0,121541,0,3,30,4076,15,0,24,0,0,1,2,3,0,1,2,40,0,1,15,20,4077,4077,4077,4077,3,1,1,1,121502,121501,121501,121501,"Lance-bombo","Tout est dans le poignet<Indent/>!
+
+1-2 points = 20 PGS
+3-4 points = 30 PGS
+5 points et + = 50 PGS","","Score"
+2359298,0,15,60,1,1,3,121541,0,1,32,4070,30,0,20,0,0,1,2,3,0,1,2,40,0,10,15,20,0,0,0,0,3,1,1,1,121522,121521,121521,121521,"Attrap'Mog","Attrapez-les tous<Indent/>!
+
+Grosse prise = 10 PGS
+Petite prise = 25 PGS","",""
+2359299,0,15,60,1,1,2,121541,0,1,17,4074,21,0,25,0,0,1,2,3,0,1,2,40,0,10,15,20,4075,4075,4075,4075,3,5,5,1,121514,121513,121512,121511,"Catapultour de Cristal","Allez-y de toutes vos forces<Indent/>!
+
+Bien = 10 PGS
+Très bien = 15 PGS
+Excellent = 25 PGS","",""
+2359300,0,15,40,1,1,1,121541,0,1,30,4072,11,0,25,0,0,1,2,3,0,1,2,40,0,10,15,20,4073,4073,4073,4073,3,5,5,1,121534,121533,121532,121531,"Gilg-a-Moche","Amochez sa grosse caboche<Indent/>!
+
+Bien = 10 PGS
+Très bien = 15 PGS
+Excellent = 25 PGS","",""
+2359301,1,60,30,1,1,4,121541,0,2,32,4670,17,0,25,0,15,8,2,0,100,14,7,1,0,1,4,10,4671,4671,4671,4671,4,8,6,2,121584,121583,121582,121581,"Bonne pioche<Indent/>!","Choisissez le bon moment pour donner un coup de pioche<Indent/>!
+
+Le nombre de tentatives varie en fonction du niveau de la jauge.
+ Titan<Indent/>: 4
+ Morbol<Indent/>: 5
+ Pampa<Indent/>: 6
+
+Moins vous avez de tentatives, plus de PGS vous obtiendrez<Indent/>!","Donnez un coup de pioche pour creuser<Indent/>!
+
+Utilisez votre instinct pour trouver le bon filon<Indent/>!
+
+Réduisez la jauge à zéro pour gagner<Indent/>!","PGS obtenus"
+2359302,1,60,30,10,1,5,121541,-2,2,12,4668,17,0,25,0,21,11,3,0,100,20,10,2,0,1,4,10,4669,4669,4669,4669,4,8,6,2,121594,121593,121592,121591,"Oh, la hache<Indent/>!","Choisissez le bon moment pour donner un coup de hache<Indent/>!
+
+La vitesse varie en fonction du niveau de la jauge.
+ Titan<Indent/>: très rapide
+ Morbol<Indent/>: rapide
+ Pampa<Indent/>: lent
+
+Plus ça va vite, plus vous obtiendrez de PGS<Indent/>!","Donnez un coup de hache pour couper<Indent/>!
+
+Utilisez votre instinct pour trouver le bon endroit<Indent/>!
+
+Réduisez la jauge à zéro pour gagner<Indent/>!","PGS obtenus"

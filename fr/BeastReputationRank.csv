@@ -1,0 +1,12 @@
+﻿key,0,1,2,3
+#,RequiredReputation,Name,AlliedNames,Color
+int32,uint16,str,str,UIColor
+0,0,"Aucun","Aucun",0
+1,150,"Neutre","Neutre",56
+2,360,"Reconnu","Reconnu",57
+3,510,"Ami","Ami",58
+4,720,"Estimé","Estimé",59
+5,990,"Respecté","Respecté",60
+6,1320,"Émérite","Émérite",61
+7,1730,"Assermenté","Assermenté",62
+8,0,"Allié","Assermenté★",63

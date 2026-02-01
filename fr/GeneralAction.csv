@@ -1,0 +1,62 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Name,Description,,Action,UnlockLink,Recast,UIPriority,Icon,,
+int32,str,str,byte,Action,uint16,byte,byte,Image,bit&01,bit&02
+0,"","",0,0,0,0,0,0,False,False
+1,"Attaque automatique","Vous portez des coups à une cible à intervalles réguliers. La rapidité dépend de l'arme.",1,0,0,0,7,101,False,False
+2,"Saut","Vous sautez pour éviter de petits obstacles ou simplement pour le plaisir de vous dépenser.",1,0,0,0,11,102,False,False
+3,"Transcendance","Vous lancez une puissante technique de combat, déterminée par le rôle de l'équipier qui la lance et le degré de remplissage de la jauge de Transcendance.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Tank<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> diminue les dégâts reçus par l'équipe. (Rayon : 50y)
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>DPS de mêlée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige d'importants dégâts à une cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>DPS à distance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige d'importants dégâts aux ennemis en ligne droite devant. (Rayon : 30y)
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Mage<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige d'importants dégâts aux ennemis dans l'aire d'effet. (Rayon : 8y/10y/15y)
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Soigneur<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> soigne les PV des équipiers, et ressuscite au niveau 3. (Rayon : 50y)
+Les personnages inconscients qui ne subissaient pas l'effet Affaiblissement ne le subissent pas non plus après résurrection. En revanche, ceux qui subissaient déjà Affaiblissement ou Mourant en voient la durée d'effet réinitialisée au moment de la résurrection.",1,0,0,0,4,103,False,False
+4,"Sprint","Vous augmentez votre vitesse de déplacement.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée en combat<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 10s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée hors combat<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+* Inutilisable en instance JcJ.",1,3,0,56,1,104,False,False
+5,"Recyclage","Vous désintégrez un objet pour récupérer certains de ses matériaux.",2,0,95,0,51,120,False,True
+6,"Réparation","Vous réparez l'équipement usé. L'utilisation de matière sombre de grade adéquat est nécessaire.",2,0,0,0,31,106,False,True
+7,"Téléportation","Vous utilisez des gils pour vous téléporter à une éthérite avec laquelle vous vous êtes harmonisé<If(PlayerParameter(4))>e<Else/></If>.",1,5,4,0,2,111,False,True
+8,"Rapatriement","Vous vous téléportez à votre point de retour.",1,6,1,57,3,112,False,True
+9,"Monture aléatoire","Vous appelez aléatoirement une de vos montures.",1,0,0,0,21,118,False,False
+10,"Mascotte aléatoire","Vous appelez aléatoirement une de vos mascottes.",1,0,0,0,23,117,False,False
+11,"","",0,0,0,0,0,0,False,False
+12,"Sertissage de matéria","Vous sertissez une matéria à une pièce d'équipement.",2,0,11,0,33,107,False,True
+13,"Sertissage avancé de matéria","Vous sertissez une matéria à une pièce d'équipement. Vous pouvez sertir des matérias dans un objet qui n'a plus d'emplacements disponibles, mais cette opération est risquée et la réussite n'est pas garantie.",2,0,12,0,34,108,False,True
+14,"Matérialisation","Vous extrayez l'énergie éthérée mémorielle d'un objet en parfaite symbiose avec vous, puis la cristallisez en une matéria.",2,0,13,0,32,109,False,True
+15,"Teinture","Vous utilisez une teinture pour teindre une pièce d'équipement.",2,0,14,0,41,110,False,True
+16,"Ciblage","Vous ciblez les ennemis dans le sens des aiguilles d'une montre en commençant par le plus proche.",3,0,0,0,12,113,False,True
+17,"Ciblage contraire","Vous ciblez les ennemis dans le sens contraire des aiguilles d'une montre en commençant par le plus proche.",3,0,0,0,13,114,False,True
+18,"Déposer","Vous posez par terre l'objet que vous avez entre les mains.",1,0,0,0,0,19612,False,False
+19,"Déchiffrage","Vous retirez les vieilles cartes de leur prison de verre et déchiffrez leurs mystérieux symboles.",1,1694,25,0,61,115,False,False
+20,"Excavation","Vous sondez les environs et déterrez les coffres indiqués par les cartes au trésor.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Aire d'effet<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30y",1,1695,25,67,62,116,False,False
+21,"Éthérolyse","Vous manipulez l'éther contenu dans un objet collectionnable pour en affiner les qualités et en obtenir les matériaux.",2,0,256,0,52,121,False,True
+22,"Mirage","Vous projetez sur vous l'illusion d'un autre équipement grâce à un prisme magique.",2,0,15,0,42,119,False,True
+23,"Descente","Vous descendez de votre monture et mettez pied à terre.",1,0,0,0,0,19628,False,False
+24,"Monture volante aléatoire","Vous appelez aléatoirement une de vos montures volantes.",1,0,0,0,0,122,False,False
+25,"Planche mirage","Vous associez plusieurs pièces d'équipement pour les appliquer comme mirage.",2,0,15,0,43,125,False,True
+26,"Action de mission 1","Vous effectuez une action spécifique dans le cadre d'un donjon ou d'un défi.",1,0,0,0,1,123,True,False
+27,"Action de mission 2","Vous effectuez une action spécifique dans le cadre d'un donjon ou d'un défi.",1,0,0,0,2,124,True,False
+28,"Ranger","Vous rangez votre accessoire de mode.",1,0,0,0,0,19688,False,False
+29,"Trier les raccourcis spéciaux","Vous pouvez modifier l'ordre des actions dans la barre de raccourcis spéciale.",1,0,0,0,0,19692,False,True
+30,"Trier les raccourcis spéciaux","Vous pouvez modifier l'ordre des actions dans la barre de raccourcis spéciale.",1,0,0,0,0,19692,False,True
+31,"Action de soutien 1","Vous utilisez une action de soutien.",1,0,537,0,3,126,True,False
+32,"Action de soutien 2","Vous utilisez une action de soutien.",1,0,537,0,4,127,True,False
+33,"Action de soutien 3","Vous utilisez une action de soutien.",1,0,537,0,5,128,True,False
+34,"Action de soutien 4","Vous utilisez une action de soutien.",1,0,537,0,6,129,True,False
+35,"Action de soutien 5","Vous utilisez une action de soutien.",1,0,537,0,7,130,True,False
+36,"Cible : attaquer","Vous ciblez la cible marquée comme à attaquer.
+S'il y en a plusieurs, vous ciblez celle avec le chiffre le plus faible.",3,0,0,0,14,133,False,True
+37,"Cible : entraver","Vous ciblez la cible marquée comme à entraver.
+S'il y en a plusieurs, vous ciblez celle avec le chiffre le plus faible.",3,0,0,0,15,134,False,True
+38,"Cible : ignorer","Vous ciblez la cible marquée comme à ignorer.
+S'il y en a plusieurs, vous ciblez celle avec le chiffre le plus faible.",3,0,0,0,16,135,False,True
+39,"Cible : carré","Vous ciblez la cible marquée d'un carré.",3,0,0,0,17,136,False,True
+40,"Cible : cercle","Vous ciblez la cible marquée d'un cercle.",3,0,0,0,18,137,False,True
+41,"Cible : croix","Vous ciblez la cible marquée d'une croix.",3,0,0,0,19,138,False,True
+42,"Cible : triangle","Vous ciblez la cible marquée d'un triangle.",3,0,0,0,20,139,False,True
+43,"Avance tableau","Vous passez au tableau stratégique suivant.",3,0,0,0,71,140,False,True
+44,"Retour tableau","Vous retournez au tableau stratégique précédent.",3,0,0,0,72,141,False,True

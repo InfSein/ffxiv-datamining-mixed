@@ -1,0 +1,273 @@
+﻿key,0,1,2
+#,,,
+int32,str,str,str
+0,"","",""
+1,"N°1","Début du projet","Moi, Reportingway, ai l'immense honneur d'avoir été désigné pour consigner par écrit les tribulations du programme d'exploration cosmique et les découvertes qui en découleront. J'espère que vous aurez plaisir à me lire !
+
+Cette entreprise grandiose, fondée par Searchingway, notre chef de projet, vient justement de débuter ! Si elle ne dispose encore que de quelques machines et équipements, la station sélénienne, comme nous l'avons nommée, est vouée à s'agrandir pour devenir le principal point de départ de la lune vers l'infini du firmament.
+Pour le moment, nos rares ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions sont sommaires : elles incluent des échoppes qui ont pour rôle de fournir du matériel aux nombreux volontaires participant au projet, ainsi que le hangar qui accueillera les véhicules lourds destinés à arpenter la surface de la lune – et peut-être bien celle d'autres planètes. Tout ceci est temporaire, mais a le mérite d'exister.
+
+Une chose me chiffonne tout de même... Il arrive que des pluies de météorites de petite taille tombent ici, à Sinus Ardorum. La toile de nos tentes a beau être conçue dans un matériau robuste en vue de nos futures activités dans l'espace, il est impensable que nous nous contentions éter<SoftHyphen/>nel<SoftHyphen/>le<SoftHyphen/>ment de si peu ! Aussi, nous comptons solliciter l'aide de nos chers collaborateurs d'Ætherys afin d'améliorer nos infrastructures et bâtir une station digne de ce nom !"
+2,"N°2","Campement bêta","De plus en plus de collaborateurs venus d'Ætherys nous rejoignent sur le chantier !
+Qu'il s'agisse de chercheurs du Labyrinthos ayant travaillé sur le projet Lune, d'académiciens de Sharlayan qui étudient les théories les plus pointues sur l'espace, de glaneurs renommés, d'aventuriers, d'artisans et j'en passe, nous accueillons maintenant des personnes d'horizons très variés ! Et grâce aux efforts acharnés de tout ce beau monde, nous avons pu agrandir la station sélénienne et l'agrémenter de nouvelles ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions !
+
+Ainsi, nos tentes de fortune ont laissé la place à de magnifiques bâtiments aux toits en métal renforcé ! Nous n'avons plus à craindre qu'un quelconque objet tombé du ciel ne vienne réduire en miettes nos précieuses ressources. Nous allons enfin pouvoir aborder sereinement la suite du programme.
+
+Les nombreux volontaires venus nous soutenir ont permis au projet d'exploration cosmique d'évoluer dans la bonne direction. La station est à présent suf<SoftHyphen/>fi<SoftHyphen/>sam<SoftHyphen/>ment opérationnelle pour servir de tremplin afin d'élargir nos activités, notamment en vue d'arpenter les différents recoins de Sinus Ardorum."
+3,"N°3","Premier réseau de cosmo-navettes","Il peut sembler curieux aux yeux de certains que les Loporrites décident sou<SoftHyphen/>dai<SoftHyphen/>ne<SoftHyphen/>ment d'explorer la lune, eux qui ont vécu sur place durant des millénaires. Mais il faut comprendre que le but de nos travaux à Sinus Ardorum n'est pas seulement de préparer ce qui sera notre point de départ vers l'espace, mais aussi d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ter des machines et des ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions qui nous permettront de poursuivre nos activités sur d'autres planètes.
+
+C'est ainsi que nous avons mis au point le système de cosmo-navette, qui devrait également être utile pour nous déplacer à la surface d'autres astres que la lune. Car rien ne garantit la bonne stabilité des flux éthérés sur les mondes que nous visiterons ; nous avons donc préféré compter sur un moyen de transport rapide plutôt que sur la magie de téléportation. Notre objectif, à présent, est d'étendre notre réseau de cosmo-navettes au reste de Sinus Ardorum et de nous assurer de sa fiabilité."
+4,"N°4","Modules d'habitation et cosmoport","Ça y est, la con<SoftHyphen/>struc<SoftHyphen/>tion des modules d'habitation et du cosmoport est terminée ! Nous allons enfin pouvoir offrir un toit digne de ce nom à tous les gentils volontaires qui sont venus nous prêter main-forte ! Certes, ces ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions ne disposent pour le moment que des fonctions les plus basiques, mais nous projetons de les améliorer et de les agrandir lors d'une future étape du chantier.
+
+Par ailleurs, concernant les modules d'habitation, nous avons tiré parti de notre triste échec avec Risette-sur-lune pour proposer de véritables petits coins de paradis où il fait bon vivre. Promis, juré, craché, tout le monde pourra y séjourner en toute sécurité !
+
+Quant au cosmoport, nous avons pu profiter des dernières avancées de la recherche en matière d'éthérologie. Ainsi, notre fier astronef disposera d'une fonction qui lui permettra de suivre au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment les flux éthérés présents dans l'espace ! Pour le moment, seule la base du cosmoport est prête, mais c'est toujours un pas de plus qui nous rapproche des étoiles !"
+5,"N°5","Amélioration des hangars","Pour faciliter l'exploration et les diverses tâches sur des planètes lointaines, nous, les Loporrites, avons travaillé sur un projet secret en col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion avec nos chercheurs<Indent/>: des robots d'un nouveau genre<Indent/>!
+
+Ces machines sont déjà utilisées lors d'in<SoftHyphen/>ter<SoftHyphen/>ven<SoftHyphen/>tions mécaniques. Elles étaient auparavant entreposées sous des tentes, ce qui permettait à la poussière et au sable de s'insinuer dans leurs ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tions, entraînant parfois des dysfonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ments. Cependant, grâce à la conception de hangars sous la forme de conteneurs hermétiques, leur mécanique n'est désormais plus affectée par les conditions environnementales.
+
+Nous allons pouvoir améliorer les capacités de nos robots en toute quiétude, ce qui devrait contribuer à une meilleure efficacité opérationnelle<Indent/>!"
+6,"N°6","Cosmo-navette nord-ouest","Le réseau de cosmo-navettes s'étend désormais jusqu'à La Gourde, au nord-ouest de Sinus Ardorum<Indent/>!
+
+De plus, nous avons équipé les points intermédiaires de commodités, telles que des aires de repos pour les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants au projet ainsi que des stations de ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment pour les machines. Ces avant-postes serviront de bases pour l'exploration de zones plus lointaines.
+
+N'hésitez pas à en profiter lors de votre prochain trajet en cosmo-navette<Indent/>!"
+7,"N°7","Cosmo-navette sud-est","Le réseau de cosmo-navettes s'étend désormais jusqu'à la Pépinière de Weddingway, au sud-est de Sinus Ardorum<Indent/>!
+
+Cette zone nous sert à ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ter différentes façons d'améliorer le sol de la lune, peu propice à la croissance des végétaux, notamment grâce à une mousse fertilisatrice. Le responsable de ce projet est un Loporrite nommé Weddingway, qui collabore avec les botanistes de Sharlayan pour étudier la reproduction et l'hybridation de différentes espèces végétales et fongiques.
+
+Il semble que Lovingway, qui affectionne les champignons étranges de Mare Lamentorum, fréquente également cet endroit... Ceci explique peut-être pourquoi il y a tant de fongus dans la région ?"
+8,"N°8","Tunnel de Piercingway","Le tunnel de Piercingway traverse désormais le cratère sud-ouest<Indent/>: le Mont scintillant<Indent/>!
+
+Cette formation rocheuse étant composée de couches de cristaux très durs mélangés à des roches plus tendres, la con<SoftHyphen/>struc<SoftHyphen/>tion du tunnel a été une excellente occasion de démontrer notre savoir-faire technique. Nous devons notre réussite aux scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ques de Sharlayan, qui nous ont aidés à développer des barrières efficaces pour protéger nos ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions pendant les travaux.
+
+L'expérience acquise grâce à cet ouvrage sera cer<SoftHyphen/>tai<SoftHyphen/>ne<SoftHyphen/>ment utile pour nos futures explorations cosmiques<Indent/>!"
+9,"N°9","Cosmo-navette sud-ouest","Le réseau de cosmo-navettes s'étend désormais jusqu'au tunnel de Piercingway, au sud-ouest de Sinus Ardorum<Indent/>!
+
+Nous estimons que les alentours du Mont scintillant recèlent des filons de minerais rares, mais les rapports mentionnent également des vestiges allagois qui se seraient écrasés dans cette zone. Utilisées à bon escient, ces ressources pourraient permettre au projet d'exploration cosmique d'évoluer encore davantage."
+10,"N°10","Campement gamma","La surface de la lune accueille désormais une véritable petite cité<Indent/>! Qui l'eût cru<Indent/>? Grâce aux efforts de tous, la station sélénienne possède à présent un campement flambant neuf<Indent/>!
+
+Afin de relier plus efficacement les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions dispersées à de multiples endroits, nous avons amélioré les voies d'accès et les cloisons, ainsi que la plomberie de la base. Outre l'amélioration du cadre de vie, des stations de ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment ont aussi été installées afin de faciliter la tâche aux nombreux travailleurs.
+
+Toutefois, il serait trop hâtif de croire que cette station est entièrement finalisée. De nombreuses améliorations peuvent encore être apportées et j'ai hâte de voir ce que les équipes du projet vont concocter<Indent/>! "
+11,"N°11","Énergie et eau potable","Grâce aux efforts conjugués des artisans et récolteurs venus de tous horizons, nous disposons à présent de nouvelles sources d'énergie et d'eau<Indent/>!
+
+La nouvelle station est capable de produire une très grande quantité d'énergie de foudre, essentielle pour alimenter des vaisseaux spatiaux. En outre, la station hydropurificatrice s'occupe de rendre potable pour tous l'eau qui jaillit des fuites magismologiques, grâce au pouvoir du cristal central.
+
+Ces deux ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions détiennent la clef de notre survie en environnement cosmique<Indent/>!"
+12,"N°12","Nouveaux hangars et cosmoport","Le cosmoport ainsi que les hangars pour nos machines mécaniques ont été entièrement finalisés<Indent/>!
+
+Chacune de ces ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions est alimentée par la station énergétique grâce à des lignes souterraines qui permettent de ravitailler facilement les machines comme les vaisseaux. D'autre part, des stations comportant des générateurs de taille réduite ont été installées, afin de pallier une éventuelle perturbation du réseau énergétique.
+
+Dans ce projet, il est crucial d'être toujours préparé au pire<Indent/>!"
+13,"N°13","Ascenseur nadiral","J'ai l'immense plaisir de vous annoncer la mise en service de l'ascenseur nadiral, grâce auquel vous pouvez désormais traverser la distance qui vous sépare de la grande grotte à ciel ouvert située sous la faille au nord-est de Sinus Ardorum<Indent/>!
+
+Après la découverte de la zone durant une expédition de drones, nous avons décidé d'en faire la pionnière de notre exploration interstellaire en y établissant une voie d'accès afin d'exploiter ses ressources.
+Grâce aux efforts de chacun, nous avons pleinement mis à profit les con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces acquises lors de la con<SoftHyphen/>struc<SoftHyphen/>tion du tunnel, et installé un ascenseur capable de supporter le poids des machines les plus lourdes. Tout le monde en est ressorti encore plus motivé qu'avant<Indent/>!
+
+Point important<Indent/>: cette zone du Nadir lunaire est la dernière de celles que vous explorerez au sein de Sinus Ardorum.
+Continuez d'avancer sans relâche<Indent/>! On compte sur vous plus que jamais<Indent/>!"
+14,"N°14","Cosmo-navette sous terre","Oyez, oyez<Indent/>! Le réseau de cosmo-navettes a été étendu à la zone du Nadir lunaire au nord-est de Sinus Ardorum<Indent/>!
+Par conséquent, il est désormais possible de l'utiliser pour voyager dans la totalité de la région<Indent/>!
+
+Bien que la con<SoftHyphen/>struc<SoftHyphen/>tion n'ait pas été exempte de difficultés, sa finalisation facilite les déplacements vers la petite grotte à champignons et la cascade de la source magique, ce qui représente une avancée non négligeable.
+Je suis convaincu que ce genre d'expérience sera utile pour l'exploration des nombreuses autres planètes qui nous attendent. Voilà pourquoi nous devons continuer à travailler main dans la main<Indent/>!"
+15,"N°15","Achèvement de Luna Hopopolis","Comment dire...<Indent/>? En plein cœur de la station sélénienne... est apparu un dôme tout rond, comme si une autre lune s'était tout à coup mise à flotter à la surface de celle-ci<Indent/>!
+
+Son nom, je vous le donne en mille, est Luna Hopopolis<Indent/>!
+Une nouvelle ville faite pour nous rassembler, et qui rebondit sur la surface de la lune pour tenter d'atteindre la myriade d'étoiles brillant dans l'univers... Telle est la si<SoftHyphen/>gni<SoftHyphen/>fi<SoftHyphen/>ca<SoftHyphen/>tion de ce nom.
+
+La forme de la cité a été conçue pour recouvrir le cristal central d'un toit en forme de dôme, afin de réduire le risque d'impact d'une météorite. Sa deuxième priorité est toutefois d'être un lieu où chacun peut se reposer en toute tran<SoftHyphen/>quil<SoftHyphen/>li<SoftHyphen/>té.
+Bref, ne vous souciez pas des Loporrites comme moi qui courent dans tous les sens, et n'hésitez pas à venir vous détendre dans une atmosphère de place publique des plus enjouées.
+
+En tout cas, c'est ainsi que s'achève notre exploration de la lune, avec la finalisation de ce tour de force au beau milieu de Sinus Ardorum<Indent/>!
+Merci à tous pour votre coopération sans faille<Indent/>!"
+16,"N°16","Vers les étoiles et au-delà","Réjouissez-vous<Indent/>! Toutes les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions sont terminées et notre tout nouveau tout beau vaisseau spatial est garé au cosmoport, prêt à partir à tout moment<Indent/>!
+
+En toute franchise, nous n'aurions jamais pensé atteindre un tel résultat aussi vite. C'est comme un rêve pour nous<Indent/>!
+Cependant, une chose est sûre<Indent/>: lorsque les gens qui ont pris part à cette aventure, à commencer par notre chef de projet Searchingway, jettent un regard sur le ciel noir au-dessus de leurs têtes... Au moment précis où ils prennent conscience de cette magnificence étoilée, tous nos jours de dur labeur s'en trouvent amplement justifiés<Indent/>!
+
+À présent, il ne nous reste plus qu'à préparer notre prochain voyage vers les étoiles et au-delà, pour une exploration de l'univers sans cesse renouvelée<Indent/>!
+J'ai tellement hâte de vous y retrouver, mes amis<Indent/>!"
+17,"N°1","En route pour Phaenna !","C'est à nouveau moi, Reportingway, qui ai l'honneur de consigner le prochain bond en avant de notre programme<Indent/>: l'exploration de la planète Phaenna<Indent/>!
+Nous nous sommes envolés à bord du Galacticway et avons traversé l'immensité du cosmos pour atteindre notre destination. Si cet astre fut choisi comme première étape en dehors de notre système, c'est avant tout pour son abondance en silicium et son environnement unique. Autant vous dire que tous les explorateurs du projets trépignaient d'avance à l'idée de fouler le sol d'un monde aussi étrange que fascinant<Indent/>!
+Grâce aux con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces obtenues à Sinus Ardorum, nos éclaireurs ont réussi à établir sans encombre une base d'opérations baptisée «<Indent/>station Souffleverre<Indent/>». Nous ne disposons pas encore de suf<SoftHyphen/>fi<SoftHyphen/>sam<SoftHyphen/>ment de ressources sur place, ainsi nos activités demeurent encore limitées. Cependant, avec l'aide des par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants au projet, il ne fait aucun doute à mes yeux que notre base deviendra rapidement de plus en plus fonctionnelle."
+18,"N°2","Agrandissement de la station","Grâce au Galaticway, l'approvisionnement en ressources depuis la lune se déroule sans anicroche<Indent/>! Et avec l'aide des nombreux par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants au projet, la station Souffleverre s'est bien développée.
+La particularité de cette base reste avant tout dans sa localisation<Indent/>: lovée au sein d'une grotte naturelle, avec de hautes parois rocheuses pour protéger les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions des fréquentes pluies de verre. Toutefois, l'espace à notre disposition reste limité, il faudra donc planifier mi<SoftHyphen/>nu<SoftHyphen/>tieu<SoftHyphen/>se<SoftHyphen/>ment l'expansion de notre quartier général pour éviter les mauvaises surprises.
+Fort heureusement, un bon nombre de nos ingénieurs ont déjà mis leurs con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces à profit et les débats sur le futur de la station vont bon train. Une telle motivation fait vraiment plaisir à voir<Indent/>!"
+19,"N°3","Réseau de cosmo-navettes","La con<SoftHyphen/>struc<SoftHyphen/>tion du réseau de cosmo-navettes a débuté sur Phaenna<Indent/>! Ce moyen de transport a été conçu au départ pour les planètes où les courants et autres flux éthérés sont instables. Son installation sur un astre aussi éloigné du nôtre servira de véritable baptême du feu<Indent/>!
+J'ai cru comprendre que de nombreux chercheurs et ingénieurs du projet souhaitent ardemment mener l'élaboration du réseau jusqu'au bout. À l'inverse des aventuriers de tous bords qui nous ont rejoints, l'idée de passer des heures à cheminer une planète à l'environnement inconnu ne les séduit pas totalement.
+Maintenant que les alentours de la station sont desservis, l'exploration devrait se poursuivre plus sereinement pour tous."
+20,"N°4","Modules d'habitation","La vie en communauté sur Phaenna vient de faire un grand bond en avant<Indent/>! Comparé aux habitations à Sinus Ardorum, les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions ici proposent des parties communes bien plus spacieuses, et tout l'intérieur semble pensé avec le confort des résidents comme priorité. Les concepteurs se sont d'ailleurs basés sur les travaux effectués pour le fameux projet Lune, et son plan d'exode à grande échelle. Aucun effort n'a été épargné pour fournir ces lieux de vie où chacun pourra se relaxer après une dure journée de labeur.
+Nous avions demandé aux chercheurs et techniciens quelles étaient leurs attentes et envies, et la grande majorité souhaitait des quartiers d'habitations dignes de ce nom avant tout. Après d'âpres négociations avec Mumukko, nous avons réussi à obtenir son aval pour la con<SoftHyphen/>struc<SoftHyphen/>tion de ces modules, certes plus compacts que ceux du projet Lune, mais tout en gardant un certain confort."
+21,"N°5","Énergie et eau potable","Ça y est, le chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion d'une centrale électrique et d'une station de purification d'eau adaptées à l'environnement de cette planète est terminé !
+
+La grande majorité des sources d'eau de Phaenna contiennent une quantité faramineuse de silicium, nous ne pouvons donc pas nous en servir telles quelles pour nos activités ici.
+C'est pourquoi le filtrage de l'eau par le biais d'une station d'hydropurification est absolument vital ! Quant à la centrale électrique, elle nous est également très utile pour fournir en énergie l'ensemble du projet d'exploration cosmique.
+Avec la mise en marche de ces in<SoftHyphen/>dis<SoftHyphen/>pen<SoftHyphen/>sa<SoftHyphen/>bles ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions, nous allons pouvoir progresser encore dans notre exploration de cette planète, toujours plus vite, toujours plus loin !"
+22,"N°6","Amélioration du hangar","Nos machines pilotables sont grandement mises à con<SoftHyphen/>tri<SoftHyphen/>bu<SoftHyphen/>tion sur Phaenna, ce qui est plutôt une bonne chose.
+Mais ça signifie également que si nous en perdions ne serait-ce qu'une seule dans un accident, ce serait une catastrophe absolue pour le projet !
+
+C'est pourquoi nous avons choisi d'installer leur hangar à l'entrée du tunnel. De là, nos engins pourront facilement se rendre n'importe où, tout en étant protégés par les parois de la grotte.
+Et maintenant que nous avons de beaux conteneurs pour les ranger, ils seront encore plus en sécurité !"
+23,"N°7","Cosmo-navette : plaines","Et voilà, le réseau de cosmo-navettes a été étendu aux berges de Salpêtre, longeant les Flots sodocalciques de l'ouest au sud !
+
+On pense que ce canyon s'est formé avec l'érosion des sols causée par la rivière. En tout cas, je peux vous dire que le relief ne nous rend pas la tâche facile pour le transport de ressources et les déplacements du personnel.
+C'est pourquoi nous avons cherché à y construire au plus vite une extension de la cosmo-navette, mais le sol de Phaenna étant en verre, et donc fragile, beaucoup d'endroits ne peuvent pas supporter des machines et autres ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions lourdes ; par conséquent, il nous a fallu du temps pour choisir les bons emplacements.
+C'est grâce à l'étude minutieuse du relief par nos techniciens que nous sommes parvenus à réaliser cette petite prouesse !"
+24,"N°8","Grues d'application","En bas de la cataracte où se déversent les Flots sodocalciques s'est formé le gouffre aux Capsules, une énorme crevasse dans laquelle se sont accumulées de grosses boules de verre. Isolées de la surface, les profondeurs accueillent un environnement unique qui suscite beaucoup d'excitation et de curiosité parmi les membres du projet. C'est justement pour pouvoir les explorer que nous avons conçu les “grues d'application” !
+
+En réalité, “application” est le nom d'une technique de fabrication du verre, qui consiste à apposer un élément décoratif préalablement chauffé sur le sujet principal d'une création.
+Nous nous sommes inspirés de ce concept pour imaginer des grues que l'on “appliquerait” sur les bords solides du gouffre, et qui viendraient soutenir des plateformes permettant de descendre tout au fond !
+
+Ce sont les con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces en matière de géotechnique acquises lors des extensions de la cosmo-navette, ainsi que nos méthodes de con<SoftHyphen/>struc<SoftHyphen/>tion minutieuses établies à Sinus Ardorum pour le tunnel ou l'ascenseur nadiral, qui ont permis de rendre cet ouvrage possible !"
+25,"N°9","Cosmo-navette : gouffre","Ça y est, nous sommes parvenus à étendre notre réseau de cosmo-navettes jusqu'au fond du gouffre aux Capsules !
+
+Une telle entreprise était ex<SoftHyphen/>trê<SoftHyphen/>me<SoftHyphen/>ment complexe à réaliser dans un lieu aussi instable où s'accumulent des sphères de verre.
+En effet, pour établir une nouvelle ligne, outre la con<SoftHyphen/>struc<SoftHyphen/>tion de deux portails appairés, nous devions calculer très précisément les coordonnées de trajet.
+Heu<SoftHyphen/>reu<SoftHyphen/>se<SoftHyphen/>ment, nous avons pu mettre à profit notre expérience acquise jusqu'ici pour déterminer avec justesse la façon dont les sphères et les couches de sédiment s'équilibrent, et trouver ainsi les emplacements idéaux pour les portails !
+
+Nous pouvons être fiers d'avoir réussi un chantier aussi difficile !"
+26,"N°10","Finalisation de la station","Grâce aux efforts de tous nos collaborateurs, la station de Souffleverre a atteint un niveau de confort inégalé<Indent/>!
+
+Nos calculs minutieux nous ont permis d'étendre la structure tout en épousant idéalement les parois inégales de l'immense grotte qui l'accueille. Il faut dire qu'il ne s'agit pas d'un simple agrandissement. L'installation d'un réseau complexe de lignes électriques et de tuyauterie a été nécessaire pour le fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment de nos diverses machines et l'accueil des drones, et bien d'autres défis de conception ont dû être relevés<Indent/>! J'ai encore les oreilles qui sifflent à force d'écouter les innombrables complaintes des ingénieurs impliqués dans le projet... Heu<SoftHyphen/>reu<SoftHyphen/>se<SoftHyphen/>ment, le résultat a dépassé les attentes des plus exigeants.
+
+Les perspectives sont plus qu'encourageantes, et nous pouvons désormais nous tourner vers les prochains plans d'expansion in<SoftHyphen/>dis<SoftHyphen/>pen<SoftHyphen/>sa<SoftHyphen/>bles à nos ambitions d'exploration spatiale. Ne nous arrêtons pas en si bon chemin<Indent/>!"
+27,"N°11","Aménagement du hangar","Le verre produit na<SoftHyphen/>tu<SoftHyphen/>rel<SoftHyphen/>le<SoftHyphen/>ment sur Phaenna est une formidable ressource, et il se révèle idéal pour recouvrir les parois des ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions de la station Souffleverre. Cette fois, c'est le hangar que nous avons aménagé<Indent/>!
+
+Les plaques de verre spéciales que nous utilisons sont esthétiques, aussi résistantes que de l'acier, et même capables de convertir la lumière du soleil en énergie<Indent/>! Un tel prodige n'aurait pas été possible sans le concours précieux des artisans verriers d'Ætherys qui ont collaboré avec nos ingénieurs pour mettre au point ce matériau ré<SoftHyphen/>vo<SoftHyphen/>lu<SoftHyphen/>tion<SoftHyphen/>nai<SoftHyphen/>re.
+
+Notre hangar est maintenant beau comme un magna rouleur, et nos réserves d'énergie ne vont pas tarder à se remplir<Indent/>!"
+28,"N°12","Amélioration du cosmoport","J'ai le plaisir d'annoncer que notre fidèle cosmoport est doté de nouvelles fonctions<Indent/>!
+
+Désormais, en plus de servir à nos allers-retours entre Sinus Ardorum et Phaenna, il sera aussi le point de départ de nos futures expéditions dans les profondeurs de l'espace. En plus, grâce à la station énergétique dont nous l'avons doté, la recharge des véhicules sera grandement accélérée, ce qui nous permettra aussi de transporter les mar<SoftHyphen/>chan<SoftHyphen/>di<SoftHyphen/>ses plus efficacement<Indent/>!
+
+Atterrir dans une grotte et en décoller peut sembler risqué, mais nos ingénieux techniciens ont tracé des couloirs aériens d'une extrême précision pour que les appareils puissent naviguer en toute sécurité. Bien sûr, c'est notre as de l'air Cruisingway qui s'est dévoué pour faire la dé<SoftHyphen/>mon<SoftHyphen/>stra<SoftHyphen/>tion aux autres pilotes<Indent/>!"
+29,"N°13","Méga panneaux solaires","Les panneaux solaires dernier cri que nous venons d'installer aux alentours de la station Souffleverre seront désormais la principale source d'énergie de nos grandes ambitions spatiales<Indent/>!
+
+Bien sûr, je n'oublie pas notre fidèle station énergétique qui produit plus que jamais de l'électricité d'une grande pureté à partir de l'éther d'autres éléments. Mais les panneaux solaires, eux, transforment carrément les rayons du soleil du système de Phaenna en une énergie à la puissance inégalée<Indent/>! C'est la moindre des choses, avec tous nos équipement actifs jour et nuit, dans la base et en dehors.
+
+Je dois dire que je suis toujours im<SoftHyphen/>pres<SoftHyphen/>sion<SoftHyphen/>né par les prouesses techniques dont sont capables nos ingénieurs. Faire fonctionner deux bases aussi importantes et complexes en même temps, ce n'est pas une mince affaire<Indent/>!"
+30,"N°14","Refroidissement du verre","La con<SoftHyphen/>struc<SoftHyphen/>tion de la station de mobilisation, qui sert de base pour les drones, nous a permis de mener à bien l'opération de refroidissement du verre en fusion dans la Cheminée de Fusingway<Indent/>!
+
+La planète Phaenna semble connaître de fortes variations géothermiques, ce qui peut entraîner la formation d'évents volcaniques n'importe où, de manière im<SoftHyphen/>pré<SoftHyphen/>vi<SoftHyphen/>si<SoftHyphen/>ble. La Cheminée de Fusingway s'est d'ailleurs révélée être l'une des zones les plus sensibles à ces phénomènes, c'est pourquoi nous avons lancé une opération expérimentale de refroidissement localisé, qui ne devrait pas avoir d'effets indésirables sur l'environnement planétaire.
+
+Grâce à notre excellent travail d'équipe, nous avons réussi à sécuriser cette nouvelle zone d'exploration<Indent/>! Le verre en fusion, initialement rouge et bouillonnant, est devenu d'un bleu limpide en se solidifiant.
+Après avoir solidifié le verre, nos drones se chargent désormais d'administrer des agents de refroidissement depuis les airs, ce qui nous permet d'éviter qu'il entre de nouveau en fusion.
+Nous sommes enthousiastes à l'idée de tout ce que nous allons pouvoir apprendre sur la géologie de la planète<Indent/>!"
+31,"N°15","Cosmo-navette : volcan","L'extension du réseau de cosmo-navettes jusque dans la Cheminée de Fusingway est désormais terminée<Indent/>!
+Par conséquent, il est maintenant possible de l'utiliser pour voyager dans toutes les zones d'exploration<Indent/>!
+
+Nous avons de nouveau utilisé les drones pour refroidir le verre en fusion, ce qui nous a permis de créer des fondations solides pour nos infrastructures.
+Ces ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions peuvent sembler in<SoftHyphen/>si<SoftHyphen/>gni<SoftHyphen/>fiantes, mais chacune d'entre elles contribue à créer un réseau de transport efficace, qui prouve notre savoir-faire technologique<Indent/>!"
+32,"N°16","Achèvement du Stellascope","Quelle merveille<Indent/>! La station Souffleverre est désormais équipée d'un gigantesque télescope astronomique<Indent/>!
+
+Le Stellascope de Phaenna n'est pas seulement capable d'observer des étoiles distantes, il peut aussi mesurer la densité du flux céleste qui les entoure. Cette installation va nous être d'une aide précieuse pour atteindre l'objectif de notre projet d'exploration cosmique<Indent/>: découvrir des formes de vie intelligentes ou des traces de civilisations inconnues. Nous avons d'ores et déjà mobilisé l'ensemble de nos astrologues pour scruter les confins de l'univers et analyser les données fascinantes que nous commençons à collecter<Indent/>!
+
+L'achèvement de ce télescope grâce aux ressources locales représente une étape cruciale, indiquant que notre mission sur Phaenna touche à sa fin.
+Je vous remercie tous chaleureusement pour votre aide renouvelée sur cette planète<Indent/>!"
+33,"N°17","Des étoiles dans les yeux","Réjouissez-vous, car toutes les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions de Phaenna sont terminées<Indent/>! Le Galacticway n'attend plus que la découverte de notre prochaine destination grâce aux données du Stellascope.
+
+En y repensant, nous avons eu énormément de chance de découvrir une planète comme celle-ci pour débuter notre exploration. Les lentilles que nous sommes parvenus à fabriquer pour le Stellascope grâce au verre qu'on trouve à profusion sur Phaenna vont nous permettre de scruter les confins de l'univers à la recherche d'un autre monde habitable<Indent/>!
+
+Nous avons non seulement quitté le système d'Ætherys, mais nous avons aussi établi une base sur une planète inconnue. J'ai le sentiment que nous sommes maintenant de véritables explorateurs interstellaires... Et notre périple ne fait que commencer<Indent/>!
+Continuons de scruter la voûte céleste et bondissons joyeusement vers les étoiles, à la recherche de mondes nouveaux<Indent/>!"
+34,"N°1","Au tour d'Oizys !","Une nouvelle planète, et une nouvelle occasion pour moi, Reportingway, de vous raconter les tribulations du projet d'exploration cosmique. J'espère que mes rapports vous plairont<Indent/>!
+
+Bien, d'après les observations du Stellascope que nous avons bâti sur Phaenna, nos équipes de recherche se sont mises d'accord avec le groupe d'étude d'astronomie classique de l'académie de magie pour choisir notre prochaine destination<Indent/>: Oizys. Cette planète a été préférée aux autres astres candidats pour ses conditions gravitationnelles uniques, et surtout, la présence de vestiges témoignant du passage d'une autre civilisation<Indent/>! Mes oreilles frétillent à l'idée des découvertes pas<SoftHyphen/>sion<SoftHyphen/>nan<SoftHyphen/>tes qui nous attendent.
+
+Nous avons établi notre base principale, la station Terra Firma, autour d'une imposante structure ancienne qui se dresse malgré la terre déchirée autour d'elle par une anomalie gravitationnelle. Nous avons l'intention de tirer profit de cette particularité environnementale, et de continuer à étendre nos ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions tout autour. Il va sans dire que nous comptons sur votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion pour ces projets<Indent/>!"
+35,"N°2","Modules d'habitation","Dans le cadre de nos travaux à la station Terra Firma, j'ai la joie de vous annoncer que nous pouvons désormais profiter de modules d'habitation flambant neufs<Indent/>!
+
+Si nos chantiers sur la lune et Phaenna présentaient surtout le défi de construire dans des conditions environnementales rigoureuses, cette fois, c'est différent. En effet, nous avons dû consacrer la majorité de nos efforts à déblayer les débris laissés par nos prédécesseurs afin de pouvoir dresser nos ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions.
+
+Les pierres qui flottaient dans le secteur ont également dû être déplacées, car elles constituaient un risque pour nos collaborateurs et leurs appareils aux cours de leurs missions. Bien sûr, nous en avons profité pour mesurer précisément le poids et les mouvements de ces corps rocheux, des données qui nous en apprendront sûrement plus sur les étranges phénomènes propres à Oizys<Indent/>!
+
+Pour en revenir aux modules d'habitation, des dispositifs de contrôle gravitationnel ont été installés afin que personne ne se mette à léviter inopinément pendant son sommeil. Sachez que nous consacrons d'importants moyens pour relever les défis inhérents aux particularités de chaque planète, car nous attachons une importance par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>re au repos des par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants au projet d'exploration cosmique<Indent/>!"
+36,"N°3","Réseau de cosmo-navettes","La zone de Mégalithopolis et les vastes plaines désertiques qui s'étendent autour sont désormais couvertes par des cosmo-navettes rutilantes<Indent/>! Une telle efficacité dans la con<SoftHyphen/>struc<SoftHyphen/>tion du réseau n'aurait pas été possible sans le savoir et l'expérience que nous avons acquis lors des chantiers équivalents sur la lune et Phaenna. Encore merci à tous nos collaborateurs qui ont pris part aux travaux<Indent/>!
+
+Mais au fait, vous êtes-vous déjà demandé comment fonctionnaient les cosmo-navettes, exactement<Indent/>? Les stations sont reliées entre elles par des flux d'éther ultra-condensés, un peu comme des courants éthérés artificiels, si vous préférez. Bien sûr, un tel miracle technologique nécessite d'identifier des coordonnées ex<SoftHyphen/>trê<SoftHyphen/>me<SoftHyphen/>ment précises, et l'environnement d'Oizys ne nous a pas facilité la tâche. En effet, à cause des variations im<SoftHyphen/>pré<SoftHyphen/>vi<SoftHyphen/>si<SoftHyphen/>bles de la gravité, nous avons dû adapter nos ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions afin qu'elles fonctionnent même lorsque leur position est altérée, une nouvelle prouesse de nos ingénieurs ô combien compétents<Indent/>!
+
+Nous vous invitons donc à faire usage du réseau récemment installé pour mener vos travaux, et poursuivre l'effort d'exploration de cette fascinante planète<Indent/>!"
+37,"N°4","Énergie et eau potable","Vous serez ravis d'apprendre que nous disposons à présent d'une centrale électrique et d'une station hydropurificatrice, des infrastructures absolument in<SoftHyphen/>dis<SoftHyphen/>pen<SoftHyphen/>sa<SoftHyphen/>bles à l'avancée de nos recherches sur une planète lointaine<Indent/>!
+
+La con<SoftHyphen/>struc<SoftHyphen/>tion d'ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions aussi imposantes et complexes est d'ailleurs un véritable défi sur Oizys, en raison des importantes forces d'attraction et de répulsion qui se succèdent en permanence. Nos équipements subissent bien évidemment l'influence des anomalies gravitationnelles locales, mais nous devons faire en sorte d'éviter toute erreur de conception ou de calcul qui pourrait avoir des con<SoftHyphen/>sé<SoftHyphen/>quen<SoftHyphen/>ces fâcheuses pour le projet.
+
+Une fois encore, nos talentueux ingénieurs ont redoublé d'astuce pour assurer nos arrières<Indent/>: grâce à des sorts de gravité déployés sur les fondations des bâtiments, ou encore leurs précieuses batteries, notre approvisionnement en énergie et en eau potable est pour le moment assuré."
+38,"N°5","Générateurs de gravité","Grâce aux générateurs de gravité que nous avons installés du côté de L'Ancre, nous allons enfin pouvoir explorer l'imposant Bâtiment ombré<Indent/>!
+
+Ces dispositifs ingénieux appliquent continuellement des sorts de gravité sur la surface du plateau opposé. Ainsi, la force d'attraction des faisceaux qui en résultent attire à eux les roches flottantes des environs pour former une passerelle<Indent/>! Plutôt ingénieux, non<Indent/>?
+
+Tout porte à croire que le Bâtiment ombré était autrefois situé à la même altitude que Mégalithopolis et les plaines environnantes avant qu'il soit arraché de la surface d'Oizys. Cela ex<SoftHyphen/>pli<SoftHyphen/>que<SoftHyphen/>rait que des minéraux normalement enfouis pro<SoftHyphen/>fon<SoftHyphen/>dé<SoftHyphen/>ment sous terre sont maintenant exposés, et c'est aussi une occasion unique de découvrir des matériaux rarissimes. Ce nouveau chapitre du projet d'exploration s'annonce passionnant<Indent/>!"
+39,"N°6","Cosmo-navette : Bâtiment ombré","Le réseau de cosmo-navettes a été prolongé depuis L'Ancre jusqu'au Bâtiment ombré<Indent/>!
+
+La passerelle maintenue par des générateurs de gravité ne nous permettait pas de transporter de grandes quantités de matériaux ou d'échan<SoftHyphen/>til<SoftHyphen/>lons, et elle donnait le vertige à certains de nos chercheurs qui devaient ramper dessus les yeux fermés pour la traverser... Mais maintenant que le réseau de cosmo-navettes dessert cette partie d'Oizys, nous pouvons désormais nous y rendre en toute sécurité<Indent/>!
+
+D'ailleurs, l'influence des anomalies gravitationnelles en altitude de cette zone pourrait aussi nous fournir des données précieuses pour améliorer davantage la technologie des cosmo-navettes... Quoi qu'il en soit, profitez de l'extension du réseau vers cette destination encore emplie de mystères<Indent/>!"
+40,"N°7","Maintenance de Terra Firma","En préparation de la réactivation à venir des systèmes de Terra Firma, nous avons procédé à une rénovation complète de l'intérieur et de l'extérieur des bâtiments. Nous avons fait en sorte de préserver les anciennes structures, tout en améliorant les fonctionnalités de la station<Indent/>!
+
+Grâce au raccordement de câbles adaptés, nous pouvons désormais utiliser toute la puissance de la station énergétique pour alimenter en électricité les ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions des postes avancés des environs. Nous avons aussi veillé à améliorer le confort de nos collaborateurs en donnant un petit coup de neuf au bureau d'accueil et aux hangars des rovers<Indent/>!
+
+Tout est désormais fin prêt pour commencer sereinement les travaux de réactivation de l'euèdre<Indent/>!"
+41,"N°8","Restauration de l'euèdre","Nous avons réussi à réalimenter le cristal en éther, ce qui a rendu à l'euèdre son éclat d'origine<Indent/>!
+
+Selon nos experts, cette con<SoftHyphen/>struc<SoftHyphen/>tion pourrait être un énorme dispositif d'enregistrement magique. Mal<SoftHyphen/>heu<SoftHyphen/>reu<SoftHyphen/>se<SoftHyphen/>ment, il est ac<SoftHyphen/>tu<SoftHyphen/>el<SoftHyphen/>le<SoftHyphen/>ment impossible de confirmer cette hypothèse, car certaines parties sont ir<SoftHyphen/>ré<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>ble<SoftHyphen/>ment perdues. Tout porte à croire que l'euèdre était capable de flotter dans les airs, ce qui ex<SoftHyphen/>pli<SoftHyphen/>que<SoftHyphen/>rait qu'il ait été endommagé lors de sa chute. Même après notre in<SoftHyphen/>ter<SoftHyphen/>ven<SoftHyphen/>tion, sa stabilité est encore incertaine, c'est pourquoi nous avons préféré le soutenir avec un cadre métallique.
+
+De plus, le nombre croissant d'équipements nous oblige à mieux nous prémunir des caprices de l'environnement d'Oizys. Nous avons donc utilisé des ressources locales pour créer des panneaux capables de protéger les modules d'habitation des anomalies gravitationnelles. Ces améliorations sont nécessaires pour nous permettre de poursuivre en toute sérénité ce projet de longue haleine<Indent/>!"
+42,"N°9","Amélioration du cosmoport","Les fonctionnalités du cosmoport ont été améliorées<Indent/>!
+
+L'ajout d'un générateur autonome nous permet désormais de recharger rapidement tous nos appareils électriques, et l'installation de panneaux anti-anomalies gravitationnelles similaires à ceux des modules d'habitation nous garantit désormais des décollages et des atterrissages stabilisés. De plus, les chemins reliant le cosmoport et nos postes avancés ont été dégagés pour faciliter le transport de mar<SoftHyphen/>chan<SoftHyphen/>di<SoftHyphen/>ses<Indent/>!
+
+Grâce à ces améliorations, nous n'avons aussi plus à craindre l'influence des anomalies gravitationnelles en altitude. Cela signifie que nous pouvons maintenant lever les restrictions que nous avions dû imposer sur la quantité de cargaison des vaisseaux... Nous pouvons enfin acheminer des ressources vers Ætherys et envisager de poursuivre notre exploration du cosmos lointain<Indent/>!
+
+D'ailleurs, on nous a rapporté que ces fameuses anomalies gravitationnelles seraient à l'origine de soudains mouvements de terrain dans des zones éloignées du cristal central. Serait-ce le signe annonciateur de nouvelles découvertes<Indent/>?"
+43,"N°10","Découverte du Terrier désertique","Sous l'effet de l'anomalie gravitationnelle, un vestige enfoui quelque part au nord est subitement remonté à la surface. Nos ouvriers ont im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment sorti leurs pioches pour déblayer le terrain, mettant au jour... une immense porte circulaire<Indent/>!
+
+De l'autre côté s'étend a priori un vaste réseau de galeries souterraines, raison pour laquelle Namingway a baptisé l'endroit “Terrier désertique”. Qui sait, peut-être que tout au fond se cachent les plus grands secrets des pionniers<Indent/>?
+
+Afin de faciliter notre exploration, nous avons étendu le réseau de cosmo-navettes jusqu'à l'entrée des vestiges. Nous allons à présent poursuivre nos efforts en étroite col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion avec les chercheurs de la station, dans l'espoir d'aboutir rapidement à de belles découvertes<Indent/>!"
+44,"N°11","Ouverture du Terrier désertique","Après moult efforts, la porte du Terrier désertique s'est finalement ouverte sous nos yeux ébahis<Indent/>! Le motif en son centre s'est subitement allumé, comme si nous venions de ressusciter un bout de la mémoire des pionniers.
+
+Ainsi, l'expérience nous prouve que les formations cristallines d'Oizys peuvent être activées en y insufflant de grandes quantités d'éther. Notre civilisation mystère possède à n'en pas douter des compétences avancées en éthérologie.
+
+Tout reste encore à découvrir au sein de ces souterrains. Pour l'heure, nous avons installé un éclairage de fortune, afin de pouvoir opérer en toute sécurité. Nous avons d'ores et déjà repéré une autre structure cristalline... Peut-être devrons-nous l'activer elle aussi pour espérer atteindre le fond du Terrier<Indent/>!"
+45,"N°12","Restauration de la pierre-guide","Nous sommes enfin parvenus à activer la “pierre-guide”, la structure cristalline située près de l'entrée du Terrier désertique<Indent/>!
+
+Les roches luminescentes aux murs de la galerie se sont aussitôt mises à luire, comme si l'endroit reprenait progressivement son aspect initial. À ce rythme, nous ne devrions pas tarder à comprendre dans quel but les pionniers ont bâti ces tunnels...
+
+Et si la clef du mystère résidait dans le “métaèdre”, le gros bloc situé tout au fond du Terrier<Indent/>? Il ressemble à l'euèdre de notre station en plus petit, nous devrions donc pouvoir l'activer selon le même principe... Croisons les doigts pour que ça marche<Indent/>!"
+46,"N°13","Restauration du métaèdre","Ça y est, le métaèdre est de nouveau en marche<Indent/>! En témoigne le bel éclat vert émeraude qu'il dégage, et qui donne l'impression d'avoir affaire, comme pour l'euèdre, à un “arbre minéral”.
+
+D'après nos scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ques, les grandes formations cristallines sont constituées du même minerai que les petites comme la pierre-guide, mais elles possèdent un degré de pureté bien plus élevé – une différence qui se traduit par une robe verte légèrement plus foncée. Autrement dit, elles ont été sciemment conçues dans le but d'offrir une conductivité éthérée maximale.
+
+La restauration vient juste d'avoir lieu et il est trop tôt pour tirer des conclusions, mais certains chercheurs évoquent déjà la possibilité d'une résonance éthérée entre l'euèdre et le métaèdre. Les deux seraient-ils liés<Indent/>? À nous de le découvrir..."
+47,"N°14","Cosmo-navette : Échos d'Émeraude","Nous avons enfin pu étendre le réseau de cosmo-navettes établi devant les vestiges du Terrier désertique jusqu'aux profondeurs de celui-ci !
+
+Pour le bon fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment de la pierre-guide et le métaèdre situés à l'intérieur des ruines, nous avons ré<SoftHyphen/>gu<SoftHyphen/>liè<SoftHyphen/>re<SoftHyphen/>ment besoin d'éther issu de jaspe d'Oizys, et cette nouvelle extension nous sera très utile pour transporter rapidement les ressources nécessaires.
+Au passage, il semblerait que la formation ar<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>cielle de vents éthérés entre chaque station de cosmo-navette pourrait nous être utile afin de relier notre euèdre au métaèdre des vestiges... Les études menées sur le sujet montrent des résultats encourageants, en tout cas.
+Quoi qu'il en soit, nous avons maintenant un système de transport qui couvre l'intégralité du territoire que nous avons choisi pour nos activités d'exploration.
+Nul doute que cela facilitera les allées et venues de nos équipes de chercheurs, ainsi que les examens menés sur le métaèdre."
+48,"N°15","Renforcement de la station","Et voilà, les travaux de renforcement de la structure de la station Terra Firma sont terminés !
+Les équipements intérieurs, jusqu'ici encore en préparation, ont également été finalisés en vue d'accueillir de futures ins<SoftHyphen/>tal<SoftHyphen/>la<SoftHyphen/>tions.
+
+Nous montons les infrastructures rattachées aux fondations de la station de sorte à ce que, lorsque nous aurons terminé nos activités et que nous quitterons définitivement cette planète, nous puissions lui rendre son apparence d'origine.
+Ce fut un casse-tête de tous les instants que de consolider suf<SoftHyphen/>fi<SoftHyphen/>sam<SoftHyphen/>ment chaque bâtiment tout en préservant leur réversibilité... Mais nous y sommes parvenus, grâce au travail acharné de tous !
+
+Le but avoué de ce renforcement était de pouvoir construire une installation sur le toit de la station qui, en faisant entrer en résonnance notre euèdre avec le métaèdre des vestiges du Terrier désertique, pourra effectuer des transmissions d'in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions éthérées.
+Dans cette optique, nous avons construit des ascenseurs et des escaliers extérieurs qui grimpent jusqu'en haut du bâtiment, alors n'hésitez pas à les utiliser !"
+49,"N°16","Tours-Orthostates","Les Tours-Orthostates, nos antennes-relais géantes érigées au sommet de la station Terra Firma, sont prêtes à l'emploi !
+
+Nous envisageons de les utiliser comme résonateurs, afin de relier des formations cristallines très éloignées.
+Nous ne pouvions pas restaurer entièrement l'euèdre situé au milieu de la base tant qu'il manquait des in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions éthérées liées avec son fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment... Mais en le synchronisant avec le métaèdre en parfait état qui se trouve au sous-sol des vestiges, nous allons peut-être enfin pouvoir le faire marcher !
+
+Puisque nous pensons que notre cristal était au cœur des activités des pionniers, sa remise en œuvre devrait nous permettre d'apprendre de nouvelles choses à leur sujet.
+C'est pourquoi nos équipes de chercheurs ont déjà commencé les préparatifs de l'allumage des tours !"
+50,"N°17","Un passé révélé, un avenir tout tracé","Quelles in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions l'euèdre va-t-il donc nous révéler ?
+C'est le cœur plein d'espoir et d'impatience que nos chercheurs avancent dans leurs préparatifs d'analyse des données. Si, comme nous le pensons, elles nous permettent d'en savoir plus sur les anciens habitants de cette planète, cela aura à n'en pas douter une grande influence sur la suite de notre programme.
+Nous avons donc anticipé ce résultat et préparé le Galacticway à effectuer un nouveau voyage !
+
+Lorsque nous avons repéré cet astre depuis Phaenna, nous avions confirmé la présence de traces d'une civilisation, ce qui a soulevé un nombre incalculable de questions.
+Mais grâce à nos activités, nous avons enfin pu avoir une idée – encore vague, certes – de qui sont les pionniers.
+
+À quoi pensaient-ils ? De quoi rêvaient-ils ? Que cherchaient-ils à atteindre ?
+Le projet d'exploration cosmique ne s'arrêtera que lorsque ces mystères auront trouvé une réponse !"

@@ -1,0 +1,594 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+#,Item{1},Item{2},PlaceName,,Objective{1},PopRange[0],RequiredAmount{1},,,Objective2,PopRange[1],RequiredAmount{2},,,Objective3,PopRange[2],,,,,Image,,,,,
+int32,EventItem,EventItem,PlaceName,uint16,SkyIsland2MissionDetail,uint32,byte,uint32,byte,SkyIsland2MissionDetail,uint32,byte,uint32,byte,SkyIsland2MissionDetail,uint32,byte,uint32,byte,uint32,Image,str,str,str,str,str
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+5,0,0,0,0,10,0,0,0,0,11,0,0,0,0,12,0,0,0,0,6710323,111102,"Exploration<Indent/>: analyse de ressources","Depuis l'apparition de la Gemme manquante, l'équilibre élémentaire du Diadème est fortement perturbé, ce qui a entraîné de rares changements environnementaux. Afin d'analyser ce phénomène, nous sommes à la recherche de toute information concernant les ressources présentes dans l'archipel. Mineurs, botanistes et pêcheurs, nous avons besoin de vous<Indent/>! Vous pourrez bien sûr conserver les matériaux récoltés, seules les données nous intéressent.
+
+* Récolter des matériaux, participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Analyse des ressources terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Vous pouvez réclamer votre récompense sur La Bonté.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+7,2002042,2002045,0,0,13,6798633,4,0,0,20,6798655,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+8,0,0,0,0,61,6710332,3,0,0,86,6710294,3,0,0,71,6710302,3,0,0,6887965,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+9,0,0,0,0,80,6710307,3,0,0,85,6710345,3,0,0,94,6710345,2,0,0,6887983,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+10,0,0,0,0,76,6710285,3,0,0,88,6710328,3,0,0,73,6710310,3,0,0,6887968,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+11,2002064,2002062,0,0,28,6710298,3,0,0,32,6710316,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+12,2002059,2002060,0,0,48,6710333,3,0,0,49,6710286,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+13,0,0,0,0,40,6710303,3,0,0,45,6710337,3,0,0,47,6710337,2,6798627,5,6798626,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+14,0,0,0,0,43,6710325,3,0,0,45,6710311,3,0,0,47,6710311,2,6798619,5,6798618,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+15,2002061,0,2745,0,51,6710324,1,0,0,55,6710289,3,0,0,58,6710306,3,0,0,6887967,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+17,2002043,2002046,0,0,15,6798648,4,0,0,23,6798628,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+18,0,0,0,0,78,6710295,3,0,0,65,6788805,3,0,0,93,6788805,2,0,0,6887984,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+19,0,0,0,0,75,6710340,3,0,0,83,6710314,3,0,0,90,6710314,2,0,0,6887969,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+20,0,0,0,0,80,6710307,3,0,0,85,6710345,3,0,0,72,6710286,3,0,0,6887958,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+21,2002064,2002062,0,0,29,6710306,3,0,0,32,6710321,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+22,2002059,2002060,0,0,48,6710336,3,0,0,49,6710298,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+23,0,0,0,0,38,6710317,3,0,0,44,6710329,3,0,0,47,6710329,2,6798623,5,6798622,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+24,0,0,0,0,40,6710289,3,0,0,46,6710320,3,0,0,47,6710320,2,6798621,5,6798620,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+25,2002061,0,2745,0,51,6710324,1,0,0,53,6710299,3,0,0,57,6710285,3,0,0,6887957,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+27,2002044,2002041,0,0,16,6798651,4,0,0,24,6798659,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+28,0,0,0,0,63,6710316,3,0,0,66,6710341,3,0,0,74,6788805,3,0,0,6887984,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+29,0,0,0,0,76,6710285,3,0,0,88,6710328,3,0,0,93,6710328,3,0,0,6887975,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+30,0,0,0,0,79,6710320,3,0,0,84,6710306,3,0,0,71,6710291,3,0,0,6887960,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+31,2002064,2002062,0,0,28,6710303,3,0,0,33,6710333,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+32,2002059,2002060,0,0,48,6710337,3,0,0,49,6782944,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+33,0,0,0,0,43,6710294,3,0,0,44,6710329,3,0,0,47,6710329,2,6798623,5,6798622,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+34,0,0,0,0,39,6710332,3,0,0,45,6710311,3,0,0,47,6710311,2,6798619,5,6798618,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+35,2002061,0,2745,0,51,6710324,1,0,0,55,6710302,3,0,0,60,6710289,3,0,0,6887959,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+37,2002044,2002041,0,0,16,6798630,4,0,0,24,6798638,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+38,0,0,0,0,64,6710310,3,0,0,96,6710299,3,0,0,90,6710289,3,0,0,6887959,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+39,0,0,0,0,62,6710286,3,0,0,89,6710325,3,0,0,91,6710325,3,0,0,6887974,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+40,0,0,0,0,75,6710340,3,0,0,83,6710314,3,0,0,71,6788805,2,0,0,6887984,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+41,2002064,2002062,0,0,31,6710329,3,0,0,33,6710295,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+42,2002059,2002060,0,0,48,6710336,3,0,0,49,6710317,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+43,0,0,0,0,38,6710328,3,0,0,46,6710321,3,0,0,47,6710321,2,6798621,5,6798620,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+44,0,0,0,0,40,6710311,3,0,0,45,6710337,3,0,0,47,6710337,2,6798627,5,6798626,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+45,2002061,0,2745,0,51,6710324,1,0,0,52,6782944,3,0,0,59,6710341,3,0,0,6887979,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+47,2002043,2002046,0,0,15,6798653,4,0,0,23,6798657,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+48,0,0,0,0,78,6710295,3,0,0,65,6788805,3,0,0,92,6710317,3,0,0,6887971,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+49,0,0,0,0,81,6710291,3,0,0,87,6710345,3,0,0,90,6710345,2,0,0,6887983,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+50,0,0,0,0,62,6710286,3,0,0,89,6710325,3,0,0,71,6710310,2,0,0,6887968,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+51,2002064,2002062,0,0,31,6710294,3,0,0,33,6710314,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+52,2002059,2002060,0,0,48,6710341,3,0,0,49,6782944,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+53,0,0,0,0,38,6710299,3,0,0,45,6710337,3,0,0,47,6710337,2,6798625,5,6798624,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+54,0,0,0,0,39,6710340,3,0,0,46,6710321,3,0,0,47,6710321,2,6798621,5,6798620,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+55,2002061,0,2745,0,51,6710324,1,0,0,54,6710344,3,0,0,59,6710302,3,0,0,6887965,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+57,2002042,2002045,0,0,13,6798651,4,0,0,20,6798643,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+58,0,0,0,0,61,6710332,3,0,0,86,6710294,3,0,0,94,6710294,3,0,0,6887961,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+59,0,0,0,0,95,6788805,3,0,0,82,6710333,3,0,0,92,6710345,2,0,0,6887983,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+60,0,0,0,0,62,6710286,3,0,0,89,6710325,3,0,0,72,6710310,3,0,0,6887968,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+61,2002064,2002062,0,0,30,6710328,3,0,0,34,6710307,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+62,2002059,2002060,0,0,48,6710302,3,0,0,49,6710285,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+63,0,0,0,0,38,6710329,3,0,0,45,6710337,3,0,0,47,6710337,2,6798627,5,6798626,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+64,0,0,0,0,40,6710291,3,0,0,46,6710320,3,0,0,47,6710320,2,6798621,5,6798620,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+65,2002061,0,2745,0,51,6710324,1,0,0,56,6710340,3,0,0,59,6710295,3,0,0,6887962,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+67,2002045,2002042,0,0,14,6798644,4,0,0,19,6798635,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+68,0,0,0,0,64,6710310,3,0,0,96,6710299,3,0,0,94,6710299,3,0,0,6887963,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+69,0,0,0,0,95,6788805,3,0,0,82,6710333,3,0,0,91,6710333,2,0,0,6887978,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+70,0,0,0,0,81,6710291,3,0,0,87,6710345,3,0,0,74,6710340,2,0,0,6887981,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+71,2002064,2002062,0,0,27,6710336,3,0,0,35,6710320,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+72,2002059,2002060,0,0,48,6782944,3,0,0,49,6710307,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+73,0,0,0,0,38,6710306,3,0,0,44,6710329,3,0,0,47,6710329,2,6798623,5,6798622,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+74,0,0,0,0,39,6710314,3,0,0,45,6710337,3,0,0,47,6710337,2,6798625,5,6798624,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+75,2002061,0,2745,0,51,6710324,1,0,0,54,6710341,3,0,0,60,6710316,3,0,0,6887970,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+77,2002046,2002043,0,0,17,6798641,4,0,0,21,6798637,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+78,0,0,0,0,63,6710316,3,0,0,66,6710341,3,0,0,91,6710341,3,0,0,6887979,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+79,0,0,0,0,77,6710345,3,0,0,96,6710295,3,0,0,93,6710295,3,0,0,6887962,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+80,0,0,0,0,76,6710285,3,0,0,88,6710328,3,0,0,73,6710310,3,0,0,6887968,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+81,2002064,2002062,0,0,26,6710321,3,0,0,33,6710289,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+82,2002059,2002060,0,0,48,6710302,3,0,0,49,6710340,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+83,0,0,0,0,43,6710298,3,0,0,44,6710329,3,0,0,47,6710329,2,6798623,5,6798622,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+84,0,0,0,0,38,6782944,3,0,0,45,6710337,3,0,0,47,6710337,2,6798627,5,6798626,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+85,2002061,0,2745,0,51,6710324,1,0,0,56,6710332,3,0,0,57,6710307,3,0,0,6887986,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+87,2002041,2002044,0,0,18,6798635,4,0,0,22,6798647,4,0,0,25,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: collecte de cristaux surchargés","Conséquence des perturbations élémentaires observées au Diadème, la cristallisation des flux éthérés est plus intense que jamais. C'est le moment idéal pour faire des réserves de cristaux surchargés, qui pourraient se révéler être une source d'énergie très précieuse. Rendez-vous à l'endroit indiqué pour récolter des cristaux surchargés puis livrez-les au pilote des Haillenarte, sur La Bonté.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+88,0,0,0,0,63,6710298,3,0,0,66,6710307,3,0,0,73,6710294,3,0,0,6887961,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+89,0,0,0,0,79,6710320,3,0,0,84,6710306,3,0,0,94,6710306,3,0,0,6887967,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+90,0,0,0,0,77,6710345,3,0,0,96,6710295,3,0,0,74,6710285,3,0,0,6887957,111101,"Exploration<Indent/>: écarter la menace","Les denses flux éthérés parcourant l'air du Diadème semblent avoir attiré des meutes de créatures féroces qui ralentissent les progrès de nos missions d'exploration. Rendez-vous à l'endroit indiqué et faites usage de pièges olfactifs pour attirer les monstres et vous débarrasser d'eux.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Cibles vaincues, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+91,2002064,2002062,0,0,27,6710303,3,0,0,33,6710291,3,0,0,36,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: échantillonnage dans les nuages","On nous a signalé la présence au Diadème de créatures primitives vivant normalement dans la Mer de nuages. Certaines présenteraient même des signes de mutation, vraisemblablement dûs à la forte charge en énergie éthérée dans l'air de l'archipel. Nos chercheurs adoreraient pouvoir examiner ces organismes de plus près... Servez-vous de pièges olfactifs pour attirer et vaincre ces créatures puis prélevez des échan<SoftHyphen/>til<SoftHyphen/>lons sur leur dépouille. 
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Prélèvement d'échan<SoftHyphen/>til<SoftHyphen/>lons terminé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+92,2002059,2002060,0,0,48,6710317,3,0,0,49,6710310,3,0,0,50,6710324,1,0,0,6710323,111101,"Exploration<Indent/>: un parfum ensorceleur","Une de nos équipes d'exploration a découvert sur les îles du Diadème des créatures aux propriétés fascinantes. Les effluves qu'elles dégagent semblent avoir la faculté de charmer les autres espèces de l'archipel... Nous pensons pouvoir nous servir d'elles pour fabriquer des pièges qui nous serviront à chasser plus efficacement. Rendez-vous aux endroits indiqués pour abattre plusieurs spécimens puis rapportez-nous la partie de leur corps d'où provient l'odeur.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Collecte de matériaux terminée, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+93,0,0,0,0,43,6710333,3,0,0,46,6710321,3,0,0,47,6710321,2,6798621,5,6798620,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+94,0,0,0,0,39,6710289,3,0,0,45,6710337,3,0,0,47,6710337,2,6798625,5,6798624,111101,"Exploration<Indent/>: omelette primitive","Dans le cadre de nos recherches sur les espèces primitives vivant sur les îles du Diadème, nous aimerions mettre la main sur quelques œufs pour les étudier. Les dénicher ne sera pas chose aisée, à moins que vous suiviez la trace des souris qui en raffolent... Une fois les œufs localisés, débarrassez-vous des rongeurs puis apportez-nous ce que vous avez trouvé.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Œuf récupéré, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+95,2002061,0,2745,0,51,6710324,1,0,0,55,6710344,3,0,0,57,6710311,3,0,0,6887987,111101,"Exploration<Indent/>: ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion de potion","Nos alchimistes ont mis au point un type de potion qui est censé faciliter les missions d'exploration du Diadème en affaiblissant les monstres un peu trop gênants, mais l'ampleur de l'effet du produit reste encore à prouver. Emportez plusieurs de ces potions anémiantes et essayez-les sur des monstres de l'archipel pour en confirmer l'efficacité.
+
+Toute découverte pouvant se révéler utile, n'hésitez pas à explorer les environs durant votre mission.
+
+* Participer à des ALÉA et accomplir certaines actions permet de faire monter la jauge d'évaluation.","Ici le centre de commande de la maison Haillenarte.
+Effet du produit confirmé, mission accomplie.","Merci pour votre col<SoftHyphen/>la<SoftHyphen/>bo<SoftHyphen/>ra<SoftHyphen/>tion.
+Veuillez réclamer votre récompense.","Vous pouvez désormais entrer dans les failles éthérées pour traverser la dépression éthérée et explorer l'archipel du Diadème librement. Bonne chasse<Indent/>!"
+96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""

@@ -1,0 +1,11 @@
+﻿key,0,1,2
+#,Order,Icon,Name
+int32,uint16,Image,str
+0,0,0,""
+1,5,26595,"Enregistreur de données"
+2,3,26995,"Médallium des Yo-kai"
+3,6,26602,"Rapport du front bozjien"
+4,4,25948,"Boussole éthéréenne"
+5,1,26066,"Compendium"
+6,2,26067,"Guide Mog Mog"
+7,7,26075,"Calepin du croissant"

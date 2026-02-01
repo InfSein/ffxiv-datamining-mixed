@@ -1,0 +1,20 @@
+﻿key,0,1,2,3,4
+#,,,,,
+int32,bit&01,byte,byte,byte,str
+0,False,0,0,0,""
+1,False,5,1,50,"Mémoquartz allagois traditionnels→poétiques"
+2,False,4,1,50,"Mémoquartz allagois théologiques→poétiques"
+3,False,4,2,25,"Mémoquartz allagois véridiques→cosmogoniques"
+4,False,4,2,25,"Mémoquartz allagois cosmogoniques→mensongers"
+5,False,5,1,50,"Mémoquartz allagois mensongers→poétiques"
+6,False,4,1,50,"Mémoquartz allagois génésiaques→poétiques"
+7,False,4,2,25,"Mémoquartz allagois goétiques→fantasmagoriques"
+8,False,4,2,25,"Mémoquartz allagois fantasmagoriques→fabuleux"
+9,False,5,1,50,"Mémoquartz allagois fabuleux→poétiques"
+10,False,4,1,50,"Mémoquartz allagois révélateurs→poétiques"
+11,False,4,2,25,"Mémoquartz allagois aphoristiques→astronomiques"
+12,False,4,2,25,"Mémoquartz allagois astronomiques→déterministes"
+13,False,5,1,50,"Mémoquartz allagois déterministes→poétiques"
+14,False,4,1,50,"Mémoquartz allagois dantesques→poétiques"
+15,False,4,2,25,"Mémoquartz allagois esthétiques→héliologiques"
+16,True,4,2,25,"Mémoquartz allagois héliologiques→mathématiques"

@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+int32,byte,str
+0,0,""
+1,0,"Quatrième phase de reconstruction"
+2,1,"Troisième phase de reconstruction"
+3,2,"Seconde phase de reconstruction"
+4,3,"Première phase de reconstruction"
+5,0,""
+6,0,""
+7,0,""

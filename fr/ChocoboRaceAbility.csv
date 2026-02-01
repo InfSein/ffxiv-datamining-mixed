@@ -1,0 +1,92 @@
+﻿key,0,1,2,3,4
+#,Name,Description,Icon,ChocoboRaceAbilityType,Value
+int32,str,str,Image,ChocoboRaceAbilityType,byte
+0,"","",0,0,0
+1,"Choco-sprint","Permet de sprinter pendant une durée limitée.
+Durée d'effet<Indent/>: 1 seconde",70001,1,1
+2,"Choco-sprint II","Permet de sprinter pendant une durée limitée.
+Durée d'effet<Indent/>: 2 secondes",70002,1,2
+3,"Choco-sprint III","Permet de sprinter pendant une durée limitée.
+Durée d'effet<Indent/>: 3 secondes",70003,1,3
+4,"Choco-soin","Restaure 6% de l'énergie du chocobo.",70004,2,6
+5,"Choco-soin II","Restaure 9% de l'énergie du chocobo.",70005,2,9
+6,"Choco-soin III","Restaure 12% de l'énergie du chocobo.",70006,2,12
+7,"Choco-guérison","Retire une altération d'état avec une chance de réussite de 75%.",70007,3,75
+8,"Choco-guérison II","Retire une altération d'état avec une chance de réussite de 90%.",70008,3,90
+9,"Choco-guérison III","Retire une altération d'état avec une chance de réussite de 100%.",70009,3,100
+10,"Choco-légèreté","Rend 80 points d'énergie à un chocobo victime de Pesanteur et soigne cet état.",70010,4,80
+11,"Choco-légèreté II","Rend 130 points d'énergie à un chocobo victime de Pesanteur et soigne cet état.",70011,4,130
+12,"Choco-légèreté III","Rend 180 points d'énergie à un chocobo victime de Pesanteur et soigne cet état.",70012,4,180
+13,"Choco-sérénité","Rend 100 points d'énergie à un chocobo victime de Fébrilité et soigne cet état.",70013,5,100
+14,"Choco-sérénité II","Rend 150 points d'énergie à un chocobo victime de Fébrilité et soigne cet état.",70014,5,150
+15,"Choco-sérénité III","Rend 200 points d'énergie à un chocobo victime de Fébrilité et soigne cet état.",70015,5,200
+16,"Chocoboomerang","Renvoie à l'expéditeur une attaque affaiblissante visant le chocobo.
+Durée d'effet<Indent/>: 10 secondes",70016,6,10
+17,"Chocoboomerang II","Renvoie à l'expéditeur une attaque affaiblissante visant le chocobo.
+Durée d'effet<Indent/>: 15 secondes",70017,6,15
+18,"Chocoboomerang III","Renvoie à l'expéditeur une attaque affaiblissante visant le chocobo.
+Durée d'effet<Indent/>: 20 secondes",70018,6,20
+19,"Choco-larcin","Permet de voler un objet au chocobo classé juste avant soi avec une chance de réussite de 50%.",70019,7,50
+20,"Choco-larcin II","Permet de voler un objet au chocobo classé juste avant soi avec une chance de réussite de 70%.",70020,7,70
+21,"Choco-larcin III","Permet de voler un objet au chocobo classé juste avant soi avec une chance de réussite de 90%.",70021,7,90
+22,"Choco-silence","Génère un champ de force autour du chocobo qui empêche pour un temps les adversaires d'utiliser des aptitudes.
+Durée d'effet<Indent/>: 35 secondes",70022,8,35
+23,"Choco-silence II","Génère un champ de force autour du chocobo qui empêche pour un temps les adversaires d'utiliser des aptitudes.
+Durée d'effet<Indent/>: 40 secondes",70023,8,40
+24,"Choco-silence III","Génère un champ de force autour du chocobo qui empêche pour un temps les adversaires d'utiliser des aptitudes.
+Durée d'effet<Indent/>: 45 secondes",70024,8,45
+25,"Choco-choc","Génère un champ magnétique autour du chocobo qui empêche pour un temps les adversaires d'utiliser des objets.
+Durée d'effet<Indent/>: 25 secondes",70025,9,25
+26,"Choco-choc II","Génère un champ magnétique autour du chocobo qui empêche pour un temps les adversaires d'utiliser des objets.
+Durée d'effet<Indent/>: 30 secondes",70026,9,30
+27,"Choco-choc III","Génère un champ magnétique autour du chocobo qui empêche pour un temps les adversaires d'utiliser des objets.
+Durée d'effet<Indent/>: 35 secondes",70027,9,35
+28,"Endurance améliorée","Réduit de 9% la perte d'énergie pendant l'accélération.",70028,10,9
+29,"Endurance améliorée II","Réduit de 12% la perte d'énergie pendant l'accélération.",70029,10,12
+30,"Endurance améliorée III","Réduit de 15% la perte d'énergie pendant l'accélération.",70030,10,15
+31,"Résistance à Pesanteur","Octroie 60% de chances de résister à l'altération d'état Pesanteur.",70031,11,60
+32,"Résistance à Pesanteur II","Octroie 70% de chances de résister à l'altération d'état Pesanteur.",70032,11,70
+33,"Résistance à Pesanteur III","Octroie 80% de chances de résister à l'altération d'état Pesanteur.",70033,11,80
+34,"Résistance à Pesanteur IV","Octroie 90% de chances de résister à l'altération d'état Pesanteur.",70034,11,90
+35,"Résistance à Pesanteur V","Octroie 100% de chances de résister à l'altération d'état Pesanteur.",70035,11,100
+36,"Résistance à Fébrilité","Octroie 60% de chances de résister à l'altération d'état Fébrilité.",70036,12,60
+37,"Résistance à Fébrilité II","Octroie 70% de chances de résister à l'altération d'état Fébrilité.",70037,12,70
+38,"Résistance à Fébrilité III","Octroie 80% de chances de résister à l'altération d'état Fébrilité.",70038,12,80
+39,"Résistance à Fébrilité IV","Octroie 90% de chances de résister à l'altération d'état Fébrilité.",70039,12,90
+40,"Résistance à Fébrilité V","Octroie 100% de chances de résister à l'altération d'état Fébrilité.",70040,12,100
+41,"Récupération améliorée","Augmente de 50% le potentiel des soins.",70041,13,50
+42,"Récupération améliorée II","Augmente de 65% le potentiel des soins.",70042,13,65
+43,"Récupération améliorée III","Augmente de 80% le potentiel des soins.",70043,13,80
+44,"Gain d'expérience accru","Augmente de 10% l'expérience gagnée.",70044,14,10
+45,"Gain d'expérience accru II","Augmente de 20% l'expérience gagnée.",70045,14,20
+46,"Gain d'expérience accru III","Augmente de 30% l'expérience gagnée.",70046,14,30
+47,"Sprint de départ","Permet de démarrer la course à vitesse maximale.",70047,15,1
+48,"Choco-aspiration","Génère un champ de force autour du chocobo, absorbant 15 points d'énergie par seconde aux adversaires à l'intérieur.",70048,16,15
+49,"Choco-aspiration II","Génère un champ de force autour du chocobo, absorbant 25 points d'énergie par seconde aux adversaires à l'intérieur.",70049,16,25
+50,"Choco-aspiration III","Génère un champ de force autour du chocobo, absorbant 35 points d'énergie par seconde aux adversaires à l'intérieur.",70050,16,35
+51,"Change-objet","Remplace l'objet possédé par un autre.",70051,17,0
+52,"Choco-mime","Procure un effet similaire à celui de la prochaine aptitude ou du prochain objet qu'utilise l'adversaire placé devant.
+Durée d'effet<Indent/>: 7 secondes",70052,18,7
+53,"Choco-mime II","Procure un effet similaire à celui de la prochaine aptitude ou du prochain objet qu'utilise l'adversaire placé devant.
+Durée d'effet<Indent/>: 11 secondes",70053,18,11
+54,"Choco-mime III","Procure un effet similaire à celui de la prochaine aptitude ou du prochain objet qu'utilise l'adversaire placé devant.
+Durée d'effet<Indent/>: 15 secondes",70054,18,15
+55,"Champ de plumes","Protège contre les effets des champs de force créés par les autres chocobos.
+Durée d'effet<Indent/>: 10 secondes",70055,19,10
+56,"Champ de plumes II","Protège contre les effets des champs de force créés par les autres chocobos.
+Durée d'effet<Indent/>: 20 secondes",70056,19,20
+57,"Champ de plumes III","Protège contre les effets des champs de force créés par les autres chocobos.
+Durée d'effet<Indent/>: 30 secondes",70057,19,30
+58,"Super sprint","Annule les effets de la météo et du terrain et permet de sprinter jusqu'à ce que l'énergie tombe à 0.",70058,20,0
+59,"Choco-revie","Restaure une fois 60 points d'énergie après qu'ils sont tombés à 0.",70059,21,60
+60,"Choco-revie II","Restaure une fois 130 points d'énergie après qu'ils sont tombés à 0.",70060,21,130
+61,"Choco-revie III","Restaure une fois 200 points d'énergie après qu'ils sont tombés à 0.",70061,21,200
+62,"Résistance aux altérations","Réduit à 80% la durée d'effet des altérations d'état reçues.",70062,22,80
+63,"Résistance aux altérations II","Réduit à 65% la durée d'effet des altérations d'état reçues.",70063,22,65
+64,"Résistance aux altérations III","Réduit à 50% la durée d'effet des altérations d'état reçues.",70064,22,50
+65,"Repos décélérateur","Restaure l'énergie du chocobo par tranche de 0,8% lorsqu'il ralentit.",70065,23,8
+66,"Repos décélérateur II","Restaure l'énergie du chocobo par tranche de 1% lorsqu'il ralentit.",70066,23,10
+67,"Repos décélérateur III","Restaure l'énergie du chocobo par tranche de 1,2% lorsqu'il ralentit.",70067,23,12
+68,"","",0,0,0
+69,"","",0,0,0
+70,"","",0,0,0

@@ -1,0 +1,32 @@
+﻿key,0,1,2,3,4,5,6
+#,,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,byte,Quest,str,str,str,bit&01,DescriptionSection
+3604480,0,0,"","","",False,0
+3604481,0,0,"","","",False,0
+3604482,0,68737,"Consulter les règles du mahjong domien","Mahjong domien","",True,2
+3604483,0,0,"Consulter les règles d'Ailes rivales","Ailes rivales","",True,3
+3604484,0,0,"Se renseigner sur le logement","Logement","",True,4
+3604485,0,0,"Se renseigner sur le mode Nouvelle partie +","Nouvelle partie +","",True,2
+3604486,0,0,"Se renseigner sur le Front","Le Front","",True,7
+3604487,0,0,"Se renseigner sur la pêche en mer","Pêche en mer","",True,8
+3604488,0,0,"Consulter les règles de Touché-tourné","Touché-tourné","",True,9
+3604489,0,0,"Se renseigner sur le Front sud de Bozja","Le Front sud de Bozja","",True,10
+3604490,0,0,"Se renseigner sur le rang de résistant","Le rang de résistant","",True,11
+3604491,0,0,"Se renseigner sur les actions oubliées","Les actions oubliées","",True,13
+3604492,0,0,"Se renseigner sur les cristaux bozjiens","Les cristaux bozjiens","",True,12
+3604493,0,0,"Se renseigner sur les tournois officiels et libres de Triple Triade","Tournois officiels et libres de Triple Triade","",True,14
+3604494,0,0,"","","",True,15
+3604495,0,0,"","","",True,16
+3604496,0,0,"Se renseigner sur les médailles de la résistance","Les médailles de la résistance","",True,17
+3604497,0,0,"Se renseigner sur les Hauts plateaux de Zadnor","Les Hauts plateaux de Zadnor","",True,18
+3604498,0,0,"Se renseigner sur le mode JcJ","Mode JcJ","",True,19
+3604499,0,0,"Se renseigner sur Crystalline Conflict","Crystalline Conflict","",True,20
+3604500,2,0,"Se renseigner sur les donjons sans fond","Donjon sans fond","",True,25
+3604501,2,0,"Se renseigner sur les donjons sans fond","Donjon sans fond","",True,26
+3604502,2,0,"Se renseigner sur les donjons sans fond","Donjon sans fond","",True,27
+3604503,0,0,"Se renseigner sur le Blunderville","Blunderville","",True,31
+3604504,0,0,"Voir le guide du combat","Guide du combat","",True,33
+3604505,2,0,"Se renseigner sur les donjons sans fond","Donjon sans fond","",True,37
+3604506,0,0,"","","",True,36
+3604507,0,0,"Se renseigner sur l'île de Lunule méridionale","Guide de l'île de Lunule","",True,35
+3604508,0,0,"Se renseigner sur le désherbage de printemps","Guide du désherbage de printemps","",True,39

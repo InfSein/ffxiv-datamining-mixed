@@ -1,0 +1,82 @@
+﻿key,0
+#,Text
+int32,str
+0,""
+1,"Une fois placé, cet objet ne pourra plus être mis en vente.
+Voulez-vous continuer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+2,"Une fois placé, cet objet ne peut plus être récupéré.
+Voulez-vous continuer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+3,"Cet objet ne peut être ni mis en vente ni échangé.
+Voulez-vous le placer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Cet objet a été acheté sur la boutique en ligne ou obtenu grâce à un code.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+4,"Une fois placé, cet objet ne peut plus être récupéré.
+Voulez-vous continuer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+5,"Cet objet ne peut être ni mis en vente ni échangé.
+Voulez-vous le placer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+6,"Cet objet ne peut être mis en vente.
+Voulez-vous le placer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7,"Cet objet ne peut être ni mis en vente ni échangé.
+En outre, il ne peut pas être remis dans l'inventaire après avoir été utilisé au moins une fois.
+Voulez-vous le placer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>* Cet objet a été acheté sur la boutique en ligne ou obtenu grâce à un code.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+8,"Cet objet ne peut être ni mis en vente ni échangé.
+En outre, il ne peut pas être remis dans l'inventaire après avoir été utilisé au moins une fois.
+Voulez-vous le placer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+9,"Une fois placé, cet objet ne pourra plus être mis en vente.
+En outre, il ne peut pas être remis dans l'inventaire après avoir été utilisé au moins une fois.
+Voulez-vous continuer<Indent/>?
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>En fonction du type de logement ou de meuble, il pourra également être perdu dans les cas suivants<Indent/>:
+ - Retrait par un autre joueur
+ - Exclusion/démission de la compagnie libre
+ - Annulation du partage de la maison
+ - Cession du terrain<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

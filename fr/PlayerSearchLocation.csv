@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,byte,str
+0,0,"Non défini"
+1,1,"La Noscea"
+2,2,"Sombrelinceul"
+3,3,"Thanalan"
+4,4,"Environs d'Ishgard"
+5,5,"Gyr Abania"
+6,6,"Orient"
+7,7,"Ilsabard"
+8,10,"Norvrandt"
+9,11,"Autres"
+10,9,"Tural"
+11,8,"Mers du Nord"

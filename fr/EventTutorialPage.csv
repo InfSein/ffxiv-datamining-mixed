@@ -1,0 +1,62 @@
+﻿key,0,1,2
+#,,,
+int32,uint32,str,str
+0,0,"",""
+1,0,"",""
+2,0,"",""
+3,0,"",""
+4,0,"",""
+5,0,"",""
+6,0,"",""
+7,0,"",""
+8,0,"",""
+9,0,"",""
+10,0,"",""
+11,86902,"Transportez un objet jusqu'à l'endroit indiqué<Indent/>!","Certaines quêtes nécessitent de transporter un objet jusqu'à un endroit particulier.
+Une fois votre charge prise, vous bénéficiez de l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Charge<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pendant un temps imparti.
+
+Ce temps restant diminuera si vous recevez des coups, alors faites en sorte d'éviter les attaques. En outre, les actions utilisables sont limitées pendant la durée du transport."
+12,86903,"Si vous perdez votre charge...","Une fois le temps imparti écoulé, ou si vous quittez la zone actuelle, vous perdrez l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Charge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Vous devrez alors reprendre le transport au point de départ."
+13,86904,"Accomplissez votre objectif en restant invisible<Indent/>!","Lorsque vous êtes invisible, certains monstres ne peuvent plus détecter votre présence. Profitez de cette occasion pour accomplir votre objectif, ni vu ni connu<Indent/>!
+Une fois invisible, vous bénéficiez de l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Transparence<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pendant un temps imparti.
+
+Attention, les actions utilisables sont limitées pendant la durée de l'effet."
+14,86905,"Si vous redevenez visible...","Une fois le temps imparti écoulé, ou si vous quittez la zone actuelle, vous perdrez l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Transparence<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et ne pourrez plus accomplir votre objectif.
+En retournant à votre point de départ, vous pouvez soit prolonger la durée de l'effet, soit redevenir invisible si nécessaire."
+15,86906,"Partez enquêter en bonne compagnie<Indent/>!","Lors de certaines quêtes, vous êtes amené<If(PlayerParameter(4))>e<Else/></If> à vous déplacer en compagnie d'autres personnages.
+Pour atteindre votre objectif, vous devez faire en sorte de ne pas trop vous éloigner."
+16,86906,"Partez enquêter en bonne compagnie<Indent/>!","Tant que vous restez dans la même zone, vous pouvez utiliser la téléportation ou le réseau de transport urbain éthéré sans perdre vos compagnons de vue.
+Lorsque vous grimpez sur une monture ou que vous piquez une tête, vous restez accompagné<If(PlayerParameter(4))>e<Else/></If>, mais les personnages risquent de ne plus être affichés par moment."
+17,86907,"Prenez le temps de discuter avec vos amis<Indent/>!","Vous pouvez choisir de discuter avec les personnages qui vous ac<SoftHyphen/>com<SoftHyphen/>pa<SoftHyphen/>gnent à tout moment.
+
+Il existe également des aires de con<SoftHyphen/>ver<SoftHyphen/>sa<SoftHyphen/>tion spéciale en chemin vers votre objectif qui vous permettent de récolter des in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions po<SoftHyphen/>ten<SoftHyphen/>tiel<SoftHyphen/>le<SoftHyphen/>ment inédites tout en profitant de votre promenade<Indent/>!
+Ces aires sont indiquées sur votre carte, alors n'hésitez pas à y faire une petite halte<Indent/>!"
+18,86908,"Si vous n'êtes plus accompagné<If(PlayerParameter(4))>e<Else/></If>...","Vos compagnons cesseront de vous accompagner si vous changez de zone ou si vous leur parlez pour vous séparer d'eux.
+Le cas échéant, reparlez-leur au point de départ pour qu'ils vous ac<SoftHyphen/>com<SoftHyphen/>pa<SoftHyphen/>gnent à nouveau."
+19,86909,"Suivez le guide<Indent/>!","Dans certaines quêtes, vous devez suivre un personnage sans le perdre de vue jusqu'à votre prochain objectif.
+
+Si vous vous retrouvez trop éloigné<If(PlayerParameter(4))>e<Else/></If>, vous serez séparés et vous devrez reparler à ce personnage au point de départ pour reprendre votre chemin."
+20,86910,"Observez sans vous faire repérer<Indent/>!","Certaines quêtes nécessitent de la discrétion afin d'accomplir votre objectif<Indent/>!
+
+Vous allez devoir suivre votre cible sans vous faire remarquer. Restez suf<SoftHyphen/>fi<SoftHyphen/>sam<SoftHyphen/>ment en retrait pour ne pas la perdre de vue tout en évitant d'entrer dans son champ de vision.
+Si votre filature se solde par un échec, vous pouvez retourner au point de départ et réessayer."
+21,86911,"Conseils pour réussir une filature","Faites par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement attention lorsque vous apercevez une marque autour de votre cible, comme celle présentée ci-dessus. Si l'objet de votre filature se retourne, vous serez im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment repéré<If(PlayerParameter(4))>e<Else/></If>.
+Essayez de rester <If(PlayerParameter(4))>discrète<Else/>discret</If> en vous cachant derrière un obstacle."
+22,86912,"Conseils pour réussir une filature","De plus, vous devez éviter de trop vous rapprocher de votre cible et d'entrer dans la zone illustrée ci-dessus.
+Pensez à bien garder vos distances<Indent/>!"
+23,86913,"Transformez-vous pour accomplir votre objectif<Indent/>!","Certaines quêtes nécessitent de changer d'apparence pour accomplir votre objectif. 
+Une fois métamorphosé<If(PlayerParameter(4))>e<Else/></If>, vous bénéficiez de l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Transformation<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pendant un temps imparti.
+
+Attention, les actions utilisables sont limitées pendant la durée de l'effet."
+24,86914,"Si vous retrouvez votre forme d'origine...","Une fois le temps imparti écoulé, ou si vous quittez la zone actuelle, vous perdrez l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Transformation<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et ne pourrez plus accomplir votre objectif.
+En retournant à votre point de départ, vous pouvez soit prolonger la durée de l'effet, soit demander à vous transformer de nouveau si nécessaire."
+25,86915,"Déguisez-vous pour accomplir votre objectif<Indent/>!","Certaines quêtes nécessitent de changer de tenue pour accomplir votre objectif. 
+Une fois votre nouveau costume enfilé, vous bénéficiez de l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déguisement<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pendant un temps imparti."
+26,86916,"Si vous perdez votre déguisement...","Une fois le temps imparti écoulé, ou si vous quittez la zone actuelle, vous perdrez l'effet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déguisement<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et ne pourrez plus accomplir votre objectif.
+En retournant à votre point de départ, vous pouvez soit prolonger la durée de l'effet, soit demander à vous changer de nouveau si nécessaire."
+27,86917,"Escortez un personnage jusqu'à l'endroit indiqué<Indent/>!","Lors de certaines quêtes, vous êtes amené<If(PlayerParameter(4))>e<Else/></If> à escorter d'autres personnages.
+Pour atteindre votre objectif, vous devez faire en sorte de ne pas trop vous éloigner, tout en vous défendant contre les attaques ennemies.
+Lorsqu'un personnage qui vous accompagne vous perd de vue ou qu'il encaisse une attaque, il arrête de se déplacer.
+Essayez donc de vous débarrasser au plus vite des ennemis afin de pouvoir emmener votre cible jusqu'à bon port."
+28,86918,"Si vous n'êtes plus accompagné<If(PlayerParameter(4))>e<Else/></If>...","Votre mission se soldera par un échec si les PV du personnage que vous escortez tombent à 0, si vous vous retrouvez trop éloigné<If(PlayerParameter(4))>e<Else/></If>, ou encore si vous quittez la zone.
+Le cas échéant, vous pouvez retourner au point de départ et réessayer."

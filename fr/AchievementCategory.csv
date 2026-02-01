@@ -1,0 +1,86 @@
+﻿key,0,1,2,3,4
+#,Name,AchievementKind,ShowComplete,HideCategory,Order
+int32,str,AchievementKind,bit&01,bit&02,byte
+0,"",0,True,False,0
+1,"Général",1,True,False,1
+2,"Donjons",1,True,False,2
+3,"Défis",1,True,False,3
+4,"Raids",1,True,False,4
+5,"Contrats de chasse",1,True,False,5
+6,"Chasse aux trésors",1,True,False,6
+7,"Général",2,True,False,1
+8,"Classement",2,True,True,2
+9,"L'Antre des loups",2,True,False,3
+10,"Front",2,True,False,4
+11,"Ailes rivales",2,True,False,5
+12,"Général",3,True,False,1
+13,"Disciples de la guerre",3,True,False,2
+14,"Disciples de la magie",3,True,False,3
+15,"Disciples de la main",3,True,False,4
+16,"Disciples de la terre",3,True,False,5
+17,"Honneurs",3,True,False,6
+18,"Gold Saucer",3,True,False,7
+19,"Général",4,True,False,1
+20,"Devises",4,True,False,2
+21,"Recyclage",4,True,False,3
+22,"Objets collectionnables",4,True,False,4
+23,"Matérias",4,True,False,5
+24,"Menuisier",5,True,False,2
+25,"Forgeron",5,True,False,3
+26,"Armurier",5,True,False,4
+27,"Orfèvre",5,True,False,5
+28,"Tanneur",5,True,False,6
+29,"Couturier",5,True,False,7
+30,"Alchimiste",5,True,False,8
+31,"Cuisinier",5,True,False,9
+32,"Mineur",5,True,False,10
+33,"Botaniste",5,True,False,11
+34,"Pêcheur",5,True,False,12
+35,"Général",8,True,False,1
+36,"Mandats",8,True,False,4
+37,"Quêtes des peuples alliés",8,True,False,5
+38,"Événements saisonniers",8,True,True,99
+39,"Carnet d'exploration",11,True,False,1
+40,"Noscea",11,True,False,2
+41,"Forêt de Sombrelinceul",11,True,False,3
+42,"Thanalan",11,True,False,4
+43,"Coerthas",11,True,False,5
+44,"Mor Dhona",11,True,False,6
+45,"Abalathia",11,True,False,7
+46,"Dravania",11,True,False,8
+47,"Gyr Abania",11,True,False,9
+48,"Othard",11,True,False,10
+49,"Instances",11,True,False,100
+50,"Général",12,True,False,1
+51,"Maelstrom",12,True,False,2
+52,"Ordre des Deux Vipères",12,True,False,3
+53,"Immortels",12,True,False,4
+54,"Combats",13,True,False,1
+55,"Devises",13,True,False,2
+56,"Récolte",13,True,False,3
+57,"Quêtes",13,True,False,4
+58,"Événements saisonniers",13,True,False,5
+59,"Donjons",13,True,False,6
+60,"Exploration",13,True,False,7
+61,"Grandes compagnies",13,True,False,8
+62,"Armes antiques",4,True,False,6
+63,"Armes du zodiaque",4,True,False,7
+64,"Armes anima",4,True,False,8
+65,"Armes Donjons sans fond",4,True,False,9
+66,"Armes Eurêka",4,True,False,10
+67,"Norvrandt",11,True,False,11
+68,"Armes de la résistance",4,True,False,11
+69,"Toutes classes",5,True,False,1
+70,"Outils de Cielacier",4,True,False,51
+71,"Missions d'exploration",1,True,False,7
+72,"Mers du Nord",11,True,False,12
+73,"Ilsabard",11,True,False,13
+74,"Autres",11,True,False,99
+75,"Armes des Manderville",4,True,False,12
+76,"Épopée",8,True,False,2
+77,"Quêtes de job/rôle",8,True,False,3
+78,"Outils des merveilles",4,True,False,52
+79,"Yok Tural",11,True,False,14
+80,"Xak Tural",11,True,False,15
+81,"Armes fantômes",4,True,False,13
+82,"Outils cosmiques",4,True,False,53

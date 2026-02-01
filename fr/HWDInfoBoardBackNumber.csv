@@ -1,0 +1,8 @@
+﻿key,0,1,2
+#,,,
+int32,byte,byte,str
+0,1,10,"Première phase des travaux"
+1,11,48,"Deuxième phase des travaux"
+2,49,79,"Troisième phase des travaux"
+3,80,112,"Quatrième phase des travaux"
+4,113,125,""
