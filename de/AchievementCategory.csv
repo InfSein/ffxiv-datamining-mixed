@@ -1,0 +1,86 @@
+﻿key,0,1,2,3,4
+#,Name,AchievementKind,ShowComplete,HideCategory,Order
+int32,str,AchievementKind,bit&01,bit&02,byte
+0,"",0,True,False,0
+1,"Kampferfolge",1,True,False,1
+2,"Dungeons",1,True,False,2
+3,"Prüfungen",1,True,False,3
+4,"Raids",1,True,False,4
+5,"Hohe Jagd",1,True,False,5
+6,"Schatzsuche",1,True,False,6
+7,"Allgemein",2,True,False,1
+8,"PvP-Ranglisten",2,True,True,2
+9,"Wolfshöhle",2,True,False,3
+10,"Front",2,True,False,4
+11,"Stahlschwingen",2,True,False,5
+12,"Charakter",3,True,False,1
+13,"Krieger",3,True,False,2
+14,"Magier",3,True,False,3
+15,"Handwerker",3,True,False,4
+16,"Sammler",3,True,False,5
+17,"Ehrungen",3,True,False,6
+18,"Gold Saucer",3,True,False,7
+19,"Gegenstände",4,True,False,1
+20,"Vermögen",4,True,False,2
+21,"Verwertung",4,True,False,3
+22,"Sammlerstücke",4,True,False,4
+23,"Materia",4,True,False,5
+24,"Zimmerer",5,True,False,2
+25,"Grobschmied",5,True,False,3
+26,"Plattner",5,True,False,4
+27,"Goldschmied",5,True,False,5
+28,"Gerber",5,True,False,6
+29,"Weber",5,True,False,7
+30,"Alchemist",5,True,False,8
+31,"Gourmet",5,True,False,9
+32,"Minenarbeiter",5,True,False,10
+33,"Gärtner",5,True,False,11
+34,"Fischer",5,True,False,12
+35,"Aufträge",8,True,False,1
+36,"Freibriefe",8,True,False,4
+37,"Freundesvölker",8,True,False,5
+38,"Saisonale Ereignisse",8,True,True,99
+39,"Eorzea Incognita",11,True,False,1
+40,"La Noscea",11,True,False,2
+41,"Finsterwald",11,True,False,3
+42,"Thanalan",11,True,False,4
+43,"Coerthas",11,True,False,5
+44,"Mor Dhona",11,True,False,6
+45,"Abalathia",11,True,False,7
+46,"Dravania",11,True,False,8
+47,"Gyr Abania",11,True,False,9
+48,"Othard",11,True,False,10
+49,"Inhalte",11,True,False,100
+50,"Staatliche Gesellschaften",12,True,False,1
+51,"Mahlstrom",12,True,False,2
+52,"Bruderschaft",12,True,False,3
+53,"Legion",12,True,False,4
+54,"Kampferfolge",13,True,False,1
+55,"Vermögen",13,True,False,2
+56,"Sammeln",13,True,False,3
+57,"Aufträge",13,True,False,4
+58,"Saisonale Ereignisse",13,True,False,5
+59,"Dungeons",13,True,False,6
+60,"Erkundungen",13,True,False,7
+61,"Staatliche Gesellschaften",13,True,False,8
+62,"Zenit-Waffen",4,True,False,6
+63,"Zeta-Waffen",4,True,False,7
+64,"Anima-Waffen",4,True,False,8
+65,"Tiefe Gewölbe-Waffen",4,True,False,9
+66,"Eureka-Ausrüstung",4,True,False,10
+67,"Norvrandt",11,True,False,11
+68,"Waffen des Widerstands",4,True,False,11
+69,"Klassenübergreifend",5,True,False,1
+70,"Himmelsstahl-Werkzeuge",4,True,False,51
+71,"Feldexkursionen",1,True,False,7
+72,"Die nördlichen Meere",11,True,False,12
+73,"Ilsabard",11,True,False,13
+74,"Sonstige",11,True,False,99
+75,"Manderville-Waffen",4,True,False,12
+76,"Hauptszenario",8,True,False,2
+77,"Job- und Rollenaufträge",8,True,False,3
+78,"Mowen-Werkzeuge",4,True,False,52
+79,"Yok Tural",11,True,False,14
+80,"Xak Tural",11,True,False,15
+81,"Phantomwaffen",4,True,False,13
+82,"Kosmo-Werkzeuge",4,True,False,53

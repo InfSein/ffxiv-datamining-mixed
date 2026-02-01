@@ -1,0 +1,10 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,,,,,,,,,,,,
+int32,uint32,uint16,bit&01,byte,uint16,uint32,uint32,uint32,uint32,uint32,str,str
+3997696,0,0,False,0,0,0,0,0,0,0,"",""
+3997697,0,0,False,0,0,0,0,0,0,0,"",""
+3997698,69936,263,True,0,120,8872651,0,8904142,1038869,1038870,"Auf Argos aufsitzen und zum nördlichen Mare Lamentorum tragen lassen?","Zum Mare Lamentorum, Nordteil"
+3997699,69936,263,True,0,120,8872654,0,8904143,1038870,1038869,"Auf Argos aufsitzen und zum südlichen Mare Lamentorum tragen lassen?","Zum Mare Lamentorum, Südteil"
+3997700,70445,281,True,0,120,10559374,0,10559397,1048029,1048030,"Auf das Flugtier aufsitzen und zum Himmelstiefen Cenote tragen lassen?","Zum Himmelstiefen Cenote"
+3997701,0,281,True,0,120,10559404,0,10559418,1048030,1048029,"Auf das Flugtier aufsitzen und zu den Tiefen von Gok Draak tragen lassen?","Zu den Tiefen von Gok Draak"
+3997702,0,281,True,0,120,10559404,0,10559418,1051626,1047707,"Auf das Flugtier aufsitzen und zu den Tiefen von Gok Draak tragen lassen?","Zu den Tiefen von Gok Draak"

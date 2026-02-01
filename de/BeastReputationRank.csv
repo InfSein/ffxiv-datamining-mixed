@@ -1,0 +1,12 @@
+﻿key,0,1,2,3
+#,RequiredReputation,Name,AlliedNames,Color
+int32,uint16,str,str,UIColor
+0,0,"[Keines]","[Keines]",0
+1,150,"Neutral","Neutral",56
+2,360,"Anerkannt","Anerkannt",57
+3,510,"Freundlich","Freundlich",58
+4,720,"Vertraut","Vertraut",59
+5,990,"Respektiert","Respektiert",60
+6,1320,"Geachtet","Geachtet",61
+7,1730,"Solidarisch","Solidarisch",62
+8,0,"Verbündet","Solidarisch★",63

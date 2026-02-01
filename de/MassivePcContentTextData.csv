@@ -1,0 +1,884 @@
+﻿key,0
+#,
+int32,str
+0,""
+100,""
+101,"Die Technik und Systeme können schon bald wieder<SoftHyphen/>her<SoftHyphen/>gestellt werden.
+Bringt eure jeweiligen Missionen gewissenhaft zu Ende!"
+102,"Die Wiederherstellung war erfolgreich<Indent/>- gute Arbeit!
+Hiermit ist der Alarm beendet."
+103,"Wiederherstellung in Sicht. Der Alarm wurde herabgestuft.
+Alle zurück auf ihre Posten, um den Rest kümmert sich das Projektkomitee."
+104,"Anzahl gefischter Beute"
+105,"Arten gefischter Beute"
+106,"Aktuelle Punktzahl"
+107,"<Clickable(<SheetDe(Item,5,IntegerParameter(1),2,4,1)/>)/> synthetisiert"
+108,"<Clickable(<SheetDe(Item,5,IntegerParameter(1),2,4,1)/>)/> gesammelt"
+109,"<Clickable(<SheetDe(Item,5,IntegerParameter(1),2,4,1)/>)/> gefischt (<If(Equal(IntegerParameter(2),1))>groß<Else/>klein</If>)"
+110,"Bei <SheetDe(EObj,2,IntegerParameter(1),1,3,1)/> abliefern"
+111,"<Sheet(WKSMechaEventData,IntegerParameter(1),1)/>"
+112,""
+113,"<Sheet(WKSMissionText,IntegerParameter(1),0)/>"
+114,"●<Sheet(WKSMechaEventData,IntegerParameter(1),2)/>"
+115,"TEILNEHMEN"
+116,"Einsatzbeitrag"
+117,"Anzahl <SheetDe(Item,5,IntegerParameter(1),2,2,1)/> in Besitz  "
+118,""
+119,"Anzahl der Sammelstellen"
+120,"Stellarmissionen abschließen"
+121,"<Clickable(<SheetDe(Item,5,IntegerParameter(1),2,4,1)/>)/> raffiniert"
+122,"<Clickable(<SheetDe(Item,5,IntegerParameter(1),2,4,1)/>)/> gesammelt"
+123,"<Sheet(Status,IntegerParameter(1),0)/> Stapel"
+124,"Goldzähler"
+125,""
+126,""
+127,""
+128,""
+129,""
+130,""
+131,""
+132,""
+133,""
+134,""
+135,""
+136,""
+137,""
+138,""
+139,""
+140,""
+141,""
+142,""
+143,""
+144,""
+145,""
+146,""
+147,""
+148,""
+149,""
+1000,""
+1001,"●メカミッション:壁をぶっ壊せ!"
+1002,"●メカミッション:隕石を受け止めろ！"
+1003,"●メカミッション:ルナテンダーを追いかけろ"
+1004,"●メカミッション:邪魔なキノコを掃除せよ"
+1005,"●メカミッション:鉱石を取得せよ"
+1006,"Mecha-Einsatz eingeleitet!
+Zersplittere mit deinem Sternenläufer die korrumpierten Riesenkristalle!"
+1007,"Bei diesem Einsatz geht es darum, die korrumpierten Riesenkristalle zu zersplittern und das dabei anfallende Abfallmaterial zur Wiederverwertung aufzusammeln."
+1008,"Die Riesenkristalle sind zwar äußerst hart und widerstandsfähig, mit der Ausstattung deines Mechas sollte das aber keinerlei Probleme darstellen!"
+1009,"Sobald du den Einsatzort erreichst und alle Vor<SoftHyphen/>bereitungen abgeschlossen sind, geht es los. Und pass bloß auf, dass du dich nicht zu weit entfernst, verstanden?
+Sonst nehme ich dir deine Einsteigebestätigung gleich wieder ab!"
+1010,"Vielen Dank für deine selbstlose Teilnahme am Mecha-Einsatz.
+Es gilt, mithilfe des Kosmobohrers korrumpierte Kristalle zu zersplittern!"
+1011,"Ein verstecktes Ziel wurde offengelegt!
+An alle Sternenläufer: Uneingeschränkte Eliminierung einleiten!"
+1012,"Wir stehen bei 50 % der erstrebten Menge.
+Macht nur so weiter, dann gelangen wir an mehr als genügend Materialien!"
+1013,"90 % der erstrebten Menge konnte schon zersplittert werden!
+Nicht mehr lang und dann können wir Feierabend machen!"
+1014,"Einsatz erfolgreich! Saubere Arbeit, allesamt!
+Ein gewaltiger Beitrag zum Projekt, der nur dank der Tapferkeit und der Mühen von jedem von euch möglich gemacht wurde!"
+1015,"Das kann doch nicht ...!? Fehlschlag ...
+Alle bitte wieder zurück auf ihre gewohnten Posten ..."
+1016,"●目標に到達だ！
+これよりボーナスタイムに突入するぞ！"
+1017,"●メカの「●発破」が連打できるようになり、
+お手伝いは「●範囲収集：大」を
+いつでも使えるようになるぞ。"
+1018,"●ジャンジャン石を集めて、
+「●プレイヤー貢献度」を稼いでくれ！"
+1019,"●目標に到達だ！
+みんな、協力ありがとう。"
+1020,"●残念ながら●ボーナスタイムは発生しなかったが、
+作戦は成功だ！"
+1021,"●報酬を受け取っておのおのの活動に戻ってくれ。
+またの参加を期待している！	"
+1022,"●ボーナスタイム終了！
+作戦は大成功だ、みんな協力ありがとう。"
+1023,"●報酬を受け取っておのおのの活動に戻ってくれ。
+またの参加を期待している！"
+1024,"Ein Magnetsturm steht kurz bevor ...
+Der könnte unsere ganze Technik durcheinanderbringen. Macht euch gefasst!"
+1025,"Ein Magnetsturm beeinträchtigt unsere Gerätschaften. Alarmstufe Rot!
+Alle Projektteilnehmer sind aufgerufen, Notfallgüter und Materialien zur Wiederherstellung aufzutreiben!"
+1026,""
+1027,""
+1028,""
+1029,"Die Beleuchtung in Piercingways Tunnel ist teilweise wieder<SoftHyphen/>her<SoftHyphen/>gestellt.
+Weiter so und schon bald sind wir der Situation Herr!"
+1030,"Die Beleuchtung in Piercingways Tunnel ist größtenteils wieder<SoftHyphen/>her<SoftHyphen/>gestellt.
+Nur noch ein bisschen mehr und dann sind wir wieder im Spiel!"
+1031,""
+1032,""
+1033,""
+1034,""
+1035,""
+1036,""
+1037,""
+1038,""
+1039,"Bei diesem Einsatz geht es um die Terminierung von Chlorophos-Fungi.
+Wenn nicht schnellst<SoftHyphen/>möglich etwas unternommen wird, bringen die mit ihrem Gift noch das ganze Projekt ins Straucheln."
+1040,"Mit dem Klingenlauf deines Sternenebners sollten sich die Fungi pulverisieren lassen.
+Je nachdem kannst du es auch mit dem Aero-Schnetzler des Mechas versuchen."
+1041,"Sobald du den Einsatzort erreichst und alle Vor<SoftHyphen/>bereitungen abgeschlossen sind, geht es los. Und pass bloß auf, dass du dich nicht zu weit entfernst, verstanden?
+Sonst nehme ich dir deine Einsteigebestätigung gleich wieder ab! "
+1042,"Einsatzbeginn!
+Vernichtet mit den Sternenebnern die verdammten Riesenfungi!"
+1043,"Vielen Dank für deine selbstlose Teilnahme am Mecha-Einsatz.
+Versuche mit dem Kosmobrenner so viele Fungi wie möglich zu erwischen! "
+1044,"Ein verstecktes Ziel wurde offengelegt!
+An alle Sternenebner: Uneingeschränkte Eliminierung einleiten!"
+1045,"50 % sind geschafft!
+Mit genau dieser Zerstörungswut halten wir die Pilzseuche schon bald ganz sicher auf!"
+1046,"90 %!
+Nicht mehr lang und dann war's das für die Dinger und ihre Giftsporen!"
+1047,"Einsatz erfolgreich! Saubere Arbeit, allesamt!
+Ein gewaltiger Beitrag zum Projekt, der nur dank der Tapferkeit und Mühen von jedem von euch möglich gemacht wurde!"
+1048,"Das kann doch nicht ...!? Fehlschlag ...
+Alle bitte wieder zurück auf ihre gewohnten Posten ..."
+1049,""
+1050,""
+1051,""
+1052,""
+1053,""
+1054,""
+1055,""
+1056,"Die Erweiterung der Mondtor-Station ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1057,"Der Kosmozapper ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1058,"Die Habitationsmodule sind fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Als Nächstes steht der Kosmoport auf dem Plan!
+Im Infrastruktur-Index gibt es alle Einzelheiten. Ein Blick lohnt sich!"
+1059,"Sowohl die Habitationsmodule als auch der Kosmoport sind fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1060,"Der Sternenhangar ist fertig überarbeitet!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1061,"Der nordwestliche Radius des Kosmozappers ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1062,"Der südöstliche Radius des Kosmozappers ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1063,"Die Aushubarbeiten des Tunnels sind zur Hälfte abgeschlossen!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und ein zweites Gemeinschaftsprojekt für die nächste Etappe steht auch schon bald an.
+Im Infrastruktur-Index gibt es alle Einzelheiten. Ein Blick lohnt sich!"
+1064,"Piercingways Tunnel ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt"
+1065,"Der südwestliche Radius des Kosmozappers ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1066,"Die Erweiterung der Mondtor-Station ist fertig und grandios!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1067,"Die Energisierungswerke sind fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Als Nächstes stehen die Hydrofizierungswerke auf dem Plan!
+Im Infrastruktur-Index gibt es alle Einzelheiten. Ein Blick lohnt sich!"
+1068,"Sowohl die Energisierungswerke als auch die Hydrofizierungswerke sind fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1069,"Der Sternenhangar ist fertig überarbeitet!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Als Nächstes steht der Kosmoport auf dem Plan!
+Im Infrastruktur-Index gibt es alle Einzelheiten. Ein Blick lohnt sich!"
+1070,"Sowohl Sternenhangar als auch Kosmoport sind fertig überarbeitet!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1071,"Die Aushubarbeiten des Lifts sind zur Hälfte abgeschlossen!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und ein zweites Gemeinschaftsprojekt für die nächste Etappe steht auch schon bald an.
+Im Infrastruktur-Index gibt es alle Einzelheiten. Ein Blick lohnt sich!"
+1072,"Der Nadir-Lift ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1073,"Der unterirdische Radius des Kosmozappers im Lunaren Nadir ist fertig!
+Danke für die hoppeltastische Hilfe!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1074,"Die Erweiterung der Mondtor-Station ist fertig und unvorstellbar toll!
+Danke für all die hoppeltastische Hilfe bisher!<Unknown17/>Und dem Infrastruktur-Index wurde übrigens auch ein neuer Index-Artikel von Reportingway hinzugefügt!"
+1075,"Meteorschauer!
+Abstürze in und um Sinus Ardorum sind nicht auszuschließen. Bleibt wachsam!"
+1076,"Anzeichen von Sporenaufkommen wurden aufgezeichnet.
+Es wird empfohlen, wenn möglich, die Arbeit fürs Erste zu unterbrechen."
+1077,"Magnetsturm beeinträchtigt Sinus Ardorum - Alarmstufe Rot!
+Umgehende Wiederherstellung hat oberste Priorität!"
+1078,"Ein Meteorschauer hat die Kosmopforte getroffen - Alarmstufe Rot!
+Inspektion des Schadens sowie umgehende Wiederherstellung haben Vorrang!"
+1079,"Gasaustritt aufgrund von abgestürztem Meteor festgestellt - Alarmstufe Rot!
+Schadensinspektion notwendig. Wiederhole: Schadensinspektion notwendig!"
+1080,"An der Kosmopforte tritt Sporennebel auf - Alarmstufe Rot!
+Inspektion auf mögliche Ausbreitung von Seuchenpilz angefordert!"
+1081,"Die Kosmopforte ist in Sporennebel gehüllt - Alarmstufe Rot!
+Restlose Vernichtung der Fungi ist imperativ!"
+1082,"Packt die Kristallsplitter in einen der Feldsucher!
+Bessere Unterstützung können wir den Sternenläufern nicht bieten!"
+1083,"Packt die Fungus-Asche in einen der Feldsucher!
+Bessere Unterstützung können wir den Sternenläufern nicht bieten!"
+1084,"Genug Materialien für Wiederherstellung zusammen!
+Wer kann, hilft zur Aufstockung der Vorräte bitte noch weiter!"
+1085,"Genug Materialien für die Reparatur der Tunnelbeleuchtung zusammen!
+Jetzt geht es ans Aufstocken der Vorräte in der westlichen Mondtor-Station."
+1086,"Die verlorenen Vorräte sind genügend aufgestockt.
+Wer kann, kümmert sich bitte um die nötigen Materialien für die Reparatur der Tunnelbeleuchtung!"
+1087,"Benötigte Materialienmenge konnte beschafft werden.
+Wer kann, hilft bitte bei der Suche nach den Drohnen im Norden."
+1088,"Die Drohnensuche war erfolgreich!
+Jetzt geht es an die Materialbeschaffung im Süden der Station."
+1089,"Die Meteoritenbeseitigung war erfolgreich!
+Wer kann, hilft bitte bei der Materialbeschaffung im Norden."
+1090,"Genügend Materialien für die Sternenmobil-Situation zusammen!
+Als Nächstes bitte bei der Meteoritenbeseitigung im Südwesten der Station anpacken!"
+1091,"Genügend Materialien für den Gasaustritt zusammen!
+Als Nächstes benötigen wir schnell Hilfsgüter für die Betroffenen."
+1092,"Genügend Hilfsgüter für Betroffene zusammen!
+Es fehlt aber noch an Materialien für den Gasaustritt!"
+1093,"Genügend Materialien zur Seuchenpilzvernichtung zusammen!
+Als Nächstes muss sich um die Ursache des Sporennebels gekümmert werden!"
+1094,"Genügend Proben zur Erforschung des Sporennebels zusammen!
+Weiter geht es mit der Seuchenpilzvernichtung im Süden von Weddingways Traugarten."
+1095,"Materialien für die Kakteenbeseitigung zusammen!
+Wer kann, hilft bitte bei den Nutzpilzen im Osten mit!"
+1096,"Es konnten genügend Nutzpilze gesammelt werden.
+Als Nächstes geht es ab zur Kakteenbeseitigung!"
+1097,"Notfälle im Süden von Sinus Ardorum und Westen der Mondtor-Station!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1098,"Notfälle im Norden der Mondtor-Station und dem Erdrutschloch!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1099,"Notfälle im Südwesten und Norden der Mondtor-Station!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1100,"Notfall in den Tiefen des Lunaren Nadirs!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1101,"Notfälle im Norden der Mondtor-Station und Südosten von Sinus Ardorum!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1102,"Notfall im Osten von Sinus Ardorum!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1103,""
+1104,""
+1105,""
+1106,""
+1107,""
+1108,"Die Reparaturen an den Tunnelanlagen und unseren Maschinen kommen gut voran.
+Wir brauchen jetzt noch mehr Material, um Lagerengpässen vorzubeugen."
+1109,"Die Bergung des Äthers und der Drohnen verläuft reibungslos.
+Wir benötigen jetzt neue Materialvorräte, um unser Lager aufzufüllen!"
+1110,"Die Zertrümmerung der Meteoriten und die Reparatur des Sternenmobils kommen gut voran.
+Jetzt bitten wir um Materialnachschub, um unser Lager aufzufüllen!"
+1111,"Wir haben die Schäden, die durch das Austreten von unterirdischen Gasen verursacht wurden, begrenzt.
+Jetzt benötigen wir neue Materialien, um unser Lager aufzufüllen!"
+1112,"Die Ausrottung der Giftpilze sowie die Bewältigung der durch die Sporenwolke verursachten Schäden machen gute Fortschritte.
+Wir benötigen jetzt Materialien und Proben, um unser Lager aufzufüllen!"
+1113,"Die Ausrottung mutierter Arten und das Sammeln von essbaren Pilzen kommen gut voran.
+Wir bitten nun um Materialvorräte, um unser Lager wieder aufzufüllen!"
+1114,"Wir haben in der Nähe der Schreienden Krümel eine große Anzahl korrupter Kristalle gesichtet!"
+1115,"Die Kristalle müssen zerstört und alle Splitter eingesammelt werden.
+Sie sind eine wertvolle Ressource für die Basis."
+1116,"Schickt die Sternenläufer aus, um die Zertrümmerungs- und Sammelarbeiten auszuführen!
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1117,"Chlorophos-Fungus, dessen Sporen hochgiftig sind, verbreitet sich in bedrohlichem Ausmaß bei der Pilzstube!"
+1118,"Wenn wir nichts unternehmen, setzen sich die Sporen an den für die interstellare Erkundung vorgesehenen Geräten fest.
+Dies wäre eine Gefahr für unser gesamtes Projekt!"
+1119,"Schickt die Sternenebner aus, um die Zerstörung auszuführen!
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1120,""
+1121,""
+1122,""
+1123,""
+1124,""
+1125,""
+1126,""
+1127,""
+1128,""
+1129,""
+1130,""
+1131,""
+1132,""
+1133,""
+1134,""
+1135,""
+1136,""
+1137,""
+1138,""
+1139,""
+1140,""
+1141,""
+1142,""
+1143,""
+1144,""
+1145,""
+1146,""
+1147,""
+1148,""
+1149,""
+1150,""
+1151,"Bei diesem Einsatz geht es um die Förderung von Phaennit.
+Unter den Stränden der Glassteinküste wurden reiche Vorkommen entdeckt."
+1152,"Die Förderung des Minerals erfordert enorme Energiemengen. 
+Als Erstes wollen wir, dass du den Sternensauger benutzt, um Elektroionen aus der Umgebung zu absorbieren und so für eine geeignete Spannung zu sorgen."
+1153,"Sobald genügend Ionenenergie gespeichert wurde, kannst du den Schleppstrahl nutzen, um das Phaennit abzubauen!"
+1154,"Mecha-Einsatz eingeleitet!
+Fördere mit deinem Sternenläufer die Mineralvorkommen!"
+1155,"Vielen Dank für deine selbstlose Teilnahme am Mecha-Einsatz.
+Es gilt, mithilfe des Kosmobohrers die Mineralvorkommen zu fördern!"
+1156,"Pack das geförderte Phaennit in einen der Feldsucher!
+Bessere Unterstützung können wir den Sternenläufern kaum bieten."
+1157,"Ein verstecktes Ziel wurde offengelegt!
+Ionenenergie mit dem Sternensauger einsammeln!"
+1158,"50 % des Förderziels erreicht!
+Weiter so, dann haben wir bald genug Phaennit."
+1159,"90 % des Förderziels erreicht!
+Bald haben wir die gewünschte Menge an Phaennit."
+1160,"Einsatz erfolgreich! Saubere Arbeit, allesamt!
+Besonderer Dank geht raus an alle Piloten und fleißigen Helfer."
+1161,"Der Einsatz ist leider fehlgeschlagen ...
+Aber ich danke allen Beteiligten für ihre Bemühungen!"
+1162,"Ein neuer Einsatz: Sammelt verfestigtes Glas in der Kühlnarbe!
+Glas ist eine wertvolle Ressource mit großem Nutzen für unser Projekt."
+1163,"Dieses Gerät wurde so modifiziert, dass es Elemente aller Art effizient zerkleinern kann. 
+Setzt es ein, um große Glasbrocken zu zerkleinern und zu bergen."
+1164,"Der Einsatz beginnt, sobald der Zielort erreicht ist.
+Achtung: Während des Einsatzes darf das Gelände nicht verlassen werden!"
+1165,"Mecha-Einsatz eingeleitet!
+Zersplittere mit deinem Sternenebner das verfestigte Glas!"
+1166,"Wir bitten die Helfer, das zerkleinerte Glas mit dem Kosmosauger einzusammeln."
+1167,"Packt das gesammelte Glas in einen der Feldsucher!
+Bessere Unterstützung können wir den Sternenebnern nicht bieten!"
+1168,"Ein verstecktes Ziel wurde offengelegt!
+An alle Sternenebner: Sofortige Zerkleinerung einleiten!"
+1169,"50 % des Förderziels erreicht!
+Weiter so, dann haben wir bald genug."
+1170,"90 % des Förderziels erreicht!
+Bald haben wir die gewünschte Menge an Material."
+1171,"Einsatz erfolgreich! Damit ist die Entwicklung von Phaenna einen bedeutenden Schritt vorangekommen.
+Besonderer Dank geht raus an alle Piloten und fleißigen Helfer."
+1172,"Der Einsatz ist leider fehlgeschlagen ...
+Aber ich danke allen Beteiligten für ihre Bemühungen!"
+1173,"Die Situation bleibt angespannt, aber eine Lösung ist in Sicht.
+Ich bitte alle Helfer, ihre Arbeiten gewissenhaft zu Ende zu bringen!"
+1174,"Die Probleme wurden gelöst<Indent/>- gute Arbeit!
+Hiermit ist der Alarm beendet."
+1175,"Das Problem ist gelöst. Der Alarm wurde herabgestuft.
+Alle zurück auf ihre Posten, um den Rest kümmert sich das Projektkomitee."
+1176,"Es wurde ausreichend Material gesammelt!
+Wer kann, hilft bei der Aufstockung der Vorräte bitte noch weiter!"
+1177,"Wir rechnen mit heftigen Gewittern in den Einsatzgebieten.
+Es wird empfohlen, alle Aktivitäten einzustellen, um Maschinen und Werkzeuge zu schützen."
+1178,"Eine gewaltige Kältewelle rollt heran!
+Zurzeit ist unklar, welche Anomalien dabei auftreten, daher wird zu erhöhter Wachsamkeit aufgerufen!"
+1179,"Aufgrund dichter Ätherwolken wird Glasregen vorhergesagt.
+Wir bitten darum, die Windrichtung im Auge zu behalten."
+1180,"Ein heftiges Gewitter wird in Kürze über die Basis hinwegziehen!
+Wir benötigen sicher Hilfe, um durch Blitzschlag verursachte Schäden zu beheben."
+1181,"Vom Millefiori-Hügel bis in die nordwestliche Region wurden gewaltige Blitze gesichtet!
+Wir rufen hiermit den Alarmzustand aus!"
+1182,"Notfall in der nördlichen Region unseres Erkundungsgebiets!
+Wir bitten alle verfügbaren Hilfskräfte, sich schnellst<SoftHyphen/>möglich dorthin zu begeben!"
+1183,"Notfall in allen Gebieten! Eine starke Kältefront rollt heran!
+Wir haben den Alarmzustand ausgerufen und bitten um Unterstützung!"
+1184,"Der Glasregen hat für Probleme im Kapselgrund gesorgt.
+Alle verfügbaren Hilfskräfte werden gebeten, dort für Materialnachschub zu sorgen."
+1185,"Heftiger Glasregen hat in allen Bereichen zu Schäden geführt!
+Alle verfügbaren Hilfskräfte werden gebeten, Hilfsgüter zu besorgen."
+1186,"Notfall in der nordöstlichen Region des Erkundungsgebiets!
+Es werden dringend Materiallieferungen benötigt!"
+1187,"Alarmzustand vom Millefiori-Hügel bis in die nordwestliche Region!
+Vor Ort werden dringend Hilfsgüter benötigt!"
+1188,"Alarmzustand am Kühltunnel und den Slumpingway-Fällen!
+Alle verfügbaren Kräfte werden gebeten, bei der Beschaffung von Hilfsgütern zu helfen."
+1189,"Notfall an den Schillerstufen!
+Die Wege in den Kapselgrund sind ebenfalls betroffen<Indent/>...! Fordere dringend Hilfe an!"
+1190,"Notfall am Kapselgrund!
+Es werden dringend Hilfsgüter erbeten!"
+1191,"Glasregen hat im Westen und Süden des Erkundungsareals Schäden verursacht!
+Wir brauchen Unterstützung an beiden Einsatzorten, und zwar sofort!"
+1192,"Dank des Beitrags jedes einzelnen Helfers kann der Alarmzustand bald aufgehoben werden.
+Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte in der Nähe der Glasbläser-Basis entgegen."
+1193,"Dank des Beitrags jedes einzelnen Helfers ist bald wieder Normalbetrieb vorgesehen.
+Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte am Millefiori-Hügel und der Glassteinküste entgegen."
+1194,"Dank des Beitrags jedes einzelnen Helfers ist bald wieder Normalbetrieb vorgesehen.
+Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte im nördlichen Teil des Erkundungsgebiets entgegen."
+1195,"Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte an den Schillerstufen und im östlichen Teil des Millefiori-Hügels entgegen."
+1196,"Der Alarm am Kapselgrund kann in Bälde aufgehoben werden.
+Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte entgegen."
+1197,"Die Schwie<SoftHyphen/>rig<SoftHyphen/>keiten in den westlichen und südlichen Erkundungsgebieten sind beinahe behoben.
+Wir nehmen weiterhin Materiallieferungen zur Aufstockung der Vorräte entgegen."
+1198,"Wir haben genügend Materialien für die Reparaturen zusammen.
+Wir bitten alle verfügbaren Kräfte, bei der Instandsetzung der Gerätschaften zu helfen."
+1199,"Die Instandsetzung der Gerätschaften läuft gut.
+Wir bitten darum, bei der Besorgung von Material für die Repa<SoftHyphen/>ratur<SoftHyphen/>arbei<SoftHyphen/>ten zu helfen."
+1200,"Die Installation der Blitzableiter macht gute Fortschritte.
+Wir bitten alle, die es sich leisten können, bei der Inspektion der elektrischen Akkumulatoren der Glassteinküste zu helfen."
+1201,"Die Inspektion der Blitz-Akkumulatoren hat wertvolle Daten ergeben.
+Jetzt benötigen wir Hilfe bei der Installation von Blitzableitern auf den Anhöhen."
+1202,"Wir haben genügend Glas eingesammelt.
+Jetzt brauchen wir Hilfe bei den Aufträgen an den Slumpingway-Fällen."
+1203,"Die meisten der verhärteten Pflanzen sind abgeholzt.
+Wer kann, soll sich zum Kühltunnel begeben und beim Sammeln von Glas helfen."
+1204,"Das Sammeln von seltenen Pflanzen und Proben läuft gut.
+Jetzt benötigen wir Hilfe beim Austausch der Blitzleiter im Kapselgrund."
+1205,"Die Blitzleiter sind fast alle ausgetauscht.
+Als Nächstes brauchen wir Hilfe bei der Besorgung von seltenen Pflanzen und Proben für die Forschung."
+1206,"Das zersplitterte Glas stellt keine Bedrohung mehr dar.
+Nun suchen wir Experten, die die Wasserqualität begutachten können."
+1207,"Wir haben ausreichend Daten über die Qualität des Wassers erhalten.
+Wir benötigen aber noch Hilfe bei der Beseitigung des zersplitterten Glases."
+1208,"Die durch den Unfall verursachten Schäden sind beinahe alle repariert.
+Wer jetzt noch helfen kann, wird gebeten, sich zur Kühldrohnenstation zu begeben."
+1209,"Die Schäden durch den Glasregen sind größtenteils behoben.
+Wir können aber noch Hilfe bei den Arbeitsmaschinen gebrauchen!"
+1210,"Wir haben eine ausreichende Menge an Ionenenergie eingesaugt.
+Jetzt muss der Schleppstrahl bedient werden!"
+1211,"Begib dich zum Treibsand-Loch und richte den Schleppstrahl aus, um das Phaennit an die Oberfläche zu befördern!"
+1212,"Heilige Möhre, das ist aber ein riesiger Brocken Phaennit!
+Die Arbeit hat sich doppelt und dreifach gelohnt!"
+1213,"Die Verbesserungen an der Glasbläser-Basis sind endlich fertig!
+Da wird einem erst bewusst, dass die Erkundung jetzt richtig angefangen hat!<Unknown17/>Dieser Malmenstein wäre ohne die tatkräftige Unterstützung von außerhalb nie erreicht worden.
+Im Infrastruktur-Index findet sich ein aufschlussreicher Bericht von Kollege Reportingway über das Projekt."
+1214,"Mit Freude teilen wir mit, dass der Kosmozapper in der Nähe der Glasbläser-Basis fertig ist!
+Vor allem unsere Forscher sind überglücklich, jetzt schneller von A nach B zu kommen!<Unknown17/>Reportingway hat seine Eindrücke bei dieser aufregenden Entwicklung im Infrastruktur-Index zusammengefasst."
+1215,"Unsere Wohnmodule sind jetzt bewohnbar!
+Gerade auf so einem unwirtlichen Planeten geht nichts über ein weiches Bett!<Unknown17/>Alle Einzelheiten über den Bau hat Reportingway im Infrastruktur-Index vermerkt!"
+1216,"Unsere Energisierungswerke sind in Betrieb!
+Mit ihnen können wir Umgebungsäther in Energie umwandeln und für die Erkundung nutzbar machen!<Unknown17/>Im Infrastruktur-Index finden sich Informationen über künftige Projekte, vor allem über die neuen Hydrofizierungswerke!"
+1217,"Ich freue mich mitteilen zu können, dass die Hydrofizierungswerke fertiggestellt wurden!
+Mit diesen können wir nun unterirdisches Wasser an die Oberfläche befördern und es säubern.<Unknown17/>Kaum ein Projekt war wohl von größerer Bedeutung als die Sicherstellung unseres Trinkwasservorrats.
+Wie immer hat Reportingway einen ausführlichen Bericht im Infrastruktur-Index hinterlassen."
+1218,"Ausgezeichnete Arbeit bei der Verbesserung des Sternenhangars!
+Jetzt können unsere Mecha mit noch größerem Feuereifer ihre Arbeiten verrichten!<Unknown17/>Im Infrastruktur-Index gibt es einen ausführlichen Bericht von Reportingway."
+1219,"Der ebene Radius des Kosmozappers ist fertig!
+Die nordwestlichen und südlichen Bereiche sollten sich jetzt deutlich angenehmer erkunden lassen!<Unknown17/>Danke für die hoppeltastische Hilfe!
+Dem Infrastruktur-Index wurde übrigens auch ein neuer Artikel von Reportingway hinzugefügt!"
+1220,"Die Arbeiten an den Kränen in den Kapselgrund sind zur Hälfte erledigt, gute Arbeit bisher!
+Der Weg ist nicht mehr weit bis ganz nach unten, nehmt also noch mal alle Kräfte zusammen!<Unknown17/>Wir bereiten uns jetzt auf die zweite Phase des Projekts vor.
+Im Infrastruktur-Index hat es Infos zu den anstehenden Plänen!"
+1221,"Die Applike-Kräne sind fertiggestellt! Vielen Dank für die stellare Hilfe!
+Endlich können wir den Kapselgrund betreten und all seine Geheimnisse ergründen!<Unknown17/>Einen Bericht über die hervorragenden Leistungen hat Kollege Reportingway im Infrastruktur-Index veröffentlicht."
+1222,"Der tiefe Radius des Kosmozappers ist fertig!
+Damit kann die Erkundung des Kapselgrundes richtig durchstarten! Einige Forscher sind schon auf dem Weg.<Unknown17/>Danke für die hoppeltastische Hilfe!
+Dem Infrastruktur-Index wurde übrigens auch ein neuer Artikel von Reportingway hinzugefügt!"
+1223,"Die Erweiterung der Glasbläser-Basis ist fertig und grandios!
+Nicht nur wird unsere Erkundung so leichter, auch optisch macht die Basis so langsam ganz schön was her!<Unknown17/>Danke für die hoppeltastische Hilfe!
+Dem Infrastruktur-Index wurde übrigens auch ein neuer Artikel von Reportingway hinzugefügt!"
+1224,"Die Renovierung des Sternenhangars ist fertiggestellt!
+Die neuen Glaselemente bilden die ultimative Kombination aus Form und Funktion!<Unknown17/>Danke für die hoppeltastische Hilfe!
+Dem Infrastruktur-Index wurde übrigens auch ein neuer Artikel von Reportingway hinzugefügt!"
+1225,"Unser erweiterter Kosmoport ist jetzt voll funktionsfähig! Vielen Dank für die Hilfe.
+Damit lässt sich unser Raumschiff ruckzuck laden, und auch weiter entfernte Ziele sind kein Traum mehr!<Unknown17/>Reportingway hat wie immer alle Einzelheiten im Infrastruktur-Index verzeichnet."
+1226,"Dank eurer harten Arbeit steht jetzt im Süden eine große Energieplatte!
+Mit dieser können wir über das Sonnenlicht Energie erzeugen!<Unknown17/>Aber warum nur eine, wenn wir noch mehr haben können?
+Die Bauarbeiten werden in Kürze im Westen fortgesetzt. Mehr Einzelheiten dazu im Infrastruktur-Index!"
+1227,"Wir haben jetzt zwei Energieplatten, die ausreichen, um all unsere Träume für Phaenna zu verwirklichen!<Unknown17/>Danke für die hoppeltastische Hilfe!
+Reportingway hat einen Bericht darüber verfasst, was eure Bemühungen bewirkt haben. Lest ihn euch unbedingt durch!"
+1228,"Unser nagelneues Mobilisierungswerk ist einsatzbereit und wir sind es auch!
+Die Drohnen werden sofort mit Tanks voller Kühlmittel losgeschickt!<Unknown17/>Als Nächstes folgt eine Operation der besonderen Art vor: Wir kühlen einen Krater voll geschmolzenem Glas.
+Mehr Einzelheiten dazu im Infrastruktur-Index."
+1229,"Die Gefahr durch das geschmolzene Glas ist gebannt! Na ja, so halb, um genau zu sein.
+Die Drohnen haben schon mal ganze Arbeit geleistet und den Boden etwas verhärten lassen.<Unknown17/>Da der Krater leicht abgekühlt ist, können wir mit der zweiten Phase der Operation beginnen. Mehr Einzelheiten dazu im Infrastruktur-Index."
+1230,"Wir haben es geschafft! Der Krater ist vollständig abgekühlt! Das war hervorragende Arbeit.
+Und es ist wirklich ein schöner Anblick, das verhärtete Glas, nicht wahr?<Unknown17/>Selbstverständlich hat Kollege Reportingway diese Leistung gewissenhaft im Infrastruktur-Index aufgezeichnet."
+1231,"Also das nenne ich einen Kosmozapper! Ich wünschte, ich hätte ein paar Glückwunschmöhrchen zu verteilen<Indent/>...
+Der Fusingway-Schlund ist damit nicht nur einfacher, sondern auch sicherer zu erkunden.<Unknown17/>Wir haben zwar keine Möhren, aber einen neuen Bericht von Reportingway. Seht doch mal rein!"
+1232,"Hurra! Das Phaenna-Stellaskop ist fertig! Und damit auch unsere Arbeit auf Phaenna.
+Ich möchte dir meinen aufrichtigen Dank aussprechen, denn ohne dich hätten wir das alles nicht geschafft!<Unknown17/>Jetzt können wir nach Herzenslust die Himmel nach zukünftigen Erkundungszielen absuchen!
+Reportingway hat diesen monumentalen Malmenstein im Infrastruktur-Index aufgezeichnet. Also warum nicht etwas in Erinnerungen schwelgen?"
+1233,"An der Glassteinküste wurde eine große Menge an Ionenenergie festgestellt!"
+1234,"Mit dieser Ionenenergie lässt sich das unterirdisch vorhandene Vulkanglas Phaennit im Hand<SoftHyphen/>umdrehen fördern."
+1235,"Wir werden das Phaennit mit Sternenläufern ausgraben.
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1236,"Wir haben Temperaturschwankungen in der Kühlnarbe festgestellt.
+Es steht ein gewaltiger Ausbruch an Glaskristallen bevor!"
+1237,"Die ausgeworfenen Glaskristalle sind von hoher Qualität.
+Wir werden sie in Präzisionsgeräten verbauen, die uns bei der Erkundung gute Dienste leisten werden."
+1238,"Wir senden Sternenebner aus, um die Glaskristalle zu zerkleinern und einzusammeln!
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1239,""
+1240,""
+1241,""
+1242,""
+1243,""
+1244,""
+1245,""
+1246,""
+1247,""
+1248,""
+1249,""
+1250,""
+1251,""
+1252,""
+1253,""
+1254,""
+1255,""
+1256,""
+1257,""
+1258,""
+1259,""
+1260,""
+1261,""
+1262,""
+1263,""
+1264,""
+1265,""
+1266,""
+1267,""
+1268,""
+1269,""
+1270,""
+1271,""
+1272,""
+1273,""
+1274,""
+1275,""
+1276,""
+1277,""
+1278,""
+1279,""
+1280,""
+1281,""
+1282,""
+1283,""
+1284,""
+1285,""
+1286,""
+1287,""
+1288,""
+1289,""
+1290,""
+1291,""
+1292,""
+1293,""
+1294,""
+1295,""
+1296,""
+1297,""
+1298,""
+1299,""
+1300,""
+1301,"Diesmal haben wir eine ehemalige Kampfmaschine aus Garlemald umfunktioniert. Damit sollte sich die Schwerkraft wieder normalisieren lassen."
+1302,"Der weite Radius des Plasmaschenkers trifft viele Gravikugeln auf einmal. Gleichzeitig macht ihn das schwach und ineffektiv gegen große Exemplare."
+1303,"Gegen große Gravikugeln hilft nur eine Kosmogranate. Die brauchen zwar etwas, um einsatzfähig zu sein, haben dafür aber umso mehr Wumms!"
+1304,"Mecha-Einsatz eingeleitet!
+Vernichte mit deiner Kosmo-Panzerwaffe die Gravikugeln!"
+1305,"Vielen Dank für deine selbstlose Teilnahme am Mecha-Einsatz.
+Es gilt, mithilfe des Kosmostampfers die innerirdischen Gravikugeln zu vernichten!"
+1306,"Für diesen Einsatz wurden keine Feldsucher vor Ort errichtet. Es geht allein um das Vernichten der Kugeln!"
+1307,"Verzerrungswert des Gravitationsfeldes<Indent/>... im grünen Bereich! Einsatz erfolgreich! Ein gewaltiger Beitrag zum Projekt, der nur dank der Tapferkeit und Mühen von jedem von euch möglich gemacht wurde!"
+1308,"Das kann doch nicht ...!? Fehlschlag ...
+Alle bitte wieder zurück auf ihre gewohnten Posten ..."
+1309,"An der Längstverlorenen Karotte wurde eine Verzerrung des Gravitationsfelds gemessen. Ein sofortiges Ausrücken der Mechas ist imperativ, um die Sicherheit des Projekts zu gewährleisten!"
+1310,"In Vorbereitung auf dieses Szenario haben wir alte garleische Kampf<SoftHyphen/>maschinen umfunktioniert. Sie sind auf die Umstände einer Gravitationsverzerrung spezialisiert und einsatzbereit."
+1311,"Ich wiederhole: Mecha-Einsatz ausgerufen!
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1312,"In diesem Mecha-Einsatz geht es um das Einsammeln von Schwebesteinen, die infolge einer Gravitationsanomalie zu Tage getreten sind."
+1313,"Dein neuer, alter Mecha diesmal ist ein Sternenläufer, der auf Oizys schwerkräftige Umwelt konfiguriert und spezialisiert wurde. Sein Sternensauger Mk-II sollte mit den Schwebesteinen fertig werden."
+1314,"Und falls sich die Gelegenheit bieten sollte, kümmere dich bitte auch um die Riesen-Schwebesteine am Himmel. Die Einzelheiten dazu erkläre ich, wenn es so weit ist!"
+1315,"Mecha-Einsatz eingeleitet!
+Sammel die Schwebesteine ein!"
+1316,"Vielen Dank für deine selbstlose Teilnahme am Mecha-Einsatz.
+Es gilt, Schwebesteine einzusammeln!"
+1317,"Packt die Steine in einen der Feldsucher!
+Bessere Unterstützung können wir den Sternenläufern kaum bieten."
+1318,"Die Feldsucher haben die Schwingungen eines Riesen-Schwebesteins am Himmel verzeichnet!"
+1319,"50 % des Förderziels erreicht!
+Weiter so, dann haben wir bald genug."
+1320,"90 % des Förderziels erreicht!
+Bald haben wir die gewünschte Menge an Schwebesteinen."
+1321,"Einsatz erfolgreich! Saubere Arbeit, allesamt!
+Ein gewaltiger Beitrag zum Projekt, der nur dank der Tapferkeit und der Mühen von jedem von euch möglich gemacht wurde!"
+1322,"Das kann doch nicht ...!? Fehlschlag ...
+Alle bitte wieder zurück auf ihre gewohnten Posten ..."
+1323,"Lokale Gravitationsanomalie am Kap Geras!"
+1324,"Infolgedessen sind innerirdische Schwebesteine an die Oberfläche getreten!"
+1325,"Einsammeln der Steine hat höchste Priorität<Indent/>- Mecha-Einsatz ausgerufen!
+Inhaber eines Antragstickets werden aufgefordert, sich als Pilot zu bewerben."
+1326,"Das Ende ist in Sicht!
+An alle Helfer: Gebt noch ein letztes Mal alles!"
+1327,"Danke für eure tapfere Hilfe<Indent/>- es ist alles wieder intakt!
+Alarmstufe Rot<Indent/>- beendet."
+1328,"Unser Lösungsansatz zeigt Wirkung. Der Alarm wurde herabgestuft.
+Alle zurück auf ihre Posten, um den Rest kümmert sich das Projektkomitee."
+1329,"Benötigte Materialmenge erreicht!
+Wer kann, hilft bei der Aufstockung der Vorräte bitte noch weiter!"
+1330,"Anzeichen auf bevorstehende Gravitationsanomalie gemessen!
+An alle Einheiten: Bitte in Bereitschaft bleiben!"
+1331,"Eine Gravitationsanomalie sorgt im südlichen Ozean für schwebende Gewässer!
+Auswirkungen auf Erkundungsareal erwartet. Bitte bereithalten!"
+1332,"Ein Progenitrix-Zyklon steuert auf uns zu!
+Windböen der Stärke 18 und höher erwartet. Macht euch darauf gefasst!"
+1333,"Gewaltige Gravitationsanomalie am Schildwall!
+Alarmstufe Rot<Indent/>- Unterstützung erforderlich!"
+1334,"Schaumsturm am Kap Geras<Indent/>- Alarmstufe Rot!
+Notfallmissionen zur Bergung von Sonderrohstoffen angesetzt."
+1335,"Extreme Windböen haben im Gebiet um den Regolift einen Unfall verursacht!
+Alarmstufe Rot<Indent/>- großflächige Unterstützung ist imperativ!"
+1336,"Extreme Windböen sorgen nördlich der Basis für Chaos!
+Alarmstufe Rot<Indent/>- Unterstützung vor Ort erforderlich!"
+1337,"Gewaltige Gravitationsanomalie am Schildwall!
+Alarmstufe Rot<Indent/>- Notfalllieferungen angefordert!"
+1338,"Schaumsturm an den Magnetsanden und der Oase der Gegangenen<Indent/>- Alarmstufe Rot!
+Notfallmissionen zur Bergung von Sonderrohstoffen angesetzt."
+1339,"Extreme Windböen haben im Gebiet um den Regolift einen Unfall verursacht!
+Alarmstufe Rot<Indent/>- bewältigen wir die Situation gemeinsam!"
+1340,"Notfälle im Süden der Längstverlorenen Karotte und im Regolift!
+Alarmstufe Rot<Indent/>- Erste Hilfe der Verletzten ist imperativ!"
+1341,"Dank eures selbstlosen Einsatzes kann die Alarmstufe bald heruntergestuft werden!
+Wer kann, hilft bei der Aufstockung der Vorräte an der Schildwand bitte noch weiter!"
+1342,"Benötigte Sonderrohstoffmenge erreicht!
+Wer kann, hilft bei der Aufstockung der Vorräte am Kap Geras bitte noch weiter!"
+1343,"Dank eures selbstlosen Einsatzes kann die Alarmstufe bald heruntergestuft werden!
+Wer kann, hilft bei der Aufstockung der Vorräte am Regolift bitte noch weiter!"
+1344,"Wir nehmen weitere Materiallieferungen zur Aufstockung der Vorräte an der Längstverlorenen Karotte und dem Regolift entgegen."
+1345,"Die Arbeiten an der Schildwand kommen gut voran.
+Wir bitten nun um Materiallieferungen im Norden Terra Firmas."
+1346,"Wir verfügen nun über genügend Materialien im Norden Terra Firmas.
+Wir bitten alle verfügbaren Kräfte, bei den Arbeiten an der Schildwand zu helfen."
+1347,"Die erforderliche Sammelmenge an der Oase der Gegangenen wurde erreicht.
+Wer kann, hilft bei den Materiallieferungen an den Magnetsanden bitte noch weiter!"
+1348,"Die gewünschte Menge an Sonderrohstoffen an den Magnetsanden wurde erreicht.
+Wer kann, hilft bei den Arbeiten an der Oase der Gegangenen bitte noch weiter!"
+1349,"Die Unfallräumung am Falschen Wall kommt gut voran.
+Wir bitten nun um Materiallieferungen im Osten der Megalithopolis."
+1350,"Die Unfallräumung im Osten der Megalithopolis ist fast erledigt.
+Wir bitten alle verfügbaren Kräfte, sich um den anderen Unfall am Falschen Wall zu kümmern."
+1351,"Die Auswirkungen des Steinschlags sind so gut wie bewältigt.
+Wer kann, hilft bei den Materiallieferungen am Regolift bitte noch weiter!"
+1352,"Die erforderlichen Erste-Hilfe-Utensilien konnten beschafft werden.
+Wer kann, hilft bei den Arbeiten an der Längstverlorenen Karrotte bitte noch weiter!"
+1353,""
+1354,"Wir wollen mit der Grundversorgung beginnen und Habitationsmodule errichten.
+Bitte alle versammeln, sobald es so weit ist!"
+1355,"Die Habitationsmodule sind fertig!
+Und jetzt einmal alle duschen, bitte!<Unknown17/>Aber ich muss schon sagen<Indent/>... Die Station mit den Überbleibseln unserer Vorgänger auf Oizys zu verschmelzen,
+sorgt für eine ganz besondere Atmosphäre.<Unknown17/>Übrigens: Für die ganz hellen Rüben gibt es auch einen neuen Bericht von Reportingway im Infrastruktur-Index!"
+1356,"Wir errichten einen Kosmozapper um die Station!
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1357,"Der Zeitpunkt der Fertigstellung für den Bodenradius steht nun so fest wie der Loporrit in der Schlange für Möhrchensuppe!<Unknown17/>Den Kosmozapper zu haben, wird einiges vereinfachen. Noch etwas Geduld!"
+1358,"Der Bodenradius des Kosmozappers ist fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Mir ist zu Löffeln gekommen, dass die Fleißigen unter euch sich bereits auf die Bretter geschwungen haben.
+So lob ich mir das. Unermüdlich und stets in Bewegung!<Unknown17/>Reportingway war auch nicht untätig.
+Tut ihm doch bitte den Gefallen und lest seinen neuesten Bericht."
+1359,"Unserer Infrastruktur fehlt es noch an Strom- und Wasserversorgung. Es wird also wieder gebaut werden!
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1360,"Wir beginnen schon bald mit dem Bau der Energisierungswerke.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1361,"Die Energisierungswerke sind fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Jetzt können wir blitzeln und funzeln, wie es uns beliebt.
+Umwandlung des Umgebungsäthers macht's möglich!<Unknown17/>Als Nächstes kümmern wir uns um die Wasserversorgung.
+Ein neues Gemeinschaftsprojekt wird gleich hiernach bereit sein!"
+1362,"Die Hydrofizierungswerke sind fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Überflüssige Materialien haben wir in den Bau eines Labors für die gute Dylise gesteckt.
+Da wird jetzt hoppeltastisch geforscht. Schaut doch mal vorbei!<Unknown17/>Reportingway hat auch bereits einen neuen Bericht verfasst, den man am besten bei einem belegten Exegetenbrot liest."
+1363,"Wenn wir es schaffen, die Gravitation der schwebenden Felsen im Südosten irgendwie unter Kontrolle zu bringen,
+könnte uns das Zugang zu ungeahnten Mineralien- und Wissensschätzen gewähren.<Unknown17/>Also bauen wir am Losen Anker eine Einrichtung, um genau das zu tun:
+Wir verbinden die Schwebefelsen zu einer Brücke, die uns auf die Schattenflotte bringt!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1364,"Wir beginnen schon bald mit dem Bau der Gravitisierungskontrolle.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1365,"Der Gravikreator ist fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Jetzt können wir unsere Forschung auf die Schattenflotte ausweiten, was uns völlig neue Erkenntnisse zu Oizys' Gravitationsanomalien liefern sollte!<Unknown17/>In Reportingways Bericht im Infrastruktur-Index kann Genaueres zu der Bedeutsamkeit dieses Malmensteins nachgelesen werden."
+1366,"Wir schließen die Schattenflotte an das Kosmozappernetz an!
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1367,"Der Zeitpunkt der Fertigstellung für den Schweberadius steht nun so fest wie eine Jungkarotte frisch nach der Ernte!<Unknown17/>Den Kosmozapper zu haben, wird einiges vereinfachen.
+Noch etwas Geduld!"
+1368,"Der Schweberadius des Kosmozappers ist fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Mir ist zu Löffeln gekommen, dass die Fleißigen unter euch sich bereits auf die Bretter geschwungen haben.
+So lob ich mir das. Unermüdlich und stets in Bewegung!<Unknown17/>Reportingway war auch nicht untätig.
+Tut ihm doch bitte den Gefallen und lest seinen neuesten Bericht."
+1369,"Unser Forschungsteam hat entdeckt, dass es sich bei dem großen Kristall in unserer Station um eine Art Zentralcomputer des Volkes handeln muss, das vor uns auf Oizys gewesen ist.<Unknown17/>Stellt euch vor, wir kriegen den wieder zum Laufen gebracht!
+Das wäre ein galaktastischer Hops auf unserer Suche nach der Wahrheit.<Unknown17/>Bevor wir uns dem sogenannten Euhedron aber zuwenden können, müssen wir erst Terra Firma fit machen.
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1370,"Wir beginnen schon bald mit dem Renovierung von Terra Firma, um mehr Energie umleiten zu können.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1371,"Die Renovierung von Terra Firma ist abgeschlossen!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Als Nächstes restaurieren wir den Euhedron und bringen ihn wieder zum Leuchten.
+Gelingt uns das erst, sind wir den Gegangenen einen großen Hopser näher!<Unknown17/>An der Berichtsfront ist Reportingway natürlich ebenfalls äußerst fleißig gewesen.
+Einzelheiten zu diesem Malmenstein können jetzt im Infrastruktur-Index gefunden werden."
+1372,"Der Euhedron ist ein Kristall, der scheinbar aus einem superseltenen Mineral besteht, das es so nur auf Oizys gibt!<Unknown17/>Doch leider ist er gerade ganz schön geschwächt ...
+Da hilft nur ordentlich viel Aktivatormittel, um die Ätherleitbarkeit wieder auf Vordermann zu bringen!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1373,"Wir beginnen schon bald mit der Restaurierung des Euhedron.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1374,"Die Restaurierung des Euhedron ist abgeschlossen!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Unsere superschlauen Forscher haben sich schon in ihre Analysemäntel geschmissen und beginnen gleich mit der Arbeit.<Unknown17/>Bis das gute Stück wieder einsatzbereit ist, wird es wohl noch etwas dauern, aber der erste Schritt ist getan!<Unknown17/>Reportingway hat sich übrigens über die geringe Leserschaft seiner Berichte beschwert.
+Ihr wisst also, was zu tun ist: Ab zum Infrastruktur-Index!"
+1375,"Wir wollen den Kosmoport renovieren, um mit der erhöhten Frachtenlast fertig zu werden, die in Form von Artefakten unsere Logistik zwischen Ætheris und Oizys beeinträchtigt.<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1376,"Wir beginnen schon bald mit dem Renovierung des Kosmoports.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1377,"Die Renovierung des Kosmoports ist abgeschlossen!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Unsere Kollegen auf Ætheris wird es sicher freuen, so viele tolle Artefakte von uns geschickt zu bekommen.<Unknown17/>Im Gegenzug kriegen wir von ihnen bestimmt auch ganz viele tolle Analysen zu Oizys zurück.<Unknown17/>Ach ja! Reportingway lässt grüßen. Der Anstieg der Leserschaft seit meinem Aufruf hat ihn gefreut. Vergesst also nicht, auch seinen neuesten Bericht zu lesen, in Ordnung?"
+1378,"Im Tiefgrünen Echo wurde der Eingang zu einer alten Ruine entdeckt!
+Schaffen wir es, ihn auszugraben, dürfte uns ein gut erhaltenes Ruineninneres erwarten.<Unknown17/>Die Arbeiten werden unter der Führung des Forschungsteams durchgeführt werden.
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1379,"Wir beginnen schon bald mit den Ausgrabungen im Tiefgrünen Echo.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1380,"Wir haben es geschafft, bis zum Ruineneingang vorzudringen!
+Setzen wir alles darauf, dass die gute Dylise schon bald eine Möglichkeit findet, ihn zu öffnen.<Unknown17/>Aber Moment<Indent/>... Vergesse ich nicht irgendetwas ...?<Unknown17/>Ach ja<Indent/>- Reportingway! Es gibt mal wieder einen tollen neuen Bericht von ihm zu lesen!"
+1381,"Dylises Genie sei Dank! Wir wissen nun, wie man ins Innere der Ruinen gelangt!
+Die Steine am Eingang sind des Rätsels Lösung!<Unknown17/>Unsere Tests haben ergeben, dass man sie mithilfe von besonderem Jaspis als Katalysator reaktivieren kann.
+Gerade hecken wir noch einen Plan aus, um die Pforten ins Unbekannte aufzustoßen!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1382,"Wir beginnen schon bald mit der Entriegelung der Ruine im Tiefgrünen Echo.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1383,"Es ist vollbracht! Der Eingang ist entriegelt und das Ruineninnere erstreckt sich vor uns!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Als Nächstes gilt es, weiter vorzudringen. Die Aktivierung der grün schimmernden Steine am Eingang hat unser Forschungsteam dazu gebracht, in einen angeregten Meinungsaustausch zu verfallen.<Unknown17/>Alle Einzelheiten können wie immer Reportingways Bericht entnommen werden."
+1384,"Im Ruineninneren wurde eine weitere Steinapparatur wie die am Eingang gefunden!<Unknown17/>Machen wir die mobil, könnte uns das etwas darüber verraten, wofür die Ruine ursprünglich einmal verwendet worden ist.<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1385,"Wir beginnen schon bald mit unserem ersten und letzten Vorstoß in das Ruineninnere im Tiefgrünen Echo.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1386,"Der Weisungsstein ist reaktiviert und das Ruineninnere wieder intakt!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Jetzt können wir in die tiefsten Tiefen der Ruine vordringen und sie nach Herzenslust erforschen.
+Angeblich soll sie auf irgendeine Art und Weise mit Punkten auf der Planetenoberfläche verbunden sein<Indent/>...<Unknown17/>Mehr dazu gibt es in Reportingways Bericht im Infrastruktur-Index zu lesen!"
+1387,"Im tiefsten Inneren der Ruine konnte eine Kristallvorrichtung entdeckt werden, die dem Euhedron verdächtig ähnlich sieht.
+Leider ist auch sie verblasst<Indent/>...<Unknown17/>Also: Schnappen wir uns Aktivatormittel und bringen wir sie wieder zum Strahlen!
+Wenn wir uns mächtig reinhängen, sollten wir die Vorrichtung im Nu wieder einsatzbereit haben!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1388,"Wir beginnen schon bald mit der Restaurierung des Kristalls im Ruineninneren.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1389,"Der Kristall „Metahedron“ ist restauriert!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Dylise und ihren Forscherkollegen zufolge beinhaltet das gute Stück jede Menge intakter Datensätze.<Unknown17/>Bestimmt findet sich darin auch ein Hinweis zur vollständigen Reaktivierung des Euhedron.<Unknown17/>Der Infrastruktur-Index wurde selbst<SoftHyphen/>verständ<SoftHyphen/>lich um einen weiteren supertollen Reportingway-Bericht ergänzt!"
+1390,"Wir schließen die Ruine im Tiefgrünen Echo an das Kosmozappernetz an!
+Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1391,"Der Zeitpunkt der Fertigstellung für den Stättenradius steht nun so fest wie die Schwebeinseln unter Einfluss des Gravikreators!<Unknown17/>Den Kosmozapper zu haben, wird einiges vereinfachen. Noch etwas Geduld!"
+1392,"Der Stättenradius des Kosmozappers ist fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Mir ist zu Löffeln gekommen, dass die Fleißigen unter euch sich bereits auf die Bretter geschwungen haben.
+So lob ich mir das. Unermüdlich und stets in Bewegung!<Unknown17/>Reportingway war auch nicht untätig.
+Tut ihm doch bitte den Gefallen und lest seinen neuesten Bericht."
+1393,"Unsere Forscher haben entdeckt, dass die Datensätze im Metahedron für die Reaktivierung des Euhedron von Nutzen sind!<Unknown17/>Allerdings mangelt es uns momentan an Mitteln, solch Informationsmengen zu synchronisieren.<Unknown17/>Darum wollen wir auf Terra Firma eine Datenempfangsapparatur errichten, nur<Indent/>... dafür ist die Station gerade nicht stabil genug. Wir müssen sie verstärken!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1394,"Wir beginnen schon bald mit der Kernstabilisierung von Terra Firma.
+Macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1395,"Die Kernstabilisierung von Terra Firma ist abgeschlossen!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Aber hier wird nicht gerastet! Wir haben eine Datenempfangsapparatur zu errichten!<Unknown17/>Mit der wird es möglich sein, die gewaltigen Datensätze aus dem Wüstenbau zu empfangen und den Euhedron zu reaktivieren!<Unknown17/>Reportingway war so nett, alles Interessante in seinem Bericht zu<SoftHyphen/>sammen<SoftHyphen/>zufassen."
+1396,"Endlich ist es soweit! Wir wollen eine Datenempfangsapparatur auf das Dach von Terra Firma setzen, um die gewaltige Datenmenge aus dem Metahedron im Wüstenbau zu empfangen.<Unknown17/>Mit den Sätzen sollte sich der Euhedron vollständig reaktivieren lassen.
+ Stellt euch vor, was für Geheimnisse die Gegangenen wohl in ihm für uns hinterlassen haben könnten!<Unknown17/>Mit dem Erledigen von Stellarmissionen gelangen wir an die dafür benötigten Materialien!"
+1397,"Wir beginnen schon bald mit der Errichtung der Datenempfangsapparatur auf dem Dach Terra Firmas.
+Nehmt den Aufzug und macht euch bereit für ein neues Gemeinschaftsprojekt!"
+1398,"Die „Orthostat-Türme“, unsere heiß ersehnte Datenempfangsapparatur, sind fertig!
+Hoppeltastische Arbeit, alle zusammen!<Unknown17/>Jetzt steht dem Empfang der Datensätze aus dem Metahedron im Wüstenbau und der Reaktivierung des Euhedron nichts mehr im Weg!<Unknown17/>Ohne den selbstlosen Einsatz jedes einzelnen Projektteilnehmers wäre uns das niemals gelungen! Vielen Dank!<Unknown17/>Und ach ja<Indent/>... Reportingway meinte zu mir, sein neuester Bericht sei sein bisher bester."
+1399,"Hoppeldihopp, das war es leider schon wieder<Indent/>...
+Bei Gelegenheit will ich euch allen eine Möhre fürs Exegetenbrot spendieren, als Dank für eure Leistungen!<Unknown17/>Oder ist ein Süppchen besser? Curry, vielleicht? Naja, wie auch immer, jedenfalls sind wir den Gegangenen dicht auf den Hinterläufen!<Unknown17/>Und sobald wir wissen, wo sie hin sind, geht es auch für uns weiter. Haltet bis dahin die Löffel steif, meine Lieben!"
+1400,"Die Gravitationsverzerrung hat sich bereits deutlich verbessert. Sehr gut!"
+1401,"Was zum<Indent/>...!? An alle Einsatzteilnehmer: Riesen-Gravikugel am Einsatzort!
+Ich wiederhole: Riesen-Gravikugel am Einsatzort!"
+1402,"Das Ding wird schwächer! Die Normalisierung der Schwerkraft schreitet weiter voran!"
+1403,"Nicht mehr lang! Bald ist die Kugel Geschichte!"
+1404,"Saubere Arbeit, Kadetten! Die Riesen-Gravikugel wurde vernichtet!"
+1405,"Alle einmal bitte in die Hände spucken<Indent/>- wir haben Schwebesteine einzusammeln!"
+1406,"Die Verzerrung, ähm ... entzerrt sich! Weiter so!"
+1407,"W-Was ist das<Indent/>...?! Die Messapparate spielen plötzlich völlig verrückt!
+Irgendetwas kommt da. Passt auf!"
+1408,"Der Schaumsturm verzieht sich.
+An alle Helfer: Gebt noch ein letztes Mal alles!"
+1409,"Danke für eure tapfere Hilfe<Indent/>- die Sonderrohstoffe gehören nun der Erkundung!
+Hiermit ist der Alarm beendet."
+1410,"Der Schaumsturm verzieht sich.
+Die erwünschte Menge konnten wir leider nicht erreichen. Alarm beendet<Indent/>..."
+1411,"Diese Mutter aller Gravikugeln ist für die Verzerrung verantwortlich!
+Vernichtet sie!"
+1412,"Dank all eurer Mühen haben die Feldsucher einen Riesen-Schwebestein am Himmel ausmachen können!"
+1413,"W-Was ist das?! Da schwebt ja noch einer über unseren Köpfen!"
+1414,"Alle Sternenläufer begeben sich bitte umgehend zur markierten Stelle und feuern ihren Schleppus Radius ab!"
+1415,"Plötzliche Gravitationsanomalie am Schildwall!
+Erkundungsapparaturen sind bereits in der Schwebe<Indent/>..."
+1416,"Einsatz von mobilem Gravikreator wird eingeleitet.
+Allerdings fehlt es an nötigen Utensilien. Bitte um schnelle Lieferung!"
+1417,"Alle hergehört!
+Es folgt eine weitere Durchsage zur Gravitationsanomalie."
+1418,"Der Wir<SoftHyphen/>kungs<SoftHyphen/>be<SoftHyphen/>reich der Anomalie hat sich auf die Station ausgeweitet.
+Container wurden in die Atmosphäre geschleudert und kommen nicht zurück."
+1419,"Materialien für die Wartung der Sternenmobile sind somit verloren.
+Sofortige Lieferung von Ersatzmaterialien ist nötig, um die Logistik aufrechtzuerhalten!"
+1420,"Es konnte genügend Wartungsmaterial gesammelt werden.
+Wer kann, hilft bei der Aufstockung der Vorräte bitte noch weiter!"
+1421,"Es konnten genügend Materialien für den Gravikreator gesammelt werden.
+Danke für euren Einsatz!"
+1422,"Schaumsturm am Kap Geras<Indent/>- Alarmstufe Rot!
+Die Luftfeuchtigkeit vor Ort ist im Anstieg."
+1423,"Wucherpflanzen in der Oase der Gegangenen<Indent/>- Alarmstufe Rot!
+Pflückt die Pflanzen, um sie für die Erkundung weiterzuverarbeiten!"
+1424,"Alle hergehört!
+Es folgt eine weitere Durchsage zum Schaumsturm."
+1425,"Metallkorallen an den Magnetsanden<Indent/>- Alarmstufe Rot!
+Die Korallen kamen wohl zusammen mit dem Meereswasser angeflogen."
+1426,"Nutzen wir die Gelegenheit, um die Artenvielfalt des Kaps weiter zu erforschen.
+Sammelt bitte möglichst viele Korallen für die Erkundung ein!"
+1427,"Wir haben genügend Korallenproben zur weiteren Erforschung zusammen.
+Wer kann, hilft bei der Aufstockung der Vorräte bitte noch weiter!"
+1428,"Wir haben genügend Wucherpflanzen pflücken können.
+Damit ist dem Projekt sehr geholfen. Vielen Dank für eure Mühen!"
+1429,"Eine Gravitationsanomalie bringt den Luftdruck durcheinander!
+Die dadurch entstandenen Böen haben ein Sternenmobil umgeworfen<Indent/>- Alarmstufe Rot!"
+1430,"Die Böen haben sich gelegt. Weitere Unfälle sind unwahrscheinlich.
+An alle Einheiten: Aufstockung unseres Kosmonudelvorrats hat oberste Priorität! "
+1431,"Alle hergehört!
+Es folgt eine weitere Durchsage zu den Windböen"
+1432,"Transportdrohnen wurden mitsamt ihrer Ladung Artefakte von einer Windböe erfasst.
+Absturz in Gewässer östlich der Megalithopolis<Indent/>- Alarmstufe Rot!"
+1433,"Vor Ort fehlt es an Bergungspersonal und Reinigungsutensilien.
+Helft bei der Bergung und liefert die benötigten Utensilien!"
+1434,"Die Bergung der Relikte macht gute Fortschritte.
+Nicht mehr lange und dann kann der Alarm herabgestuft werden."
+1435,"Wir haben genug Vehikelteile und Kosmonudeln zusammen. Danke!
+Wer kann, hilft bei der Aufstockung der Vorräte bitte noch weiter."
+1436,"Windböen sorgen weiterhin für Chaos.
+Alarmstufe Rot<Indent/>- Steinschlag im Süden der Längstverlorenen Karotte!"
+1437,"Die Böen haben sich gelegt. Beginnen wir mit den Räumungsarbeiten!
+Es wurden auch einige seltene Erze entdeckt, die wir einsammeln wollen!"
+1438,"Alle hergehört!
+Es folgt eine weitere Durchsage zu den Windböen."
+1439,"Infolge der Windböen kam es zu einer Vielzahl an Verletzten.
+Sie benötigen dringend Erste Hilfe. Liefert die dazu benötigten Utensilien!"
+1440,"Uns erreichen weiterhin Verletztenmeldungen.
+Bitte unterstützt die Einsatzkräfte vor Ort mit Erste-Hilfe-Utensilien!"
+1441,"Es sind genug Utensilien zur Verarztung der Verletzten zusammengekommen!
+Vielen Dank für eure tatkräftige Unterstützung!"
+1442,"Wir haben jetzt genügend Utensilien für die Räumungsarbeiten des Steinschlags.
+Es konnten auch jede Menge seltene Erze geborgen werden. Vielen Dank!"
+1443,"協力可能な技術を持つ者は、至急現場に向かってくれたまえ！
+続けて、乱重力に関する別件の報告だ。"
+1444,"Ende der Durchsage.
+Qualifizierte Kräfte begeben sich bitte umgehend zu den Einsatzorten!"
+1445,"協力可能な技術を持つ者は、至急現場に向かってくれたまえ！
+続けて、水泡嵐に関する別件の報告だ。"
+1446,"協力可能な技術を持つ者は、至急現場に向かってくれたまえ！
+続けて、暴風に関する別件の報告だ。"
+1447,"Qualifizierte Kräfte begeben sich bitte umgehend zum Einsatzort!"
+1448,""
+1449,""
+2000,""
+2001,"Das große Jäten"
+2002,"Punkte: <Value>IntegerParameter(1)</Value> / Höchstpunktzahl: <Value>IntegerParameter(2)</Value> "
+2003,"Goldene Saliah-Eier (<Value>IntegerParameter(1)</Value> Pt.)"
+2004,"Silberne Saliah-Eier (<Value>IntegerParameter(1)</Value> Pt.)"
+2005,"Bronzene Saliah-Eier (<Value>IntegerParameter(1)</Value> Pt.)"
+2006,"Pflanzenwesen-Zweige (<Value>IntegerParameter(1)</Value> Pt.)"
+2007,"Merze die mysteriösen Pflanzenwesen aus und sichere dir Belohnungen!"
+2008,"あっ、あれがツヨツヨ・トラップですぅ～！
+そこかしこの会場でお邪魔になっていて……！"
+2009,"行く手を阻んでいた草むらが消えたぞッ！
+魔物を全て刈ったことで周囲への影響が薄れたか……先へ進もう！"
+2010,"ひときわ目立つエレガントな変異種ちゃんがいるねェ！
+あの子も刈ってみてもらえるだろうか……！？"
+2011,"ン～フフ、キミがそんな特別な力を得られるとは……！
+もしまた現れたら、ぜひとも逃さずに刈ってくれたまえッ！"
+2012,"エッグハント・ガーデンサイズを使って、
+ひとつ残らず、刈りつくしてください！"
+2013,"草刈り達成"
+2014,"ここが綺麗になれば、ひとまずの催し会場は確保できそう……！
+もうひと踏ん張り、よろしくお願いしますぅ～！"
+2015,""
+2016,""
+2017,""
+2018,""
+2019,""
+2020,""
+2021,""
+2022,""
+2023,""
+2024,""
+2025,""
+2026,""
+2027,""
+2028,""
+2029,""
+2030,""
+2031,""
+2032,""
+2033,""
+2034,""
+2035,""
+2036,""
+2037,""
+2038,""
+2039,""
+2040,""
+2041,""
+2042,""
+2043,""
+2044,""
+2045,""
+2046,""
+2047,""
+2048,""
+2049,""

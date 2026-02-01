@@ -1,0 +1,13 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Erhöht die Maximal-LP um 500."
+2,"Verkürzt (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie um 3<Indent/>%."
+3,"Erhöht den ausgeteilten Schaden um 3 %."
+4,"Verringert den erlittenen Schaden um 3<Indent/>%."
+5,"Erhöht die Wirkung von Heileffekten um 5<Indent/>%."
+6,"Verkürzt Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeiten von ergänzenden PvP-Kommandos um 10<Indent/>%."
+7,"Verlängert die Wirkungsdauer von Resistenzen um 50<Indent/>%."
+8,"Erhöht die Menge automatisch regenerierter MP um 25<Indent/>%."
+9,"Erhöht die Menge automatisch regenerierter TP um 40<Indent/>%."

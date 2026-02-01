@@ -1,0 +1,43 @@
+﻿key,0,1,2,3,4
+#,Name{Action},Icon,Addon,QuickChatTransient,
+int32,str,Image,Addon,QuickChatTransient,uint16
+0,"(Entfernt)",783,0,0,0
+1,"Hallo",9901,11030,1,1
+2,"Gutes Spiel",9902,11031,2,2
+3,"Danke",9903,11032,3,3
+4,"Gut gemacht",9904,11033,5,4
+5,"Ergänzendes PvP-Kommando 1",9927,11034,6,0
+6,"Limitrausch",9906,11035,23,6
+7,"Offensiv-Depot",9907,11036,10,0
+8,"Defensiv-Depot",9908,11037,11,0
+9,"Adrenalin-Depot",9909,11038,12,0
+10,"Wolfsherz-Depot",9910,11039,13,0
+11,"Verteidiger angreifen",9911,11040,14,0
+12,"Heiler angreifen",9912,11041,15,0
+13,"Nahkämpfer angreifen",9913,11042,16,0
+14,"Fernkämpfer angreifen",9914,11043,17,0
+15,"Verteidiger ausschalten",9915,11044,19,0
+16,"Heiler ausschalten",9916,11045,20,0
+17,"Nahkämpfer ausschalten",9917,11046,21,0
+18,"Fernkämpfer ausschalten",9918,11047,22,0
+19,"Medaillen aufsammeln",9919,11048,24,0
+20,"Medaillen holen lassen",9920,11049,25,0
+21,"Angriff",9921,11050,53,21
+22,"Rückzug",9922,11051,55,22
+23,"MP",9923,11052,22,23
+24,"TP",9924,11053,9,0
+25,"Ziel angreifen",9925,11054,50,25
+26,"Ziel aufhalten",9926,11055,51,26
+27,"Ergänzendes PvP-Kommando 2",9928,11056,7,0
+28,"Fokusangriff",9935,11057,28,0
+29,"Fokusangriff beenden",9936,11058,29,0
+30,"Entschuldigung",9965,11713,4,30
+31,"Vorrücken",9966,11714,40,31
+32,"Zurückfallen",9967,11715,41,32
+33,"Kristall eskortieren",9968,11716,56,33
+34,"Kristalleskorte anfordern",9969,11717,57,34
+35,"Ziel decken",9964,11718,52,35
+36,"Limitrausch ausführen",9970,14904,24,36
+37,"Versammeln",9971,14905,54,37
+38,"Purifikation",9905,11034,20,0
+39,"Wehr",9972,11034,21,39

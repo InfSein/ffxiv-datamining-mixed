@@ -1,0 +1,11 @@
+﻿key,0,1,2,3,4,5
+#,PhysicalBonus,MentalBonus,TacticalBonus,Experience,Name,Description
+int32,sbyte,sbyte,sbyte,uint32,str,str
+0,0,0,0,0,"",""
+1,40,0,0,2000,"Grundausbildung: Kraft","Kraft +40"
+2,0,40,0,2000,"Grundausbildung: Moral","Moral +40"
+3,0,0,40,2000,"Grundausbildung: Taktik","Taktik +40"
+4,20,20,0,2000,"Kombinationsübung: Kraft und Moral","Kraft +20 / Moral +20"
+5,20,0,20,2000,"Kombinationsübung: Kraft und Taktik","Kraft +20 / Taktik +20"
+6,0,20,20,2000,"Kombinationsübung: Moral und Taktik","Moral +20 / Taktik +20"
+7,0,0,0,3000,"Rundum-Ausbildung","Keine Änderung der Schlagkraft"

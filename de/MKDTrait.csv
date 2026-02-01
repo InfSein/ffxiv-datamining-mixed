@@ -1,0 +1,21 @@
+﻿key,0,1,2,3,4
+#,,,,,
+int32,byte,byte,int32,str,str
+0,0,0,-1,"",""
+1,1,4,82201,"Verbessertes Phantom-Beschützen","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Phantom-Beschützen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 90<Indent/>%."
+2,1,5,82202,"Verbessertes Beten","Erhöht die Heilwirkung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Beten<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 5.000."
+3,2,3,82203,"Verbessertes Wüten","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durch Mark und Bein<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Effekt von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durch Mark und Bein<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Je mehr Schaden während der Effektdauer erlitten wird, desto höher der Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Todesstoß<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Dauer: 15 Sekunden"
+4,3,4,82204,"Verbessertes Treten","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Treten<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 7<Indent/>%."
+5,3,6,82205,"Verbessertes Treten II","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Treten<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 9<Indent/>%."
+6,4,3,82206,"Verbessertes Phantom-Zielen","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Phantom-Zielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 30<Indent/>%."
+7,4,5,82207,"Verbessertes Phantom-Zielen II","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Phantom-Zielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 50<Indent/>%."
+8,5,5,82208,"Verbessertes Iainuki","Erhöht den Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Iainuki<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 500 und gewährt eine Chance von 10<Indent/>% auf den sofortigen Tod des Gegners."
+9,6,2,82209,"Verbessertes Singen","Erhöht die Effekte deiner Lieder skalierend mit der Stufe deines Phantom-Barden."
+10,12,6,82212,"Schlüsselmeister","Erlaubt dir das Öffnen von verschlossenen Türen in Dungeons."
+11,9,5,82211,"Verbessertes Bombardieren","Gewährt eine Chance von 5<Indent/>% auf den sofortigen Tod fast aller Gegner."
+12,7,5,82210,"Verbessertes Läuten","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kampfesglocke<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 5<Indent/>% und die Heilwirkung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ruheglocke<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 3.000."
+13,0,0,-1,"",""
+14,0,0,-1,"",""
+15,0,0,-1,"",""

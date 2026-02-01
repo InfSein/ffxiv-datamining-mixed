@@ -1,0 +1,10 @@
+﻿key,0,1,2
+#,BNpcName,Icon,Text
+int32,BNpcName,Image,str
+0,0,0,""
+1,9379,72611,"Mission: Finde und zerstöre ein Objekt größerer Kampfkraft."
+2,9409,72612,"Dich kenn ich doch! Komm her und zeig, was du drauf hast!"
+3,9384,72613,"Wer stellt sich dem Inferno?"
+4,9958,72614,"Primärziel erfasst. Starte Eliminierungssequenz."
+5,9695,72615,"Du willst meinen Kopf? Dann hol ihn dir doch!"
+6,9409,72616,"Ist das nicht ein herrliches Blutbad? Komm, wir planschen ein wenig!"

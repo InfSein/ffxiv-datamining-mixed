@@ -1,0 +1,19 @@
+﻿key,0,1,2
+#,Icon,Name,Description
+int32,Image,str,str
+0,0,"",""
+1,216801,"Ebeneneffekt: Blind","Präzision aller Gruppenmitglieder ist verringert."
+2,216802,"Ebeneneffekt: LP-Malus","Maximal-LP aller Gruppenmitglieder sind verringert."
+3,216803,"Ebeneneffekt: Schadensmalus","Ausgeteilter Schaden aller Gruppenmitglieder ist verringert."
+4,216804,"Ebeneneffekt: Fertigkeiten unwirksam","Gruppenmitglieder können keine Fertigkeiten einsetzen."
+5,216805,"Ebeneneffekt: Hast","Intervalle zwischen Auto-Attacken und Reaktivierungszeiten von Waffenfertigkeiten sind für alle Gruppenmitglieder verkürzt."
+6,216806,"Ebeneneffekt: LP-/MP-Bonus","Maximal-LP und -MP aller Gruppenmitglieder sind erhöht."
+7,216807,"Ebeneneffekt: Gegenstände verboten","Gruppenmitglieder können Gegenstände und manche Spezialgegenstände nicht einsetzen."
+8,216808,"Ebeneneffekt: Sprint unmöglich","Gruppenmitglieder können Sprint nicht einsetzen."
+9,216809,"Ebeneneffekt: Rückstoß unwirksam","Gruppenmitglieder und Gegner werden nicht von Rückstoß- und Heranzieheffekten beeinflusst."
+10,216810,"Ebeneneffekt: LP-Regeneration unwirksam","Gruppenmitglieder können nicht automatisch LP regenerieren."
+11,216811,"Ebeneneffekt: Nichtsnebel","Von Nichtsnebel umhüllt. Ausgeteilter Schaden und Bewegungsgeschwindigkeit aller Gegner ist erhöht, ihr erlittener Schaden verringert."
+12,216812,"Ebeneneffekt: Sprint","Bewegungsgeschwindigkeit aller Gruppenmitglieder ist erhöht."
+13,216813,"Ebeneneffekt: Zaubersteine verboten","Gruppenmitglieder können Zaubersteine nicht einsetzen."
+14,216814,"Ebeneneffekt: Demiklone blockiert","Gruppenmitglieder können Demiklone nicht einsetzen."
+15,216815,"Ebeneneffekt: Weihrauch unwirksam","Gruppenmitglieder können keinen Weihrauch einsetzen."

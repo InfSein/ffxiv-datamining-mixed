@@ -1,0 +1,18 @@
+﻿key,0,1,2,3
+#,,,,
+int32,str,int32,int32,byte
+0,"",0,0,0
+1,"PvP-Team „<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>“ gegründet.",0,1,0
+2,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> <If(Equal(ObjectParameter(1),ObjectParameter(2)))>trittst<Else/>tritt</If> dem Team bei.",2,0,0
+3,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> verlässt das Team.",2,0,0
+4,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> verlässt das Team.",2,0,0
+5,"",2,0,0
+6,"",2,0,0
+7,"Teamname zu „<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>“ geändert.",0,1,0
+8,"Das Wappen wurde geändert.",0,0,0
+9,"Das Team wurde auf den Rang „<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>“ befördert.",0,3,0
+10,"Das Team wurde auf den Rang „<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>“ zurückgesetzt.",0,3,0
+11,"Eine neue Saison hat begonnen.",0,0,0
+12,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> <If(Equal(ObjectParameter(1),ObjectParameter(2)))>bist<Else/>ist</If> nun Anführer, da der vorige Anführer eine bestimmte Zeit abwesend war.",2,0,0
+13,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> <If(Equal(ObjectParameter(1),ObjectParameter(2)))>bist<Else/>ist</If> nun Zweiter Anführer.",2,0,0
+14,"<Clickable(<If(Equal(ObjectParameter(1),ObjectParameter(2)))><Switch(1)><Case(1)>du</Case><Case(2)>deiner</Case><Case(3)>dir</Case><Case(4)>dich</Case></Switch><Else/><If(PlayerParameter(7))><SheetDe(ObjStr,2,PlayerParameter(7),1,1,1)/><Else/>ObjectParameter(2)</If></If>)/> <If(Equal(ObjectParameter(1),ObjectParameter(2)))>wurdest<Else/>wurde</If> zum Anführer ernannt.",2,0,0

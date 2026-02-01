@@ -1,0 +1,9 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,,BNpcBase[0],BNpcBase[1],,,Icon[0],Icon[1],Icon[2],Icon[3],Icon[4],,
+int32,uint16,BNpcName,BNpcName,byte,bit&01,Image,Image,Image,Image,Image,str,str
+0,50,6863,6864,6,False,60666,61651,61654,60939,60942,"Chaser","Eine Antigrav-Kriegsmaschine der nächsten Generation. Der Rotorbrecher pulverisiert die Panzerung anderer Kriegsmaschinen, während die Waffen Laserschwert und Jagdfalke mit dem Fußvolk aufräumen. Um die Flugfähigkeit zu optimieren, musste ein leichtes Chassis
+verbaut werden, was die
+Belastbarkeit senkt."
+1,50,6865,6866,2,False,60667,61652,61655,60940,60943,"Unterdrücker","Eine auf den Gebäudeabriss spezialisierte Kriegsmaschine, deren wuchtige Attacken gegnerische Türme und Kerne in kürzester Zeit zu Schutt verwandelt. Im Kampf gegen Fußvolk und andere Kampf<SoftHyphen/>maschinen ist der Unterdrücker durch seine langsame Ge<SoftHyphen/>schwindig<SoftHyphen/>keit im Nachteil."
+2,50,6867,6868,2,True,60668,61653,61656,60941,60944,"Brutalus","Mit seiner zerstörerischen Kraft beherrscht der Brutalus das Schlachtfeld. Sein Großflammenwerfer und Megastrahl sind bei allen Gegnern gefürchtet, und der Doppelraketenschlag bringt Türme wie
+Kerne zum Wanken."

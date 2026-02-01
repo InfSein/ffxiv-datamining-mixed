@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,byte,str
+0,0,"Alle"
+1,0,"Standard"
+2,1,"Klasse/Job"
+3,2,"Aufträge"
+4,3,"Inhalte"
+5,6,"PvP-Saisons"
+6,7,"Begleiter"
+7,9,"Andere"
+8,4,"Nebeninhalte"
+9,8,"Region"
+10,5,"PvP-Serien"

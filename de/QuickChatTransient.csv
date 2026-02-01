@@ -1,0 +1,137 @@
+﻿key,0
+#,Text{Output}
+int32,str
+0,""
+1,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Hallo!<28>01</28><27>02</27></Color>"
+2,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Gutes Spiel!<28>01</28><27>02</27></Color>"
+3,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Danke!<28>01</28><27>02</27></Color>"
+4,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Gut gemacht!<28>01</28><27>02</27></Color>"
+5,"Variabler Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+Verwendet den Namen und die Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit von dem Kommando, das als <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ergänzendes Kommando<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in Slot 1 angelegt ist.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Ergänzendes PvP-Kommando 1] bereit!<28>01</28><27>02</27></Color>
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Ergänzendes PvP-Kommando 1] in xx Sekunden bereit!<28>01</28><27>02</27></Color>"
+6,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Job-Name] Limitrausch bereit!<28>01</28><27>02</27></Color>
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Job-Name] Limitrausch bei xx %!<28>01</28><27>02</27></Color>"
+7,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich hebe das Offensiv-Depot aus!<28>01</28><27>02</27></Color>"
+8,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich hebe das Defensiv-Depot aus!<28>01</28><27>02</27></Color>"
+9,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich hebe das Adrenalin-Depot aus!<28>01</28><27>02</27></Color>"
+10,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich hebe das Wolfsherz-Depot aus!<28>01</28><27>02</27></Color>"
+11,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich greife den Verteidiger an!<28>01</28><27>02</27></Color>"
+12,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich greife den Heiler an!<28>01</28><27>02</27></Color>"
+13,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich greife den Nahkämpfer an!<28>01</28><27>02</27></Color>"
+14,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich greife den Fernkämpfer an!<28>01</28><27>02</27></Color>"
+15,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich schalte den Verteidiger aus!<28>01</28><27>02</27></Color>"
+16,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich schalte den Heiler aus!<28>01</28><27>02</27></Color>"
+17,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich schalte den Nahkämpfer aus!<28>01</28><27>02</27></Color>"
+18,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich schalte den Fernkämpfer aus!<28>01</28><27>02</27></Color>"
+19,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich sammle die Medaillen auf!<28>01</28><27>02</27></Color>"
+20,"Feststehender Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Holt die Medaillen!<28>01</28><27>02</27></Color>"
+21,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Zum Angriff!<28>01</28><27>02</27></Color>"
+22,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Neu formieren!<28>01</28><27>02</27></Color>"
+23,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Zeigt die verbleibenden Magiepunkte als Prozentwert an.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>MP auf xx %!<28>01</28><27>02</27></Color>"
+24,"Variabler Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+Zeigt die verbleibenden Taktikpunkte als Prozentwert an.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>TP auf xx %!<28>01</28><27>02</27></Color>"
+25,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Verwendet das anvisierte Ziel.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich greife den [Job-Name] an!<28>01</28><27>02</27></Color>"
+26,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Verwendet das anvisierte Ziel.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich halte den [Job-Name] auf!<28>01</28><27>02</27></Color>"
+27,"Variabler Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+Verwendet den Namen und die Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit von dem Kommando, das als <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ergänzendes Kommando<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in Slot 2 angelegt ist.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Ergänzendes PvP-Kommando 2] bereit!<28>01</28><27>02</27></Color>
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Ergänzendes PvP-Kommando 2] in xx Sekunden bereit!<28>01</28><27>02</27></Color>"
+28,"Variabler Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+Verwendet das anvisierte Ziel und zeigt einen Countdown-Zähler über ihm an.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Konzentriert euch auf den [Job-Name]!<28>01</28><27>02</27></Color>"
+29,"Fester Ausdruck, der nur in „The Feast“ zur Verfügung steht.
+Verwendet das anvisierte Ziel.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Konzentrierten Angriff beenden!<28>01</28><27>02</27></Color>"
+30,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Tut mir leid!<28>01</28><27>02</27></Color>"
+31,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich presche vor!<28>01</28><27>02</27></Color>"
+32,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich falle zurück!<28>01</28><27>02</27></Color>"
+33,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Job-Name] Ich eskortiere jetzt den Kristall!<28>01</28><27>02</27></Color>"
+34,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Eskortiert den Kristall!<28>01</28><27>02</27></Color>"
+35,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Verwendet das anvisierte Ziel.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Ich decke den [Job-Name]!<28>01</28><27>02</27></Color>"
+36,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>[Job-Name] führt den Limitrausch aus!<28>01</28><27>02</27></Color>"
+37,"Feststehender Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Versammeln!<28>01</28><27>02</27></Color>"
+38,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Verwendet die Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit von Purifikation.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Purifikation bereit!<28>01</28><27>02</27></Color>
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Purifikation in xx Sekunden bereit!<28>01</28><27>02</27></Color>"
+39,"Variabler Ausdruck, der nur in „Crystalline Conflict“ zur Verfügung steht.
+Verwendet die Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit von Wehr.
+
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Wehr bereit!<28>01</28><27>02</27></Color>
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Wehr in xx Sekunden bereit!<28>01</28><27>02</27></Color>"

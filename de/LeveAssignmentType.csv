@@ -1,0 +1,19 @@
+﻿key,0,1
+#,Icon,Name
+int32,Image,str
+0,0,""
+1,62501,"Söldner"
+2,62510,"Minenarbeiter"
+3,62511,"Gärtner"
+4,62512,"Fischer"
+5,62502,"Zimmerer"
+6,62503,"Grobschmied"
+7,62504,"Plattner"
+8,62505,"Goldschmied"
+9,62506,"Gerber"
+10,62507,"Weber"
+11,62508,"Alchemist"
+12,62509,"Gourmet"
+13,61461,"Der Mahlstrom"
+14,61462,"Bruderschaft der Morgenviper"
+15,61463,"Legion der Unsterblichen"

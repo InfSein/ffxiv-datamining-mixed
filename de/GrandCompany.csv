@@ -1,0 +1,7 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Name,,,,,,,,,
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,sbyte
+0,"Keine",0,"",0,0,0,0,0,"",127
+1,"Mahlstrom",4,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Mahlstrom</Case><Case(2)>beim Mahlstrom</Case><Case(3)>vom Mahlstrom</Case><Case(4)>im Mahlstrom</Case><Case(5)>Mahlstrom</Case></Switch>",8
+2,"Bruderschaft[p] der Morgenviper",3,"",0,0,1,1,0,"<Switch(IntegerParameter(1))><Case(1)>zur Bruderschaft der Morgenviper</Case><Case(2)>bei der Bruderschaft der Morgenviper</Case><Case(3)>von der Bruderschaft</Case><Case(4)>in der Bruderschaft</Case><Case(5)>Bruderschaft</Case></Switch>",9
+3,"Legion[p] der Unsterblichen",3,"",0,0,1,1,0,"<Switch(IntegerParameter(1))><Case(1)>zur Legion der Unsterblichen</Case><Case(2)>bei der Legion der Unsterblichen</Case><Case(3)>von der Legion</Case><Case(4)>in der Legion</Case><Case(5)>Legion</Case></Switch>",10

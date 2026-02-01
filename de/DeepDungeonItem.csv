@@ -1,0 +1,42 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Tooltip,Action
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,Action
+0,0,"",0,"",0,0,1,0,0,"","",0
+1,27901,"",0,"",0,0,1,0,0,"Tongefäß des Siegelbruchs","Entfernt alle Fallen der aktuellen Ebene.",6259
+2,27902,"",0,"",0,0,1,0,0,"Tongefäß der Sicht","Enthüllt die gesamte Karte der aktuellen Ebene und macht alle Fallen sichtbar.",6260
+3,27903,"",0,"",0,0,1,0,0,"Tongefäß der Stärkung","Erhöht den eigenen ausgeteilten Schaden und die Wirkung von Heilmagie um 30<Indent/>%.",6262
+4,27904,"",0,"",0,0,1,0,0,"Tongefäß der Abwehr","Verringert den eigenen erlittenen Schaden um 40<Indent/>%.",6263
+5,27905,"",0,"",0,0,1,0,0,"Tongefäß der Schätze","Erhöht die Zahl der Schatztruhen auf der nächsten Ebene.",6264
+6,27906,"",0,"",0,0,1,0,0,"Tongefäß des Feindtods","Verringert die Zahl der Gegner auf der nächsten Ebene.",6265
+7,27907,"",0,"",0,0,1,0,0,"Tongefäß der Feindwandlung","Verwandelt die Gegner in einem der Räume auf der nächsten Ebene in Mimiks oder Mandragoras.",6266
+8,27908,"",0,"",0,0,1,0,0,"Tongefäß der Entzauberung","Hebt den Status Verwünschung auf.",6267
+9,27909,"",0,"",0,0,1,0,0,"Tongefäß des Glücks","Erhöht die Chance, dass beim Sieg über Gegner auf der aktuellen Ebene eine Schatztruhe erscheint.",6268
+10,27910,"",0,"",0,0,1,0,0,"Tongefäß der Wandlung","Verwandelt Gegner in deiner Nähe in Frösche, Flusskobolde oder Hühner.",6269
+11,27911,"",0,"",0,0,1,0,0,"Tongefäß der Enthexung","Hebt alle Effekte der aktuellen Ebene auf.",6270
+12,27912,"",0,"",0,0,1,0,0,"Tongefäß der Manticoren","Verwandelt dich in eine Manticore.",6271
+13,27913,"",0,"",0,0,1,0,0,"Tongefäß der Sukkuben","Verwandelt dich in einen Sukkubus.",6272
+14,27916,"",0,"",0,0,1,0,0,"Tongefäß des Finders","Enthüllt verborgene Schätze auf der aktuellen Ebene. Der Effekt endet, wenn ein Schatz gefunden wurde.",6870
+15,27914,"",0,"",0,0,1,0,0,"Tongefäß des Lebens","Belebt das nächste Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied, das kampfunfähig wird.",6868
+16,27915,"",0,"",0,0,1,0,0,"Tongefäß der Kuribu","Verwandelt dich in eine Kuribu.",6869
+17,27919,"",0,"",0,0,1,0,0,"Tongefäß der Feindschwächung","Schwächt die Abwehr aller Gegner auf der aktuellen Ebene.",11275
+18,27917,"",0,"",0,0,1,0,0,"Tongefäß des Verschwindens","Belegt alle Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder mit dem Status Verschwunden.",11276
+19,27918,"",0,"",0,0,1,0,0,"Tongefäß der Feindversteinerung","Versteinert alle Gegner auf der aktuellen Ebene.",11277
+20,27920,"",0,"",0,0,1,0,0,"Ätherogefäß der Trägheit","Verlangsamt alle Gegner auf der aktuellen Ebene.",32144
+21,27921,"",0,"",0,0,1,0,0,"Ätherogefäß der Schwäche","Verringert die LP aller Gegner der aktuellen Ebene auf 1.",32145
+22,27922,"",0,"",0,0,1,0,0,"Ätherogefäß der Macht","Verwandelt dich in einen Brummonauten.",32146
+23,27901,"",0,"",0,0,1,0,0,"Ätherogefäß des Siegelbruchs","Entfernt alle Fallen der aktuellen Ebene.",6259
+24,27902,"",0,"",0,0,1,0,0,"Ätherogefäß der Sicht","Enthüllt die gesamte Karte der aktuellen Ebene und macht alle Fallen sichtbar.",6260
+25,27903,"",0,"",0,0,1,0,0,"Ätherogefäß der Stärkung","Erhöht den eigenen ausgeteilten Schaden und die Wirkung von Heilmagie um 30<Indent/>%.",6262
+26,27904,"",0,"",0,0,1,0,0,"Ätherogefäß der Abwehr","Verringert den eigenen erlittenen Schaden um 40<Indent/>%.",6263
+27,27905,"",0,"",0,0,1,0,0,"Ätherogefäß der Schätze","Erhöht die Zahl der Schatztruhen auf der nächsten Ebene.",6264
+28,27906,"",0,"",0,0,1,0,0,"Ätherogefäß des Feindtods","Verringert die Zahl der Gegner auf der nächsten Ebene.",6265
+29,27907,"",0,"",0,0,1,0,0,"Ätherogefäß der Feindwandlung","Verwandelt die Gegner in einem der Räume auf der nächsten Ebene in Mimiks oder Mandragoras.",6266
+30,27908,"",0,"",0,0,1,0,0,"Ätherogefäß der Entzauberung","Hebt den Status <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Verwünschung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf.",6267
+31,27909,"",0,"",0,0,1,0,0,"Ätherogefäß des Glücks","Erhöht die Chance, dass beim Sieg über Gegner auf der aktuellen Ebene eine Schatztruhe erscheint.",6268
+32,27910,"",0,"",0,0,1,0,0,"Ätherogefäß der Wandlung","Verwandelt Gegner in deiner Nähe in Frösche, Flusskobolde oder Hühner.",6269
+33,27911,"",0,"",0,0,1,0,0,"Ätherogefäß der Enthexung","Hebt alle Effekte der aktuellen Ebene auf.",6270
+34,27916,"",0,"",0,0,1,0,0,"Ätherogefäß des Finders","Enthüllt verborgene Schätze auf der aktuellen Ebene. Der Effekt endet, wenn ein Schatz gefunden wurde.",6870
+35,27914,"",0,"",0,0,1,0,0,"Ätherogefäß des Lebens","Belebt das nächste Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied, das kampfunfähig wird.",6868
+36,27923,"",0,"",0,0,1,0,0,"Tongefäß der Hast","Verleiht allen Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern den Status <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",44616
+37,27924,"",0,"",0,0,1,0,0,"Tongefäß der Reinigung","Hebt bei allen Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern alle negativen Statuseffekte (sofern entfernbar) auf und schützt vor dem nächsten negativen Statuseffekt.",44617
+38,27925,"",0,"",0,0,1,0,0,"Tongefäß der Weisung","Erzeugt auf der nächsten Ebene einen Leuchter.",44618

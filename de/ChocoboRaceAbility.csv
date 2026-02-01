@@ -1,0 +1,80 @@
+﻿key,0,1,2,3,4
+#,Name,Description,Icon,ChocoboRaceAbilityType,Value
+int32,str,str,Image,ChocoboRaceAbilityType,byte
+0,"","",0,0,0
+1,"Chocobo-Sprint I","Erhöht vor<SoftHyphen/>über<SoftHyphen/>gehend die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit, ohne Puste zu verbrauchen.  Dauer: 1 Sekunde",70001,1,1
+2,"Chocobo-Sprint II","Erhöht vor<SoftHyphen/>über<SoftHyphen/>gehend die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit, ohne Puste zu verbrauchen.  Dauer: 2 Sekunden",70002,1,2
+3,"Chocobo-Sprint III","Erhöht vor<SoftHyphen/>über<SoftHyphen/>gehend die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit, ohne Puste zu verbrauchen.  Dauer: 3 Sekunden",70003,1,3
+4,"Chocobo-Vita I","Stellt 6 % der maximalen Puste wieder her.",70004,2,6
+5,"Chocobo-Vita II","Stellt 9 % der maximalen Puste wieder her.",70005,2,9
+6,"Chocobo-Vita III","Stellt 12 % der maximalen Puste wieder her.",70006,2,12
+7,"Chocobo-Medica I","Entfernt alle negativen Statuseffekte mit einer Erfolgschance von 75 %.",70007,3,75
+8,"Chocobo-Medica II","Entfernt alle negativen Statuseffekte mit einer Erfolgschance von 90 %.",70008,3,90
+9,"Chocobo-Medica III","Entfernt alle negativen Statuseffekte mit einer Erfolgschance von 100 %.",70009,3,100
+10,"Chocobo-Erlösung I","Entfernt den Statuseffekt „Gewicht“ und stellt 80 Punkte der Puste wieder her.",70010,4,80
+11,"Chocobo-Erlösung II","Entfernt den Statuseffekt „Gewicht“ und stellt 130 Punkte der Puste wieder her.",70011,4,130
+12,"Chocobo-Erlösung III","Entfernt den Statuseffekt „Gewicht“ und stellt 180 Punkte der Puste wieder her.",70012,4,180
+13,"Chocobo-Flüstern I","Entfernt den Statuseffekt „Raserei“ und stellt 100 Punkte der Puste wieder her.",70013,5,100
+14,"Chocobo-Flüstern II","Entfernt den Statuseffekt „Raserei“ und stellt 150 Punkte der Puste wieder her.",70014,5,150
+15,"Chocobo-Flüstern III","Entfernt den Statuseffekt „Raserei“ und stellt 200 Punkte der Puste wieder her.",70015,5,200
+16,"Chocobo-Reflexion I","Wirft alle negativen Statuseffekte ohne Flächenwirkung zurück auf den Angreifer. Dauer: 10 Sekunden",70016,6,10
+17,"Chocobo-Reflexion II","Wirft alle negativen Statuseffekte ohne Flächenwirkung zurück auf den Angreifer. Dauer: 15 Sekunden",70017,6,15
+18,"Chocobo-Reflexion III","Wirft alle negativen Statuseffekte ohne Flächenwirkung zurück auf den Angreifer. Dauer: 20 Sekunden",70018,6,20
+19,"Chocobo-Klau I","Nimmt mit einer Erfolgschance von 50 % dem Chocobo vor dir ein Extra weg.",70019,7,50
+20,"Chocobo-Klau II","Nimmt mit einer Erfolgschance von 70 % dem Chocobo vor dir ein Extra weg.",70020,7,70
+21,"Chocobo-Klau III","Nimmt mit einer Erfolgschance von 90 % dem Chocobo vor dir ein Extra weg.",70021,7,90
+22,"Chocobo-Schweigen I","Erzeugt ein Feld der Stille, in dem andere Chocobos keine Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten einsetzen können. Dauer: 35 Sekunden",70022,8,35
+23,"Chocobo-Schweigen II","Erzeugt ein Feld der Stille, in dem andere Chocobos keine Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten einsetzen können. Dauer: 40 Sekunden",70023,8,40
+24,"Chocobo-Schweigen III","Erzeugt ein Feld der Stille, in dem andere Chocobos keine Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten einsetzen können. Dauer: 45 Sekunden",70024,8,45
+25,"Chocobo-Schock I","Erzeugt ein Feld der Verwirrung, in dem andere Chocobos keine Extras einsetzen können. Dauer: 25 Sekunden",70025,9,25
+26,"Chocobo-Schock II","Erzeugt ein Feld der Verwirrung, in dem andere Chocobos keine Extras einsetzen können. Dauer: 30 Sekunden",70026,9,30
+27,"Chocobo-Schock III","Erzeugt ein Feld der Verwirrung, in dem andere Chocobos keine Extras einsetzen können. Dauer: 35 Sekunden",70027,9,35
+28,"Langer Atem I","Verringert den Verbrauch von Puste während des Beschleunigens um 9 %.",70028,10,9
+29,"Langer Atem II","Verringert den Verbrauch von Puste während des Beschleunigens um 12 %.",70029,10,12
+30,"Langer Atem III","Verringert den Verbrauch von Puste während des Beschleunigens um 15 %.",70030,10,15
+31,"Federleicht I","Erhöht die Chance, dem Statuseffekt „Gewicht“ zu widerstehen, um 60 %.",70031,11,60
+32,"Federleicht II","Erhöht die Chance, dem Statuseffekt „Gewicht“ zu widerstehen, um 70 %.",70032,11,70
+33,"Federleicht III","Erhöht die Chance, dem Statuseffekt „Gewicht“ zu widerstehen, um 80 %.",70033,11,80
+34,"Federleicht IV","Erhöht die Chance, dem Statuseffekt „Gewicht“ zu widerstehen, um 90 %.",70034,11,90
+35,"Federleicht V","Erhöht die Chance, dem Statuseffekt „Gewicht“ zu widerstehen, um 100 %.",70035,11,100
+36,"Kühler Kopf I","Erhöht die Chance, dem Statuseffekt „Raserei“ zu widerstehen, um 60 %.",70036,12,60
+37,"Kühler Kopf II","Erhöht die Chance, dem Statuseffekt „Raserei“ zu widerstehen, um 70 %.",70037,12,70
+38,"Kühler Kopf III","Erhöht die Chance, dem Statuseffekt „Raserei“ zu widerstehen, um 80 %.",70038,12,80
+39,"Kühler Kopf IV","Erhöht die Chance, dem Statuseffekt „Raserei“ zu widerstehen, um 90 %.",70039,12,90
+40,"Kühler Kopf V","Erhöht die Chance, dem Statuseffekt „Raserei“ zu widerstehen, um 100 %.",70040,12,100
+41,"Herz aus Stahl I","Erhöht die Regeneration von Puste um 50 %.",70041,13,50
+42,"Herz aus Stahl II","Erhöht die Regeneration von Puste um 65 %.",70042,13,65
+43,"Herz aus Stahl III","Erhöht die Regeneration von Puste um 80 %.",70043,13,80
+44,"Schneller Lerner I","Erhöht die in Rennen erworbene Routine um 10 %.",70044,14,10
+45,"Schneller Lerner II","Erhöht die in Rennen erworbene Routine um 20 %.",70045,14,20
+46,"Schneller Lerner III","Erhöht die in Rennen erworbene Routine um 30 %.",70046,14,30
+47,"Schnellstart","Der Chocobo beginnt das Rennen mit maximaler Ge<SoftHyphen/>schwindig<SoftHyphen/>keit.",70047,15,1
+48,"Puste-Klau","Erzeugt ein Feld, das jede Sekunde 15 Puste von anderen Chocobos in der Nähe absorbiert.",70048,16,15
+49,"Puste-Klau II","Erzeugt ein Feld, das jede Sekunde 25 Puste von anderen Chocobos in der Nähe absorbiert.",70049,16,25
+50,"Puste-Klau III","Erzeugt ein Feld, das jede Sekunde 35 Puste von anderen Chocobos in der Nähe absorbiert.",70050,16,35
+51,"Sporenwechsel","Ersetzt das Extra in deinem Besitz durch ein anderes.",70051,17,0
+52,"Windschatten","Erhält alle Effekte, die Extras oder Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten des Chocobos vor dir bewirkt haben, auch selbst.
+Dauer: 7 Sekunden",70052,18,7
+53,"Windschatten II","Erhält alle Effekte, die Extras oder Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten des Chocobos vor dir bewirkt haben, auch selbst.
+Dauer: 11 Sekunden",70053,18,11
+54,"Windschatten III","Erhält alle Effekte, die Extras oder Fä<SoftHyphen/>hig<SoftHyphen/>kei<SoftHyphen/>ten des Chocobos vor dir bewirkt haben, auch selbst.
+Dauer: 15 Sekunden",70054,18,15
+55,"Daunenpuffer","Bleibt von Feldern anderer Chocobos unbeeinflusst.
+Dauer: 10 Sekunden",70055,19,10
+56,"Daunenpuffer II","Bleibt von Feldern anderer Chocobos unbeeinflusst.
+Dauer: 20 Sekunden",70056,19,20
+57,"Daunenpuffer III","Bleibt von Feldern anderer Chocobos unbeeinflusst.
+Dauer: 30 Sekunden",70057,19,30
+58,"Super-Sprint","Sprintet unabhängig vom Wetter und den Gegebenheiten der Rennstrecke, bis die Puste auf 0 gesunken ist.",70058,20,0
+59,"Chocobo-Schutzengel","Regeneriert einmal 60 Puste, sobald die Puste auf 0 gesunken ist.",70059,21,60
+60,"Chocobo-Schutzengel II","Regeneriert einmal 130 Puste, sobald die Puste auf 0 gesunken ist.",70060,21,130
+61,"Chocobo-Schutzengel III","Regeneriert einmal 200 Puste, sobald die Puste auf 0 gesunken ist.",70061,21,200
+62,"Zäher Vogel","Verkürzt die Wirkungsdauer erlittener negativer Statuseffekte auf 80 %.",70062,22,80
+63,"Zäher Vogel II","Verkürzt die Wirkungsdauer erlittener negativer Statuseffekte auf 65 %.",70063,22,65
+64,"Zäher Vogel III","Verkürzt die Wirkungsdauer erlittener negativer Statuseffekte auf 50 %.",70064,22,50
+65,"Entschleunigung","Regeneriert 0,8 % Puste bei jedem Abbremsen.",70065,23,8
+66,"Entschleunigung II","Regeneriert 1 % Puste bei jedem Abbremsen.",70066,23,10
+67,"Entschleunigung III","Regeneriert 1,2 % Puste bei jedem Abbremsen.",70067,23,12
+68,"","",0,0,0
+69,"","",0,0,0
+70,"","",0,0,0

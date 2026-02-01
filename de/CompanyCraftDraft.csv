@@ -1,0 +1,42 @@
+﻿key,0,1,2,3,4,5,6,7,8
+#,Name,CompanyCraftDraftCategory,RequiredItem[0],RequiredItemCount[0],RequiredItem[1],RequiredItemCount[1],RequiredItem[2],RequiredItemCount[2],Order
+int32,str,CompanyCraftDraftCategory,Item,byte,Item,byte,Item,byte,uint32
+0,"Luftschiff-Bauplan: Modell 2",1,12923,6,0,0,0,0,1
+1,"Luftschiff-Bauplan: Modell 3",1,12924,10,12923,4,0,0,2
+2,"Luftschiff-Bauplan: Modell 4",1,12925,10,12923,4,0,0,3
+3,"Luftschiff-Bauplan: Modell 5",1,12926,14,12924,4,0,0,4
+4,"Luftschiff-Bauplan: Modell 6",1,12927,14,12925,4,12923,4,5
+5,"Gebäude-Bauplan: Küche",2,12920,10,0,0,0,0,1
+6,"Gebäude-Bauplan: Rüstungskammer",2,12921,10,0,0,0,0,2
+7,"Gebäude-Bauplan: Waffenkammer",2,12922,9,12921,8,0,0,3
+8,"Ätherrad-Bauplan: Modell 2",0,12928,6,0,0,0,0,1
+9,"Ätherrad-Bauplan: Modell 3",0,12928,6,0,0,0,0,2
+10,"Ätherrad-Bauplan: Modell 4",0,12928,6,0,0,0,0,3
+11,"Ätherrad-Bauplan: Modell 5",0,12929,4,12922,2,0,0,4
+12,"Ätherrad-Bauplan: Modell 6",0,12929,4,12922,2,0,0,5
+13,"Ätherrad-Bauplan: Modell 7",0,12929,4,12922,2,0,0,6
+14,"Ätherrad-Ständer-Bauplan: Modell 2",0,12929,6,12922,3,12920,8,7
+15,"Gebäude-Bauplan: Mog-Haus",2,12922,11,12921,10,12923,8,4
+16,"Ätherrad-Ständer-Bauplan: Modell 3",0,12929,8,12922,5,12920,10,8
+17,"Luftschiff-Bauplan: Modell 7",1,12927,18,12926,8,12925,8,6
+18,"Ätherrad-Ständer-Bauplan: Modell 4",0,12929,10,12922,7,12920,12,9
+19,"Ätherrad-Ständer-Bauplan: Modell 5",0,12929,12,12922,9,12920,14,10
+20,"Gebäude-Bauplan: Chocobo-Haus",2,12922,14,12921,12,12923,10,5
+21,"Gebäude-Bauplan: Paissa-Haus",2,12922,16,12921,14,12923,12,6
+22,"Gebäude-Bauplan: Karfunkel-Haus",2,12922,18,12921,16,12923,14,7
+23,"Gebäude-Bauplan: Burg Shirogane",2,12922,20,12921,18,12923,16,8
+24,"Tauchboot-Bauplan: Modell 1",1,5374,6,0,0,0,0,7
+25,"Tauchboot-Bauplan: Modell 2",1,12924,10,12923,4,0,0,8
+26,"Tauchboot-Bauplan: Modell 3",1,12925,10,12923,4,0,0,9
+27,"Gebäude-Bauplan: Obskurer-Otter-Haus",2,12922,21,12921,19,12923,17,9
+28,"Tauchboot-Bauplan: Modell 4",1,12926,14,12924,4,0,0,10
+29,"Tauchboot-Bauplan: Modell 5",1,12927,14,12925,4,12923,4,11
+30,"Tauchboot-Bauplan: Modell 6",1,26528,18,12926,8,12924,8,12
+31,"Gebäude-Bauplan: Fachwerkhaus",2,12922,18,29590,10,26528,8,10
+32,"Gebäude-Bauplan: Ambosshaus",2,12922,18,29590,10,26528,8,10
+33,"Gebäude-Bauplan: Floristenhaus",2,12922,18,29590,10,26528,8,10
+34,"Gebäude-Bauplan: Schmiedehaus",2,12922,18,29590,10,26528,8,10
+35,"Gebäude-Bauplan: Kaffeehaus",2,12922,18,29590,10,26528,8,10
+36,"Gebäude-Bauplan: Lebkuchenhaus",2,29590,18,37083,10,26528,8,10
+37,"Gebäude-Bauplan: Sukiya-Haus",2,29590,18,37083,10,26528,8,10
+38,"Gebäude-Bauplan: Landhaus",2,29590,18,37083,10,26528,8,10

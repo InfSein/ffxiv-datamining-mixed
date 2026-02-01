@@ -1,0 +1,14 @@
+﻿key,0,1
+#,Name,
+int32,str,str
+0,"",""
+1,"",""
+2,"Set-Bonus: ",""
+3,"",""
+4,"Ermächtigung: ",""
+5,"",""
+6,"Set-Bonus: ",""
+7,"Eureka-Effekt",""
+8,"Bozja-Bonus:",""
+9,"Kreszentia-Effekt:",""
+10,"Kreszentia-Set-Bonus:","Erfordert <Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>ausgerüstetes Setteil<Else/>ausgerüstete Setteile</If>"

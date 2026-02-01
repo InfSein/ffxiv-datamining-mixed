@@ -1,0 +1,18 @@
+﻿key,0,1
+#,,
+int32,sbyte,str
+0,0,"* Nicht länger als ""Staatliche Gesellschaft"""
+1,1,"Kämpfe"
+2,2,"PvP"
+3,3,"FATEs"
+4,4,"Freibriefe"
+5,5,"Handwerker/Sammler"
+6,6,"Schatzsuche"
+7,7,"Freundesvölker"
+8,8,"Staatliche Gesellschaft"
+9,9,"Gehilfen"
+10,10,"Gold Saucer"
+11,13,"Andere"
+12,14,"Agenda-Erfolge"
+13,11,"Feldexkursionen"
+14,12,"Tiefe Gewölbe"

@@ -1,0 +1,22 @@
+﻿key,0,1,2,3
+#,,,,
+int32,uint16,int32,str,str
+0,1,0,"",""
+1,282,82107,"Dorf des Nebels","Dieser typisch limsische Stil für kleine Unterkünfte ist speziell darauf ausgelegt, Wind und Wellen jeglicher Art trotzen zu können."
+2,283,82108,"Dorf des Nebels","Dieser typisch limsische Stil für mittelgroße Unterkünfte ist speziell darauf ausgelegt, Wind und Wellen jeglicher Art trotzen zu können."
+3,284,82109,"Dorf des Nebels","Dieser typisch limsische Stil für große Unterkünfte ist speziell darauf ausgelegt, Wind und Wellen jeglicher Art trotzen zu können."
+4,342,82104,"Lavendelbeete","Nur das beste Holz aus dem Finsterwald wurde bei der Fertigung dieses gridanischen Stils für kleine Unterkünfte verwendet."
+5,343,82105,"Lavendelbeete","Nur das beste Holz aus dem Finsterwald wurde bei der Fertigung dieses gridanischen Stils für mittelgroße Unterkünfte verwendet."
+6,344,82106,"Lavendelbeete","Nur das beste Holz aus dem Finsterwald wurde bei der Fertigung dieses gridanischen Stils für große Unterkünfte verwendet."
+7,345,82101,"Kelchkuppe","Es wurden keinerlei Mühen gescheut, um sicherzustellen, dass dieser ul'dhische Stil für kleine Unterkünfte auch bei stark schwankenden Temperaturen stets für eine angenehme Wohnatmosphäre sorgt."
+8,346,82102,"Kelchkuppe","Es wurden keinerlei Mühen gescheut, um sicherzustellen, dass dieser ul'dhische Stil für mittelgroße Unterkünfte auch bei stark schwankenden Temperaturen stets für eine angenehme Wohnatmosphäre sorgt."
+9,347,82103,"Kelchkuppe","Es wurden keinerlei Mühen gescheut, um sicherzustellen, dass dieser ul'dhische Stil für große Unterkünfte auch bei stark schwankenden Temperaturen stets für eine angenehme Wohnatmosphäre sorgt."
+10,649,82113,"Shirogane","Wer die Besonderheiten aller vier Jahreszeiten in vollen Zügen genießen möchte, kommt um diesen fernöstlichen Stil für kleine Unterkünfte nicht umher."
+11,650,82114,"Shirogane","Wer die Besonderheiten aller vier Jahreszeiten in vollen Zügen genießen möchte, kommt um diesen fernöstlichen Stil für mittelgroße Unterkünfte nicht umher."
+12,651,82115,"Shirogane","Wer die Besonderheiten aller vier Jahreszeiten in vollen Zügen genießen möchte, kommt um diesen fernöstlichen Stil für große Unterkünfte nicht umher."
+13,980,82110,"Empyreum","Entworfen, um selbst der bittersten Kälte zu widerstehen, erzeugt dieser coerthische Stil für kleine Unterkünfte zu jeder Zeit ein mollig warmes Raumklima."
+14,981,82111,"Empyreum","Entworfen, um selbst der bittersten Kälte zu widerstehen, erzeugt dieser coerthische Stil für mittelgroße Unterkünfte zu jeder Zeit ein mollig warmes Raumklima."
+15,982,82112,"Empyreum","Entworfen, um selbst der bittersten Kälte zu widerstehen, erzeugt dieser coerthische Stil für große Unterkünfte zu jeder Zeit ein mollig warmes Raumklima."
+16,1249,82116,"Schlicht","Dieser minimalistische Stil für kleine Unterkünfte wurde mit einem Fokus auf Freiraum entworfen und besitzt somit weniger Säulen und Querbalken."
+17,1250,82117,"Schlicht","Dieser minimalistische Stil für mittelgroße Unterkünfte wurde mit einem Fokus auf Freiraum entworfen und besitzt somit weniger Säulen und Querbalken."
+18,1251,82118,"Schlicht","Dieser minimalistische Stil für große Unterkünfte wurde mit einem Fokus auf Freiraum entworfen und besitzt somit weniger Säulen und Querbalken."

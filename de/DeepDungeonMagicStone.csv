@@ -1,0 +1,9 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Tooltip
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27966,"Splitter[p] des Ifrit-Zaubersteins",4,"Splitter[p] des Ifrit-Zaubersteins",2,0,1,0,0,"Ifrit-Zauberstein","Erschafft aus den Erinnerungen seines Trägers ein Abbild des flammenden Primae."
+2,27967,"Splitter[p] des Titan-Zaubersteins",4,"Splitter[p] des Titan-Zaubersteins",2,0,1,0,0,"Titan-Zauberstein","Erschafft aus den Erinnerungen seines Trägers ein Abbild des Primae der Kobolde."
+3,27968,"Splitter[p] des Garuda-Zaubersteins",4,"Splitter[p] des Garuda-Zaubersteins",2,0,1,0,0,"Garuda-Zauberstein","Erschafft aus den Erinnerungen seines Trägers ein Abbild des Primae der Winde."
+4,27969,"Splitter[p] des Odin-Zaubersteins",4,"Splitter[p] des Odin-Zaubersteins",2,0,1,0,0,"Odin-Zauberstein","Erschafft aus den Erinnerungen seines Trägers ein Abbild des berittenen Primae."
+5,27975,"Handvoll[p] Todesbeeren",4,"Handvoll[p] Todesbeeren",1,0,1,1,0,"Todesbeeren","Dieser Wacholderweihrauch wird in Kirchen des Strahlenden Lichts bei Beerdigungen verwendet. Verbrenne ihn in deinem Räucherfass, um den Feenkönig zu rufen und deine Gegner mit dem Tod zu bestrafen."

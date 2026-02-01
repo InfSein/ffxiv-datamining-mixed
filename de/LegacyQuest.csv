@@ -1,0 +1,299 @@
+﻿key,0,1,2,3,4
+#,LegacyQuestID,Text,String,SortKey,Genre
+int32,uint16,str,str,uint16,uint32
+0,0,"","",0,0
+1,0,"Sibyllinischer Singsang","",1,342
+2,1,"Der Schatz im Meer","",2,342
+3,2,"Llymlaens Legende","",3,342
+4,3,"Duell an Deck","",4,342
+5,4,"Der Himmel brennt","",5,342
+6,5,"Der Fluch des Waldes","",6,342
+7,6,"Der Groll der Gebieter","",7,342
+8,7,"Der Wald ruft","",8,342
+9,8,"Ein bewegtes Fest","",9,342
+10,9,"Die goldene Stadt","",10,342
+11,10,"Kollateralschaden","",11,342
+12,11,"Die latente Gefahr","",12,342
+13,12,"Beginn einer Freundschaft","",13,342
+14,13,"Rettung der Sylphen","",14,342
+15,14,"Zwischen den Fronten","",15,342
+16,15,"Ein kühner Plan","",16,342
+17,16,"Der Gott der Flammen","",17,342
+18,17,"Befreiung der Befreier","",18,342
+19,18,"In eine unsichere Zukunft","",19,342
+20,59,"Die Macht des Geldes","",20,344
+21,60,"Die Falschgeldaffäre","",21,344
+22,61,"Die Kehrseite der Münze","",22,344
+23,79,"Das Debüt","",23,344
+24,80,"Der Preis der Freiheit","",24,344
+25,81,"Das große Turnier","",25,344
+26,99,"Blutiger Baptismus","",26,344
+27,100,"Der Piratenball","",27,344
+28,101,"Befehl des Kapitäns","",28,344
+29,139,"Tipps für Abenteurer","",29,344
+30,140,"Tipps für Abenteurer","",30,344
+31,141,"Tipps für Abenteurer","",31,344
+32,143,"Auswahl eines neuen Partners","",32,344
+33,159,"Gemeinsam stark","",33,344
+34,160,"Der finstere Wald","",34,344
+35,161,"Schatten der Vergangenheit","",35,344
+36,179,"Kein Grund zum Klagen","",36,344
+37,180,"Lockruf des Goldes","",37,344
+38,181,"Sicheres Geleit","",38,344
+39,239,"Bestellte Blutrache","",39,344
+40,240,"Die Rivalin","",40,344
+41,241,"Die Lehre Nald'thals","",41,344
+42,259,"Im Dienste der Gebieter","",42,344
+43,260,"Des Ritters Traum","",43,344
+44,261,"Stimmen im Wind","",44,344
+45,299,"Kleine Lehrer","",45,344
+46,300,"Kleine Teufel","",46,344
+47,301,"Ausflug ins Grüne","",47,344
+48,319,"Auf einem Ohr taub","",48,344
+49,320,"Sirenengesang","",49,344
+50,321,"Insel der Versuchungen","",50,344
+51,359,"Von herrlicher Gestalt","",51,344
+52,360,"F'lhaminns Blume","",52,344
+53,361,"Die Kordialklinge","",53,344
+54,379,"Lebensrettendes Leder","",54,344
+55,380,"Markenschutz muss sein","",55,344
+56,381,"Reparatur-Abitur","",56,344
+57,399,"Akt I: Rot","",57,344
+58,400,"Akt II: Asche","",58,344
+59,401,"Akt III: Schnee","",59,344
+60,419,"Abgrundtiefer Schlaf","",60,344
+61,420,"Der Jüngling und der Drache","",61,344
+62,421,"Träum ich oder wach ich","",62,344
+63,439,"Showdown","",63,344
+64,440,"Der verschwundene Kunde","",64,344
+65,441,"Die Suppe versalzen","",65,344
+66,459,"Ein Fragment vergangener Zeiten","",66,344
+67,460,"Sabotage","",67,344
+68,461,"Die Ausreißerin","",68,344
+69,479,"Die Wurzeln Gridanias","",69,344
+70,480,"Fernweh","",70,344
+71,481,"Mogrys auf Blumen betten","",71,344
+72,499,"Fischrücken bezwingen","",72,344
+73,500,"Terz am Teich","",73,344
+74,501,"Eine gute Zeit","",74,344
+75,626,"Götterdämmerung, Akt I „Ifrit“","",75,343
+76,632,"Verhört, versenkt, verzweifelt","",76,343
+77,633,"Endgültige Übergangslösung","",77,343
+78,635,"Auge um Auge","",78,343
+79,637,"Der richtige Pfiff","",79,343
+80,638,"Harte Schale, weicher Kern","",80,343
+81,639,"Der verlorene Sohn","",81,343
+82,640,"Werben und umwerben","",82,343
+83,641,"Das Rauschen des Meeres","",83,343
+84,642,"Im Trüben fischen","",84,343
+85,643,"Vom richtigen Zeitpunkt","",85,343
+86,645,"Dreck am Stecken","",86,343
+87,647,"Im Namen der Kunst","",87,343
+88,652,"Der Widerspenstigen Zähmung","",88,343
+89,653,"Pfade der Erleuchtung","",89,343
+90,654,"Elementarentschärfung","",90,343
+91,655,"Vegetarismus Venerabile","",91,343
+92,657,"Schelmisches Schlitzohr","",92,343
+93,658,"Wie im Märchen","",93,343
+94,659,"Schocktherapie","",94,343
+95,661,"Der Kampf um Anerkennung","",95,343
+96,662,"Lonsyggs Logbuch","",96,343
+97,663,"Lass Blumen sprechen","",97,343
+98,664,"Tödliche Arglosigkeit","",98,343
+99,665,"Steinernes Schweigen","",99,343
+100,666,"Das Gesetz des Waldes","",100,343
+101,667,"Geld stinkt nicht","",101,343
+102,668,"Von Goblins beklaut","",102,343
+103,673,"Nach den Gerechten sehen","",103,343
+104,674,"Scharfsichtige Bestechung","",104,343
+105,675,"Insomnie","",105,343
+106,676,"Der Fluch des Klans","",106,343
+107,678,"Nimm deine Ware und geh","",107,343
+108,679,"Schutzwald-Waldschutz","",108,343
+109,680,"Lös dich in Wohlgefallen auf","",109,343
+110,681,"Die einzige Spur","",110,343
+111,682,"Gute Wache, böse Wache","",111,343
+112,683,"Von Dodos gejagt","",112,343
+113,684,"Horch, was kommt von draußen rein","",113,343
+114,685,"Der Preis der Freiheit","",114,343
+115,686,"Erz auf zwei Beinen","",115,343
+116,689,"Unlauterer Wettbewerb","",116,343
+117,694,"Ruf nach Unsterblichkeit","",117,343
+118,705,"Panik auf der Alm","",118,343
+119,706,"Am Leben kleben","",119,343
+120,707,"Blutige Rituale","",120,343
+121,725,"Spenden macht selig","",121,343
+122,726,"Blut und Spiele","",122,343
+123,727,"Gerüchte um den Schwarzmarkt","",123,343
+124,733,"Höllenschlünde hoch im Himmel","",124,343
+125,734,"Ein Erntefest organisieren","",125,343
+126,735,"Unorganisiertes Verbrechen","",126,343
+127,736,"Das Herz der Unendlichkeit","",127,343
+128,743,"Auf der Hut vor Feindesflut","",128,343
+129,744,"Schuss ins Herz","",129,343
+130,745,"Gerüchterstattung","",130,343
+131,752,"Saliah Ahldbhar","",131,343
+132,753,"Blutige Nachforschungen","",132,343
+133,754,"Die ausgegrabene Wahrheit","",133,343
+134,755,"Rostschutzmittel","",134,343
+135,761,"Auf den Säbelzahn gefühlt","",135,343
+136,762,"Beichtvater der Azeyma","",136,343
+137,763,"Bittere Medizin","",137,343
+138,764,"Der Fluch des Fungus","",138,343
+139,770,"Der neugierige Goblin","",139,343
+140,771,"Ein sattes Geschäft","",140,343
+141,772,"Saure Traubenklauberei","",141,343
+142,773,"Ratten verlassen das stinkende Schiff","",142,343
+143,788,"Das Ei der Weisen (Ul'dah)","",143,343
+144,789,"Rück-Eioberung (Ul'dah)","",144,343
+145,793,"Das Ei der Weisen (Gridania)","",145,343
+146,794,"Rück-Eioberung (Gridania)","",146,343
+147,798,"Das Fest mit dem Feuer","",147,343
+148,799,"Impertinente Imps","",148,343
+149,800,"Das Schneeballsystem","",149,343
+150,801,"Das kalte Herz","",150,343
+151,803,"Das Ei der Weisen (Limsa Lominsa)","",151,343
+152,804,"Rück-Eioberung (Limsa Lominsa)","",152,343
+153,808,"Gildenaufgaben","",153,343
+154,809,"Shposhae, öffne dich","",154,343
+155,810,"Riskante Geschäfte","",155,343
+156,811,"Das Formen der Seele","",156,343
+157,812,"Das Vereinen der Seele","",157,343
+158,813,"Das Erwecken der Seele","",158,343
+159,815,"Im Zwielicht der Barriere","",159,343
+160,816,"Nachschublieferung & Materialbeschaffung","",160,343
+161,817,"Das Grab der Helden","",161,343
+162,818,"Es ist nicht alles Gold, was glänzt","",162,343
+163,820,"Operation Kerkermeister","",163,343
+164,821,"Operation Burgfriede","",164,343
+165,822,"Operation Nebelmarsch","",165,343
+166,823,"Operation Sandsturm","",166,343
+167,827,"Wer den Ranzen nicht ehrt","",167,343
+168,828,"Irgendwas im Busch","",168,343
+169,837,"Tintennachschub","",169,343
+170,838,"Ein Schaf unter Wölfen","",170,343
+171,839,"Investigativer Journalismus","",171,343
+172,840,"Prophetische Kriminologie","",172,343
+173,847,"Der verschwundene Ehering","",173,343
+174,848,"Ein stichfestes Alibi","",174,343
+175,857,"Saisonales Ereignis","",175,343
+176,858,"Jagd nach dem Ei, Teil Zwei","",176,343
+177,859,"Feuermond-Reigen - Die Rache der Knallomaten","",177,343
+178,860,"Saisonales Ereignis (Alle Stadtstaaten)","",178,343
+179,861,"Weiler-Versorgung","",179,343
+180,862,"Professor Eriks Vorlesung","",180,343
+181,866,"Im Auge des Sturms","",181,343
+182,867,"Restauration der Reliktwaffen","",182,343
+183,868,"Pilgerfahrt","",183,343
+184,869,"Das Schicksal der Silberschwinge","",184,343
+185,1200,"Der Prophet aus den Bergen","",254,345
+186,1201,"Man wächst mit seinen Aufgaben","",255,345
+187,1202,"Ein Zeichen von Schwäche","",256,345
+188,1203,"Das Kreuz mit alten Bräuchen","",257,345
+189,1204,"Indirektes Kräftemessen","",258,345
+190,1205,"Wahre Stärke","",259,345
+191,1220,"Der Professor und dein Lehrmeister","",260,345
+192,1221,"Spuren der Geschichte","",261,345
+193,1222,"Auf der Suche nach Macht","",262,345
+194,1223,"Ätherische Harmonie","",263,345
+195,1224,"Das Schicksal der Mönche","",264,345
+196,1225,"Das siebte Chakra","",265,345
+197,1240,"Ass der Stäbe","",266,345
+198,1241,"Weicher Wüterich","",267,345
+199,1242,"Sticht, sticht, sticht","",268,345
+200,1243,"Die Spirale des Zorns","",269,345
+201,1244,"Fünffache Milde","",270,345
+202,1245,"In Freiheit verbunden","",271,345
+203,1260,"Der die Stimme vernimmt","",272,345
+204,1261,"Dürstender Sand","",273,345
+205,1262,"Fremde Freunde","",274,345
+206,1263,"Das dunkle Atmen","",275,345
+207,1264,"Finde, was dein ist","",276,345
+208,1265,"Im Nichts vereint","",277,345
+209,1280,"Freier Paladin","",278,345
+210,1281,"Leuchtendes Vorbild","",279,345
+211,1282,"Intrige und Verrat","",280,345
+212,1283,"Gift im Herzen","",281,345
+213,1284,"Der rechte Weg","",282,345
+214,1285,"Das heilige Schwert","",283,345
+215,1300,"Ouvertüre","",284,345
+216,1301,"Die Wiege der Poesie","",285,345
+217,1302,"Das Erbe der Barden","",286,345
+218,1303,"Der hochmütige Narr","",287,345
+219,1304,"Des Barden neue Kleider","",288,345
+220,1305,"Requiem","",289,345
+221,1320,"Das Auge des Drachen","",290,345
+222,1321,"Lanzenlegenden","",291,345
+223,1322,"Narben der Seele","",292,345
+224,1323,"Doppel-Dragoon","",293,345
+225,1324,"Fatale Versuchung","",294,345
+226,1325,"Klüfte der Feindschaft","",295,345
+227,1400,"Zwei Seiten der Wahrheit","",185,346
+228,1401,"Aspirant beim Mahlstrom","",186,346
+229,1402,"Flottentaler du musst wandern","",187,346
+230,1403,"Elektronische Kriegsführung","",188,346
+231,1404,"Rede zur Freiheit","",189,346
+232,1405,"Blut für Erdseim","",190,346
+233,1406,"Treueeid für den Mahlstrom","",191,346
+234,1409,"Der Kerker von Toto-Rak (Limsa Lominsa)","",192,346
+235,1410,"Die unterirdische Feste (Limsa Lominsa)","",193,346
+236,1415,"Feuertaufe (Limsa Lominsa)","",194,346
+237,1416,"Träume sind Schäume","",195,346
+238,1417,"Der Gute, die Bösen und die Kobolde","",196,346
+239,1418,"Manche mögen's scharf","",197,346
+240,1419,"Kobold-Ränkeschmiede","",198,346
+241,1425,"Ölkrise","",199,346
+242,1426,"Cid und der Wolf","",200,346
+243,1427,"Ausbluten lassen","",201,346
+244,1428,"Deus ex Machina","",202,346
+245,1429,"Die grausame Herrin der Stürme (Limsa Lominsa)","",203,346
+246,1430,"Am Scheideweg (Limsa Lominsa)","",204,346
+247,1431,"Auf der Siegerstraße (Limsa Lominsa)","",205,346
+248,1432,"Mondsüchtig (Limsa Lominsa)","",206,346
+249,1433,"Offizier zur See","",207,346
+250,1600,"Ich bin die Axt, ich bin die Flamme","",208,346
+251,1601,"Aspirant der Bruderschaft","",209,346
+252,1602,"Ordenstaler, du musst wandern","",210,346
+253,1603,"Unter Schutz und Undercover","",211,346
+254,1604,"Die Summe der einzelnen Teile","",212,346
+255,1605,"Traumatische Erlebnisse","",213,346
+256,1606,"Treueeid für die Bruderschaft","",214,346
+257,1609,"Der Kerker von Toto-Rak (Gridania)","",215,346
+258,1610,"Die unterirdische Feste (Gridania)","",216,346
+259,1615,"Feuertaufe (Gridania)","",217,346
+260,1616,"Der Wald gibt, der Wald nimmt","",218,346
+261,1617,"Individuelle Stärken","",219,346
+262,1618,"Die Leiden der Gärtner","",220,346
+263,1619,"Vom Winde verweht","",221,346
+264,1625,"Eine Vorliebe für Totes","",222,346
+265,1626,"Die linke und die rechte Hand des Schicksals","",223,346
+266,1627,"Party platzen lassen","",224,346
+267,1628,"Schuldlose Sühne","",225,346
+268,1629,"Die grausame Herrin der Stürme (Gridania)","",226,346
+269,1630,"Am Scheideweg (Gridania)","",227,346
+270,1631,"Auf der Siegerstraße (Gridania)","",228,346
+271,1632,"Mondsüchtig (Gridania)","",229,346
+272,1633,"Immun gegen Pocken und Narben","",230,346
+273,1800,"Stolz und Vorurteil","",231,346
+274,1801,"Aspirant der Unsterblichen","",232,346
+275,1802,"Legionstaler, du musst wandern","",233,346
+276,1803,"Der Weg und seine Belagerer","",234,346
+277,1804,"Wirklicher Wohlstand","",235,346
+278,1805,"Der Verräter","",236,346
+279,1806,"Treueeid für die Legion","",237,346
+280,1809,"Der Kerker von Toto-Rak (Ul'dah)","",238,346
+281,1810,"Die unterirdische Feste (Ul'dah)","",239,346
+282,1815,"Feuertaufe (Ul'dah)","",240,346
+283,1816,"Der böse Blick","",241,346
+284,1817,"Wie du mir, so ich dir","",242,346
+285,1818,"Nur das Beste auf die Bühne","",243,346
+286,1819,"Nymeias Gnade","",244,346
+287,1825,"Herausforderung angenommen","",245,346
+288,1826,"Konfrontation mit der Vergangenheit","",246,346
+289,1827,"Den Hahn zudrehn","",247,346
+290,1828,"Fanal der Entscheidung","",248,346
+291,1829,"Die grausame Herrin der Stürme (Ul'dah)","",249,346
+292,1830,"Am Scheideweg (Ul'dah)","",250,346
+293,1831,"Auf der Siegerstraße (Ul'dah)","",251,346
+294,1832,"Mondsüchtig (Ul'dah)","",252,346
+295,1833,"Ins Bockshorn gejagt","",253,346

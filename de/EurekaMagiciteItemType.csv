@@ -1,0 +1,10 @@
+﻿key,0
+#,Type
+int32,str
+0,""
+1,"Angreifer"
+2,"Verteidiger"
+3,"Heiler"
+4,"Späher"
+5,"Störer"
+6,"Unterstützer"

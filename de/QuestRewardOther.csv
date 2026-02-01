@@ -1,0 +1,21 @@
+﻿key,0,1
+#,Icon,Name
+int32,Image,str
+0,0,""
+1,1,"テストテストテスト"
+2,60033,"Windätherquelle"
+3,60031,"Sammlerstückkommando"
+4,60032,"Spezialistenkommando"
+5,25948,"Äther<SoftHyphen/>kompass"
+6,26995,"Yo-kai-Medaillium"
+7,25987,"Khloes Aben<SoftHyphen/>teuer<SoftHyphen/>album"
+8,60039,"Speerfischen"
+9,26113,"???"
+10,26003,"Paladin-Kristall"
+11,26004,"Mönch-Kristall"
+12,26005,"Krieger-Kristall"
+13,26006,"Dragoon-Kristall"
+14,26007,"Barden-Kristall"
+15,26008,"Weißmagier-Kristall"
+16,26009,"Schwarzmagier-Kristall"
+17,60044,"???"

@@ -1,0 +1,53 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+#,Vision,Objective,PreviousObjective,,,,,,,,,,,,,,,,,,,,
+int32,str,str,str,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,int16,int16,uint16,byte
+0,"","","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+1,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+2,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Noch einmal mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+3,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Sammeln-Modus Material sammeln
+Miaurizius Bericht erstatten<Unknown14>EC</Unknown14>","Nochmals mit Miaurizius sprechen",2,2,3,3,2,4,0,3,1,255,0,0,255,0,0,1,0,0,0,0
+4,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Eine Steinaxt über das Pionierswerk basteln
+Miaurizius Bericht erstatten<Unknown14>EC</Unknown14></Color>","Im Sammeln-Modus Material sammeln und Miaurizius Bericht erstatten",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+5,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Material sammeln und eine Strandhütte bauen<Unknown14>EC</Unknown14></Color>","Eine Steinaxt basteln und Miaurizius Bericht erstatten",10,10,11,0,10,1,11,5,12,3,5,4,8,5,9,0,0,0,0,0
+6,"Meilenstein: Strandhütte bauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Miaurizius Bericht erstatten<Unknown14>EC</Unknown14></Color>","Material sammeln und eine Strandhütte bauen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+7,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+8,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Feldolin bitten, das Land zu roden<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+9,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Feldolin sprechen<Unknown14>EC</Unknown14></Color>","Feldolin bitten, das Land zu roden",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+10,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Säen-Modus Feldfrüchte pflanzen<Unknown14>EC</Unknown14></Color>","Mit Feldolin sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,-240,112,40,0
+11,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Gießen-Modus die Felder wässern<Unknown14>EC</Unknown14></Color>","Im Säen-Modus Feldfrüchte pflanzen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,-240,112,40,0
+12,"Meilenstein: Feldfrüchte anbauen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Feldolin Bericht erstatten<Unknown14>EC</Unknown14></Color>","Im Gießen-Modus die Felder wässern",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+13,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+14,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Thierobald bitten, das Land zu roden<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+15,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Thierobald sprechen<Unknown14>EC</Unknown14></Color>","Thierobald bitten, das Land zu roden",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+16,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Fangen-Modus ein Tier einfangen<Unknown14>EC</Unknown14></Color>","Mit Thierobald sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,300,-252,600,0
+17,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Thierobald sprechen<Unknown14>EC</Unknown14></Color>","Im Fangen-Modus ein Tier einfangen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+18,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Füttern-Modus ein Weidetier füttern<Unknown14>EC</Unknown14></Color>","Mit Thierobald sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,-292,148,40,0
+19,"Meilenstein: Weidetiere halten","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Thierobald Bericht erstatten<Unknown14>EC</Unknown14></Color>","Im Füttern-Modus ein Weidetier füttern",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+20,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+21,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Siedlund den Ersten bitten, das Land zu roden<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+22,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Siedlund dem Ersten sprechen<Unknown14>EC</Unknown14></Color>","Siedlund den Ersten bitten, das Land zu roden",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+23,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Material sammeln und einen Steinhammer über das Pionierswerk basteln<Unknown14>EC</Unknown14></Color>","Mit Siedlund dem Ersten sprechen",3,3,4,9,2,10,11,4,12,255,0,0,255,0,0,0,0,0,0,0
+24,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Material sammeln und ein Inselatelier bauen<Unknown14>EC</Unknown14></Color>","Material sammeln und einen Steinhammer über das Pionierswerk basteln",9,10,10,0,10,1,14,10,15,11,5,12,8,5,9,0,0,0,0,0
+25,"Meilenstein: Inselatelier bauen und Handel treiben","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Siedlund dem Ersten Bericht erstatten<Unknown14>EC</Unknown14></Color>","Material sammeln und ein Inselatelier bauen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+26,"Meilenstein: Die Insel frei genießen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+27,"Meilenstein: Die Insel frei genießen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Deine Insel frei erweitern und gestalten<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+28,"Meilenstein: Die Insel zu neuen Höhen führen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+29,"Meilenstein: Die Insel zu neuen Höhen führen","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Deine Pionierskünste vertiefen<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+30,"Meilenstein: Erkunden mit Erkundigunde","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+31,"Meilenstein: Erkunden mit Erkundigunde","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Den Piz Paradies untersuchen<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,420,-145,40,0
+32,"Meilenstein: Erkunden mit Erkundigunde","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Miaurizius Bericht erstatten<Unknown14>EC</Unknown14></Color>","Den Piz Paradies untersuchen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+33,"Meilenstein: Erkunden mit Erkundigunde","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Erkundigunde sprechen<Unknown14>EC</Unknown14></Color>","Miaurizius Bericht erstatten",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+34,"Meilenstein: Erkunden mit Erkundigunde","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Pionierswerk eine Felsbrecher-Ausstattung in Marionettengröße herstellen
+Erkundigunde Bericht erstatten<Unknown14>EC</Unknown14></Color>","Mit Erkundigunde sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+35,"Meilenstein: Mehr Pep im Paradies","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+36,"Meilenstein: Mehr Pep im Paradies","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Deine Insel genießen<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+37,"Meilenstein: Die Heulenden Höhlen erkunden","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+38,"Meilenstein: Die Heulenden Höhlen erkunden","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Erkundigunde sprechen<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+39,"Meilenstein: Die Heulenden Höhlen erkunden","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Die Heulenden Höhlen erkunden<Unknown14>EC</Unknown14></Color>","Mit Erkundigunde sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,310,-255,40,1
+40,"Meilenstein: Die Heulenden Höhlen erkunden","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Erkundigunde Bericht erstatten<Unknown14>EC</Unknown14></Color>","Die Heulenden Höhlen erkunden",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+41,"Meilenstein: Die Heulenden Höhlen erkunden","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Im Pionierswerk eine fantastische Felsbrecher-Ausstattung in Marionettengröße herstellen
+Erkundigunde übergeben<Unknown14>EC</Unknown14></Color>","Erkundigunde Bericht erstatten",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+42,"Meilenstein: Patentes Pionieren","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Mit Miaurizius sprechen<Unknown14>EC</Unknown14></Color>","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+43,"Meilenstein: Patentes Pionieren","<Color(-1)><Unknown14>FEFF0A6992</Unknown14>Die Pionierskünste meistern<Unknown14>EC</Unknown14></Color>","Mit Miaurizius sprechen",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+44,"","","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0
+45,"","","",255,0,0,255,0,0,255,0,0,255,0,0,255,0,0,0,0,0,0,0

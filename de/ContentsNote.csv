@@ -1,0 +1,107 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+#,ContentType,Icon,MenuOrder,RequiredAmount,Reward[0],ExpMultiplier,Reward[1],GilRward,LevelUnlock,HowTo,ReqUnlock,Name,Description,ExpCap
+int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,Row,str,str,int32
+0,0,0,0,0,0,0,0,0,0,0,0,"","",0
+1,1,61801,1,3,5,15,3,1000,0,57,0,"Dungeon: Zufallsinhalt","3 Dungeons als Zufallsinhalt abschließen",1625700
+2,1,61801,2,5,5,10,3,2000,0,57,0,"Dungeon: Erfolge","5 Dungeons abschließen",1083800
+3,1,61803,3,3,5,5,3,1000,0,71,0,"Gildengeheiß: Erfolge 1","3 Gildengeheiße erledigen",541900
+4,1,61803,4,10,5,10,3,2000,0,71,0,"Gildengeheiß: Erfolge 2","10 Gildengeheiße erledigen",1083800
+5,6,61808,3,5,0,0,3,2000,0,231,0,"Geheime Horte: Schatztruhen 1","5 Schatztruhen in der Aquapolis oder den Kanälen von Uznair öffnen",0
+6,1,61825,8,3,0,0,3,2000,60,0,0,"Abenteueralbum: Aufkleber","3 Inhalte aus Khloes Abenteueralbum abschließen und dafür Aufkleber bekommen",0
+7,2,61806,1,10,0,0,9,1000,0,130,0,"Crystalline Conflict: Teilnahme","10 Mal am Crystalline Conflict teilnehmen",0
+8,2,61806,2,3,0,0,9,1000,0,130,0,"Crystalline Conflict: Siege","3 PvP-Kämpfe des Crystalline Conflicts gewinnen",0
+9,0,0,0,0,0,0,0,0,0,0,0,"","",0
+10,0,0,0,0,0,0,0,0,0,0,0,"","",0
+11,4,61811,1,5,5,15,3,1000,0,0,0,"Freibriefe: Motive","5 Freibriefe mit unterschiedlichen Heiligenmotiven abschließen",1625700
+12,4,61811,2,20,5,15,3,2000,0,0,0,"Freibriefe: Erfolge","20 Freibriefe abschließen",1625700
+13,8,61812,2,10,0,0,6,1000,0,89,0,"Nachschub und Material: Liefermenge 2","10 Güter bei Nachschublieferungen und Materialbeschaffungsmissionen liefern",0
+14,8,61812,1,5,0,0,6,1000,0,89,0,"Nachschub und Material: Liefermenge 1","5 Güter bei Nachschublieferungen und Materialbeschaffungsmissionen liefern",0
+15,6,61808,1,3,0,0,3,1000,0,149,0,"Schatzsuche: Karten sammeln","3 vergilbte Schatzkarten sammeln",0
+16,6,61808,2,5,0,0,3,2000,0,149,0,"Schatzsuche: Erfolge","5 Schatztruhen bei der Schatzsuche öffnen",0
+17,1,61813,6,20,7,5,3,1000,0,96,0,"Mitstreiter: Gegnerzahl 1","20 Feinde gemeinsam mit deinem Mitstreiter besiegen",0
+18,1,61813,7,100,7,10,3,2000,0,96,0,"Mitstreiter: Gegnerzahl 2","100 Feinde gemeinsam mit deinem Mitstreiter besiegen",0
+19,7,61814,1,5,0,0,3,1000,0,152,0,"Freundesvölker: Erfolge 1","5 Aufträge der Freundesvölker abschließen",0
+20,7,61814,2,15,0,0,3,2000,0,152,0,"Freundesvölker: Erfolge 2","15 Aufträge der Freundesvölker abschließen",0
+21,12,61810,1,5,0,0,3,10000,0,0,0,"Aktuelle Agenda: Erfolge 1","5 verschiedene Herausforderungen der Aktuellen Agenda abschließen",0
+22,12,61810,2,10,0,0,3,10000,0,0,0,"Aktuelle Agenda: Erfolge 2","10 verschiedene Herausforderungen der Aktuellen Agenda abschließen",0
+23,12,61810,3,15,0,0,3,10000,20,0,0,"Aktuelle Agenda: Erfolge 3","15 verschiedene Herausforderungen der Aktuellen Agenda abschließen",0
+24,12,61810,4,20,0,0,3,10000,30,0,0,"Aktuelle Agenda: Erfolge 4","20 verschiedene Herausforderungen der Aktuellen Agenda abschließen",0
+25,1,61817,5,5,5,10,3,1000,0,160,0,"WS-Ehrungen","5 Mal jemanden als „Wertvollsten Spieler“ ehren",1083800
+26,5,61815,4,100,5,5,3,1000,0,0,0,"Sammeln","100 Mal als Minenarbeiter oder Gärtner der eigenen Stufe nahe Gegenstände sammeln",0
+27,5,61815,5,30,5,5,3,2000,0,0,0,"Sammeln: Stückzahl-Bonus ","30 Mal als Minenarbeiter oder Gärtner einen Stückzahl-Bonus erhalten",0
+28,5,61815,6,30,5,5,3,1000,0,0,0,"Angeln","30 Mal als Fischer erfolgreich angeln",0
+29,5,61815,7,10,5,5,3,2000,0,0,0,"Angeln: Größe","10 Mal als Fischer einen großen Fisch fangen",0
+30,5,61816,1,30,5,10,3,1000,0,0,0,"Synthese","30 Mal Gegenstände herstellen",0
+31,5,61816,2,20,5,10,3,2000,0,0,0,"Synthese: HQ","20 Mal HQ-Gegenstände herstellen",0
+32,0,0,0,0,0,0,0,0,0,0,0,"","",0
+33,9,61818,1,10,0,0,3,1000,0,168,0,"Unternehmungen: Allgemein","Einen Gehilfen auf 10 Unternehmungen schicken",0
+34,9,61818,2,15,0,0,3,4000,0,169,0,"Unternehmungen: Erkundungen","Einen Gehilfen auf 15 Erkundungen schicken",0
+35,2,61806,3,7,0,0,9,1000,0,176,0,"Carteneauer Front: Teilnahme","7 Mal an PvP-Kämpfen an der Carteneauer Front teilnehmen",0
+36,2,61806,4,3,0,0,9,1000,0,176,0,"Carteneauer Front: Siege","3 PvP-Kämpfe an der Carteneauer Front gewinnen",0
+37,10,61820,1,3,0,0,8,1000,0,201,0,"Minispiel: Erfolge","3 Mal erfolgreich ein Minispiel abschließen",0
+38,10,61820,2,100,0,0,8,1500,0,201,0,"Minispiel: MGP","100 MGP bei einem Minispiel gewinnen",0
+39,10,61820,3,5,0,0,8,5000,0,201,0,"GATE: Teilnahme","5 Mal an einem GATE teilnehmen",0
+40,10,61820,4,3,0,0,8,8000,0,201,0,"GATE: Erfolge","3 Mal erfolgreich ein GATE abschließen",0
+41,10,61820,5,3,0,0,8,5000,0,196,0,"Chocobo-Rennen: Teilnahme 1","3 Mal an einem Chocobo-Rennen teilnehmen",0
+42,10,61820,6,20,0,0,8,8000,0,196,0,"Chocobo-Rennen: Teilnahme 2","20 Mal an einem Chocobo-Rennen teilnehmen",0
+43,10,61820,7,1,0,0,8,5000,0,196,0,"Chocobo-Rennen: Siege 1","1 Chocobo-Rennen gewinnen",0
+44,10,61820,8,10,0,0,8,8000,0,196,0,"Chocobo-Rennen: Siege 2","10 Chocobo-Rennen gewinnen",0
+45,10,61820,9,10,0,0,8,5000,0,199,0,"Triple Triad: Partien","10 Mal Triple Triad spielen",0
+46,10,61820,10,10,0,0,8,8000,0,199,0,"Triple Triad: Siege","10 Mal bei Triple Triad gewinnen",0
+47,10,61820,15,3,0,0,8,10000,0,224,0,"Kampf der Trabanten: Teilnahme 2","3 Mal am Kampf der Trabanten teilnehmen",0
+48,12,61810,5,30,0,0,3,15000,30,0,0,"Aktuelle Agenda: Erfolge 5","30 verschiedene Herausforderungen der Aktuellen Agenda abschließen",0
+49,10,61820,11,5,0,0,8,2500,0,200,0,"Weltensalon: Partien","5 Mal Triple Triad im Weltensalon spielen",0
+50,10,61820,12,3,0,0,8,3000,0,200,0,"Weltensalon: Siege","3 Mal bei Triple Triad im Weltensalon gewinnen",0
+51,5,61827,10,6,0,0,3,1000,60,219,0,"Wunschlieferungen","6 Wunschlieferungen an einen Geschäftspartner abliefern",0
+52,5,61815,8,50,5,5,3,1000,0,241,0,"Speerfischen","50 Mal beim Speerfischen erfolgreich sein",0
+53,5,61815,9,20,5,5,3,2000,0,241,0,"Speerfischen: Größe","20 Mal beim Speerfischen einen großen Fisch fangen",0
+54,2,61806,5,10,0,0,9,1000,0,240,0,"Stahlschwingen: Teilnahme","10 Mal an PvP-Kämpfen in Stahlschwingen teilnehmen",0
+55,2,61806,6,5,0,0,9,1000,0,240,0,"Stahlschwingen: Siege","5 PvP-Kämpfe in Stahlschwingen gewinnen",0
+56,13,61833,9,30,10,5,3,1000,0,251,0,"Eureka: Siege über Blitz und Eis 1","30 Gegner der Affinität Blitz oder Eis besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+57,13,61833,10,60,10,15,3,1000,0,251,0,"Eureka: Siege über Blitz und Eis 2","60 Gegner der Affinität Blitz oder Eis besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+58,13,61833,11,30,10,5,3,1000,0,251,0,"Eureka: Siege über Feuer und Erde 1","30 Gegner der Affinität Feuer oder Erde besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+59,13,61833,12,60,10,15,3,1000,0,251,0,"Eureka: Siege über Feuer und Erde 2","60 Gegner der Affinität Feuer oder Erde besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+60,13,61833,13,30,10,5,3,1000,0,251,0,"Eureka: Siege über Wasser und Wind 1","30 Gegner der Affinität Wasser oder Wind besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+61,13,61833,14,60,10,15,3,1000,0,251,0,"Eureka: Siege über Wasser und Wind 2","60 Gegner der Affinität Wasser oder Wind besiegen, deren Elementarstufe höchstens 2 Stufen unter der eigenen liegt",0
+62,13,61833,15,20,10,5,3,1000,0,251,0,"Eureka: Siege über Untote 1","20 untote Gegner besiegen, deren Elementarstufe mindestens so hoch wie die eigene ist",0
+63,13,61833,16,40,10,15,3,1000,0,251,0,"Eureka: Siege über Untote 2","40 untote Gegner besiegen, deren Elementarstufe mindestens so hoch wie die eigene ist",0
+64,13,61833,17,10,10,5,3,1000,0,251,0,"Eureka: Siege über Exergone 1","10 Exergone besiegen, deren Elementarstufe mindestens so hoch wie die eigene ist",0
+65,13,61833,18,20,10,15,3,1000,0,251,0,"Eureka: Siege über Exergone 2","20 Exergone besiegen, deren Elementarstufe mindestens so hoch wie die eigene ist",0
+66,10,61820,14,1,0,0,8,5000,0,224,0,"Kampf der Trabanten: Teilnahme 1","1 Mal am Kampf der Trabanten teilnehmen",0
+67,10,61820,16,5,0,0,8,12000,0,224,0,"Kampf der Trabanten: Teilnahme 3","5 Mal am Kampf der Trabanten teilnehmen",0
+68,8,61812,3,3,0,0,6,5000,0,0,372,"Operationen: Erfolge","3 Operationen mit deinem Kommando erfolgreich abschließen",0
+69,10,61820,17,2,0,0,8,5000,0,0,68737,"Domanisches Mahjong: Teilnahme","An 2 Partien domanischen Mahjongs gegen andere Spieler teilnehmen",0
+70,3,61809,1,5,5,15,3,1000,0,0,0,"FATE: Bestwertung 1","5 Mal die bestmögliche Bewertung in FATEs erreicht",1625700
+71,3,61809,2,10,5,15,3,2000,0,0,0,"FATE: Bestwertung 2","10 Mal die bestmögliche Bewertung in FATEs erreicht",1625700
+72,5,61816,3,5,5,10,3,2000,0,0,95,"Materialverwertung","5 Materialverwertungen erfolgreich durchführen. (Nur Handwerkerklassen erhalten Routine.)",0
+73,10,61820,13,1,0,0,8,3000,0,0,69566,"Das Manderville-Turnier","1 Mal am offiziellen Manderville-Turnier teilnehmen und die Belohnung erhalten",0
+74,11,61847,11,100,0,0,11,1000,0,0,70179,"Inselparadies: Sammeln","100 Gegenstände auf dem Inselparadies sammeln",0
+75,11,61847,12,20,0,0,11,1000,0,0,70179,"Inselparadies: Basteln","20 Inselgüter im Inselatelier herstellen und verschiffen lassen",0
+76,13,61851,1,30,12,30,13,140,0,0,70847,"Kreszentia: Kriegsführung I","30 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
+77,13,61851,2,60,12,70,13,240,0,0,70847,"Kreszentia: Kriegsführung II","60 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
+78,13,61851,3,8,12,30,13,140,0,0,70847,"Kreszentia: Kritische Begegnungen I","8 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
+79,13,61851,4,15,12,70,13,240,0,0,70847,"Kreszentia: Kritische Begegnungen II","15 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
+80,13,61851,5,10,12,30,13,140,0,0,70847,"Kreszentia: FATEs I","10 FATEs im südlichen Kreszentia abgeschlossen",0
+81,13,61851,6,20,12,70,13,240,0,0,70847,"Kreszentia: FATEs II","20 FATEs im südlichen Kreszentia abgeschlossen",0
+82,13,61851,7,1,12,30,13,140,0,0,70847,"Kreszentia: Erfolgssträhnen I","20 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
+83,13,61851,8,1,12,70,13,240,0,0,70847,"Kreszentia: Erfolgssträhnen II","40 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
+84,14,61824,1,1,14,7,0,0,0,0,70941,"Pilgers Pfad: Fortschritt I","Ebene 20 von Pilgers Pfad abschließen",0
+85,14,61824,2,1,15,2,0,0,0,0,70941,"Pilgers Pfad: Fortschritt II","Ebene 30 von Pilgers Pfad abschließen",0
+86,14,61824,3,1,14,8,0,0,0,0,70942,"Pilgers Pfad: Fortschritt III","Ebene 50 von Pilgers Pfad abschließen",0
+87,14,61824,4,1,15,3,0,0,0,0,70942,"Pilgers Pfad: Fortschritt IV","Ebene 70 von Pilgers Pfad abschließen",0
+88,14,61824,5,1,14,10,0,0,0,0,70942,"Pilgers Pfad: Fortschritt V","Ebene 100 von Pilgers Pfad abschließen",0
+89,0,0,0,0,0,0,0,0,0,0,0,"","",0
+90,0,0,0,0,0,0,0,0,0,0,0,"","",0
+91,0,0,0,0,0,0,0,0,0,0,0,"","",0
+92,0,0,0,0,0,0,0,0,0,0,0,"","",0
+93,0,0,0,0,0,0,0,0,0,0,0,"","",0
+94,0,0,0,0,0,0,0,0,0,0,0,"","",0
+95,0,0,0,0,0,0,0,0,0,0,0,"","",0
+96,0,0,0,0,0,0,0,0,0,0,0,"","",0
+97,0,0,0,0,0,0,0,0,0,0,0,"","",0
+98,0,0,0,0,0,0,0,0,0,0,0,"","",0
+99,0,0,0,0,0,0,0,0,0,0,0,"","",0
+100,0,0,0,0,0,0,0,0,0,0,0,"","",0
+101,0,0,0,0,0,0,0,0,0,0,0,"","",0
+102,0,0,0,0,0,0,0,0,0,0,0,"","",0
+103,0,0,0,0,0,0,0,0,0,0,0,"","",0

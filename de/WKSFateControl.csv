@@ -1,0 +1,97 @@
+﻿key,0,1,2
+#,,,
+int32,uint16,str,str
+0,0,"",""
+1,1978,"In der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In der Mondtor-Station hat das Gemeinschaftsprojekt „Mondtor-Station: Erweiterung I“ begonnen. Teilnehmer gesucht!"
+2,1979,"In der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In der Mondtor-Station hat das Gemeinschaftsprojekt „Kosmozapper: Bauunterstützung I“ begonnen. Teilnehmer gesucht!"
+3,1980,"Im Südosten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Südosten der Mondtor-Station hat das Gemeinschaftsprojekt „Habitationsmodul: Bauunterstützung I“ begonnen. Teilnehmer gesucht!"
+4,1981,"Im Nordwesten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordwesten der Mondtor-Station hat das Gemeinschaftsprojekt „Kosmoport: Bauunterstützung I“ begonnen. Teilnehmer gesucht!"
+5,1982,"Im Nordosten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordosten der Mondtor-Station hat das Gemeinschaftsprojekt „Sternenhangar: Erweiterung I“ begonnen. Teilnehmer gesucht!"
+6,0,"Fertigstellung von Stationsstruktur im Nordwesten von Sinus Ardorum.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+7,0,"Fertigstellung von Stationsstruktur im Südosten von Sinus Ardorum.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+8,1983,"Im Süden von Sinus Ardorum beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Im Süden von Sinus Ardorum hat das Gemeinschaftsprojekt „Tunnel: Aushubarbeiten I“ begonnen. Teilnehmer gesucht!"
+9,1984,"Im Süden von Sinus Ardorum beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Im Süden von Sinus Ardorum hat das Gemeinschaftsprojekt „Tunnel: Aushubarbeiten II“ begonnen. Teilnehmer gesucht!"
+10,0,"Fertigstellung von Stationsstruktur im Südwesten von Sinus Ardorum.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+11,1985,"In der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In der Mondtor-Station hat das Gemeinschaftsprojekt „Mondtor-Station: Erweiterung II“ begonnen. Teilnehmer gesucht!"
+12,1986,"Im Südwesten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Südwesten der Mondtor-Station hat das Gemeinschaftsprojekt „Energisierungswerke: Erweiterung“ begonnen. Teilnehmer gesucht!"
+13,1987,"Im Westen der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Westen der Mondtor-Station hat das Gemeinschaftsprojekt „Hydrofizierungswerke: Erweiterung“ begonnen. Teilnehmer gesucht!"
+14,1988,"Im Nordosten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordosten der Mondtor-Station hat das Gemeinschaftsprojekt „Sternenhangar: Erweiterung II“ begonnen. Teilnehmer gesucht!"
+15,1989,"Im Nordwesten der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordwesten der Mondtor-Station hat das Gemeinschaftsprojekt „Kosmoport: Bauunterstützung II“ begonnen. Teilnehmer gesucht!"
+16,1990,"Im Nordosten von Sinus Ardorum beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordosten von Sinus Ardorum hat das Gemeinschaftsprojekt „Lift: Vorbereitungsarbeiten I“ begonnen. Teilnehmer gesucht!"
+17,1991,"Im Nordosten von Sinus Ardorum beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Nordosten von Sinus Ardorum hat das Gemeinschaftsprojekt „Lift: Vorbereitungsarbeiten II“ begonnen. Teilnehmer gesucht!"
+18,0,"Fertigstellung von unterirdischer Stationsstruktur im Nordosten
+von Sinus Ardorum. Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+19,1992,"In der Mondtor-Station beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In der Mondtor-Station hat das Gemeinschaftsprojekt „Expansion der Stationsstrukturen“ begonnen. Teilnehmer gesucht!"
+20,2008,"In der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Glasbläser-Basis: Erweiterung I“ hat begonnen. Teilnehmer gesucht!"
+21,2009,"In der Glasbläser-Grotte beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Kosmozapper: Bauunterstützung I“ hat begonnen. Teilnehmer gesucht!"
+22,2010,"Im Nordosten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Habitationsmodul: Bauunterstützung“ hat begonnen. Teilnehmer gesucht!"
+23,2011,"Im Südosten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Energisierungswerke: Bauunterstützung“ hat begonnen. Teilnehmer gesucht!"
+24,2012,"Im Südosten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Hydrofizierungswerke: Bauunterstützung“ hat begonnen. Teilnehmer gesucht!"
+25,2013,"Im Nordwesten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Sternenhangar: Erweiterung I“ hat begonnen. Teilnehmer gesucht!"
+26,0,"Fertigstellung des Kosmozappers im Flachland
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+27,2014,"Im Südosten des Millefiori-Hügels beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Applike-Kräne: Bauunterstützung I“ hat begonnen. Teilnehmer gesucht!"
+28,2015,"Im Nordosten des Kapselgrundes beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Applike-Kräne: Bauunterstützung II“ hat begonnen. Teilnehmer gesucht!"
+29,0,"Fertigstellung des Kosmozappers im Kapselgrund
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+30,2016,"In der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Glasbläser-Basis: Erweiterung II“ hat begonnen. Teilnehmer gesucht!"
+31,2017,"Im Nordwesten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Sternenhangar: Erweiterung II“ hat begonnen. Teilnehmer gesucht!"
+32,2018,"Im Südwesten der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Kosmoport: Renovierung“ hat begonnen. Teilnehmer gesucht!"
+33,2019,"Im Nordwesten der Opal-Kreuzung beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Energiespeicheranlage: Bauunterstützung I“ hat begonnen. Teilnehmer gesucht!"
+34,2020,"Im Nordwesten des Millefiori-Hügels beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Energiespeicheranlage: Bauunterstützung II“ hat begonnen. Teilnehmer gesucht!"
+35,2021,"Im Süden der Glassteinküste beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Kühldrohnenstation: Bauunterstützung“ hat begonnen. Teilnehmer gesucht!"
+36,2022,"Im Fusingway-Schlund beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Magmaglaskühlung: Phase I“ hat begonnen. Teilnehmer gesucht!"
+37,2023,"Im Fusingway-Schlund beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Magmaglaskühlung: Phase II“ hat begonnen. Teilnehmer gesucht!"
+38,0,"Fertigstellung des Kosmozappers im Fusingway-Schlund
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+39,2024,"In der Glasbläser-Basis beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Das Gemeinschaftsprojekt „Expansion der Basisstrukturen“ hat begonnen. Teilnehmer gesucht!"
+40,2046,"Im Norden von Terra Firma beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Im Norden von Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+41,0,"Fertigstellung von Stationsstruktur im Bodenradius.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+42,2047,"Im Westen von Terra Firma beginnt schon bald das Erste einer Reihe von Gemeinschaftsprojekten. Teilnehmer gesucht!","Im Westen von Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+43,2048,"Im Westen von Terra Firma beginnt schon bald das Zweite einer Reihe von Gemeinschaftsprojekten. Teilnehmer gesucht!","Im Westen von Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+44,2049,"Am Losen Anker beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Am Losen Anker hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+45,0,"Fertigstellung von Stationsstruktur auf der Schattenflotte.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+46,2050,"In Terra Firma beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+47,2051,"In Terra Firma beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+48,2052,"Im Norden von Terra Firma beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","Im Norden von Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+49,2053,"Im Tiefgrünen Echo beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Tiefgrünen Echo hat ein Gemeinschaftsprojekt begonnen. Teilnehmer gesucht!"
+50,2054,"Im Tiefgrünen Echo beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Tiefgrünen Echo hat ein Gemeinschaftsprojekt begonnen. Teilnehmer gesucht!"
+51,2055,"Im Ruineninneren des Tiefgrünen Echos beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Ruineninneren des Tiefgrünen Echos hat ein Gemeinschaftsprojekt begonnen. Teilnehmer gesucht!"
+52,2056,"Im Ruineninneren des Tiefgrünen Echos beginnt schon bald ein Gemeinschaftsprojekt. Teilnehmer gesucht!","Im Ruineninneren des Tiefgrünen Echos hat ein Gemeinschaftsprojekt begonnen. Teilnehmer gesucht!"
+53,0,"Fertigstellung von Stationsstruktur im Ruineninneren.
+Areal kann zu dem Zeitpunkt nicht betreten werden.",""
+54,2057,"In Terra Firma beginnt schon bald ein Gemeinschaftsprojekt.
+Teilnehmer gesucht!","In Terra Firma hat ein Gemeinschaftsprojekt begonnen.
+Teilnehmer gesucht!"
+55,2058,"Auf dem Dach Terra Firmas beginnt schon bald ein Gemeinschaftsprojekt.
+Kann mit dem Aufzug erreicht werden!","Auf dem Dach Terra Firmas hat ein Gemeinschaftsprojekt begonnen.
+Kann mit dem Aufzug erreicht werden!"

@@ -1,0 +1,18 @@
+﻿key,0,1,2,3,4,5
+#,,,,,,
+int32,int32,byte,bit&01,byte,str,str
+0,0,0,False,0,"",""
+1,0,1,True,0,"Barriere","Barriere
+Immun gegen alle Attacken."
+2,50,0,True,2,"Schutzengel","Schutzengel
+Bei Kampfunfähigkeit wirst du automatisch wiederbelebt."
+3,0,1,True,1,"Levitas","Levitas
+Lässt dich schweben und macht dich immun gegen alle Boden-Effekte."
+4,5,3,False,4,"Gift","Gift
+Du bist vergiftet. Am Anfang jeder Runde verlierst du eine bestimmte Menge LP."
+5,0,5,False,5,"Verhängnis","Verhängnis
+Erreicht der Zähler 0, wirst du kampfunfähig. Kann nur durch Besiegen des ausführenden Gegners aufgelöst werden."
+6,0,1,False,3,"Fessel","Fessel
+Du kannst dich nicht bewegen."
+7,1100,0,False,0,"",""
+8,100,0,False,0,"",""

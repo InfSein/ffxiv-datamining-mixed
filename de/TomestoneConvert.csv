@@ -1,0 +1,20 @@
+﻿key,0,1,2,3,4
+#,,,,,
+int32,bit&01,byte,byte,byte,str
+0,False,0,0,0,""
+1,False,5,1,50,"Allagische Steine: Tradition → Poesie"
+2,False,4,1,50,"Allagische Steine: Theologie → Poesie"
+3,False,4,2,25,"Allagische Steine: Wahrheit → Schöpfung"
+4,False,4,2,25,"Allagische Steine: Schöpfung → Verlogenheit"
+5,False,5,1,50,"Allagische Steine: Verlogenheit → Poesie"
+6,False,4,1,50,"Allagische Steine: Ursprung → Poesie"
+7,False,4,2,25,"Allagische Steine: Goëtie → Phantasmagorie"
+8,False,4,2,25,"Allagische Steine: Phantasmagorie → Fantastik"
+9,False,5,1,50,"Allagische Steine: Fantastik → Poesie"
+10,False,4,1,50,"Allagische Steine: Offenbarung → Poesie"
+11,False,4,2,25,"Allagische Steine: Aphorismus → Astronomie"
+12,False,4,2,25,"Allagische Steine: Astronomie → Kausalität"
+13,False,5,1,50,"Allagische Steine: Kausalität → Poesie"
+14,False,4,1,50,"Allagische Steine: Komödie → Poesie"
+15,False,4,2,25,"Allagische Steine: Ästhetik → Heliometrie"
+16,True,4,2,25,"Allagische Steine: Heliometrie → Mathematik"

@@ -1,0 +1,10 @@
+﻿key,0,1,2
+#,,,
+int32,uint16,str,str
+0,0,"",""
+1,0,"",""
+2,2,"HILFE FÜR RAID-SUCHE",""
+3,3,"HILFE FÜR INHALTSSUCHE",""
+4,4,"HILFE FÜR GEWÖLBESUCHE",""
+5,5,"HILFE FÜR GRUPPENINFO",""
+6,6,"HILFE FÜR KOMMANDOTAFEL",""

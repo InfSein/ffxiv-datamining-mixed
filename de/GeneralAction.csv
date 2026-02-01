@@ -1,0 +1,57 @@
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Name,Description,,Action,UnlockLink,Recast,UIPriority,Icon,,
+int32,str,str,byte,Action,uint16,byte,byte,Image,bit&01,bit&02
+0,"","",0,0,0,0,0,0,False,False
+1,"Auto-Attacke","Du führst automatisch Angriffe auf das anvisierte Ziel aus, wobei das Intervall zwischen den Angriffen von deiner Waffe abhängt.",1,0,0,0,7,101,False,False
+2,"Springen","Du springst und kannst auf diese Weise niedrige Hindernisse überwinden.",1,0,0,0,11,102,False,False
+3,"Limitrausch","Du verbrauchst den gesamten Limitrausch-Balken, um für die ganze Gruppe eine mächtige Fertigkeit zu entfesseln. Die Fertigkeit wird von der Rolle dessen bestimmt, der sie startet.
+Verteidiger: Schadensminderung für die Gruppe (Radius: 50y).
+Nahkämpfer: Attacke auf Einzelziel.
+Physischer Fernkämpfer: Attacke auf alle Gegner in gerader Linie (bis 30y Entfernung).
+Magischer Fernkämpfer: Flächenangriff um anvisierten Ort auf dem Boden (Radius: 8y/10y/15y).
+Heiler: Wiederherstellung von LP der Gruppe, Wiederbeleben ab Stufe 3 (Radius: 50y). Das Ziel erleidet den Status Schwäche dabei nur, wenn es ihn schon vorher hatte. Die volle Wirkungsdauer beginnt erneut.",1,0,0,0,4,103,False,False
+4,"Sprint","Du erhöhst die eigene Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit.
+Dauer im Kampf: 10 Sekunden
+Dauer außerhalb des Kampfes: 20 Sekunden
+※ Kann nicht in PvP-Kämpfen eingesetzt werden.",1,3,0,56,1,104,False,False
+5,"Materialverwertung","Du zerlegst einen Gegenstand, um Materialien zu erhalten.",2,0,95,0,51,120,False,True
+6,"Reparatur","Du reparierst beschädigte Ausrüstung und stellst ihren Zustand wieder her. Als Katalysator wird Dunkelmaterie benötigt, die der Stufe der Ausrüstung entspricht.",2,0,0,0,31,106,False,True
+7,"Teleport","Du bezahlst einen Gilbetrag, um dich durch den Ätherstrom zu einem beliebigen Ätheryten zu teleportieren, mit dem du dich zuvor harmonisiert hast.",1,5,4,0,2,111,False,True
+8,"Rückführung","Du kehrst zu deinem zuvor festgelegten Heimatpunkt zurück.",1,6,1,57,3,112,False,True
+9,"Reittier-Roulette","Ruft ein zufällig ausgewähltes Reittier herbei.",1,0,0,0,21,118,False,False
+10,"Begleiter-Roulette","Ruft einen zufällig ausgewählten Begleiter herbei.",1,0,0,0,23,117,False,False
+11,"","",0,0,0,0,0,0,False,False
+12,"Materia einsetzen","Du setzt Materia in Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände ein.",2,0,11,0,33,107,False,True
+13,"Materia einsetzen II","Du setzt Materia in Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände ein. Auch Gegenstände ohne freie Materia-Slots sind möglich, aber die Erfolgsaussichten hierbei sind schlecht.",2,0,12,0,34,108,False,True
+14,"Materia-Extraktion","Du  kristallisierst den starken Willen des Besitzers aus Gegenständen mit vollständiger emotionaler Bindung in die Substanz „Materia“.",2,0,13,0,32,109,False,True
+15,"Färben","Du verbrauchst einen Farbstoff, um die Farbe eines Ausrüstungsgegenstands zu verändern.",2,0,14,0,41,110,False,True
+16,"Nächstes Ziel","Angefangen beim nächststehenden visierst du der Reihe nach alle Gegner an.",3,0,0,0,12,113,False,True
+17,"Voriges Ziel","Angefangen beim nächststehenden visierst du in umgekehrter Reihenfolge alle Gegner an.",3,0,0,0,13,114,False,True
+18,"Abstellen","Du stellst den Gegenstand ab, den du gerade in der Hand hast.",1,0,0,0,0,19612,False,False
+19,"Entziffern","Du entschlüsselst vorsichtig eine vergilbte Schatzkarte.",1,1694,25,0,61,115,False,False
+20,"Ausgraben","Du durchkämmst das auf der alten Karte angegebene Gebiet nach einem Schatz.
+Radius: 30y",1,1695,25,67,62,116,False,False
+21,"Raffinieren","Du reduzierst ein Sammlerstück auf seine Essenz, um einen anderen Gegenstand zu erhalten.",2,0,256,0,52,121,False,True
+22,"Projizieren","Du verbrauchst ein Projektionsprisma, um das Aussehen eines Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>standes zu verändern.",2,0,15,0,42,119,False,True
+23,"Absteigen","Du steigst von deinem Reittier ab.",1,0,0,0,0,19628,False,False
+24,"Flugreittier-Roulette","Ruft ein zufällig ausgewähltes fliegendes Reittier herbei.",1,0,0,0,0,122,False,False
+25,"Projektionsplatte","Du erstellst Ausrüstungssets aus Projektionen, um das Aussehen deiner aktuellen Ausrüstung zu verändern.",2,0,15,0,43,125,False,True
+26,"Spezialkommando 1","Führt ein inhaltsspezifisches Kommando aus.",1,0,0,0,1,123,True,False
+27,"Spezialkommando 2","Führt ein inhaltsspezifisches Kommando aus.",1,0,0,0,2,124,True,False
+28,"Einstecken","Steckt das momentane Modeaccessoire wieder ein.",1,0,0,0,0,19688,False,False
+29,"Helfer-Kommandomenü","Ändert die Reihenfolge der Kommandos, die im Helfer-Kommandomenü angelegt sind.",1,0,0,0,0,19692,False,True
+30,"Helfer-Kommandomenü","Ändert die Reihenfolge der Kommandos, die im Helfer-Kommandomenü angelegt sind.",1,0,0,0,0,19692,False,True
+31,"Phantomkommando 1","Führt ein inhaltsspezifisches Kommando aus.",1,0,537,0,3,126,True,False
+32,"Phantomkommando 2","Führt ein inhaltsspezifisches Kommando aus.",1,0,537,0,4,127,True,False
+33,"Phantomkommando 3","Führt ein inhaltsspezifisches Kommando aus.",1,0,537,0,5,128,True,False
+34,"Phantomkommando 4","Führt ein inhaltsspezifisches Kommando aus.",1,0,537,0,6,129,True,False
+35,"Phantomkommando 5","Führt ein inhaltsspezifisches Kommando aus.",1,0,537,0,7,130,True,False
+36,"Markierung „Angreifen“ anvisieren","Du visierst das mit der Markierung „Angreifen“ 1 bis 8 versehene Ziel an. Gibt es mehrere Ziele, werden sie aufsteigender Reihe nach anvisiert.",3,0,0,0,14,133,False,True
+37,"Markierung „Binden“ anvisieren","Du visierst das mit der Markierung „Binden“ 1 bis 3 versehene Ziel an. Gibt es mehrere Ziele, werden sie aufsteigender Reihe nach anvisiert.",3,0,0,0,15,134,False,True
+38,"Markierung „Ignorieren“ anvisieren","Du visierst das mit der Markierung „Ignorieren“ 1 oder 2 versehene Ziel an. Gibt es mehrere Ziele, werden sie aufsteigender Reihe nach anvisiert.",3,0,0,0,16,135,False,True
+39,"Quadrat anvisieren","Du visierst das mit Quadrat markierte Ziel an.",3,0,0,0,17,136,False,True
+40,"Kreis anvisieren","Du visierst das mit Kreis markierte Ziel an.",3,0,0,0,18,137,False,True
+41,"Plus anvisieren","Du visierst das mit Plus markierte Ziel an.",3,0,0,0,19,138,False,True
+42,"Dreieck anvisieren","Du visierst das mit Dreieck markierte Ziel an.",3,0,0,0,20,139,False,True
+43,"Nächste Strategie","Wählt das nächste Strategiebrett aus.",3,0,0,0,71,140,False,True
+44,"Vorherige Strategie","Wählt das vorherige Strategiebrett aus.",3,0,0,0,72,141,False,True

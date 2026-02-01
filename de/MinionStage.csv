@@ -1,0 +1,37 @@
+﻿key,0,1,2
+#,,,
+int32,str,bit&01,uint16
+0,"",False,0
+1,"Stufe 1: Einführung",False,349
+2,"Stufe 2: Federn lassen",False,349
+3,"Stufe 3: Angriff der Ungeziefer",False,349
+4,"Stufe 4: Riesenbaby-Goobbue",True,350
+5,"Stufe 5: Aufstand der Wilden",False,349
+6,"Stufe 6: Gedankenspiele",True,351
+7,"Stufe 7: Vierbeinige Feinde",False,349
+8,"Stufe 8: Das Bündchen der Morgenröte",False,349
+9,"Stufe 9: Auf den Schleim gegangen",True,352
+10,"Stufe 10: Mandragora-Salat",False,349
+11,"Stufe 11: Die trabantäische Allianz",False,349
+12,"Stufe 12: Alea iacta est",True,353
+13,"Stufe 13: Luftadmiral Garlond",False,349
+14,"Stufe 14: Eins auf die Nuss",False,349
+15,"Stufe 15: Der Dunkle Reiter",True,354
+16,"Stufe 16: Chocobo-Mania",False,349
+17,"Stufe 17: Jenseits des Schneekleids",False,349
+18,"Stufe 18: Die Trabanten-Jagd",False,349
+19,"Stufe 19: Gilgameschs Hühnerstall",True,355
+20,"Stufe 20: Trabanten des Lichts",False,349
+21,"Stufe 21: Die Leveilleurs",False,349
+22,"Stufe 22: Kleine Welt der Dunkelheit",False,349
+23,"Stufe 23: In die Verschlungenen Schatten",True,356
+24,"Stufe 24: Bahamut, der Aufzieh-Primae",True,357
+25,"",False,349
+26,"",False,349
+27,"",False,349
+28,"",False,349
+29,"",False,349
+30,"",False,349
+31,"",False,349
+32,"",False,349
+33,"",False,349

@@ -1,0 +1,17 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Befiehlt den Soldaten deines Kommandos, den anvisierten Gegner anzugreifen.
+※ Nur während laufenden Operationen verfügbar."
+2,"Befiehlt den Soldaten deines Kommandos, sich vor<SoftHyphen/>über<SoftHyphen/>gehend zurückzuziehen.
+※ Nur während laufenden Operationen verfügbar."
+3,"Befiehlt den Soldaten deines Kommandos, den vor<SoftHyphen/>über<SoftHyphen/>gehenden Rückzug zu beenden.
+※ Nur während laufenden Operationen verfügbar."
+4,"Verbraucht eine Stufe des Limitrausch-Balkens und fügt einem Gegner großen Schaden zu. Außerdem wird der ausgeteilte Schaden von Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern im Wir<SoftHyphen/>kungs<SoftHyphen/>be<SoftHyphen/>reich erhöht.
+Bedingung: Alle vier Truppmitglieder sind kampffähig.
+Radius: 20y
+※ Nur während laufenden Operationen verfügbar."
+5,"Zeigt die Kommandoliste mit allen Befehlen an.
+※ Nur während laufenden Operationen verfügbar."
+6,""

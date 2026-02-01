@@ -1,0 +1,12 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Description
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27961,"Padjal-Waffe",3,"Padjal-Waffen",1,0,1,1,0,"Padjal-Waffe","Eine magische Ätherwaffe, die von dem Padjal E-Una-Kotor angefertigt wurde."
+2,27962,"Padjal-Rüstung",3,"Padjal-Rüstungen",1,0,1,1,0,"Padjal-Rüstung","Eine magische Ätherrüstung, die von dem Padjal E-Una-Kotor angefertigt wurde."
+3,27961,"Empyreum-Waffe",3,"Empyreum-Waffen",1,0,1,1,0,"Empyreum-Waffe","Eine magische Ätherwaffe, die für die Erkundung der Himmelssäule angefertigt wurde."
+4,27962,"Empyreum-Rüstung",3,"Empyreum-Rüstungen",1,0,1,1,0,"Empyreum-Rüstung","Eine magische Ätherrüstung, die für die Erkundung der Himmelssäule angefertigt wurde."
+5,27961,"Orthos-Waffe",3,"Orthos-Waffen",1,0,1,1,0,"Orthos-Waffe","Eine magische Ätherwaffe, die Noah für die Erkundung von Eureka Orthos angefertigt hat."
+6,27962,"Orthos-Rüstung",3,"Orthos-Rüstungen",1,0,1,1,0,"Orthos-Rüstung","Eine magische Ätherrüstung, die Noah für die Erkundung von Eureka Orthos angefertigt hat."
+7,27961,"Pilger-Waffe",3,"Pilger-Waffen",1,0,1,1,0,"Pilger-Waffe","Eine magische Ätherwaffe, die Feo Ul dir für die Erkundung von Pilgers Pfads überlassen hat."
+8,27962,"Pilger-Rüstung",3,"Pilger-Rüstungen",1,0,1,1,0,"Pilger-Rüstung","Eine magische Ätherrüstung, die Feo Ul dir für die Erkundung von Pilgers Pfads überlassen hat."

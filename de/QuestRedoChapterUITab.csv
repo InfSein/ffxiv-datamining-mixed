@@ -1,0 +1,12 @@
+﻿key,0,1,2,3
+#,,Icon1,Icon2,Text
+int32,byte,Image,Image,str
+0,0,0,0,""
+1,1,114003,114053,"Hauptszenario"
+2,3,114004,114054,"Nebenaufträge"
+3,2,114006,114056,"Chroniken der neuen Ära"
+4,4,114007,114057,"Aufträge der Verteidiger"
+5,6,114009,114059,"Aufträge der Angreifer"
+6,5,114008,114058,"Aufträge der Heiler"
+7,7,114010,114060,"Aufträge der Handwerker"
+8,8,114011,114061,"Aufträge der Sammler"

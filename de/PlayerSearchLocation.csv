@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,byte,str
+0,0,"Nicht festgelegt"
+1,1,"La Noscea"
+2,2,"Finsterwald"
+3,3,"Thanalan"
+4,4,"Ishgard und Umgebung"
+5,5,"Gyr Abania"
+6,6,"Othard"
+7,7,"Ilsabard"
+8,10,"Norvrandt"
+9,11,"Sonstige"
+10,9,"Tural"
+11,8,"Nördliche Meere"

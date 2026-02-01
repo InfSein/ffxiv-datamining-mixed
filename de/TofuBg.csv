@@ -1,0 +1,11 @@
+﻿key,0,1,2,3
+#,,,,
+int32,bit&01,uint16,uint32,str
+0,False,0,0,""
+1,True,0,240003,"Ohne"
+2,True,1,240004,"Schachbrett"
+3,True,2,240005,"Rundes Schachbrett"
+4,True,3,240006,"Eckiges Schachbrett"
+5,True,4,240009,"Grau"
+6,True,5,240010,"Rundes Grau"
+7,True,6,240011,"Eckiges Grau"

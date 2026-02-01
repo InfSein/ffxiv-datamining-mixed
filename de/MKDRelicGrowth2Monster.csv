@@ -1,0 +1,10 @@
+﻿key,0,1,2,3
+#,,,,
+int32,uint32,byte,uint32,str
+0,0,0,100,"Ich kann nicht auf meine Kräfte zugreifen ...
+Ich brauche Hände ... und Füße."
+1,70991,2,200,"Meine wahre Form ist ... klüger, würdevoller.
+Gestalte das Gefäß so!"
+2,70991,3,300,"Lasse Sorgfalt walten beim Herstellen des Gefäßes.
+Ich möchte meinen Untergebenen nicht mit einem ungebührlichen Antlitz gegenübertreten!"
+3,70991,255,600,"Ich habe einst den Äther bezwungener Gegner in einer strahlenden Sphäre gelagert. Um meine Kräfte zu entfesseln, musst du eine ähnliche Sphäre für das Gefäß nutzen!"

@@ -1,0 +1,1149 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"<CommandIcon(10)/> Ins Inventar zurücknehmen"
+2,"<CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+3,"<CommandIcon(8)/> Reihenfolge ändern　<CommandIcon(10)/> Untermenü"
+4,"<CommandIcon(11)/> Suche ausführen"
+5,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Kaufen  <CommandIcon(11)/> Etwas verkaufen"
+6,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Textkommandos"
+7,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Neuer Brief"
+8,"<CommandIcon(10)/> Untermenü"
+9,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+10,"<CommandIcon(8)/> Angehängten Gegenstand auswählen"
+11,"<CommandIcon(10)/>In Aufgabenliste anzeigen/ausblenden  <CommandIcon(24)/> Scrollen"
+12,"<CommandIcon(10)/> Untermenü　<CommandIcon(9)/> Zurück"
+13,"<CommandIcon(12)/>"
+14,"<CommandIcon(13)/>"
+15,"<CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(8)/> Ausführen"
+16,"<CommandIcon(10)/> Untermenü"
+17,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(8)/> Karte umschalten"
+18,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>＋<CommandIcon(10)/> Ebene umschalten <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(8)/> Karte umschalten"
+19,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+20,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+21,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+22,"<CommandIcon(10)/> Untermenü"
+23,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Gegenstand wählen"
+24,"<CommandIcon(8)/> Marktwaren  <CommandIcon(10)/> Untermenü"
+25,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Marktwaren wählen"
+26,"<CommandIcon(10)/> Untermenü"
+27,"<CommandIcon(10)/> Untermenü"
+28,"<CommandIcon(10)/> Untermenü　<CommandIcon(9)/> Zurück"
+29,"<CommandIcon(10)/> Untermenü　<CommandIcon(9)/> Zurück"
+30,"<CommandIcon(8)/> Annehmen <CommandIcon(11)/> Archiv öffnen  <CommandIcon(24)/> Scrollen"
+31,"<CommandIcon(11)/> Suche ausführen"
+32,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Angebote <CommandIcon(9)/> Zurück"
+33,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Angebote <CommandIcon(9)/> Zurück <CommandIcon(12)/><CommandIcon(13)/> Umblättern"
+34,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+35,"<CommandIcon(11)/> Neu laden <CommandIcon(10)/> Untermenü <CommandIcon(8)/> Details"
+36,"<CommandIcon(11)/> Suchen"
+37,"<CommandIcon(10)/><CommandIcon(11)/> Verteidiger/Heiler/Angreifer/Frei durchschalten　<CommandIcon(8)/> Gesuchte Klasse/Job ändern"
+38,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Austauschen"
+39,"<CommandIcon(10)/> Untermenü"
+40,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Schließen"
+41,"<CommandIcon(13)/>"
+42,"<CommandIcon(12)/>"
+43,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(8)/> Teleport"
+44,"<CommandIcon(10)/> Untermenü"
+45,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+46,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Makro-Editor <CommandIcon(24)/> Scrollen"
+47,"<CommandIcon(8)/> Wählen <CommandIcon(11)/> Zurück"
+48,"<CommandIcon(8)/> Auswahl aufheben <CommandIcon(11)/> Aus Inventar wählen"
+49,"<CommandIcon(11)/> Aus Inventar wählen"
+50,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Diesen Gegenstand suchen"
+51,"<CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>+<CommandIcon(24)/> Zoom"
+52,"<CommandIcon(12)/><CommandIcon(13)/> Liste umschalten"
+53,"<CommandIcon(24)/> Scrollen"
+54,"<CommandIcon(10)/> Auswahl aufheben"
+55,"<CommandIcon(8)/> Zimmer betreten <CommandIcon(10)/> Zimmerdetails ansehen"
+56,"<CommandIcon(8)/> Trainieren <CommandIcon(10)/> Untermenü"
+57,"<CommandIcon(8)/> Trainieren <CommandIcon(10)/> Untermenü"
+58,"<CommandIcon(11)/> Beschreibung anzeigen <CommandIcon(10)/> Untermenü"
+59,"<CommandIcon(11)/> Notizen anzeigen <CommandIcon(10)/> Untermenü"
+60,"<CommandIcon(10)/> Im Kommandomenü anlegen <CommandIcon(8)/> Ausführen"
+61,"<CommandIcon(10)/> Untermenü"
+62,"<CommandIcon(11)/> Anzeige ändern <CommandIcon(10)/> Untermenü"
+63,"<CommandIcon(10)/> Untermenü"
+64,"<CommandIcon(11)/> Bestätigen"
+65,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Auswählen"
+66,"<CommandIcon(10)/> Untermenü "
+67,"<CommandIcon(10)/> Untermenü <CommandIcon(1)/> Chatlog auswählen <CommandIcon(11)/> Chatlog vergrößern"
+68,"<CommandIcon(1)/> Chatlog auswählen <CommandIcon(11)/> Chatlog vergrößern"
+69,"<CommandIcon(8)/> In ergänzenden Kommandos anlegen"
+70,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Auswählen"
+71,"<CommandIcon(8)/> Ausrüstung wechseln  <CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln"
+72,"<CommandIcon(10)/> Untermenü <CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten <CommandIcon(11)/> Chatlog vergrößern"
+73,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück zum Chat   <CommandIcon(11)/> Chatlog vergrößern"
+74,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück zum Chat  <CommandIcon(11)/> Chatlog auf Normalgröße"
+75,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen  <CommandIcon(13)/> Auto-Übersetzung<If(GreaterThan(PlayerParameter(94),0))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+76,"<CommandIcon(3)/> Zurück  <CommandIcon(4)/> Vorwärts  <CommandIcon(13)/> Auto-Übersetzung"
+77,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Anwenden"
+78,"<CommandIcon(11)/> Anwenden  <CommandIcon(10)/> Einstellungen löschen"
+79,"<CommandIcon(8)/> Überspringen  <CommandIcon(9)/> Abbrechen"
+80,"<CommandIcon(12)/><CommandIcon(13)/> Klasse wählen"
+81,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Suchbedingungen festlegen"
+82,"<CommandIcon(5)/> Verschieben  <CommandIcon(8)/> Bestätigen  <CommandIcon(9)/> Abbrechen"
+83,"<CommandIcon(7)/> Bewegen  <CommandIcon(8)/> Bestätigen  <CommandIcon(9)/> Abbrechen"
+84,"<CommandIcon(11)/> Anschlagbrett bearbeiten"
+85,"<CommandIcon(10)/> Untermenü"
+86,"<CommandIcon(8)/> Online-Status aktualisieren <CommandIcon(10)/> Untermenü"
+87,"<CommandIcon(11)/> Anwenden"
+88,"<CommandIcon(11)/> Anwenden"
+89,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Anwenden"
+90,"<CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+91,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück"
+92,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück"
+93,"<CommandIcon(8)/> Ins Arsenal legen <CommandIcon(10)/> Untermenü"
+94,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln"
+95,"<CommandIcon(8)/> Ins Inventar legen <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln"
+96,"<CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/>Slot wechseln <CommandIcon(9)/> Zurück"
+97,"<CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln <CommandIcon(9)/> Zurück"
+98,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln  <CommandIcon(9)/> Zurück"
+99,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln  <CommandIcon(9)/> Zurück"
+100,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln  <CommandIcon(9)/> Zurück"
+101,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln  <CommandIcon(9)/> Zurück"
+102,"<CommandIcon(10)/> Untermenü der Ausrüstung"
+103,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen"
+104,"<CommandIcon(10)/> Untermenü  <CommandIcon(3)/><CommandIcon(4)/> Umblättern"
+105,"<CommandIcon(8)/> Online-Status aktualisieren  <CommandIcon(10)/> Untermenü  <CommandIcon(3)/><CommandIcon(4)/> Umblättern"
+106,"<CommandIcon(24)/> Scrollen"
+107,"<CommandIcon(8)/> Benutzen  <CommandIcon(10)/> Untermenü"
+108,"<CommandIcon(10)/> Im Kommandomenü anlegen"
+109,"<CommandIcon(10)/> Auswählen <CommandIcon(11)/> Teilnahme bestätigen und schließen <CommandIcon(24)/> Scrollen"
+110,"<CommandIcon(10)/> Gegenstand zurücklegen"
+111,"<CommandIcon(8)/> Gegenstand auswählen"
+112,"<CommandIcon(5)/> Scrollen"
+113,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Gegenstand für Truhe wählen"
+114,"<CommandIcon(7)/> Bewegen <CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+115,"<CommandIcon(8)/> Entnehmen  <CommandIcon(11)/> Gegenstand für Truhe wählen"
+116,"<CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+117,"<CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/> Slot wechseln <CommandIcon(9)/> Zurück"
+118,"<CommandIcon(10)/> Im Kommandomenü anlegen"
+119,"<CommandIcon(10)/> Untermenü"
+120,"<CommandIcon(8)/> Ausrüstung an-/ablegen"
+121,"<CommandIcon(11)/> Zufallsauswahl"
+122,"<CommandIcon(8)/> Farbe wählen <CommandIcon(11)/> Zufallsauswahl"
+123,"<CommandIcon(8)/> Wählen  <CommandIcon(11)/> Zufallsauswahl"
+124,"<CommandIcon(24)/> Details scrollen"
+125,"<CommandIcon(3)/><CommandIcon(4)/> Bewegen <CommandIcon(8)/> Auswählen"
+126,"<CommandIcon(11)/> Anwenden"
+127,"<CommandIcon(11)/> Gegenstand für Truhe wählen"
+128,"<CommandIcon(10)/> Untermenü  <CommandIcon(1)/> Chatlog auswählen  <CommandIcon(11)/> Chatlog auf Normalgröße"
+129,"<Gui(17)/> Fenster größer/kleiner  <CommandIcon(11)/> Ein-/Ausblenden"
+130,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Set ansehen"
+131,"<CommandIcon(8)/> Beispiel für Angelstelle anzeigen"
+132,"<CommandIcon(23)/> Karte scrollen"
+133,"<CommandIcon(23)/> Karte scrollen <CommandIcon(8)/> Fischverzeichnis anzeigen"
+134,"<CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten <CommandIcon(11)/> Chatlog vergrößern"
+135,"<CommandIcon(1)/> Chatlog auswählen  <CommandIcon(11)/> Chatlog auf Normalgröße"
+136,"<CommandIcon(11)/> Gegenstand für Truhe wählen"
+137,"<CommandIcon(10)/> Änderung rückgängig"
+138,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Möbelliste"
+139,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Inventar<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/> Platziert/Lagerhaus umschalten<Else/></If>"
+140,"<CommandIcon(11)/> Zu Ziel springen"
+141,"<CommandIcon(20)/> Bewegen <CommandIcon(25)/> Rotieren <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+142,"<CommandIcon(10)/> Untermenü der Ausrüstung <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Rotieren <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+143,"<CommandIcon(10)/> Im Kommandomenü anlegen"
+144,"<CommandIcon(10)/> Untermenü <CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten"
+145,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück"
+146,"<CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten"
+147,"<CommandIcon(12)/><CommandIcon(13)/> Reiter wechseln"
+148,"<CommandIcon(9)/> Zum Chat  <CommandIcon(11)/> Chatlog vergrößern"
+149,"<CommandIcon(9)/> Zum Chat  <CommandIcon(11)/> Chatlog auf Normalgröße"
+150,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen"
+151,"<CommandIcon(10)/> Untermenü"
+152,"<CommandIcon(9)/> Zurück"
+153,"<CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten"
+154,"<CommandIcon(12)/><CommandIcon(13)/> Klasse wählen"
+155,"<CommandIcon(12)/><CommandIcon(13)/> Klasse wählen <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Synthese beginnen"
+156,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Synthese beginnen"
+157,"<CommandIcon(9)/> Zu „Schließen“ springen"
+158,"<CommandIcon(9)/> Zu „Schließen“ springen"
+159,"<CommandIcon(10)/> Untermenü"
+160,"<CommandIcon(10)/> Untermenü"
+161,"<CommandIcon(10)/> Untermenü"
+162,"<CommandIcon(10)/> Untermenü der Ausrüstung <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Rotieren <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+163,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(12)/>+<CommandIcon(13)/> Karten-Link"
+164,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>＋<CommandIcon(10)/> Ebene umschalten <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(12)/>+<CommandIcon(13)/> Karten-Link"
+165,"<CommandIcon(11)/> Zufällige Nummer"
+166,"<CommandIcon(10)/> Untermenü"
+167,"<CommandIcon(10)/> Untermenü"
+168,"<CommandIcon(11)/> Zufälliges Wort"
+169,"<CommandIcon(10)/> Untermenü"
+170,"<CommandIcon(11)/> Regeln anzeigen"
+171,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Gegenstand auswählen"
+172,"<CommandIcon(9)/> Zu „Schließen“ springen"
+173,"------------------------
+lua 5.1.4 / MIT License
+------------------------
+Copyright (C) 1994-2008 Lua.org, PUC-Rio.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the „Software“), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED „AS IS“, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+------------------------
+rsa-md5 / RSA Data Security License
+------------------------
+Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+
+License to copy and use this software is granted provided that it is identified as the „RSA Data Security, Inc. MD5 Message-Digest Algorithm“ in all material mentioning or referencing this software or this function.
+
+License is also granted to make and use derivative works provided that such works are identified as „derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm“ in all material mentioning or referencing the derived work.
+
+RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided „as is“ without express or implied warranty of any kind.
+
+These notices must be retained in any copies of any part of this documentation and/or software. 
+
+
+------------------------
+SHA-1 (Internet Society)
+------------------------
+Copyright (C) The Internet Society (2001). All Rights Reserved.
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.
+
+This document and the information contained herein is provided on an „AS IS“ basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Acknowledgement
+
+Funding for the RFC Editor function is currently provided by the Internet Society.
+
+
+----------------
+zstream.h (zlib)
+----------------
+Copyright (c) 1997
+Christian Michelsen Research AS
+Advanced Computing
+Fantoftvegen 38, 5036 BERGEN, Norway
+http://www.cmr.no
+
+Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided „as is“ without express or implied warranty.
+
+
+------
+LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
+------
+„DUALSHOCK“ and „DualSense“ are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+174,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen"
+175,"<CommandIcon(12)/><CommandIcon(13)/> Arbeitsschritt wechseln  <CommandIcon(10)/> Untermenü"
+176,"<CommandIcon(12)/><CommandIcon(13)/> Arbeitsschritt wechseln  <CommandIcon(10)/> Untermenü"
+177,"<CommandIcon(9)/> Zurück  <CommandIcon(11)/> Erkundung starten"
+178,"<CommandIcon(10)/> Untermenü"
+179,"<CommandIcon(8)/> Auswählen  <CommandIcon(9)/> Bestätigen  <CommandIcon(11)/> Bestätigen und schließen"
+180,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen  <If(GreaterThan(PlayerParameter(94),0))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+181,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Anwenden und schließen"
+182,"<CommandIcon(9)/> Anwenden und schließen"
+183,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Begleiterliste anzeigen"
+184,"<CommandIcon(8)/> Herbeirufen"
+185,"<CommandIcon(24)/> Details scrollen"
+186,"<CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(11)/> Trabanten-Kommandomenü anzeigen <CommandIcon(8)/> Ausführen"
+187,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Funktionen der Arena-Einrichtungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Arkana-Steine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Du hast wie dein Gegner 3 Arkana-Steine. Wer zuerst alle gegnerischen Steine zerstört, gewinnt.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Tore<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Die Trabanten kommen aus dem Tor, das du beim Herbeirufen auswählst. Wenn du deine Trabanten in einem eigenen Tor platzierst, regenerieren sie LP.
+Auch wenn die Tore zerstört sind, kannst du Trabanten rufen, aber du kannst sie nicht vom Torbereich fortbewegen und auch keine anderen ins Tor setzen.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Suchende Augen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Sie dienen dazu, gegnerische Trabanten anzuzeigen. Wenn die Augen zerstört sind, kannst du weit von deinen Trabanten entfernte gegnerische Trabanten nicht mehr sehen.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schilde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Sie beschützen die Arkana-Steine. Wenn sie zerstört werden, erleiden die Arkana-Steine mehr Schaden.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Zerstörung und Wieder<SoftHyphen/>aufbau von Einrichtungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Außer den Arkana-Steinen werden alle Einrichtungen nach kurzem Funktionsverlust wieder aktiviert.
+※ Wenn bei der Reaktivierung eigene Trabanten in der Nähe sind, geht sie schneller voran.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Stärken nutzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Beim Angriff auf Einrichtungen kannst du den Schaden maximieren, indem du auf die spezifischen Stärken deiner Trabanten achtest.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Techniken einsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Um Techniken einzusetzen, müssen folgende Bedingungen erfüllt sein:
+- 4 gleiche Trabanten stehen nahe beieinander in der Arena
+- die 4 Trabanten haben genug Technikpunkte (TP)
+  (TP regenerieren sich mit der Zeit automatisch.)
+Visiere dann einen Trabanten an und wähle „Technik ausführen“.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Fallen einsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Einige Trabanten beherrschen als Technik das Fallenstellen. Fallen können 10 Sekunden nach dem Aufstellen ausgelöst werden. Wähle dazu am Kommando-Menü „Falle auslösen“.
+※ Es kann immer nur eine Falle aufgestellt werden.
+
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit dem Controller spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+- Einzeln
+  <CommandIcon(12)/>＋<CommandIcon(7)/> : aus der Truppenliste wählen
+- Mehrere auf einmal
+  <CommandIcon(11)/> : den Suchkreis bewegen und die Trabanten darin auswählen
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Besondere Funktionen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+- Allgemein
+  <Gui(17)/>　　　: Tor fürs Herbeirufen wechseln
+  <CommandIcon(15)/>　　　: Truppenliste wechseln (Spieler/Gegner)
+  <Gui(16)/>　　　: Rufordnungsliste auswählen
+  <CommandIcon(12)/>＋<Gui(10)/>  : Technik einsetzen
+  <CommandIcon(13)/>＋<CommandIcon(20)/>  : Bodenzielring bewegen
+  <CommandIcon(13)/>＋<Gui(16)/> : Bodenzielring zurücksetzen
+  <CommandIcon(18)/>  : Hilfe anzeigen
+- Trabanten auswählen
+  <CommandIcon(12)/>＋<Gui(11)/>  : Alle eigenen Trabanten in der Nähe des ausgewählten
+  <CommandIcon(12)/>＋<Gui(8)/>  : Alle gleichen Trabanten in der Nähe des ausgewählten
+  <CommandIcon(12)/>＋<Gui(9)/>  : Alle eigenen Trabanten, die gleich sind wie der ausgewählte
+- Minikarte
+  <CommandIcon(14)/> gedrückt halten: Geländepunkt speichern (beim Loslassen springt man zurück zum Punkt)
+  <CommandIcon(14)/>＋<CommandIcon(23)/>  : Geländepunkt bewegen
+  <CommandIcon(14)/>＋<Gui(17)/>  : Geländepunkt zurücksetzen
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit der Maus spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ Linksklick: Einzeln
+※ Bei Linksklick, während ein einzelner Trabant ausgewählt ist,
+      werden alle gleichen Trabanten in der Nähe ausgewählt.
+ Links ziehen: Alle im ausgewählten Bereich
+<Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit der Maus spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ Linksklick: Einzeln
+※ Bei Linksklick, während ein einzelner Trabant ausgewählt ist,
+     werden alle gleichen Trabanten in der Nähe ausgewählt.
+ Links ziehen: Alle im ausgewählten Bereich
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit dem Controller spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+- Einzeln
+  <CommandIcon(12)/>＋<CommandIcon(7)/> : aus der Truppenliste wählen
+- Mehrere auf einmal
+  <CommandIcon(11)/> : den Suchkreis bewegen und die Trabanten darin auswählen
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Besondere Funktionen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+- Allgemein
+  <Gui(17)/>　　　: Tor fürs Herbeirufen wechseln
+  <CommandIcon(15)/>　　　: Truppenliste wechseln (Spieler/Gegner)
+  <Gui(16)/>　　　: Rufordnungsliste auswählen
+  <CommandIcon(12)/>＋<Gui(10)/>  : Technik einsetzen
+  <CommandIcon(13)/>＋<CommandIcon(20)/>  : Bodenzielring bewegen
+  <CommandIcon(18)/>  : Hilfe anzeigen
+- Trabanten auswählen
+  <CommandIcon(12)/>＋<Gui(11)/>  : Alle eigenen Trabanten in der Nähe des ausgewählten
+  <CommandIcon(12)/>＋<Gui(8)/>  : Alle gleichen Trabanten in der Nähe des ausgewählten
+  <CommandIcon(12)/>＋<Gui(9)/>  : Alle eigenen Trabanten, die gleich sind wie der ausgewählte
+- Minikarte
+  <CommandIcon(14)/> gedrückt halten: Geländepunkt speichern (beim Loslassen springt man zurück zum Punkt)
+  <CommandIcon(14)/>＋<CommandIcon(23)/>  : Geländepunkt bewegen
+  <CommandIcon(14)/>＋<Gui(17)/>  : Geländepunkt zurücksetzen
+</If>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Schnelltasten<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Während des Kampfs der Trabanten werden folgende Tastenbelegungen ersetzt:
+<If(Equal(PlayerParameter(75),1))><Else/>Oberes Trabanten-Kommandomenü: Kommandomenü 2, Slot 1-12
+Unteres Trabanten-Kommandomenü: Kommandomenü 1, Slot 1-12
+Technik einsetzen: Kommandomenü 3, Slot 1
+Falle auslösen: Kommandomenü 3, Slot 2
+Wegschicken: Kommandomenü 3, Slot 3
+</If>Tor wechseln: Waffe ziehen/wegstecken
+Trabantenliste: Begleiter-Verzeichnis"
+188,"<CommandIcon(8)/> Auswählen <CommandIcon(11)/> An Bord gehen <CommandIcon(24)/> Scrollen"
+189,"<CommandIcon(8)/> Reihenfolge/Ebene ändern  <CommandIcon(10)/> Ein-/Ausblenden <CommandIcon(11)/> Anwenden"
+190,"<CommandIcon(10)/> Untermenü"
+191,"<CommandIcon(5)/> Reihenfolge ändern <CommandIcon(6)/> Ebene ändern <CommandIcon(8)/><CommandIcon(9)/> Bestätigen <CommandIcon(10)/> Anzeigen/Ausblenden <CommandIcon(11)/> Anwenden"
+192,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen <CommandIcon(8)/> Probehören <CommandIcon(11)/> Titel für Wiedergabe festlegen <CommandIcon(10)/> Untermenü"
+193,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen <CommandIcon(8)/> Titel für Wiedergabe festlegen <CommandIcon(11)/> Probehören beenden <CommandIcon(10)/> Untermenü"
+194,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen <CommandIcon(8)/> Wiedergabe anhalten <CommandIcon(10)/> Untermenü"
+195,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen <CommandIcon(8)/> Abspielen <CommandIcon(10)/> Untermenü"
+196,"<CommandIcon(8)/> Zurückkaufen"
+197,"<CommandIcon(10)/> Ausrüstungs-Untermenü"
+198,"<CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen  <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+199,"<CommandIcon(10)/>Ausrüstungs-Untermenü <CommandIcon(20)/>Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+200,"<CommandIcon(8)/> Auswählen <CommandIcon(11)/> Beginnen <CommandIcon(24)/> Scrollen"
+201,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen "
+202,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/>Liste wechseln"
+203,"<CommandIcon(8)/> Rollenreihenfolge ändern  <CommandIcon(11)/> Anwenden"
+204,"<CommandIcon(5)/> Bewegen  <CommandIcon(8)/> Bestätigen  <CommandIcon(9)/> Abbrechen  <CommandIcon(11)/> Anwenden"
+205,"<CommandIcon(10)/> Auswählen <CommandIcon(11)/> Teilnahmebestätigung schließen <CommandIcon(24)/> Scrollen"
+206,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Inhalt ansehen"
+207,"<CommandIcon(9)/> Schließen <CommandIcon(24)/> Scrollen"
+208,"<CommandIcon(9)/> Schließen <CommandIcon(24)/> Scrollen"
+209,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+210,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+211,"<CommandIcon(8)/> Probehören <CommandIcon(11)/> Abspielen <CommandIcon(10)/> Untermenü"
+212,"<CommandIcon(8)/> Abspielen <CommandIcon(11)/> Probehören beenden <CommandIcon(10)/> Untermenü"
+213,"<CommandIcon(8)/> Wiedergabe anhalten <CommandIcon(10)/> Untermenü"
+214,"<CommandIcon(11)/> Soldaten austauschen"
+215,"<CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Schließen"
+216,"<CommandIcon(10)/> Untermenü"
+217,"<CommandIcon(10)/> Untermenü"
+218,"<CommandIcon(10)/> Untermenü"
+219,"<CommandIcon(14)/><CommandIcon(15)/> Kamera wechseln <CommandIcon(18)/> Menü öffnen"
+220,"<CommandIcon(8)/> Wohnung betreten <CommandIcon(10)/> Wohnungsdetails"
+221,"<CommandIcon(10)/> Untermenü"
+222,"<CommandIcon(10)/> Untermenü"
+223,"<CommandIcon(23)/> Scrollen <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen <CommandIcon(13)/> Kamera wechseln"
+224,"<CommandIcon(10)/> Untermenü"
+225,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Umgebung wählen"
+226,"<CommandIcon(9)/> Schließen <CommandIcon(24)/> Scrollen"
+227,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen <CommandIcon(8)/> Hinzufügen <CommandIcon(10)/> Untermenü"
+228,"<CommandIcon(10)/> Untermenü"
+229,"<CommandIcon(10)/> Untermenü"
+230,"<CommandIcon(10)/> Ausrüstungsuntermenü"
+231,"<CommandIcon(10)/> Untermenü <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+232,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+233,"<CommandIcon(10)/> Untermenü"
+234,"<CommandIcon(10)/> Untermenü"
+235,"<CommandIcon(10)/> Im Kommandomenü anlegen <CommandIcon(8)/> Ausführen"
+236,"<CommandIcon(8)/>Als Ergänzendes PvP-Kommando anlegen"
+237,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Auswählen"
+238,"<CommandIcon(3)/><CommandIcon(4)/> Bewegen <CommandIcon(8)/> Auswählen"
+239,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>＋<CommandIcon(10)/> Ebene umschalten <CommandIcon(12)/>+<CommandIcon(23)/> Zoomen"
+240,"<CommandIcon(8)/> PvP-Eigenschaft hinzufügen"
+241,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+242,"<CommandIcon(9)/> Zu „Aufgeben“ springen"
+243,"<CommandIcon(9)/> Zu „Schließen“ springen"
+244,"<CommandIcon(5)/> Scrollen <CommandIcon(9)/> Schließen"
+245,"<CommandIcon(11)/> Soldaten austauschen"
+246,"<CommandIcon(8)/> Online-Status aktualisieren <CommandIcon(10)/> Untermenü"
+247,"Beim Benutzen der Kompositionen-Funktion ist die Darbietung der Musik von Drittpersonen strengstens untersagt. Es ist genehmigt, eigene Kompositionen aufzunehmen und hochzuladen; hierdurch stimmen Sie zu, solche Aufnahmen für den Gebrauch von Square Enix oder Anderen in Übereinstimmung mit den Bedingungen in den „FINAL FANTASY XIV Bestimmungen für die Verwendung von Unterlagen“ zu lizenzieren."
+248,"<CommandIcon(10)/> Untermenü"
+249,"<CommandIcon(11)/> Start/Abbrechen"
+250,"<CommandIcon(11)/> Start/Neustart  <CommandIcon(10)/> Schließen"
+251,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Gegenstand wählen"
+252,"<CommandIcon(7)/> Bewegen <CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+253,"<CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+254,"<CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+255,"<CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/> Platz wählen <CommandIcon(9)/> Zurück"
+256,"<CommandIcon(11)/> Anwenden"
+257,"<CommandIcon(8)/> Maginit einsetzen <CommandIcon(10)/> Maginit entfernen"
+258,"<CommandIcon(11)/> Fokus wechseln <CommandIcon(10)/> Untermenü"
+259,"<CommandIcon(9)/><CommandIcon(11)/> Fokus wechseln <CommandIcon(10)/> Untermenü"
+260,"<CommandIcon(10)/> Untermenü"
+261,"<CommandIcon(9)/> Zurück zur Pro<SoftHyphen/>jektions<SoftHyphen/>platte"
+262,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück zur Pro<SoftHyphen/>jektions<SoftHyphen/>platte"
+263,"<CommandIcon(10)/> Untermenü <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>+<CommandIcon(24)/> Zoomen"
+264,"<CommandIcon(10)/> Untermenü"
+265,"<CommandIcon(10)/> Untermenü"
+266,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+267,"<CommandIcon(9)/> Schließen"
+268,"<CommandIcon(10)/> Untermenü"
+269,"<CommandIcon(11)/> Alle wählen/entfernen"
+270,"<CommandIcon(10)/> Untermenü"
+271,"<CommandIcon(8)/> Nicht spenden　<CommandIcon(11)/> Spende auswählen"
+272,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+273,"<CommandIcon(24)/> Scrollen"
+274,"<CommandIcon(10)/><CommandIcon(8)/> Untermenü"
+275,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Favoriten verschieben"
+276,"<CommandIcon(11)/> Spende auswählen"
+277,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Trabanten-Kommandomenü bearbeiten"
+278,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Bewegen"
+279,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+280,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+281,"<CommandIcon(5)/> Bewegen <CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü"
+282,"<CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü"
+283,"<CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Bewegen"
+284,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+285,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+286,"<CommandIcon(5)/> Bewegen <CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü"
+287,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/> Bestätigen <CommandIcon(9)/> Abbrechen"
+288,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü"
+289,"<CommandIcon(11)/> Neuer Brief"
+290,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Annehmen"
+291,"<CommandIcon(8)/> Zu aktiven Kommandos hinzufügen"
+292,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Neuen Platz zuweisen"
+293,"<CommandIcon(7)/> Bewegen  <CommandIcon(8)/> Bestätigen  <CommandIcon(9)/> Abbrechen"
+294,"<CommandIcon(9)/> Schließen"
+295,"<CommandIcon(10)/> Sub-Parameter <CommandIcon(8)/> Festlegen <CommandIcon(9)/> Manipulator <CommandIcon(11)/> Logos-Kommando"
+296,"<CommandIcon(8)/> Aktivieren <CommandIcon(11)/> Schließen"
+297,"<CommandIcon(11)/> Logos-Splitter wählen <CommandIcon(10)/> Sub-Parameter"
+298,"<CommandIcon(10)/><CommandIcon(8)/> Untermenü"
+299,"<CommandIcon(10)/> Sub-Parameter <CommandIcon(9)/><CommandIcon(11)/> Manipulator"
+300,"<CommandIcon(11)/> Logos-Splitter wählen <CommandIcon(9)/> Schließen"
+301,"<CommandIcon(10)/> Untermenü"
+302,"<CommandIcon(10)/> Untermenü"
+303,"<CommandIcon(8)/><CommandIcon(10)/> Zimmerdetails ansehen"
+304,"<CommandIcon(8)/><CommandIcon(10)/> Zimmerdetails ansehen"
+305,"<CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+306,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+307,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(11)/> Kommandomenü bearbeiten"
+308,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen"
+309,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen"
+310,"<CommandIcon(12)/><CommandIcon(13)/> Info ein-/ausblenden"
+311,"<CommandIcon(8)/> Bestätigen <CommandIcon(24)/> Scrollen"
+312,"<CommandIcon(8)/> Bestätigen"
+313,"<CommandIcon(10)/> Ausrufe <CommandIcon(11)/> Hilfsfunktionen"
+314,"<CommandIcon(8)/> Online-Status aktualisieren <CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+315,"<CommandIcon(12)/><CommandIcon(13)/> <CommandIcon(13)/> Info ein-/ausblenden  <CommandIcon(8)/> Immunitäten"
+316,"<CommandIcon(8)/> Wählen  <CommandIcon(10)/> Untermenü"
+317,"<CommandIcon(8)/> Wählen  <CommandIcon(10)/> Untermenü"
+318,"<CommandIcon(5)/> Scrollen"
+319,"<CommandIcon(8)/> Gegenstand auswählen"
+320,"<CommandIcon(8)/> Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied hinzufügen/entfernen"
+321,"<CommandIcon(10)/> Unterkommando <CommandIcon(8)/> Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied hinzufügen/entfernen"
+322,"<CommandIcon(8)/> Ein-/Ausschalten  <CommandIcon(10)/> Andere ein-/ausschalten  <CommandIcon(11)/> Filtern"
+323,"<CommandIcon(9)/> Schließen  <CommandIcon(24)/> Scrollen"
+324,"<CommandIcon(8)/> Auswählen  <CommandIcon(9)/> Schließen  <CommandIcon(11)/> Bestätigen und schließen  <CommandIcon(24)/> Scrollen"
+325,"<CommandIcon(8)/> Beschreibung  <CommandIcon(24)/> Scrollen  <CommandIcon(10)/> Untermenü"
+326,"<CommandIcon(10)/> Untermenü"
+327,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Vereinfachtes Aufnehmen ein-/ausschalten"
+328,"<CommandIcon(8)/> Beschreibung  <CommandIcon(24)/> Scrollen  <CommandIcon(10)/> Untermenü"
+329,"<CommandIcon(10)/> Untermenü"
+330,"<CommandIcon(10)/> Untermenü"
+331,"<CommandIcon(10)/> Untermenü <CommandIcon(12)/><CommandIcon(13)/> Umblättern"
+332,"<CommandIcon(10)/> Untermenü"
+333,"<CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(8)/> Ausführen"
+334,"<CommandIcon(24)/> Scrollen"
+335,"<CommandIcon(10)/> Untermenü"
+336,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/>Zurück <CommandIcon(9)/> Schließen"
+337,"<CommandIcon(10)/> Untermenü"
+338,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Auswählen"
+339,"<CommandIcon(11)/> Anwenden"
+340,"<CommandIcon(10)/> Untermenü  <CommandIcon(12)/><CommandIcon(13)/> Umblättern"
+341,"<CommandIcon(10)/> Untermenü"
+342,"<CommandIcon(9)/> Zurück zur Spielkiste"
+343,"<CommandIcon(9)/> Zu „Schließen“ springen"
+344,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
+345,"<CommandIcon(10)/> Untermenü <CommandIcon(8)/> Ausführen"
+346,"<CommandIcon(8)/> Benutzen  <CommandIcon(11)/> Zurück zu Frontbericht"
+347,"<CommandIcon(7)/>Bewegen <CommandIcon(8)/>Paneel umdrehen"
+348,"<CommandIcon(8)/> Im Register ablegen  <CommandIcon(10)/> Untermenü  <CommandIcon(11)/>  Zur Kiste"
+349,"<CommandIcon(8)/> Benutzen  <CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Zurück zu Frontbericht"
+350,"<CommandIcon(8)/> In Kiste legen  <CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Zur Kiste"
+351,"<CommandIcon(11)/> Zurück zum Frontbericht"
+352,"<CommandIcon(11)/> Kiste für Verschollenes bedienen"
+353,"<CommandIcon(11)/> Automatische Auswahl"
+354,"<CommandIcon(9)/> Schließen"
+355,"<CommandIcon(24)/> Scrollen"
+356,"<CommandIcon(10)/> Untermenü"
+357,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Eintauschen"
+358,"<CommandIcon(10)/> Untermenü"
+359,"<CommandIcon(10)/> Karte"
+360,"<CommandIcon(1)/>"
+361,"<CommandIcon(2)/>"
+362,"<CommandIcon(3)/>"
+363,"<CommandIcon(4)/>"
+364,"<CommandIcon(5)/>"
+365,"<CommandIcon(6)/>"
+366,"<CommandIcon(7)/>"
+367,"<CommandIcon(8)/>"
+368,"<CommandIcon(9)/>"
+369,"<CommandIcon(10)/>"
+370,"<CommandIcon(11)/>"
+371,"<CommandIcon(12)/>"
+372,"<CommandIcon(13)/>"
+373,"<CommandIcon(14)/>"
+374,"<CommandIcon(15)/>"
+375,"<Gui(16)/>"
+376,"<Gui(17)/>"
+377,"<CommandIcon(18)/>"
+378,"<CommandIcon(19)/>"
+379,"<CommandIcon(20)/>"
+380,"<CommandIcon(21)/>"
+381,"<CommandIcon(22)/>"
+382,"<CommandIcon(23)/>"
+383,"<CommandIcon(24)/>"
+384,"<CommandIcon(25)/>"
+385,"<CommandIcon(11)/> Scroll-Sprung <CommandIcon(10)/> Untermenü"
+386,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+387,"<CommandIcon(8)/> Belohnung entgegennehmen <CommandIcon(10)/> Untermenü"
+388,"<CommandIcon(10)/> Untermenü"
+389,"<CommandIcon(10)/> Untermenü"
+390,"<CommandIcon(12)/><CommandIcon(13)/> Klasse wählen <CommandIcon(10)/> Untermenü"
+391,"<CommandIcon(12)/><CommandIcon(13)/> Klasse wählen <CommandIcon(8)/> Karte öffnen"
+392,"<CommandIcon(5)/> Zielort-Auswahl <CommandIcon(8)/> Teleport <CommandIcon(11)/>Zuletzt verwendet <CommandIcon(23)/> Zur Kartenfunktion"
+393,"<CommandIcon(23)/> Scrollen <CommandIcon(7)/> Zur Liste <CommandIcon(11)/>Zuletzt verwendet"
+394,"<CommandIcon(23)/> Scrollen <CommandIcon(8)/> Teleport <CommandIcon(11)/>Zuletzt verwendet <CommandIcon(7)/> Zur Liste"
+395,"<CommandIcon(10)/> Rollen/Alle durchschalten <CommandIcon(8)/> Gesuchte Klasse/Job ändern  <CommandIcon(11)/> Suche ausführen"
+396,"<CommandIcon(10)/> Alle auswählen/Keine Auswahl <CommandIcon(11)/> Suche ausführen"
+397,"<CommandIcon(10)/> Mehrfachauswahl/Einzelauswahl durchschalten"
+398,"<CommandIcon(10)/> Mehrfachauswahl/Einzelauswahl durchschalten"
+399,"<CommandIcon(11)/> Bestätigen und schließen"
+400,"<CommandIcon(23)/> Scrollen <CommandIcon(11)/> Kartentyp <CommandIcon(12)/>＋<CommandIcon(10)/> Ebene umschalten <CommandIcon(12)/>＋<CommandIcon(23)/> Zoomen <CommandIcon(8)/> Teleport"
+401,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Teilnahmebestätigung schließen <CommandIcon(24)/> Scrollen"
+402,"<CommandIcon(9)/> Zurück zur Liste <CommandIcon(24)/> Scrollen"
+403,"<CommandIcon(10)/> Untermenü <CommandIcon(24)/> Scrollen"
+404,"<CommandIcon(24)/> Scrollen"
+405,"<CommandIcon(8)/><CommandIcon(11)/> Vorschau <CommandIcon(10)/> Untermenü <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen  <CommandIcon(12)/>＋<CommandIcon(24)/> Zoomen"
+406,"<CommandIcon(11)/>Bestätigen und schließen <CommandIcon(10)/>Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder bearbeiten"
+407,"<CommandIcon(8)/>Mitglied hinzufügen/entfernen <CommandIcon(9)/>Bearbeitung beenden"
+408,"Seite an Seite"
+409,"Abgeschlossene Inhalte des Hauptszenarios ab Stufe 71 können mit den Avataren befreundeter NPCs bestritten werden. Die NPC-Avatare sammeln dabei Routine und können aufgestuft werden.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ Wenn Inhalte mit dem „Seite an Seite“-System betreten werden, enthalten die Truhen weniger Gegenstände. Außerdem lassen einige Gegner keine Belohnungen mehr fallen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+410,"Projektionen"
+411,"Wenn ein NPC Stufe 80 erreicht, werden <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Projektionen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> freigeschaltet. Wähle den entsprechenden Befehl aus dem Untermenü des NPCs, dessen Erscheinung du verändern möchtest. Sobald die Projektionen freigeschaltet wurden, wird dafür auch eine Option auf der Übersichtsseite des jeweiligen NPC angezeigt."
+412,"NPC-Limitierung"
+413,"Einige NPCs können dich nicht in bestimmte Dungeons begleiten."
+414,"Betreten eines Dungeons"
+415,"Es gibt zwei Möglichkeiten, einen Dungeon zu betreten: Entweder kämpfst du an der Seite befreundeter NPCs oder rekrutierst mithilfe der Inhaltssuche eine Gruppe anderer Spieler.
+Natürlich kannst du dich auch mit anderen Spielern absprechen und manuell eine Gruppe zu<SoftHyphen/>sammen<SoftHyphen/>stellen.
+Wie du einen Inhalt betrittst, hat keinen Einfluss auf den Ablauf des Geschehens, wähle also ruhig die von dir bevorzugte Methode!
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ Wenn Inhalte mit NPCs betreten werden, enthalten die Truhen weniger Gegenstände. Außerdem lassen einige Gegner keine Belohnungen mehr fallen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+416,"Der Inhaltshelfer"
+417,"Wenn du es bevorzugst, einen Inhalt allein durchzuspielen, kannst du dir mit dem <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Inhaltshelfer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> eine Gruppe befreundeter NPCs an die Seite holen.
+Interagiere mit dem Eingangsportal eines Dungeons und wähle „Mit NPCs betreten“ aus, um den Inhaltshelfer in einem neuen Fenster zu öffnen.
+Darin kannst du die entsprechend deiner Klasse automatisch zu<SoftHyphen/>sammen<SoftHyphen/>gestellten NPCs noch einmal überprüfen. Sobald du bereit bist, wähle „Inhalt betreten“ und halte deine Waffe griffbereit!"
+418,"Das Bestätigungsfenster"
+419,"Sind alle Vor<SoftHyphen/>bereitungen abgeschlossen, öffnet sich ein <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bestätigungsfenster<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, in dem du noch einmal sichergehen kannst, dass du den richtigen Inhalt betrittst. Wähle „Teilnehmen“, um sofort zu beginnen.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Achtung: Solltest du den Inhalt nicht innerhalb des angezeigten Zeitlimits betreten, musst du mit der Inhaltsauswahl von vorn anfangen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+420,"Verfügbare Inhalte"
+421,"Mit dem Fortschreiten deines Abenteuers steigt die Anzahl der verfügbaren Inhalte in der Inhaltssuche und im Inhaltshelfer.
+Dungeons und Prüfungen, die du bereits abgeschlossen hast, kannst du beliebig oft wiederholen, indem du sie vom Hauptmenüpunkt „Spielinhalte“ aus in der Inhaltssuche oder im Inhaltshelfer erneut auswählst."
+422,"Gruppenbearbeitung"
+423,"Instanziierte Dungeons und Prüfungen des Hauptszenarios <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ab Stufe 71<UIGlow>01</UIGlow><UIForeground>01</UIForeground> können mit einer Gruppe von befreundeten NPCs betreten werden.
+Möchtest du ein Mitglied deiner Gruppe gegen ein anderes austauschen, wähle das auszutauschende Mitglied, um eine Liste mit für den jeweiligen Inhalt verfügbaren NPCs aufzurufen."
+424,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+425,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
+426,""
+427,""
+428,"Inhaltssuche"
+429,"Über die <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Inhaltssuche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> kannst du ganz einfach bestimmte Dungeons gemeinsam mit anderen Spielern erleben.
+Interagiere hierfür mit dem Eingangsportal und wähle „Mit anderen Spielern betreten“, um die Inhaltssuche zu öffnen."
+430,"Registrierung für einen Inhalt"
+431,"Als Erstes wählst du einen Inhalt aus der Liste und dann <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Teilnehmen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Damit bist du für diesen Spielinhalt registriert und die Suche nach passenden Mitstreitern wird gestartet.
+
+※ Wenn ein <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schloss<UIGlow>01</UIGlow><UIForeground>01</UIForeground>-Icon angezeigt wird, ist dieser Inhalt für dich noch nicht zugänglich."
+432,"Status der Inhaltssuche"
+433,"Sobald du in der Inhaltssuche registriert bist, kannst du den Status der Suche für diesen Inhalt (Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder und Server-Status) ansehen, indem du im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hauptmenü<UIGlow>01</UIGlow><UIForeground>01</UIForeground> unter <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Spielinhalte<UIGlow>01</UIGlow><UIForeground>01</UIForeground> die Inhaltssuche auswählst."
+434,"Das Bestätigungsfenster"
+435,"Sobald genügend Mitspieler gefunden wurden, wird ein Bestätigungsfenster angezeigt. Wähle dort <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Teilnehmen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, sobald du bereit bist.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Solltest du den Inhalt nicht innerhalb des angezeigten Zeitlimits betreten, musst du mit der Inhaltsauswahl von vorn anfangen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+436,"Verfügbare Dungeons"
+437,"Mit dem Fortschreiten deines Abenteuers steigt die Anzahl der verfügbaren Inhalte in der Inhaltssuche und im Inhaltshelfer.
+Inhalte, die du bereits abgeschlossen hast, kannst du beliebig oft wiederholen, indem du sie vom Hauptmenüpunkt „Spielinhalte“ aus in der Inhaltssuche oder im Inhaltshelfer erneut auswählst."
+438,"<CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>＋<CommandIcon(24)/> Zoom"
+439,"<CommandIcon(10)/> Untermenü"
+440,"<CommandIcon(10)/> Untermenü"
+441,"Wiedergabesteuerung"
+442,"※ Liste basiert auf Standardeinstellungen für Tastatur/Maus.
+<If(Equal(PlayerParameter(75),0))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera bewegen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+W, A, S, D (Bewegungstasten) / <CommandIcon(20)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera zentrieren<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Z (Waffe ziehen) / <Gui(16)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/> Richtungstasten
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen) / <CommandIcon(11)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steuerkonsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+R oder  (Automat. Rennen) / <CommandIcon(10)/><Else/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera bewegen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/> / W, A, S, D (Bewegungstasten)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera zentrieren<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/> / Z (Waffe ziehen)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>Steuerkreuz<Else/>Richtungstasten</If> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/> / <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steuerkonsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/> / R oder  (Automat. Rennen)</If>"
+443,"Rückblenden aufzeichnen"
+444,"Die folgenden Bedingungen müssen erfüllt sein, um Rückblenden aufzeichnen zu können:
+1. Die Datenaufzeichnung ist eingeschaltet.
+2. Der Inhalt lässt Rückblenden zu.
+3. Der Spieler befindet sich mit der richtigen Anzahl an Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern im Inhalt.
+4. Eine Bereitschaftsanfrage für Rückblenden ist gestellt.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. Die Datenaufzeichnung ist eingeschaltet.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Die Einstellungen können unter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inhaltsrückblende<UIGlow>01</UIGlow><UIForeground>01</UIForeground> im Hauptmenü angepasst werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. Der Inhalt lässt Rückblenden zu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Nicht alle Inhalte können aufgezeichnet werden.
+Inhalte, die Rückblenden zulassen, sind mit einem speziellen Symbol gekennzeichnet.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>3. Der Spieler befindet sich mit der richtigen Anzahl an Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern im Inhalt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Inhalte können nicht aufgezeichnet werden, wenn sie mit einer zu kleinen Gruppe betreten werden.
+※ Einschließlich Gruppen, die über die Inhaltssuche rekrutiert wurden.
+※ Inhalte, für die die Option „Keine Beschränkung“ aktiviert wurde, können nicht aufgezeichnet werden, selbst wenn die Mindestanforderungen an die Gruppengröße erfüllt sind.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>4. Eine Bereitschaftsanfrage für Rückblenden ist gestellt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Für das Aufzeichnen von Rückblenden ist die Zustimmung aller Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder erforderlich.
+※ Die Bereitschaftsanfrage muss innerhalb von 5 Minuten nach Betreten des Inhalt gestellt werden. Wenn alle Mitglieder zugestimmt haben, beginnt die Aufnahme.
+Wenn mehr als drei Aufnahmen gespeichert wurden, wird die älteste mit den neuen Daten überschrieben. Bis zu zwei Aufnahmen können schreibgeschützt werden."
+445,"Rückblenden ansehen"
+446,"Die folgenden Bedingungen müssen erfüllt sein, um Rückblenden anzusehen:
+1. Der Spieler befindet sich in einem Gästezimmer.
+2. Die Aufzeichnungsdaten sind nicht auf einem alten Stand.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. Der Spieler befindet sich in einem Gästezimmer.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Rückblenden können nur in Gästezimmern angesehen werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. Die Aufzeichnungsdaten sind nicht auf einem alten Stand.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Aufzeichnungsdaten können nach einer Aktualisierung des Clients (inkl. Patches und Hotfixes) nicht mehr abgespielt werden."
+447,"Wiedergabesteuerung"
+448,"※ Liste basiert auf Standardeinstellungen für Tastatur/Maus.
+<If(Equal(PlayerParameter(75),0))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera bewegen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+W, A, S, D (Bewegungstasten) / <CommandIcon(20)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera zentrieren<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Z (Waffe ziehen) / <Gui(16)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/> Richtungstasten
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen) / <CommandIcon(11)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steuerkonsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+R oder  (Automat. Rennen) / <CommandIcon(10)/><Else/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera bewegen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/> / W, A, S, D (Bewegungstasten)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamera zentrieren<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/> / Z (Waffe ziehen)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>Steuerkreuz<Else/>Richtungstasten</If> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/> / <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steuerkonsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/> / R oder  (Automat. Rennen)</If>"
+449,"Funktionen der Steuerkonsole"
+450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Hält die Wiedergabe vor<SoftHyphen/>über<SoftHyphen/>gehend an oder setzt sie fort.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Szene auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Beginnt die Wiedergabe an der ausgewählten Stelle.
+※ Bis die Wiedergabe beginnt kann es einen Moment dauern.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Vorige Szene<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Springt eine Szene zurück.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Nächste Szene<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Springt zur nachfolgenden Szene.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Konsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Schaltet die UI-Elemente auf dem Bildschirm ein und aus.
+※ Diese Einstellung wird bis zur nächsten Wiedergabe gespeichert.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Fokusziel setzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Die Kamera kann auf ein beliebiges Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied fokussiert werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rückblende beenden<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Beendet die Wiedergabe der Rückblende."
+451,"<CommandIcon(10)/> Untermenü"
+452,"<CommandIcon(24)/> Umblättern"
+453,"<CommandIcon(8)/> Öffnen <CommandIcon(24)/> Scrollen"
+454,"<CommandIcon(24)/> Scrollen"
+455,"<CommandIcon(10)/> Untermenü"
+456,"<CommandIcon(8)/> Begleiter aussetzen <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Begleiter wechseln"
+457,"<CommandIcon(10)/> Untermenü"
+458,"<CommandIcon(10)/> Untermenü"
+459,"<CommandIcon(10)/> Untermenü"
+460,"<CommandIcon(10)/> Untermenü <CommandIcon(24)/> Scrollen"
+461,"<CommandIcon(5)/> Bewegen <CommandIcon(8)/> Begleiter aussetzen <CommandIcon(10)/> Untermenü"
+462,"<CommandIcon(8)/> Begleiter aussetzen <CommandIcon(10)/> Untermenü"
+463,"<CommandIcon(10)/> Untermenü"
+464,"<CommandIcon(10)/> Untermenü"
+465,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Mehrfachauswahl"
+466,"<CommandIcon(10)/>サブコマンド <CommandIcon(20)/>移動 <CommandIcon(24)/>拡縮 <CommandIcon(12)/><CommandIcon(13)/>回転"
+467,"<CommandIcon(8)/> Zum wertvollsten Spieler ehren"
+468,"<CommandIcon(24)/> Scrollen"
+469,"<CommandIcon(11)/> Belohnung annehmen <CommandIcon(24)/> Scrollen"
+470,"<CommandIcon(10)/> Untermenü <CommandIcon(24)/> Scrollen"
+471,"<CommandIcon(11)/> Belohnung annehmen <CommandIcon(10)/> Untermenü <CommandIcon(24)/> Scrollen"
+472,"<CommandIcon(10)/> Untermenü"
+473,"<CommandIcon(10)/> Untermenü"
+474,"<CommandIcon(11)/> Ausschicken"
+475,"<CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(12)/><CommandIcon(13)/> Umblättern"
+476,"<CommandIcon(12)/><CommandIcon(13)/> Umblättern"
+477,"<CommandIcon(8)/> Vorkommen anzeigen"
+478,"<CommandIcon(10)/> Untermenü"
+479,"<CommandIcon(10)/> Untermenü"
+480,"<CommandIcon(10)/> Untermenü"
+481,"<CommandIcon(18)/> Möbelprojektion beenden"
+482,"<Gui(13)/>＋<Gui(20)/> Bewegen <CommandIcon(14)/><CommandIcon(15)/> Drehen <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Raster <If(IntegerParameter(1))>ein<Else/>aus</If>"
+483,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Projektionsliste"
+484,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/>Inventar <If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/> Registriert/Platziert umschalten<Else/></If>"
+485,"<CommandIcon(11)/> Anwenden"
+486,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Raster <If(IntegerParameter(1))>ein<Else/>aus</If>"
+487,"<CommandIcon(10)/> Untermenü"
+488,"<CommandIcon(18)/> Möbelfärben beenden"
+489,"<CommandIcon(18)/> Möbelprojektion beenden"
+490,"<Gui(13)/>＋<Gui(20)/> Bewegen <CommandIcon(14)/><CommandIcon(15)/> Drehen <CommandIcon(11)/> Raster <If(IntegerParameter(1))>ein<Else/>aus</If>"
+491,"<CommandIcon(11)/> Raster <If(IntegerParameter(1))>ein<Else/>aus</If>"
+492,"<CommandIcon(8)/> Wählen"
+493,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Anlegen"
+494,"<CommandIcon(11)/> Vereinfachtes Aufnehmen ein-/ausschalten"
+495,"<CommandIcon(11)/> Synthese beginnen"
+496,"<CommandIcon(10)/> Untermenü"
+497,"<CommandIcon(10)/> Untermenü"
+498,"<CommandIcon(11)/> Anwenden"
+499,"<CommandIcon(24)/> Scrollen"
+500,"<CommandIcon(24)/> Scrollen"
+501,"<CommandIcon(24)/> Scrollen"
+502,"<CommandIcon(10)/> Untermenü"
+503,"<CommandIcon(10)/> Karte öffnen"
+504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
+505,"<CommandIcon(8)/> Vorschau öffnen/schließen <CommandIcon(11)/> Vorschau <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>＋<CommandIcon(24)/> Zoom"
+506,"<CommandIcon(11)/> Anwenden"
+507,""
+508,""
+509,""
+510,""
+511,""
+512,""
+513,""
+514,""
+515,""
+516,""
+517,""
+518,""
+519,""
+520,""
+521,""
+522,""
+523,""
+524,""
+525,""
+526,""
+527,""
+528,""
+529,""
+530,""
+531,""
+532,""
+533,""
+534,""
+535,""
+536,""
+537,""
+538,""
+539,""
+540,""
+541,""
+542,""
+543,""
+544,""
+545,""
+546,""
+547,""
+548,""
+549,""
+550,""
+551,""
+552,""
+553,""
+554,""
+555,""
+556,""
+557,""
+558,""
+559,""
+560,""
+561,""
+562,""
+563,""
+564,""
+565,""
+566,""
+567,""
+568,""
+569,""
+570,""
+571,""
+572,""
+573,""
+574,""
+575,""
+576,""
+577,""
+578,""
+579,""
+580,""
+581,""
+582,""
+583,""
+584,""
+585,""
+586,""
+587,""
+588,""
+589,""
+590,""
+591,""
+592,""
+593,""
+594,""
+595,""
+596,""
+597,""
+598,""
+599,""
+600,""
+1000,"Die Meldung konnte nicht gesendet werden.
+Bitte versuch es noch einmal."
+1001,""
+1002,""
+1003,"Zirkel"
+1004,"In Zirkeln versammeln sich Spielerinnen und Spieler mit den gleichen Interessen.
+Mit bis zu 1.000 Mitgliedern stellen sie eine ausgezeichnete Möglichkeit dar, sich mit zahlreichen Aben<SoftHyphen/>teu<SoftHyphen/>re<SoftHyphen/>rin<SoftHyphen/>nen und Abenteurern mit den gleichen Präferenzen auszutauschen.
+
+Jeder kann seinen eigenen Zirkel gründen oder wahlweise Mitglied eines anderen, bereits existierenden Zirkels werden. Dabei ist es möglich, auch Zirkeln abseits der eigenen Heimatwelt beizutreten. Insgesamt kann jeder in bis zu zehn Zirkeln als Mitglied eingeschrieben sein.
+
+Im Hauptmenü unter „Soziales“ können in der Zirkelsuche jene Zirkel angezeigt werden, die zur Zeit neue Mitglieder suchen.
+
+Jeder Zirkel wird von einem Meister geleitet, der Administratoren ernennen kann, und dem alle Funktionen des Zirkels zur Verfügung stehen. Die Rolle des Meisters fällt dem Gründer automatisch zu, es ist aber auch möglich, diese Funktion an andere Spieler zu übertragen.
+
+Sobald man Mitglied eines Zirkels ist, kann man dessen Vorzüge genießen."
+1005,"Reiter „Allgemein“"
+1006,"■ Nachricht des Tages
+In diesem Fenster können wichtige Nachrichten an die Mitglieder des Zirkels hinterlassen werden. Sei es ein Tages-Motto, eine Erinnerung an eine geplante Aktivität oder einfach nur etwas Unterhaltsames. Der Zirkelmeister und alle Administratoren können Nachrichten des Tages verfassen.
+
+■ Umfragen
+Umfragen können vom Meister oder den Administratoren erstellt werden. Alle Mitglieder eines Zirkels können an Umfragen teilnehmen. Jedes Mitglied kann nur einmal pro Umfrage abstimmen.
+
+■ Notizen
+Es können bis zu fünf Notizen gleichzeitig erstellt werden. Diese Funktion steht nur dem Zirkelmeister und den Administratoren zur Verfügung.
+"
+1007,"Reiter „Schwarzes Brett“"
+1008,"In dieser Sektion können alle Mitglieder eines Zirkels Kommentare hinterlassen. Es werden maximal 100 Kommentare gespeichert. Dabei werden immer nur die neuesten 100 Kommentare dargestellt. Ältere Kommentare werden automatisch gelöscht.
+
+Der Meister und die Administratoren haben die Berechtigung, Nachrichten zu löschen.
+
+* Neue Zirkelmitglieder während der kostenlosen Testspielzeit erhalten erst nach 14 Tagen die Berechtigung, Nachrichten auf dem Schwarzen Brett zu hinterlassen."
+1009,"Reiter „Mitglieder“"
+1010,"In dieser Sektion werden die Mitglieder eines Zirkels angezeigt.
+
+Über die Einstellungen können wichtige administrative Aufgaben wahrgenommen werden. So kann man Administratoren ernennen oder als Meister ein anderes Mitglied des Zirkels zum Meister ernennen.
+
+Außerdem ist es möglich, Spieler auf die Schwarze Liste zu setzen und sie damit automatisch aus dem Zirkel zu entfernen. Darüber hinaus werden diese Spieler auch effektiv von einer zukünftigen Mitgliedschaft ausgeschlossen."
+1011,"Weitere Funktionen"
+1012,"■ Einstellungen im Reiter „Allgemein“
+Diese Sektion ist aus<SoftHyphen/>schließ<SoftHyphen/>lich für den Meister des Zirkels vorbehalten. Hier kann der Name des Zirkels geändert und dessen Ziele und Hauptaktivitäten (Fokusse), festgelegt werden.
+
+■ Mitglieder rekrutieren
+Über diese Funktion können neue Mitglieder für den Zirkel angeworben werden. Der Rekrutierungsgesuch endet entweder nach dem Ablauf einer Woche, nachdem die gewünschte Anzahl neuer Mitglieder erreicht wurde, oder der Rekrutierende entscheidet, die Rekrutierung zu beenden.
+
+■ Ernennung von Administratoren
+Allein der Meister eines Zirkels hat die Berechtigung, Administratoren zu ernennen. Die Meister-Privilegien können nur an andere Administratoren weitergereicht werden. Des Weiteren kann der Meister erst aus dem Zirkel austreten, wenn er vorher die Privilegien an einen anderen Spieler überträgt."
+1013,"Zirkelsuche"
+1014,"Hier werden alle Zirkel angezeigt, die zur Zeit nach neuen Mitgliedern suchen. Dabei gibt es auch die Option, nach Fokus oder Sprache zu filtern.
+
+* Eigene Rekrutierungsgesuche werden in der Übersicht nicht angezeigt."
+1015,"Wichtige Informationen"
+1016,"<UIForeground>F20202</UIForeground>■ Wichtige Informationen zu Bardenkompositionen<UIForeground>01</UIForeground>
+ Beim Benutzen der Kompositionen-Funktion ist die Darbietung der Musik von Drittpersonen strengstens untersagt. Es ist genehmigt, eigene Kompositionen aufzunehmen und hochzuladen; hierdurch stimmen Sie zu, solche Aufnahmen für den Gebrauch von Square Enix oder Anderen in Übereinstimmung mit den Bedingungen in den „FINAL FANTASY XIV Bestimmungen für die Verwendung von Unterlagen“ zu lizenzieren."
+1017,"Ensemblemodus"
+1018,"<UIForeground>F20202</UIForeground>■ Übersicht<UIForeground>01</UIForeground>
+Der Ensemblemodus erleichtert es, mit anderen Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern zusammen zu spielen.
+
+<UIForeground>F20202</UIForeground>■ Besonderheiten des Ensemblemodus<UIForeground>01</UIForeground>
+Dieser Modus erleichtert es, zusammen mit anderen Barden eine synchrone Aufführung darzubieten. Eigene Töne werden daher etwas zeitverzögert wiedergegeben.
+Jedes Mitglied kann wählen, ob es nur die eigenen Töne oder die synchronisierte, leicht verzögerte Aufführung aller Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder hören möchte.
+
+<UIForeground>F20202</UIForeground>■ Im Ensemble spielen<UIForeground>01</UIForeground>
+Mit den folgenden Schritten wird der Ensemblemodus gestartet.
+ 1. Wähle im Metronom-UI die Bereitschaftsanfrage.
+ 2. Vergewissere dich, dass der Ensemblemodus aktiviert ist, und wähle „Start“.
+ 3. Sobald die anderen Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder bereit sind, beginnt der Ensemblemodus.
+
+<UIForeground>F20202</UIForeground>■ Voraus<SoftHyphen/>setzungen<UIForeground>01</UIForeground>
+Der Ensemblemodus ist nur unter den folgenden Voraus<SoftHyphen/>setzungen verfügbar.
+ 1. Der Gruppenanführer benutzt den Aufführungsmodus.
+ 2. Alle Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder sind in einem Areal, in dem Aufführungen möglich sind. In Gästezimmern und Wachstuben der Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften sind keine Aufführungen gestattet.
+ 3. Es gibt eine Obergrenze für die Anzahl an Aufführungen in einem Areal. Ist sie überschritten, sind keine weiteren Aufführungen möglich.
+"
+1019,"Notenband"
+1020,"<UIForeground>F20202</UIForeground>■ Notenband<UIForeground>01</UIForeground>
+Das Notenband gibt den Takt und die Noten für bestimmte Lieder vor.
+
+<UIForeground>F20202</UIForeground>■ Mit dem Notenband spielen<UIForeground>01</UIForeground>
+Mit den folgenden Schritten wird das Notenband gestartet.
+ 1. Wechsle in den Aufführungsmodus, indem du ein Instrument auswählst, und wähle das Notenband-Symbol.
+ 2. Wähle ein Stück aus.
+ 3. Es ist möglich, die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit zu ändern und das Metronom aus- bzw. einzuschalten.
+
+<UIForeground>F20202</UIForeground>■ Wichtiger Hinweis<UIForeground>01</UIForeground>
+Wenn ein Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied eine Bereitschaftsanfrage stellt, während du das Notenband nutzt, antwortest du automatisch mit „Nicht bereit“. Daher wird empfohlen, das Notenband nicht zu benutzen, während du in einer Gruppe bist.
+"
+1021,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Die Bozja-Südfront ist ein Inhalt mit besonderen Regeln und Spielmechaniken.
+Bitte lies die folgenden Erklärungen sorgfältig durch, bevor du dich ins Gefecht gegen die IV. Kaiserliche Legion stürzt!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1022,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Es findet eine Anpassung auf Stufe 80 statt!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Der Inhalt kann mit jedem Job ab Stufe 71 betreten werden. Der Job wird dann auf Stufe 80 angepasst. Auch die Ausrüstung wird auf eine passende Gegen<SoftHyphen/>stands<SoftHyphen/>stufe angehoben.
+
+<UIForeground>0F</UIForeground>※Mit Betreten werden alle Jobkommandos bis Stufe 80 freigeschaltet.<UIForeground>01</UIForeground>"
+1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Sammle Frontwissen und steigere deinen Widerstandsrang!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Der Widerstandsrang ist eine besondere Spielmechanik für die Südfront. Steigere ihn mit Frontwissen, das in besonderen Ereignissen (Scharmützeln und kritischen Gefechten) gesammelt werden kann. Je besser du abschneidest, desto mehr Frontwissen erhältst du.
+
+<UIForeground>0F</UIForeground>※ Frontwissen wird nicht nur durch das Besiegen von Gegnern erworben. Beachte außerdem, dass du es erst bei Abschluss des Ereignisses erhältst.<UIForeground>01</UIForeground>"
+1024,"Sprich mit dem Strategieoffizier im Lager, wenn du genügend Frontwissen gesammelt hast. Er wird deinen Widerstandsrang anheben.
+
+Mit steigendem Widerstandsrang schaltest du neue Kampfgebiete und Aufträge frei.
+
+<UIForeground>0F</UIForeground>※ Vergiss nicht, dich beim Strategieoffizier zu melden! Sonst wird dein Rang nicht angehoben, auch wenn du genug Frontwissen gesammelt hast!<UIForeground>01</UIForeground>"
+1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Sammle Routine für deinen Job!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Scharmützel und kritische Gefechte sind außerdem eine gute Gelegenheit, Routine für den Stufenaufstieg deines Jobs zu erwerben. Der Stufenaufstieg geschieht wie gewohnt automatisch, wenn du ausreichend Routine gesammelt hast."
+1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Sprich mit den NPCs!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Die NPCs im Inhalt liefern weitere Erklärungen zu den Regeln und Spielmechaniken. Sprich mit ihnen, um sicherzugehen, dass du das Meiste aus dem Inhalt herausholst."
+1027,"Sammlerstücke"
+1028,"Ein Sammlerstück ist ein Gegenstand mit <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sammlerwert<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Indent/>- ein besonderer Parameter, der die Rarität des Gegenstands widerspiegelt.
+
+Einige NPCs bitten dich, Sammlerstücke mit einem bestimmten Sammlerwert für sie zu besorgen. Achte also gut auf den Sammlerwert, wenn du dich einer solchen Bitte annimmst!"
+1029,"Sammlerstücke sammeln"
+1030,"Minenarbeiter und Gärter sammeln Sammlerstücke nicht wie reguläre Gegenstände, sondern über eine spezielle Methode. Dafür öffnet sich auch ein eigenes Fenster.
+
+Über diese spezielle Methode wird der Sammlerwert mit dedizierten Kommandos erhöht und der Gegenstand letztlich auch gesammelt."
+1031,"Sammlerwert erhöhen"
+1032,"Der Sammlerwert eines Gegenstands wird mittels <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>-Kommandos erhöht. Diese Lese-Kommandos sind alle im Sammlerstück-Fenster aufgeführt und können dort direkt ausgeführt werden. Eine solche Lese sondiert die besonders wertvollen Fundstücke, schlägt sich dafür aber auf die Belastbarkeit der Sammelstelle nieder.
+
+Die Belastbarkeit sinkt auch, wenn ein Gegenstand gesammelt wird. Daher sollte stets abgewogen werden, ob man den Sammlerwert weiter steigern oder das Sammlerstück aufnehmen möchte."
+1033,"Lese-Kommandos"
+1034,"Es gibt insgesamt drei Lese-Kommandos: <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Intuitive Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Fachkundige Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Alle verbrauchen eine Einheit von Belastbarkeit wenn sie ausgeführt werden.
+
+・<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Das Basiskommando, das den Sammlerwert risikofrei erhöht.
+・<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Intuitive Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Bei diesem Kommando wird die Steigerung des Sammlerwerts dem Zufall überlassen. Mit Glück erhöht er sich immens, mit Pech nur wenig.
+・<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Fachkundige Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Dieses Kommando erhöht den Sammlerwert weniger als <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, doch es besteht die Chance, dass die Belastbarkeit dabei nicht sinkt.
+
+※ Alle Lese-Kommandos werden von deinem Sammelgeschick beeinflusst. Achte also gut darauf, welche Ausrüstung du beim Sammeln von Sammlerstücken trägst."
+1035,"Gegenstände aufnehmen"
+1036,"Ist der Sammlerwert genug gestiegen, muss das Sammlerstück natürlich auch aufgenommen werden. Das Sammeln eines Gegenstands verbraucht ebenfalls Belastbarkeit<Indent/>- sinkt sie auf 0, wird das Sammeln beendet. Es lohnt sich, ein stetiges Auge auf die verbleibende Belastbarkeit zu halten und dem<SoftHyphen/>ent<SoftHyphen/>spre<SoftHyphen/>chend zu planen.
+
+※ Die Sammelrate spielt hierbei ebenfalls eine Rolle. Liegt sie unter 100<Indent/>%, kann der Sammelversuch fehlschlagen."
+1037,"Stärkungskommandos"
+1038,"Neben der Lese gibt es noch ein Stärkungskommando, das einen hilfreichen Bonuseffekt mit sich bringt. Der <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Prüfende Blick<UIGlow>01</UIGlow><UIForeground>01</UIForeground> erhöht den sammelwertsteigernden Effekt des nächsten <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground>-Kommandos. Zwar kostet dies keine Belastbarkeit, dafür aber SP.
+
+※ <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Prüfender Blick<UIGlow>01</UIGlow><UIForeground>01</UIForeground> wird von deiner Expertise beeinflusst. Achte also gut darauf, welche Ausrüstung du beim Sammeln von Sammlerstücken trägst."
+1039,"Intuition"
+1040,"Nach der Ausführung eines Lese-Kommandos wird unter Umständen der Effekt <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Intuition<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ausgelöst. Das bedeutet, dass dir das Sammeln besonders leicht fällt und der Sammlerwert mehr als gewöhnlich ansteigen wird.
+
+※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Exzellenz<UIGlow>01</UIGlow><UIForeground>01</UIForeground> erhöht die Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit, dass dieser Effekt ausgelöst wird. Achte also gut darauf, welche Ausrüstung du beim Sammeln von Sammlerstücken trägst.
+
+※ Das Stärkungskommando <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Intuitiver Fokus<UIGlow>01</UIGlow><UIForeground>01</UIForeground> erhöht ebenfalls die Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit, dass der Effekt ausgelöst wird."
+1041,"Akribie"
+1042,"Nach der Ausführung eines Lese-Kommandos wird dir unter Umständen der Status <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Akribie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> gewährt. Er steigert den Effekt von sowohl <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Intuitive Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground> als auch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Fachkundige Lese<UIGlow>01</UIGlow><UIForeground>01</UIForeground> immens. Wann auch immer du mit besonderer <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Akribie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vorgehst, solltest du von beiden Kommandos großzügig Gebrauch machen."
+1043,"Andere Kommandos"
+1044,"Außer den Lese-Kommandos und dem Stärkungskommando profitieren Sammlerstückjäger auch von einer Reihe anderer Kommandos:
+
+・Kommandos, die die Sammelrate erhöhen, wie <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Scharfer Blick<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Minenarbeiter) und <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Meister der Felder<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Gärtner)
+・Kommandos, die Belastbarkeit und Sammelversuche beeinflussen, wie <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Felsenfeste Überzeugung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Minenarbeiter) und <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Bauernschläue<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Gärtner)
+
+※ Diese Kommandos müssen von der Kommandoleiste aus ausgeführt werden und tauchen nicht im Sammlerstück-Fenster auf."
+1045,"Die Erhabenheitsrate flüchtiger Gegenstände"
+1046,"Das Raffinieren flüchtiger Sammlerstücke kann wertvolle Gegenstände gewähren, wenn man ihren Sammlerwert maximiert und sie anschließend raffiniert.
+
+Hat man den Wert flüchtiger Sammlerstücke durch Sammeln auf das Maximum gebracht, kann es vorkommen, dass sie in die „Erhabenheit“ gehoben werden.
+
+Das Raffinieren erhabener Sammlerstücke gewährt in jedem Fall wertwolle und seltene Gegenstände.
+
+Die Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit, dass ein flüchtiges Sammlerstück zu einem erhabenen Sammlerstück wird, erhöht sich mit steigendem Sammlergeschick des Spielers."
+1047,"Sammlerwert"
+1048,"Jedes Sammlerstück wird anhand seines Sammlerwertes gemessen. Bei Aufträgen wird ein bestimmter Sammlerwert vorgegeben, den ein Gegenstand besitzen muss, damit er abgegeben werden kann. Beim Sammeln sollte also immer auf diesen Wert hingearbeitet werden.
+
+※ Bei Sammlerstücken, die raffiniert werden können, beschreibt der benötigte Sammlerwert den Schwellenwert, ab dem andere Gegenstände als nur Kristalle erhalten werden können."
+1049,""
+1050,"Die Gewölbesuche nutzen"
+1051,"Das Unstete und Kuriose Gewölbe kannst du entweder betreten, indem du mit einem entsprechenden NPC sprichst, oder aber die <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gewölbesuche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> im Hauptmenü unter „Spielinhalte“ nutzt.
+
+In der Gewölbesuche werden alle Informationen zur Teilnahme angezeigt. Auch kannst du hier diverse Einstellungen vornehmen, ehe du einen Inhalt betrittst."
+1052,"Das Unstete Gewölbe betreten"
+1053,"Das Unstete Gewölbe nutzt eine spezielle Mechanik, die seine Schwierigkeit <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>automatisch auf eine Gruppengröße zwischen einem und vier Spielern anpasst<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Es mag zwar eine Heraus<SoftHyphen/>forde<SoftHyphen/>rung sein, aber ein Unstetes Gewölbe kann durchaus alleine bezwungen werden.
+
+Willst du es alleine oder nur mit Freunden versuchen, stelle sicher, dass du die <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Suche nach einer zufälligen Gruppe<UIGlow>01</UIGlow><UIForeground>01</UIForeground> nicht aktiviert hast, ehe du dich zur Teilnahme registrierst.
+
+Gleichzeitig bietet dir diese Option die Möglichkeit, eine zufällige Gruppe aus vier Spielern zu<SoftHyphen/>sammen<SoftHyphen/>zustellen und das Unstete Gewölbe gemeinsam zu bestreiten."
+1054,"Das Unstete Gewölbe bestreiten"
+1055,"Im Unsteten Gewölbe können sogenannte unstete Kommandos eingesetzt werden, damit eine Gruppe nicht an eine bestimmte Komposition aus Rollen und Jobs gebunden ist.
+
+Verteidiger und Angreifer erhalten beispielsweise besondere Heilung und Wiederbelebung - derlei <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>spezielle Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sind für jede Rolle verfügbar.
+
+Zwei dieser Kommandos können im Unsteten Gewölbe genutzt werden. Welche du mit in den Inhalt nehmen möchtest, lässt sich direkt in der Gewölbesuche festlegen."
+1056,"Der Erkundungsbericht"
+1057,"Das Unstete Gewölbe bietet verschiedene Abzweigungen, die du mit eben jenen Charakteren erkunden kannst, die mit ihrer Geschichte verflochten sind. Sie wird im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Erkundungsbericht<UIGlow>01</UIGlow><UIForeground>01</UIForeground> niedergeschrieben.
+
+Im Inhalt wirst du einzelne Seiten finden, die dem Bericht hinzugefügt werden und die Geschichte eines Unsteten Gewölbes nach und nach enthüllen.
+
+Du öffnest den Erkundungsbericht, indem du in der Gewölbesuche das große Charakterportrait auswählst."
+1058,"Das Kuriose Gewölbe bestreiten"
+1059,"Das Kuriose Gewölbe ist eine schwierige Heraus<SoftHyphen/>forde<SoftHyphen/>rung, die allerlei Taktik und Geschick erfordert.
+
+In der Gewölbesuche kann oben zwischen Unsteten und Kuriosen Gewölben gewechselt werden.
+
+Im Kuriosen Gewölbe gibt es keine Charaktere, die die Spielergruppe begleiten, keine Abzweigungen und auch keine Seiten zu entdecken. Dafür werden in der Gewölbesuche andere Elemente angezeigt, wie die spezielle Währung."
+1060,"Ein<SoftHyphen/>schrän<SoftHyphen/>kungen"
+1061,"Im Gegensatz zum Unsteten Gewölbe, kannst du im Kuriosen Gewölbe deinen <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Job nicht wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Auch die Wiederbelebung durch reguläre Kommandos ist beschränkt - lediglich unstete Kommandos können dafür eingesetzt werden.
+
+In der epischen Version des Kuriosen Gewölbes können allerdings auch <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>keine unsteten Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> eingesetzt werden und ihr seid komplett auf euch gestellt.
+
+Das Kuriose Gewölbe (episch) kann außerdem nur eine Gruppe aus vier Spielern betreten, die alle Anforderungen erfüllt."
+1062,"Hausverbote in einer Unterkunft"
+1063,"Erteilst du Spielern Hausverbot in deiner Unterkunft, zwingst du sie dazu, deine Unterkunft oder deinen Garten zu verlassen, und sie können sie für eine gewisse Zeit auch nicht wieder betreten.
+
+Unter „Unterkünfte“ (Hauptmenü → Soziales) findest du den Punkt „Einstellungen zum Hausrecht“. Dort kannst du zahlreiche Einstellungen vornehmen, wie deine Hausverbote aussehen sollen und wer das Recht zu einem solchen Verbot hat."
+1064,"Hausverbotsrechte"
+1065,"Hausverbote können nur von Spielern erteilt werden, die dazu auch das Recht haben. Die Standardeinstellungen dafür entscheiden sich je nach Art der Unterkunft, von welchen bei manchen auch mehreren Spielern diese Rechte erteilt werden können.
+
+Für Unterkünfte einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft hat immer der Meister das Hauptrecht und kann bis zu vier weitere Spieler definieren, die ein Unterrecht erhalten sollen.
+Für private Unterkünfte hat der Eigentümer das Hauptrecht und kann es nur mit Mitgliedern seiner Wohngemeinschaft teilen.
+Für Wohnungen hat aus<SoftHyphen/>schließ<SoftHyphen/>lich der Eigentümer das Hauptrecht und kann auch niemandem ein Unterrecht geben."
+1066,"Hausverbotsliste"
+1067,"Um jemandem ein Hausverbot zu erteilen, wähle „Hausrecht“ im Untermenü eines Charakters, der sich in deiner Nähe aufhält und navigiere von dort zu „Hausverbot erteilen“. Dies öffnet ein Fenster, in dem du das Hausverbot ein letztes Mal bestätigen kannst. Aufheben kannst du ein solches Verbot über die „Hausverbotsliste“.
+
+Die Hausverbotsliste umfasst alle Spieler, denen momentan ein Hausverbot erteilt wurde. Spieler mit den entsprechenden Rechten können sie unter „Hausverbote verwalten“ im Unterkunftsmenü einsehen.
+Spieler, denen ein Hausverbot erteilt wurde, bleiben für zehn Tage auf der Liste stehen, werden dem Grundstück verwiesen und können in dieser Zeit weder Haus noch Garten betreten."
+1068,"Abgleich mit der Schwarzen Liste"
+1069,"Der Abgleich mit der Schwarzen Liste ist eine Funktion, mit der Charaktere auf der Schwarzen Liste automatisch der Unterkunft verwiesen werden.
+
+Befindet sich ein Charakter mit Hausrecht (egal ob Haupt- oder Unterrechte) in der Unterkunft, werden Spieler auf dessen Schwarzer Liste automatisch daran gehindert, die Unterkunft zu betreten, sofern der Abgleich mit der Schwarzen Liste aktiviert wurde. Gleichzeitig wird ihnen ein Hausverbot erteilt, was sich auf der entsprechenden Liste einsehen lässt.
+
+Der Spieler mit den Hauptrechten kann per Haken festlegen, für welche Charaktere dieser Abgleich stattfinden soll."
+1070,"Ausnahmen des Hausverbots"
+1071,"Je nach Unterkunft gibt es auch Charaktere, denen kein Hausverbot ausgesprochen werden kann. Selbst wenn sie auf der Hausverbotsliste registriert sind, werden sie weder aus der Unterkunft entfernt, noch wird ihnen der Zugang verweigert.
+
+Ausnahmen:
+・ Der Charakter mit dem Hauptrecht der Unterkunft
+・ Mitglieder der Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft der Unterkunft
+・ Charaktere einer Wohngemeinschaft einer privaten Unterkunft"
+1072,"Innenraum-Renovierung"
+1073,"Bei der Innenraum-Renovierung handelt es sich um eine Funktion, mithilfe welcher das innere Aussehen von Unterkünften verändert werden kann. Der gewünschte Innenraum-Stil lässt sich hierbei über das entsprechende Fenster unter „Innenraum-Renovierung“ (Hauptmenü → Soziales → Unterkünfte) auswählen.
+Bei einer Innenraum-Renovierung werden alle Elemente außer Tapete, Fußboden und Deckenleuchte einheitlich verändert. Dies kann in manchen Fällen auch die Position von Treppen und Form des Bodens mit einschließen."
+1074,"Voraus<SoftHyphen/>setzungen"
+1075,"Eine Innenraum-Renovierung kann in kleinen, mittelgroßen und großen Unterkünften durchgeführt werden. In persönlichen Zimmern und Wohnungen ist sie nicht verfügbar.
+Da sich das innere Aussehen durch eine Renovierung stark verändern kann, werden weiterhin alle platzierten Möbelstücke in ein Lagerhaus verschoben. Aus diesem Grund kann eine Innenraum-Renovierung nur dann durchgeführt werden, wenn entsprechend genug Platz im Lagerhaus verfügbar ist.
+Letztlich kann ebenfalls keine Innenraum-Renovierung durchgeführt werden, wenn die Unterkunft in weniger als 15 Tagen zwangsgeräumt wird."
+1076,"Benötigte Berechtigungen"
+1077,"Innenraum-Renovierungen können nur von Spielern mit den entsprechenden Berechtigungen durchgeführt werden.
+
+Handelt es sich um die Unterkunft einer freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft, so können nur Spieler mit der Berechtigung „Bauelemente ändern“ und „Ausstattung platzieren/entfernen“ eine Innenraum-Renovierung durchführen.
+Bei privaten Unterkünften können neben dem Besitzer auch Mitbewohner mit der Berechtigung „Platzieren/Entfernen/Färben“ eine Innenraum-Renovierung vornehmen."
+1078,"<CommandIcon(10)/> Untermenü　<CommandIcon(11)/> Cursor-Beschleunigung"
+1079,"<CommandIcon(10)/> Untermenü"
+1080,""
+1081,""
+1082,""
+1083,""
+1084,""
+1085,""
+1086,""
+1087,""
+1088,""
+1089,""
+1090,""
+1091,""
+1092,""
+1093,""
+1094,""
+1095,""
+1096,""
+1097,""
+1098,""
+1099,""
+2000,""

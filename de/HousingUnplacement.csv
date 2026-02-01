@@ -1,0 +1,40 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"Den Gegenstand wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+2,"<Clickable(<SheetDe(ENpcResident,2,IntegerParameter(1),1,4,1)/>)/> wirklich entlassen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Das Aussehen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+3,"Den Gehilfen wirklich entlassen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Das Aussehen des Gehilfen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+4,"Den Gegenstand wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren. Ungenutzte Anwendungen (<Value>IntegerParameter(1)</Value>) gehen ebenfalls verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+5,"Die Vase wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich Blumen darin befinden, gehen sie verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+6,"Das Aquarium wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Alle Gegenstände darin (Fische oder Ausstattung) gehen verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7,"Den Rahmen wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich ein Gemälde darin befindet, geht es verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+8,"Das Wandteil wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich eine Tapete daran befindet, geht sie verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+9,"<Clickable(<SheetDe(ENpcResident,2,IntegerParameter(1),1,4,1)/>)/> wirklich aus dem Lagerhaus entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Das Aussehen wird zurückgesetzt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+10,"Den Gehilfen wirklich aus dem Lagerhaus entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Das Aussehen des Gehilfen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+11,"Den Gegenstand wirklich aus dem Lagerhaus entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Der Gegenstand wird nicht ins Inventar zurückgelegt und geht verloren. Ungenutzte Anwendungen (<Value>IntegerParameter(1)</Value>) gehen ebenfalls verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12,"Die Vase wirklich aus dem Lagerhaus entfernen und ins Inventar zurücklegen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich eine Blume darin befindet, geht sie verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13,"Das Aquarium wirklich aus dem Lagerhaus entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Alle Gegenstände darin (Fische oder Ausstattung) gehen verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+14,"Den Rahmen wirklich aus dem Lagerhaus entfernen und ins Inventar zurücklegen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich ein Gemälde darin befindet, geht es verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15,"Das Wandteil wirklich entfernen und ins Inventar zurücklegen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich eine Tapete daran befindet, geht sie verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+16,"Den Hausdiener/Die Hausdienerin wirklich entlassen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Das Aussehen wird zurückgesetzt und der Vertrag in dein Inventar zurückgelegt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+17,"Den Rahmen wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich ein Fischdruck darin befindet, geht er verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+18,"Den Rahmen wirklich entfernen?
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ Wenn sich ein Fischdruck darin befindet, geht er verloren.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
