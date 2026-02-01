@@ -3,7 +3,9 @@
 **Languages:** **简体中文** | [English](README_EN.md) | [日本語](README_JA.md)
 
 提供混合的FFXIV csv解包文件，格式同 [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining) ，但同时提供多种语言／客户端的解包。 <br>
-从 国服7.25／国际服7.31 开始提供。
+从 国服7.25／国际服7.31 开始提供。 <br>
+※ 德语/法语 从 国际服7.41 开始提供。 <br>
+※ 繁体中文 的解包需要社区提供。
 
 
 ## 使用方法
@@ -14,9 +16,11 @@
 | 目录  | 服务器 |   语言   |
 | :---: | :----: | :------: |
 | `chs` |  国服  | 简体中文 |
-| `en`  | 国际服 |   英语   |
+| `tc`  | 繁中服  | 繁体中文 |
 | `ja`  | 国际服 |   日语   |
-| `tc`  | 繁中服 | 繁体中文 |
+| `en`  | 国际服 |   英语   |
+| `de`  | 国际服 |   德语   |
+| `fr`  | 国际服 |   法语   |
 
 你可以直接在GitHub网页上查看csv文件，但是可能会卡。一般推荐直接 [下载项目压缩包](https://github.com/InfSein/ffxiv-datamining-mixed/archive/refs/heads/master.zip) 。 <br>
 此外，可以通过 [提交记录](https://github.com/InfSein/ffxiv-datamining-mixed/commits/master/) 对比来获取版本更新内容。
@@ -43,9 +47,11 @@
    | 解包指令              | 说明                                          |
    | :------------------- | :------------------------------------------- |
    | `npm run unpack:chs` | 解包国服文本，输出简体中文的csv到 `chs` 目录下。 |
-   | `npm run unpack:en`  | 解包国际服文本，输出英文的csv到 `en` 目录下。    |
+   | `npm run unpack:tc`  | 解包繁中服文本，输出繁体中文的csv到 `tc` 目录下。 |
    | `npm run unpack:ja`  | 解包国际服文本，输出日文的csv到 `ja` 目录下。    |
-   | `npm run unpack:tc`  | 解包繁中服文本，输出繁体中文的csv到 `tc` 目录下。    |
+   | `npm run unpack:en`  | 解包国际服文本，输出英文的csv到 `en` 目录下。    |
+   | `npm run unpack:de`  | 解包国际服文本，输出德语的csv到 `de` 目录下。    |
+   | `npm run unpack:fr`  | 解包国际服文本，输出法语的csv到 `fr` 目录下。    |
 如此即可完成初次解包。 <br>
 在初次解包之后，下次及之后的解包可以直接从第4步开始。
 

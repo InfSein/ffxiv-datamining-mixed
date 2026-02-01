@@ -6,9 +6,11 @@
   "scripts": {
     "update-unpacker": "npx tsx scripts/update-unpacker.ts",
     "unpack:chs": "npx tsx scripts/unpack.ts chs",
-    "unpack:en": "npx tsx scripts/unpack.ts en",
+    "unpack:tc": "npx tsx scripts/unpack.ts tc",
     "unpack:ja": "npx tsx scripts/unpack.ts ja",
-    "unpack:tc": "npx tsx scripts/unpack.ts tc"
+    "unpack:en": "npx tsx scripts/unpack.ts en",
+    "unpack:de": "npx tsx scripts/unpack.ts de",
+    "unpack:fr": "npx tsx scripts/unpack.ts fr"
   },
   "dependencies": {
     "adm-zip": "^0.5.16",

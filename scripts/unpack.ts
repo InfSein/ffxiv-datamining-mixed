@@ -5,7 +5,8 @@ import { execSync } from "child_process"
 import AppConfig from '../config.json'
 
 const availableLangs = [
-  'chs', 'en', 'ja', 'tc'
+  'chs', 'tc',
+  'ja', 'en', 'de', 'fr'
 ] as const
 type AvailableLang = typeof availableLangs[number]
 
