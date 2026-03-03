@@ -324,7 +324,7 @@ int32,Image,Image,byte,BannerCondition,uint16,uint16,uint16,uint16,str
 320,192581,82093,5,1018,0,0,0,3367,"Crystalline Conflict: Bronze (18. Saison)"
 321,192903,82093,7,1021,0,0,0,4002,"Besondere Verdienste"
 322,192747,82093,8,1020,0,0,0,2345,"Kosmo-Erkundung 3"
-323,0,0,0,0,0,0,0,0,""
+323,192748,82093,4,1019,0,0,0,2405,"Unstetes Gewölbe: Des Händlers Liebesmüh"
 324,192020,82093,7,1044,0,0,0,35,"Schlichter Stil 1"
 325,192021,82093,7,1045,0,0,0,36,"Schlichter Stil 2"
 326,192022,82093,7,1046,0,0,0,37,"Schlichter Stil 3"

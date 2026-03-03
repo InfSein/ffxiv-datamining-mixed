@@ -96,7 +96,7 @@ int32,str,str
 87,"TEXT_FESHLW103_00238_MARTEIRE_000_023","Ein Ver<SoftHyphen/>wand<SoftHyphen/>lungszauber? Ist ja allerhand. Für einen Augenblick dachte ich ..."
 88,"TEXT_FESHLW103_00238_MARTEIRE_000_024","Ach, wenn ich zu dieser Parade gehe, wird mir großes Glück widerfahren? Aber nur, wenn ich vierzehn Leute dazu einlade?"
 89,"TEXT_FESHLW103_00238_MARTEIRE_000_025","Nichts leichter als das! Warum nicht gleich vierzehn mal vierzehn? Ich mach mich sofort an die Arbeit!"
-90,"TEXT_FESHLW103_00238_MARTEIRE_000_028","So eine lustige Parade bekommt man in Gridania nicht geboten. Da geht es immer sehr gediegen zu, musst du wissen. Aber jedem das Seine."
+90,"TEXT_FESHLW103_00238_MARTEIRE_000_028","So eine lustige Parade bekommt man in Gridania nicht geboten. Da geht es immer sehr gediegen zu, musst du wissen. Aber die Geschmäcker sind verschieden."
 91,"TEXT_FESHLW103_00238_MARTEIRE_000_029","Vierzehn Leute soll ich zu der Parade einladen? Nichts leichter als das! Warum nicht gleich vierzehn mal vierzehn? Ich mach mich sofort an die Arbeit!"
 92,"TEXT_FESHLW103_00238_CONJURER65774_000_030","Du hast die Flugzettel auch nicht einfach in die Tonne geworfen? Alle verteilt? Und die Nachricht hast du auch übermittelt? Ausgezeichnet, gute Arbeit, <If(PlayerParameter(4))>Abenteurerin<Else/>Abenteurer</If>."
 93,"TEXT_FESHLW103_00238_CONJURER65774_000_031","Du hast die Flugzettel auch nicht einfach in die Tonne geworfen? Alle verteilt? Und die Nachricht hast du auch übermittelt? Ausgezeichnet, gute Arbeit, <If(PlayerParameter(4))>Abenteurerin<Else/>Abenteurer</If>. Dann kann ich die Ver<SoftHyphen/>wand<SoftHyphen/>lung ja auflösen."

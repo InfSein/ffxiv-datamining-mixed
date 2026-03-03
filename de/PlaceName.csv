@@ -2971,7 +2971,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 2943,"Festungsstadt Zolm'ak",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Festungsstadt Zolm'ak</Case><Case(2)>in der Festungsstadt Zolm'ak</Case><Case(3)>die Festungsstadt Zolm'ak</Case></Switch>",0,0,0
 2944,"Goldene Ebene",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Goldene Ebene</Case><Case(2)>in der Goldenen Ebene</Case><Case(3)>die Goldene Ebene</Case></Switch>",0,0,0
 2945,"Amalj'aa Nomadenlager",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Amalj'aa Nomadenlager</Case><Case(2)>im Amalj'aa Nomadenlager</Case><Case(3)>das Amalj'aa Nomadenlager</Case></Switch>",0,0,0
-2946,"",0,"",0,0,0,0,0,"",0,0,0
+2946,"Des Händlers Liebesmüh (Gewölbesuche)",0,"",0,0,1,0,0,"",0,0,0
 2947,"",0,"",0,0,0,0,0,"",0,0,0
 2948,"",0,"",0,0,0,0,0,"",0,0,0
 2949,"Norvrandt",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Norvrandt</Case><Case(2)>in Norvrandt</Case><Case(3)>Norvrandt</Case></Switch>",0,0,0
@@ -4789,7 +4789,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 4761,"<Emphasis>FF Lhaminn</Emphasis>",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur <Emphasis>FF Lhaminn</Emphasis></Case><Case(2)>in der <Emphasis>FF Lhaminn</Emphasis></Case><Case(3)>die <Emphasis>FF Lhaminn</Emphasis></Case></Switch>",0,0,0
 4762,"Alexandrias Ruinenring",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Alexandrias Ruinenring</Case><Case(2)>in Alexandrias Ruinenring</Case><Case(3)>Alexandrias Ruinenring</Case></Switch>",0,0,0
 4763,"Bahnhof Bentini",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Bahnhof Bentini</Case><Case(2)>am Bahnhof Bentini</Case><Case(3)>der Bahnhof Bentini</Case></Switch>",0,0,0
-4764,"",0,"",0,0,0,0,0,"",0,0,0
+4764,"Gemächer der jungen Angebeteten",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu den Gemächern der jungen Angebeteten</Case><Case(2)>in den Gemächern der jungen Angebeteten</Case><Case(3)>die Gemächer der jungen Angebeteten</Case></Switch>",0,0,0
 4765,"Treno",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Treno</Case><Case(2)>in Treno</Case><Case(3)>Treno</Case></Switch>",0,0,0
 4766,"",0,"",0,0,1,0,0,"",0,0,0
 4767,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5397,39 +5397,39 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5369,"Vampirring",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Vampirring</Case><Case(2)>im Vampirring</Case><Case(3)>der Vampirring</Case></Switch>",0,0,0
 5370,"Extremring",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Extremring</Case><Case(2)>im Extremring</Case><Case(3)>der Extremring</Case></Switch>",0,0,0
 5371,"Tyrannenring",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Tyrannenring</Case><Case(2)>im Tyrannenring</Case><Case(3)>der Tyrannenring</Case></Switch>",0,0,0
-5372,"",0,"",0,0,0,0,0,"",0,0,0
-5373,"",0,"",0,0,0,0,0,"",0,0,0
-5374,"",0,"",0,0,0,0,0,"",0,0,0
-5375,"",0,"",0,0,0,0,0,"",0,0,0
-5376,"",0,"",0,0,0,0,0,"",0,0,0
-5377,"",0,"",0,0,0,0,0,"",0,0,0
-5378,"",0,"",0,0,0,0,0,"",0,0,0
-5379,"",0,"",0,0,0,0,0,"",0,0,0
-5380,"",0,"",0,0,0,0,0,"",0,0,0
-5381,"",0,"",0,0,0,0,0,"",0,0,0
-5382,"",0,"",0,0,0,0,0,"",0,0,0
-5383,"",0,"",0,0,0,0,0,"",0,0,0
-5384,"",0,"",0,0,0,0,0,"",0,0,0
-5385,"",0,"",0,0,0,0,0,"",0,0,0
-5386,"",0,"",0,0,0,0,0,"",0,0,0
-5387,"",0,"",0,0,0,0,0,"",0,0,0
-5388,"",0,"",0,0,0,0,0,"",0,0,0
-5389,"",0,"",0,0,0,0,0,"",0,0,0
-5390,"",0,"",0,0,0,0,0,"",0,0,0
-5391,"",0,"",0,0,0,0,0,"",0,0,0
-5392,"",0,"",0,0,0,0,0,"",0,0,0
-5393,"",0,"",0,0,0,0,0,"",0,0,0
-5394,"",0,"",0,0,0,0,0,"",0,0,0
-5395,"",0,"",0,0,0,0,0,"",0,0,0
-5396,"",0,"",0,0,0,0,0,"",0,0,0
-5397,"",0,"",0,0,0,0,0,"",0,0,0
-5398,"",0,"",0,0,0,0,0,"",0,0,0
-5399,"",0,"",0,0,0,0,0,"",0,0,0
-5400,"",0,"",0,0,0,0,0,"",0,0,0
-5401,"",0,"",0,0,0,0,0,"",0,0,0
-5402,"",0,"",0,0,0,0,0,"",0,0,0
-5403,"",0,"",0,0,0,0,0,"",0,0,0
-5404,"",0,"",0,0,0,0,0,"",0,0,0
+5372,"Des Händlers Liebesmüh",0,"",0,0,1,0,0,"",0,0,0
+5373,"Ferner Ort",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu einem fernen Ort</Case><Case(2)>in einem fernen Ort</Case><Case(3)>der ferne Ort</Case></Switch>",0,0,0
+5374,"Land des Überflusses",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Land des Überflusses</Case><Case(2)>im Land des Überflusses</Case><Case(3)>das Land des Überflusses</Case></Switch>",0,0,0
+5375,"Bucht der Schillernden Farben",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Bucht der Schillernden Farben</Case><Case(2)>in der Bucht der Schillernden Farben</Case><Case(3)>die Bucht der Schillernden Farben</Case></Switch>",0,0,0
+5376,"Tal der Tausend Felsen",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Tal der Tausend Felsen</Case><Case(2)>im Tal der Tausend Felsen</Case><Case(3)>das Tal der Tausend Felsen</Case></Switch>",0,0,0
+5377,"Nebelmeer",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Nebelmeer</Case><Case(2)>im Nebelmeer</Case><Case(3)>das Nebelmeer</Case></Switch>",0,0,0
+5378,"Marktplatz",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Marktplatz</Case><Case(2)>am Marktplatz</Case><Case(3)>der Marktplatz</Case></Switch>",0,0,0
+5379,"Platz der Rastenden",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Platz der Rastenden</Case><Case(2)>am Platz der Rastenden</Case><Case(3)>der Platz der Rastenden</Case></Switch>",0,0,0
+5380,"Sonnenpfad",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Sonnenpfad</Case><Case(2)>auf dem Sonnenpfad</Case><Case(3)>der Sonnenpfad</Case></Switch>",0,0,0
+5381,"Palastblick",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Palastblick</Case><Case(2)>auf dem Palastblick</Case><Case(3)>der Palastblick</Case></Switch>",0,0,0
+5382,"Rubin-Foyer",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Rubin-Foyer</Case><Case(2)>im Rubin-Foyer</Case><Case(3)>das Rubin-Foyer</Case></Switch>",0,0,0
+5383,"Schwelende Kammer",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Schwelenden Kammer</Case><Case(2)>in der Schwelenden Kammer</Case><Case(3)>die Schwelende Kammer</Case></Switch>",0,0,0
+5384,"Strand der Sieben Farben",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Strand der Sieben Farben</Case><Case(2)>am Strand der Sieben Farben</Case><Case(3)>der Strand der Sieben Farben</Case></Switch>",0,0,0
+5385,"Regenbogensande",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu den Regenbogensanden</Case><Case(2)>bei den Regenbogensanden</Case><Case(3)>die Regenbogensande</Case></Switch>",0,0,0
+5386,"Bühne der Meerjungfrau",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Bühne der Meerjungfrau</Case><Case(2)>auf der Bühne der Meerjungfrau</Case><Case(3)>die Bühne der Meerjungfrau</Case></Switch>",0,0,0
+5387,"Unterschlupf der Banditen",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Unterschlupf der Banditen</Case><Case(2)>im Unterschlupf der Banditen</Case><Case(3)>der Unterschlupf der Banditen</Case></Switch>",0,0,0
+5388,"Altes Nest",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum alten Nest</Case><Case(2)>im alten Nest</Case><Case(3)>das alte Nest</Case></Switch>",0,0,0
+5389,"Plateau der Kreuzenden Klingen",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Plateau der Kreuzenden Klingen</Case><Case(2)>auf dem Plateau der Kreuzenden Klingen</Case><Case(3)>das Plateau der Kreuzenden Klingen</Case></Switch>",0,0,0
+5390,"Vergessene Unterkunft",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur vergessenen Unterkunft</Case><Case(2)>in der vergessenen Unterkunft</Case><Case(3)>die vergessene Unterkunft</Case></Switch>",0,0,0
+5391,"Hinterhofgasse",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Hinterhofgasse</Case><Case(2)>in der Hinterhofgasse</Case><Case(3)>die Hinterhofgasse</Case></Switch>",0,0,0
+5392,"Belebter Basar",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum belebten Basar</Case><Case(2)>auf dem belebten Basar</Case><Case(3)>der belebte Basar</Case></Switch>",0,0,0
+5393,"Große Torstraße",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Großen Torstraße</Case><Case(2)>auf der Großen Torstraße</Case><Case(3)>die Große Torstraße</Case></Switch>",0,0,0
+5394,"Land des Überflusses",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Land des Überflusses</Case><Case(2)>im Land des Überflusses</Case><Case(3)>das Land des Überflusses</Case></Switch>",0,0,0
+5395,"Immergrüne Weinhänge",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu den immergrünen Weinhängen</Case><Case(2)>in den immergrünen Weinhängen</Case><Case(3)>die immergrünen Weinhänge</Case></Switch>",0,0,0
+5396,"Verlassener Palast",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum verlassenen Palast</Case><Case(2)>im verlassenen Palast</Case><Case(3)>der verlassene Palast</Case></Switch>",0,0,0
+5397,"Bucht des Eremiten",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Bucht des Eremiten</Case><Case(2)>in der Bucht des Eremiten</Case><Case(3)>die Bucht des Eremiten</Case></Switch>",0,0,0
+5398,"Bucht der Schillernden Farben",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Bucht der Schillernden Farben</Case><Case(2)>in der Bucht der Schillernden Farben</Case><Case(3)>die Bucht der Schillernden Farben</Case></Switch>",0,0,0
+5399,"Tal der Tausend Felsen",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Tal der Tausend Felsen</Case><Case(2)>im Tal der Tausend Felsen</Case><Case(3)>das Tal der Tausend Felsen</Case></Switch>",0,0,0
+5400,"Höhle der Anziehung",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Höhle der Anziehung</Case><Case(2)>in der Höhle der Anziehung</Case><Case(3)>die Höhle der Anziehung</Case></Switch>",0,0,0
+5401,"Pass der Fliegenden Felsen",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Pass der Fliegenden Felsen</Case><Case(2)>auf dem Pass der Fliegenden Felsen</Case><Case(3)>der Pass der Fliegenden Felsen</Case></Switch>",0,0,0
+5402,"Pfad der Strebenden",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Pfad der Strebenden</Case><Case(2)>auf dem Pfad der Strebenden</Case><Case(3)>der Pfad der Strebenden</Case></Switch>",0,0,0
+5403,"Niemandsdorf",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Niemandsdorf</Case><Case(2)>im Niemandsdorf</Case><Case(3)>das Niemandsdorf</Case></Switch>",0,0,0
+5404,"Meer der Leere",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Meer der Leere</Case><Case(2)>im Meer der Leere</Case><Case(3)>das Meer der Leere</Case></Switch>",0,0,0
 5405,"Arkadionring",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Arkadionring</Case><Case(2)>im Arkadionring</Case><Case(3)>der Arkadionring</Case></Switch>",0,0,0
 5406,"Oizys",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Oizys</Case><Case(2)>auf Oizys</Case><Case(3)>Oizys</Case></Switch>",0,0,0
 5407,"Megalithopolis",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Megalithopolis</Case><Case(2)>in der Megalithopolis</Case><Case(3)>die Megalithopolis</Case></Switch>",0,0,0
@@ -5470,7 +5470,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5442,"Triumphpunkt 10",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Triumphpunkt 10</Case><Case(2)>auf dem Triumphpunkt 10</Case><Case(3)>der Triumphpunkt 10</Case></Switch>",0,0,0
 5443,"Triumphpunkt 11",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Triumphpunkt 11</Case><Case(2)>auf dem Triumphpunkt 11</Case><Case(3)>der Triumphpunkt 11</Case></Switch>",0,0,0
 5444,"Triumphpunkt 12",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Triumphpunkt 12</Case><Case(2)>auf dem Triumphpunkt 12</Case><Case(3)>der Triumphpunkt 12</Case></Switch>",0,0,0
-5445,"睡蓮湖近郊",0,"",0,0,1,0,0,"",0,0,0
+5445,"Lilienteich",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Lilienteich</Case><Case(2)>am Lilienteich</Case><Case(3)>der Lilienteich</Case></Switch>",0,0,0
 5446,"Mondtor-Station",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Mondtor-Station</Case><Case(2)>in der Mondtor-Station</Case><Case(3)>die Mondtor-Station</Case></Switch>",0,0,0
 5447,"Kalabassenbucht ",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Kalabassenbucht</Case><Case(2)>in der Kalabassenbucht</Case><Case(3)>die Kalabassenbucht </Case></Switch>",0,0,0
 5448,"Weddingways Traugarten",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu Weddingways Traugarten</Case><Case(2)>in Weddingways Traugarten</Case><Case(3)>Weddingways Traugarten</Case></Switch>",0,0,0
@@ -5486,11 +5486,11 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5458,"Kap Geras",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Kap Geras</Case><Case(2)>auf Kap Geras</Case><Case(3)>Kap Geras</Case></Switch>",0,0,0
 5459,"Schattenflotte",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Schattenflotte</Case><Case(2)>auf der Schattenflotte</Case><Case(3)>die Schattenflotte</Case></Switch>",0,0,0
 5460,"Wüstenbau",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Wüstenbau</Case><Case(2)>im Wüstenbau</Case><Case(3)>der Wüstenbau</Case></Switch>",0,0,0
-5461,"",0,"",0,0,0,0,0,"",0,0,0
-5462,"",0,"",0,0,0,0,0,"",0,0,0
-5463,"",0,"",0,0,0,0,0,"",0,0,0
-5464,"",0,"",0,0,0,0,0,"",0,0,0
-5465,"",0,"",0,0,0,0,0,"",0,0,0
+5461,"Marktstraße",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Marktstraße</Case><Case(2)>auf der Marktstraße</Case><Case(3)>die Marktstraße</Case></Switch>",0,0,0
+5462,"Buchthöhle",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Buchthöhle</Case><Case(2)>in der Buchthöhle</Case><Case(3)>die Buchthöhle</Case></Switch>",0,0,0
+5463,"Meer der Leere",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Meer der Leere</Case><Case(2)>im Meer der Leere</Case><Case(3)>das Meer der Leere</Case></Switch>",0,0,0
+5464,"Gassenplatz",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Gassenplatz</Case><Case(2)>auf dem Gassenplatz</Case><Case(3)>der Gassenplatz</Case></Switch>",0,0,0
+5465,"Gassenplatz",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Gassenplatz</Case><Case(2)>auf dem Gassenplatz</Case><Case(3)>der Gassenplatz</Case></Switch>",0,0,0
 5466,"",0,"",0,0,0,0,0,"",0,0,0
 5467,"Dorgerwor der Scharfsinnige",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu Dorgerwor dem Scharfsinnigen</Case><Case(2)>bei Dorgerwor dem Scharfsinnigen</Case><Case(3)>Dorgerwor der Scharfsinnige</Case></Switch>",0,0,0
 5468,"Weg des Gesangs",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Weg des Gesangs</Case><Case(2)>auf dem Weg des Gesangs</Case><Case(3)>der Weg des Gesangs</Case></Switch>",0,0,0
@@ -5499,7 +5499,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5471,"Silberhügel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Silberhügel</Case><Case(2)>auf dem Silberhügel</Case><Case(3)>der Silberhügel</Case></Switch>",0,0,0
 5472,"Vahder",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu Vahder</Case><Case(2)>auf Vahder</Case><Case(3)>Vahder</Case></Switch>",0,0,0
 5473,"Schneeschmelze",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Schneeschmelze</Case><Case(2)>an der Schneeschmelze</Case><Case(3)>die Schneeschmelze</Case></Switch>",0,0,0
-5474,"",0,"",0,0,0,0,0,"",0,0,0
+5474,"Des Händlers kuriose Liebesmüh",0,"",0,0,1,0,0,"",0,0,0
 5475,"",0,"",0,0,0,0,0,"",0,0,0
 5476,"",0,"",0,0,0,0,0,"",0,0,0
 5477,"",0,"",0,0,0,0,0,"",0,0,0

@@ -109,8 +109,16 @@ Eine Bewegung und ein Klick reichen, um das gewünschte Kommando auszuführen. A
 31,"Bedingungen der epische Variante","In der <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>epischen Variante<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des Kuriosen Gewölbes können <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>keine unsteten Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ausgeführt werden.
 
 Um sie zu betreten, müssen alle vier Spieler der Gruppe die Anforderungen erfüllen."
-32,"",""
-33,"",""
+32,"Besondere Stufenanpassung","Unstete Gewölbe sind in der Regel für alle Klassen und Jobs der Stufe 90 und höher zugänglich. Sollte diese Voraussetzung nicht erfüllt sein, erfolgt automatisch eine <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stufenanpassung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Für den erfolgreichen Abschluss eines unsteten Gewölbes mit angepasster Stufe erhältst du als Belohnung <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground> anstelle von allagischen Steinen."
+33,"Unstete Gewölbe (fortgeschritten)","Du hast <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unstete Gewölbe (fortgeschritten)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> freigeschaltet.
+
+Unstete Gewölbe (fortgeschritten) sind speziell dafür konzipiert, die entsprechenden <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bosse in einer frei gewählten Reihenfolge bekämpfen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu können. Die Mission kann nach jedem Kampf verlassen werden.
+
+Du kannst <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>zwei Unstete Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auswählen. Unstete Gewölbe (fortgeschritten) müssen mit zwei bis vier Spielern bestritten werden. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bei Einzelanmeldungen werden die freien Plätze automatisch zufällig besetzt<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Unstete Gewölbe (fortgeschritten) findest du in der Gewölbesuche unter <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Besondere Gewölbe<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
 34,"Öffnen der Kommandotafel","Die Kommandotafel kann in der <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kommandoliste unter Extras<UIGlow>01</UIGlow><UIForeground>01</UIForeground> aufgerufen werden.
 
 Der Zugriff ist auch auf folgende Weise möglich:

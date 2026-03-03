@@ -3789,7 +3789,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003785,"Gargantualeder-Schatzkarte",3,"Gargantualeder-Schatzkarten",1,0,1,1,0,False,"Gargantualeder-Schatzkarte",26151,1,1,2,0,0,0,0
 2003786,"Äthergramm-Karte[p] VIII",3,"Äthergramm-Karten[p] VIII",1,0,1,1,0,False,"Äthergramm-Karte VIII",26151,1,1,2,0,0,0,0
 2003787,"Krug[p] Kirkahryar",4,"Krüge[p] Kirkahryar",2,0,1,0,0,False,"Kirkahryar",22802,0,1,1,70870,0,0,0
-2003788,"謎の硬葉",0,"",0,0,1,0,0,False,"",25239,0,1,1,70961,0,0,0
+2003788,"besonder[a] Pflanze",3,"besonder[a] Pflanzen",1,0,1,1,0,False,"Besondere Pflanze",25239,0,1,1,70961,0,0,0
 2003789,"St. I-Sicherheitspass[p]",2,"St. I-Sicherheitspässe[p]",2,0,1,0,0,False,"St. I-Sicherheitspass",26078,1,1,1,70904,0,0,1
 2003790,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003791,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
@@ -3808,8 +3808,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003804,"Beutel[p] Ableitpulver",4,"Beutel[p] Ableitpulver",2,0,1,0,0,False,"Ableitpulver",26110,1276,1,1,70966,1,0,4
 2003805,"Oizys-Jaspis",3,"Oizys-Jaspisse",2,0,1,0,0,False,"Oizys-Jaspis",0,0,1,1,0,0,0,0
 2003806,"prächtig[a] Oizys-Jaspis",3,"prächtig[a] Oizys-Jaspisse",2,0,1,0,0,False,"Prächtiger Oizys-Jaspis",0,0,1,1,0,0,0,0
-2003807,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003808,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003807,"Notrufsender",4,"Notrufsender",2,0,1,0,0,False,"Notrufsender",25994,1,1,1,70982,0,0,1
+2003808,"supraleitend[a] Magnetspule",3,"supraleitend[a] Magnetspulen",1,0,1,1,0,False,"Supraleitende Magnetspule",20916,0,1,1,70982,0,0,0
 2003809,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003810,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003811,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

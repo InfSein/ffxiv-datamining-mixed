@@ -3902,7 +3902,7 @@ abgeschlossen.",0,0,10,0,0,255,255,0,41998,1,6,70190,0,0,0,0,0,0,0,0,126,1,0
 3869,4,"Epischer Thron des Arkadions II","5 Mal Arkadion - Superschwergewicht (episch) erfolgreich abgeschlossen.",0,0,10,0,0,255,255,0,2981,1,1,1335,5,0,0,0,0,0,0,0,0,1,0
 3870,4,"Epischer Thron des Arkadions III","10 Mal Arkadion - Superschwergewicht (episch) erfolgreich abgeschlossen.",0,0,20,0,0,255,255,0,2981,1,1,1335,10,0,0,0,0,0,0,0,0,1,0
 3871,38,"Ravender Reporter","Den Auftrag „Der Prinzessinnenfest-Report“ abgeschlossen.",0,0,10,0,0,255,255,0,26107,1,6,70980,0,0,0,0,0,0,0,0,153,1,0
-3872,38,"芽吹く新緑の季節","クエスト「エッグハントと謎の草」をコンプリートする",0,0,10,0,0,255,255,0,56914,1,6,70961,0,0,0,0,0,0,0,0,154,1,0
+3872,38,"Sensenmeister","Den Auftrag „Das große Jäten“ abgeschlossen.",0,0,10,0,0,255,255,0,56914,1,6,70961,0,0,0,0,0,0,0,0,154,1,0
 3873,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3874,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3875,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -3920,14 +3920,14 @@ abgeschlossen.",0,0,10,0,0,255,255,0,41998,1,6,70190,0,0,0,0,0,0,0,0,126,1,0
 3887,82,"Kosmo-Werkzeug: Hyperraum-Angelrute","Eine Hyperraum-Angelrute erlangt.",0,0,10,0,0,255,255,0,38516,1,1,1347,1,0,0,0,0,0,0,0,1102,1,0
 3888,49,"Kartograph: Die Nebeltrift","Alle Orte in der Nebeltrift erkundet.",0,0,10,0,0,255,255,0,1001,1,8,1095,0,0,0,0,0,0,0,0,112,1,0
 3889,3,"Panzerzugfaust","Den Doomtrain in Gok Tajaal - Doomtrain bezwungen.",0,0,10,0,0,255,255,0,317,1,14,20107,0,0,0,0,0,0,0,0,45,1,0
-3890,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3890,49,"Kartograph: Des Händlers Liebesmüh","Alle Orte in Des Händlers Liebesmüh erkundet.",0,0,10,0,0,255,255,0,1001,1,8,1114,0,0,0,0,0,0,0,0,2307,1,0
 3891,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3892,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3893,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3894,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3895,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3896,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3897,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3898,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3899,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3892,2,"Feurige Wächterin","Die Sengende Pari aus „Des Händlers Liebesmüh“ (Unstetes Gewölbe) besiegt.",0,0,5,0,0,255,255,0,2513,1,1,1348,1,0,0,0,0,0,0,0,1220,1,3
+3893,2,"Gesänge aus der Tiefe","Meerjungfrau Darya aus „Des Händlers Liebesmüh“ (Unstetes Gewölbe) besiegt.",0,0,5,0,0,255,255,0,2513,1,1,1349,1,0,0,0,0,0,0,0,1221,1,3
+3894,2,"Legendäre Klingen","Die Meisterin des Schwertes aus „Des Händlers Liebesmüh“ (Unstetes Gewölbe) besiegt.",0,0,5,0,0,255,255,0,2513,1,1,1350,1,0,0,0,0,0,0,0,1222,1,3
+3895,2,"Der Schrecken der Tiefsee","Dandan aus „Des Händlers Liebesmüh“ (Unstetes Gewölbe) besiegt.",0,0,5,0,0,255,255,0,2513,1,1,1351,1,0,0,0,0,0,0,0,1223,1,3
+3896,35,"Eine Geschichte ohne Ende","Den Auftrag „Eine Geschichte ohne Ende“ abgeschlossen.",0,0,20,830,0,255,255,0,26002,1,6,70978,0,0,0,0,0,0,0,0,698,1,3
+3897,49,"Ein Buch mit vielen Seiten","Alle Einträge der Folkloresammlung in „Des Händlers Liebesmüh“ aufgedeckt.",43,90,10,0,50454,255,195,3,26182,1,31,4,70977,0,0,0,0,0,0,0,2311,1,0
+3898,2,"Fantastischer als Fiktion","Des Händlers Liebesmüh (fortgeschritten) erfolgreich abgeschlossen.",0,0,10,0,0,255,255,0,317,1,14,38001,0,0,0,0,0,0,0,0,1224,1,0
+3899,2,"Tausendundein Kampf","Des Händlers kuriose Liebesmüh erfolgreich abgeschlossen.",43,100,20,831,0,255,255,0,317,1,14,37007,0,0,0,0,0,0,0,0,1225,1,0
 3900,19,"Meisterhafte Möbelkunst 2025","Als Gewinner des Möbeldesign-Wettbewerbs 2025 ausgezeichnet.",0,0,0,833,0,255,255,0,1975,0,1,1355,1,0,0,0,0,0,0,0,900,1,1

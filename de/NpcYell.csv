@@ -11634,10 +11634,10 @@ Und immer schön geschmeidig bleiben!",0
 11424,0,False,False,False,2,0,0,0,2,False,False,1,25,"Seid ihr bereit?",0
 11425,10080,False,False,False,4,0,0,0,1,False,False,3,25,"Hier eine muskulöse Pose, die jeden Hantelschwinger vor Neid erblassen lässt!",0
 11426,10080,False,False,False,4,0,0,0,1,False,False,6,25,"Zeigt die Pose <Emphasis>Maximum Muskelmasse</Emphasis> und beweist, dass ihr Eisen statt Wackelpudding im Bizeps habt! Kupo!",0
-11427,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11427,0,False,False,False,3,0,0,0,4,False,False,1,25,"Zeit für ein kleines Nickerchen<Indent/>...",0
 11428,10081,False,False,False,4,0,0,0,1,False,False,3,25,"Bevor ihr die Ätherschere auf ein Yak loslasst, empfiehlt sich eine Sicherheitsüberprüfung.",0
 11429,10081,False,False,False,4,0,0,0,1,False,False,6,25,"Genau dafür habe ich eine praktische Pose entwickelt: Den <Emphasis>Puschel-Check</Emphasis>!",0
-11430,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11430,0,False,False,False,3,0,0,0,4,False,False,1,25,"Immer noch nicht fertig?",0
 11431,10082,False,False,False,4,0,0,0,1,False,False,3,25,"Ein echter Jäger des verlorenen Mogrys hat neben einem Peitschenpurzel auch ein scharfes Auge!",0
 11432,10082,False,False,False,4,0,0,0,1,False,False,6,25,"Ahmt den <Emphasis>Grunz-Glubscher</Emphasis> nach und die Schätze der Welt tun sich euch auf!",0
 11433,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -11678,14 +11678,14 @@ Und immer schön geschmeidig bleiben!",0
 11468,0,False,False,False,2,0,0,0,4,False,False,1,25,"Puh, ich hab einfach nicht die Kraft ...",0
 11469,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ihr sollt kämpfen, nicht verlieren!",0
 11470,0,False,False,False,3,0,0,0,3,False,False,1,25,"Zielt auf die Fesseln! Wir müssen sie befreien!",0
-11471,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11472,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11473,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11471,0,False,False,False,3,0,0,0,4,False,False,1,25,"<seufz>...",0
+11472,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wie lange denn noch<Indent/>...",0
+11473,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ihr seid immer noch hier?!",0
 11474,0,False,False,False,2,0,0,0,4,False,False,1,25,"Grrruaaa!",0
 11475,0,False,False,False,5,0,0,0,1,False,False,4,25,"Da sind sie also.",0
 11476,0,False,False,False,5,0,0,0,1,False,False,4,25,"So, mein neuer Dabog. Mach es dir im Delta Gabriel Kai bequem.",0
 11477,0,False,False,False,5,0,0,0,1,False,False,4,25,"Die goldene Flugmaschine da ... Da soll Dabog drin sein?",0
-11478,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11478,0,False,False,False,3,0,0,0,4,False,False,1,25,"Und jetzt in die Richtung.",0
 11479,0,False,False,False,5,0,0,0,1,False,False,4,25,"Hier Magitek-Soldat Dabog. Ziel erfasst. Beginne Angriffssequenz.",0
 11480,0,False,False,False,5,0,0,0,1,False,False,4,25,"Hier Magitek-Soldat Dabog. Melde Schaden. Feuerkraft unzureichend.",0
 11481,0,False,False,False,5,0,0,0,1,False,False,4,25,"Fernangriffssystem aktiviert. Angriff aus allen Vektorrichtungen.",0
@@ -11695,28 +11695,28 @@ Und immer schön geschmeidig bleiben!",0
 11485,0,False,False,False,2,0,0,0,4,False,False,1,25,"Unterschätz mich nicht!",0
 11486,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ich sehe es!",0
 11487,0,False,False,False,2,0,0,0,4,False,False,1,25,"Eine magnetische Barriere?",0
-11488,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11489,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11488,0,False,False,False,3,0,0,0,4,False,False,1,25,"Geht das auch ein bisschen weniger holprig?!",0
+11489,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schon wieder solche Störenfriede<Indent/>...",0
 11490,0,False,False,False,2,0,0,0,4,False,False,1,25,"Gegnerischer Widerstand gleich null. Mission erfolgreich.",0
 11491,0,False,False,False,2,0,0,0,4,False,False,1,25,"Das Ding ist zu heftig! Rückzug!",0
 11492,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ein Geschenk <If(PlayerParameter(4))>von der Heldin<Else/>vom Helden</If> selbst! Welch ein Glück!",0
 11493,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sind das etwa die neuesten Werkzeuge? Woher wusstest du ...?",0
 11494,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was mag das wohl sein? <keuch> Neue Steinmetzwerkzeuge!",0
 11495,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich danke dir! Ich werde sie gut behandeln!",0
-11496,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11497,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11496,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wah!",0
+11497,0,False,False,False,3,0,0,0,4,False,False,1,25,"<zwitscher>",0
 11498,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hm, lecker Birkensirup!",0
 11499,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das passt hervorragend zu meinem Tee!",0
 11500,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das etwa ein Produkt hier aus Ishgard?",0
 11501,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das ist aber viel! Ist das wirklich alles für mich?",0
-11502,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11503,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11502,0,False,False,False,3,0,0,0,4,False,False,1,25,"Blöder, langsamer Vogel!",0
+11503,0,False,False,False,3,0,0,0,4,False,False,1,25,"Grah, grah!",0
 11504,0,False,False,False,3,0,0,0,4,False,False,1,25,"Glasierte Glanznüsse! Die liebe ich!",0
 11505,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vielen Dank, <If(PlayerParameter(4))>verehrte Heldin<Else/>verehrter Held</If>!",0
 11506,0,False,False,False,3,0,0,0,4,False,False,1,25,"Eine Geira-Katze?! Ich wollte schon immer eine haben!",0
 11507,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vielen Dank. Ich liiiebe Feste!",0
-11508,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11509,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11508,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ständig dieser Lärm<Indent/>... Können wir nicht einfach mal Ruhe haben?",0
+11509,0,False,False,False,3,0,0,0,4,False,False,1,25,"Aaah!",0
 11510,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schnell, wir haben keine Zeit zu verlieren!",0
 11511,0,False,False,False,3,0,0,0,4,False,False,1,25,"Weit und breit kein Primae in Sicht ...",0
 11512,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich habe ein ungutes Gefühl ...",0
@@ -11794,16 +11794,16 @@ Und immer schön geschmeidig bleiben!",0
 11584,0,False,False,False,5,0,0,0,1,False,False,4,25,"Zuerst die uralte Beschwörungsformel. Sie erfordert natürlich passende Opfer ...",0
 11585,0,False,False,False,5,0,0,0,1,False,False,4,25,"Nein! Das ist ja fürchterlich!",0
 11586,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wo gehobelt wird, da fallen eben Späne. Ohne Opfer kann es keinen Fortschritt geben!",0
-11587,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11587,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das tut weh!",0
 11588,0,False,False,False,5,0,0,0,1,False,False,4,25,"Warum musst du deinen Wissensdurst an dem Blut Unschuldiger löschen?",0
-11589,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11589,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wie kannst du es wagen!",0
 11590,0,False,False,False,5,0,0,0,1,False,False,4,25,"Fürchtet euch nicht, euer Opfer ist für eine gute Sache! Also los, es beginnt.",0
 11591,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kweh!",0
 11592,0,False,False,False,5,0,0,0,1,False,False,4,25,"Nein, nicht sie! Hör auf!",0
 11593,0,False,False,False,5,0,0,0,1,False,False,4,25,"Der Äther ist extrahiert. Das Experiment ist geglückt. Dieser Stärkungszauber wird mir bei meinen nächsten Unternehmungen große Dienste leisten.",0
 11594,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wie viele müssen noch sterben, bis du genug hast?",0
 11595,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wenn du mich aufhalten willst, wirst du es mit Gewalt tun müssen. Und das gelingt dir nur, wenn du Opfer bringst. Du und ich, wir unterscheiden uns nicht!",0
-11596,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11596,0,False,False,False,3,0,0,0,4,False,False,1,25,"Dafür werdet ihr bezahlen!",0
 11597,0,False,False,False,5,0,0,0,1,False,False,4,25,"Meine Zauber ... wirken nicht mehr. Das darf nicht sein. Ich darf nicht ... sterben ... nicht hier ...",0
 11598,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ist Meister Fabineau ... tot?",0
 11599,0,False,False,False,2,0,0,0,4,False,False,1,25,"Zurück ins Lager!",0
@@ -11813,9 +11813,9 @@ Und immer schön geschmeidig bleiben!",0
 11603,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wir müssen sie retten!",0
 11604,0,False,False,False,5,0,0,0,1,False,False,4,25,"Ich ... bin noch nicht ... am Ende!",0
 11605,0,False,False,False,5,0,0,0,1,False,False,4,25,"Rennt nur! Rennt und sagt es allen! Meine Magie wird mächtiger sein als alles andere!",0
-11606,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11606,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lasst uns bald wieder miteinander spielen!",0
 11607,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-11608,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11608,0,False,False,False,3,0,0,0,5,False,False,1,25,"Hau ab, du blöder Vogel! Warum klebst du so an mir?!",0
 11609,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 11610,0,False,False,False,5,0,0,0,1,False,False,4,25,"Ich ... habe nicht genug Kraft. Ich kann Fabineau nicht aufhalten.",0
 11611,0,False,False,False,5,0,0,0,1,False,False,4,25,"Zeigt euch, Widerständler! Ich bin Pagaga die Allergrößte!",0
@@ -11842,7 +11842,7 @@ Und immer schön geschmeidig bleiben!",0
 11632,0,False,False,False,5,0,0,0,1,False,False,4,25,"Seht her! Das ist die Macht einer ECHTEN Bestienbändigerin! Die Macht der Vochsteins!",0
 11633,0,False,False,False,2,0,0,0,4,False,False,1,25,"Grrroaaar!",0
 11634,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wenn Lyon Wind von diesem Triumph bekommt, werden ihm Tränen in den Augen stehen und Rotz aus der Nase laufen!",0
-11635,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11635,0,False,False,False,3,0,0,0,4,False,False,1,25,"Heute ist echt was los<Indent/>... Macht das mal ohne mich.",0
 11636,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 11637,0,False,False,False,5,0,0,0,1,False,False,4,25,"Sie kämpft zu verbissen. Heute werden wir sie nicht besiegen. Ziehen wir uns zurück!",0
 11638,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -11974,8 +11974,8 @@ Zurück!",0
 11763,0,False,False,False,5,0,0,0,1,False,False,4,25,"Du meinst, du hast Mitleid mit Yamatsumi? Nun, er hat bekommen, was er sich gewünscht hat. Auf eine gewisse Art.",0
 11764,0,False,False,False,5,0,0,0,1,False,False,4,25,"Er hat schon vor langem den falschen Weg eingeschlagen. Und dieser Splitter, der ist wirklich nicht zu unter<SoftHyphen/>schätzen.",0
 11765,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wir müssen diesen Gilbrisbert aufhalten, mit allen Mitteln.",0
-11766,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11767,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11766,0,False,False,False,3,0,0,0,3,False,False,1,25,"Los, an die Arbeit, Teppich!",0
+11767,0,False,False,False,3,0,0,0,4,False,False,1,25,"Selbst die Windfee hat genug von dir<Indent/>...",0
 11768,0,False,False,False,2,0,0,0,4,False,False,1,25,"Muhaha! Die Auracitensplitter sind wunderbar, ein Geschenk der Götter!",0
 11769,0,False,False,False,2,0,0,0,4,False,False,1,25,"Das sind zu viele. Wir müssen uns zurückziehen und neu formieren!",0
 11770,0,False,False,False,2,0,0,0,4,False,False,1,25,"Welch Schande ...",0
@@ -18864,7 +18864,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 18579,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ein Elixier, perfekt!",0
 18580,0,False,False,False,2,0,0,0,4,False,False,1,25,"Gib mir ein Elixier, bitte bitte bitte!",0
 18581,0,False,False,False,2,0,0,0,3,False,False,1,25,"<miepf> ♪",0
-18582,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18582,0,False,False,False,2,0,0,0,8,False,False,1,25,"Gubu-gubuuu! ♪",0
 18583,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18584,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18585,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19338,120 +19338,120 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19053,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Minimechas brauchen eine gehörige Ladung frischer Energie, um das ganze Zeug hier zusammenzubauen. Ich zähle auf euch!",0
 19054,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir müssen die heißesten Punkte im Magmaglas finden und abkühlen, damit es sich ordentlich verhärtet! Diese Arbeit ist mehr als gefährlich, aber gemeinsam mit den Drohnen schaffen wir alles!",0
 19055,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die nächsten Arbeiten, um den tiefsten Grund zu erreichen, sind schon in Vorbereitung! Für eine kurze Ver<SoftHyphen/>schnauf<SoftHyphen/>pause ist Zeit, aber danach wird direkt wieder angepackt!",0
-19056,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19057,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19058,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19059,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19060,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19061,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19062,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19063,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19064,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19065,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19066,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19067,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19068,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19069,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19070,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19071,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19072,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19073,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19074,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19075,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19076,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19077,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19078,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19079,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19080,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19081,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19082,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19083,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19084,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19085,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19086,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19087,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19088,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19089,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19090,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19091,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19092,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19093,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19094,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19095,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19096,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19097,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19098,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19099,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19100,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19101,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19102,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19103,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19104,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19105,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19106,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19107,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19108,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19109,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19110,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19111,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19112,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19056,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das Abenteuer kann beginnen!",0
+19057,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mein Bauchgefühl sagt mir<Indent/>...",0
+19058,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was für eine farbenfrohe Stadt!",0
+19059,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hast du dir wehgetan?",0
+19060,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ein verlassener Palast<Indent/>... Vielen Dank für den Hinweis!",0
+19061,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gern geschehen. Gute Reise!",0
+19062,0,False,False,False,3,0,0,0,4,False,False,1,25,"Dieser Baum<Indent/>...",0
+19063,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mal sehen<Indent/>...",0
+19064,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das ist nicht die richtige Zeit, sich von Äpfeln ablenken zu lassen, Nazqha!",0
+19065,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das hört ja gar nicht mehr auf!",0
+19066,0,False,False,False,3,0,0,0,4,False,False,1,25,"Pass auf, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>!",0
+19067,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oh, oh<Indent/>... Das Kämpfen überlasse ich lieber mal dir!",0
+19068,0,False,False,False,3,0,0,0,4,False,False,1,25,"Diese Bomber sind wirklich überall<Indent/>...",0
+19069,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sieht so aus, als hätte jemand bereits auf unsere Ankunft gewartet<Indent/>...",0
+19070,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich frage mich, was uns wohl erwartet<Indent/>...",0
+19071,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sind das etwa Trauben?",0
+19072,0,False,False,False,3,0,0,0,4,False,False,1,25,"Tatsache! Mhhh, lecker<Indent/>... Ein bisschen sauer, aber trotzdem herrlich süß!",0
+19073,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die sind sogar besser als die, die wir im Labyrinthos gezüchtet haben.",0
+19074,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die hier sehen weniger genießbar aus!",0
+19075,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich habe noch nie zuvor ein Traubenmonster gesehen<Indent/>...",0
+19076,0,False,False,False,3,0,0,0,4,False,False,1,25,"Es ist nicht mehr weit<Indent/>...",0
+19077,0,False,False,False,3,0,0,0,3,False,False,1,25,"Was?",0
+19078,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das kann ich auch!",0
+19079,0,False,False,False,3,0,0,0,4,False,False,1,25,"Geschafft! Und das ganz ohne Verletzungen!",0
+19080,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich erinnere mich, gelesen zu haben, dass diese Blumen zur Honiggewinnung verwendet werden.",0
+19081,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das könnte vielleicht ein Heilkraut sein<Indent/>...",0
+19082,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das ein Vogelnest? Sieht so aus, als wären da Küken drin!",0
+19083,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hehe, der hier ist für mich!",0
+19084,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hahaha!",0
+19085,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die Fee hat den Küken das Futter geklaut!",0
+19086,0,False,False,False,3,0,0,0,4,False,False,1,25,"Bis zum nächsten Mal!",0
+19087,0,False,False,False,3,0,0,0,4,False,False,1,25,"Autsch!",0
+19088,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das wirst du bereuen!",0
+19089,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gaaah!",0
+19090,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich glaube, es will uns dafür danken, dass wir seine Küken gerettet haben!",0
+19091,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kiiih!",0
+19092,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kukeh!",0
+19093,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kah, kah, kah!",0
+19094,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kikih!",0
+19095,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kukekeh, keh!",0
+19096,0,False,False,False,2,0,0,0,4,False,False,1,25,"Gugah<Indent/>...!",0
+19097,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kih<Indent/>...",0
+19098,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kukeh<Indent/>...",0
+19099,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kukah<Indent/>...",0
+19100,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kih, kih!",0
+19101,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kekeh, keh!",0
+19102,0,False,False,False,2,0,0,0,4,False,False,1,25,"Kakah!",0
+19103,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich glaube, solche Wesen habe ich schon einmal in einem Buch gesehen<Indent/>...",0
+19104,0,False,False,False,3,0,0,0,4,False,False,1,25,"Pass auf, sonst fliegst du gleich durch die Luft!",0
+19105,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das ist wahrlich ein atemberaubender Palast! Oh, es scheint auch Seiteneingänge zu geben.",0
+19106,0,False,False,False,3,0,0,0,4,False,False,1,25,"Auch wenn wir fast da sind, wir dürfen jetzt nicht nachlässig werden<Indent/>...!",0
+19107,0,False,False,False,3,0,0,0,4,False,False,1,25,"Komm, es ist nicht mehr weit<Indent/>...!",0
+19108,0,False,False,False,3,0,0,0,4,False,False,1,25,"Noch mehr Feen?",0
+19109,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wurden solche Paläste früher wirklich gebaut?",0
+19110,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sieh dir die vielen Edelsteine an, achtlos auf einen Haufen geworfen<Indent/>... Sie müssen so viel wert sein!",0
+19111,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hier verbirgt sich ein wahrer Schatz, da bin ich mir ganz sicher!",0
+19112,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich hätte mir <If(PlayerParameter(4))>keine bessere Leibwächterin<Else/>keinen besseren Leibwächter</If> wünschen können!",0
 19113,0,False,False,False,2,0,0,0,4,False,False,1,25,"Lass uns spielen, lass uns spielen!",0
 19114,0,False,False,False,2,0,0,0,4,False,False,1,25,"Zusammen spielen macht so viel Spaß!",0
 19115,0,False,False,False,2,0,0,0,4,False,False,1,25,"Schnee, Schnee und noch mehr Schnee!",0
-19116,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19117,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19118,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19119,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19120,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19121,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19122,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19123,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19124,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19125,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19126,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19127,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19128,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19129,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19130,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19131,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19132,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19133,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19134,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19135,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19136,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19137,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19138,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19139,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19140,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19141,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19142,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19143,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19144,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19145,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19146,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19147,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19148,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19149,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19150,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19151,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19152,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19153,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19154,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19155,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19156,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19157,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19158,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19159,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19160,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19161,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19162,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19163,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19164,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19165,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19166,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19167,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19168,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19169,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19116,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was für herausragende Webarbeiten!",0
+19117,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was ist da wohl los?",0
+19118,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oh, oh<Indent/>...",0
+19119,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lass uns ihm helfen! Vielleicht hat er ja einen Tipp für uns, der die Geschichte voranbringt.",0
+19120,0,False,False,False,3,0,0,0,4,False,False,1,25,"Und hepp<Indent/>...!",0
+19121,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vielen Dank! Der Laden ist gleich dort vorn.",0
+19122,0,False,False,False,3,0,0,0,4,False,False,1,25,"0",0
+19123,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das war ganz schön schwer<Indent/>...",0
+19124,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hier sind deine Waren!",0
+19125,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das sollte alles sein!",0
+19126,0,False,False,False,3,0,0,0,4,False,False,1,25,"Eine Meerjungfrau?",0
+19127,0,False,False,False,3,0,0,0,4,False,False,1,25,"Diese Kreatur! Ist das nicht<Indent/>...",0
+19128,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sind die riesig<Indent/>...!",0
+19129,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schau mal, eine Höhle!",0
+19130,0,False,False,False,3,0,0,0,4,False,False,1,25,"Viel heller, als ich gedacht hätte<Indent/>... Ist das schön!",0
+19131,0,False,False,False,3,0,0,0,4,False,False,1,25,"So viele Bomber!",0
+19132,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die Explosion hat die Wand einstürzen lassen! Ah, jetzt schießt Wasser heraus!",0
+19133,0,False,False,False,3,0,0,0,4,False,False,1,25,"Kommt das etwa aus dem Meer?",0
+19134,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mist<Indent/>... Von den Explosionen hab ich lauter Staub in die Augen bekommen<Indent/>...",0
+19135,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich glaube, wir sind nicht alleine!",0
+19136,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das da drüben könnte ein Ausgang sein!",0
+19137,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was für ein wunderschöner Strand<Indent/>...!",0
+19138,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sieh nur, all die hübschen Muscheln!",0
+19139,0,False,False,False,3,0,0,0,4,False,False,1,25,"Aus ihrem Perlmutt könnte man bestimmt die schönsten Handarbeiten anfertigen!",0
+19140,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gibt es solche Muscheln wirklich? Das muss ich zu Hause mal nachlesen.",0
+19141,0,False,False,False,3,0,0,0,4,False,False,1,25,"Tut mir leid, aber du bist wieder gefragt, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>!",0
+19142,0,False,False,False,3,0,0,0,4,False,False,1,25,"Diese Farbe ist wirklich ungewöhnlich<Indent/>... Sind das tatsächlich Algen?",0
+19143,0,False,False,False,3,0,0,0,4,False,False,1,25,"Pass auf, es ist rutschig!",0
+19144,0,False,False,False,3,0,0,0,4,False,False,1,25,"Selbst die Korallen funkeln!",0
+19145,0,False,False,False,3,0,0,0,4,False,False,1,25,"<leck>",0
+19146,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich habe noch nie eine Goobbue in dieser Farbe gesehen!",0
+19147,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wir können froh sein, nicht im Schlund dieser Goobbue gelandet zu sein!",0
+19148,0,False,False,False,3,0,0,0,4,False,False,1,25,"Irgendwas an diesen Steinen ist komisch<Indent/>... Findest du nicht auch?",0
+19149,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ah, ich glaube, wir können da lang gehen!",0
+19150,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das eine Art Bühne<Indent/>...?",0
+19151,0,False,False,False,3,0,0,0,4,False,False,1,25,"Danke, dass du mich begleitest! Mit dir an meiner Seite fühle ich mich sicher!",0
+19152,0,False,False,False,3,0,0,0,4,False,False,1,25,"Woher kommen wohl diese ganzen Farben?",0
+19153,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich habe noch nie eine so große Perle gesehen! Moment<Indent/>...",0
+19154,0,False,False,False,3,0,0,0,4,False,False,1,25,"<leck>",0
+19155,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist in diesen Gewässern alles so riesig?!",0
+19156,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das war klasse, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>!",0
+19157,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oho! So laute Töne von so einer kleinen Muschel!",0
+19158,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hoffentlich werden wir uns wiedersehen<Indent/>...",0
+19159,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gut, dann lass uns mal weitermachen!",0
+19160,0,False,False,False,3,0,0,0,4,False,False,1,25,"Uff<Indent/>... Dieser Geruch von Meer und Verwesung<Indent/>...",0
+19161,0,False,False,False,3,0,0,0,4,False,False,1,25,"Glaubst du, dass wir hier wirklich eine Meerjungfrau finden?",0
+19162,0,False,False,False,3,0,0,0,4,False,False,1,25,"Diese Skulpturen müssen von Meisterhand erschaffen worden sein<Indent/>...",0
+19163,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die Platten leuchten auf!",0
+19164,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das schön<Indent/>...!",0
+19165,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hörst du das?",0
+19166,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das die Stimme der Meerjungfrau?",0
+19167,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ein neuer Weg hat sich aufgetan!",0
+19168,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich kann die Stimme nicht mehr hören<Indent/>...",0
+19169,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sehen wir uns das mal genauer an!",0
 19170,0,False,False,False,2,0,0,0,4,False,False,1,25,"Danke!",0
 19171,0,False,False,False,2,0,0,0,4,False,False,1,25,"So potente Magie<Indent/>...",0
 19172,0,False,False,False,2,0,0,0,4,False,False,1,25,"Das war gruselig<Indent/>...",0
@@ -19496,73 +19496,73 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19211,0,False,False,False,3,0,0,0,4,False,False,1,25,"Nein ...!",0
 19212,0,False,False,False,3,0,0,0,4,False,False,1,25,"Weicht aus!",0
 19213,0,False,False,False,3,0,0,0,4,False,False,1,25,"Kein leichter Gegner ...",0
-19214,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19215,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19216,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19217,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19218,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19219,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19220,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19221,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19222,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19223,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19224,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19225,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19226,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19214,0,False,False,False,3,0,0,0,4,False,False,1,25,"V-Vielen Dank für Eure Hilfe<Indent/>... Wer seid Ihr?",0
+19215,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich bin nur ein einfacher Händler auf der Suche nach einem Schatz.",0
+19216,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das ist ein Nanka! Es gibt sie anscheinend auch hier in Corvos.",0
+19217,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das bitter<Indent/>...!",0
+19218,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ziemlich bitter.",0
+19219,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lass uns damit am besten auf dem schnellsten Weg zurückkehren.",0
+19220,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oh, sind das etwa<Indent/>...",0
+19221,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wusste ich es doch! Diese einzigartige Mischung aus sauer und süß ist unverkennbar!",0
+19222,0,False,False,False,3,0,0,0,4,False,False,1,25,"Übrigens, im Labyrinthos haben wir die<Indent/>... <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>, Vorsicht!",0
+19223,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oooh, schmecken die süß! Und dieser Duft, einfach himmlisch!",0
+19224,0,False,False,False,3,0,0,0,4,False,False,1,25,"Uh, pfui<Indent/>... Das schmeckt so bitter, dass es auch Medizin gegen Kopfschmerzen sein könnte<Indent/>...",0
+19225,0,False,False,False,3,0,0,0,4,False,False,1,25,"Unglaublich<Indent/>...!",0
+19226,0,False,False,False,3,0,0,0,4,False,False,1,25,"So viele Juwelen!",0
 19227,0,False,False,False,2,0,0,0,4,False,False,1,25,"Hrah!",0
 19228,0,False,False,False,2,0,0,0,4,False,False,1,25,"Nimm das!",0
 19229,0,False,False,False,2,0,0,0,4,False,False,1,25,"Nur über meine Leiche!",0
 19230,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ah, nein!",0
 19231,0,False,False,False,2,0,0,0,4,False,False,1,25,"I-Ich sitze fest<Indent/>...!",0
 19232,0,False,False,False,2,0,0,0,4,False,False,1,25,"Hilfe! Bitte!",0
-19233,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19234,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19235,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19236,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19237,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19238,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19239,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19240,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19241,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19242,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19243,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19244,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19245,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19246,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19247,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19248,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19249,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19250,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19251,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19252,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19253,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19254,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19255,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19256,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19257,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19258,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19259,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19260,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19261,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19262,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19263,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19264,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19265,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19266,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19267,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19268,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19269,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19270,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19233,0,False,False,False,3,0,0,0,4,False,False,1,25,"Dieses leuchtende Blau und das strahlende Weiß<Indent/>... Wie eine Stadt aus dem Bilderbuch!",0
+19234,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was für ein be<SoftHyphen/>ein<SoftHyphen/>dru<SoftHyphen/>cken<SoftHyphen/>des Tor!",0
+19235,0,False,False,False,3,0,0,0,3,False,False,1,25,"Hm?",0
+19236,0,False,False,False,3,0,0,0,3,False,False,1,25,"Hilfe!",0
+19237,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oho, schicker Aufzug! Hat sicher einiges gekostet, oder?",0
+19238,0,False,False,False,3,0,0,0,4,False,False,1,25,"Willst du uns nicht ein bisschen was von deinem Geld abgeben?",0
+19239,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was willst du?!",0
+19240,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mach die Fliege und nerv nicht rum!",0
+19241,0,False,False,False,3,0,0,0,4,False,False,1,25,"T-Tut uns wirklich leid!",0
+19242,0,False,False,False,3,0,0,0,4,False,False,1,25,"Bitte verschont uns!",0
+19243,0,False,False,False,3,0,0,0,4,False,False,1,25,"Banditen<Indent/>... Ein klassischer Aufhänger für den Anfang eines Buches!",0
+19244,0,False,False,False,3,0,0,0,3,False,False,1,25,"Ich hab irgendwie ein komisches Gefühl hier<Indent/>...",0
+19245,0,False,False,False,3,0,0,0,3,False,False,1,25,"Die Banditen!",0
+19246,0,False,False,False,3,0,0,0,3,False,False,1,25,"Beeindruckend!",0
+19247,0,False,False,False,3,0,0,0,4,False,False,1,25,"0",0
+19248,0,False,False,False,3,0,0,0,4,False,False,1,25,"Elementare! Hier muss es reichlich Äther geben<Indent/>...",0
+19249,0,False,False,False,3,0,0,0,4,False,False,1,25,"Nur nicht ausrutschen<Indent/>...",0
+19250,0,False,False,False,3,0,0,0,4,False,False,1,25,"Da steht ein riesiger Vogel mitten im Blumenfeld!",0
+19251,0,False,False,False,3,0,0,0,4,False,False,1,25,"Pass auf, wo du hintrittst!",0
+19252,0,False,False,False,3,0,0,0,4,False,False,1,25,"Komm nicht zu nah an den Rand, ja?",0
+19253,0,False,False,False,3,0,0,0,4,False,False,1,25,"Siehst du das?! Die Steine schweben in der Luft!",0
+19254,0,False,False,False,3,0,0,0,4,False,False,1,25,"Da würde ich jetzt so gerne raufklettern<Indent/>...",0
+19255,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich spüre keine Magie<Indent/>... Wie kann das sein?",0
+19256,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was sind denn das für entzückende Kreaturen?",0
+19257,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oh, sind das etwa Pilze?",0
+19258,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mein Körper fühlt sich plötzlich so schwer an<Indent/>...",0
+19259,0,False,False,False,3,0,0,0,4,False,False,1,25,"Da versperrt uns jemand den Weg!",0
+19260,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hm, keine Schätze hier?",0
+19261,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hier scheint es nichts Interessantes zu geben<Indent/>...",0
+19262,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das war ein ganz schön harter Kampf, findest du nicht auch?",0
+19263,0,False,False,False,3,0,0,0,4,False,False,1,25,"Waaah, i-ich schwebe?!",0
+19264,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was für ein seltsames Gefühl!",0
+19265,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich weiß nicht, wohin ich gehen soll! Man kann sich hier nirgendwo verstecken<Indent/>...!",0
+19266,0,False,False,False,3,0,0,0,4,False,False,1,25,"Du hast bisher jede Situation mit Bravour gemeistert!",0
+19267,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich hab das Gefühl, ich schwebe immer noch<Indent/>...",0
+19268,0,False,False,False,3,0,0,0,4,False,False,1,25,"Noch eine Felsbestie?",0
+19269,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wir sind ganz schön weit oben, nicht wahr?",0
+19270,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich bin froh, <If(PlayerParameter(4))>eine so furchtlose Leibwächterin<Else/>einen so furchtlosen Leibwächter</If> an meiner Seite zu haben. Danke, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>!",0
 19271,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ojeojeoje<Indent/>...",0
 19272,0,False,False,False,2,0,0,0,4,False,False,1,25,"Alles steht in Flammen<Indent/>...",0
 19273,0,False,False,False,2,0,0,0,4,False,False,1,25,"Wir brauchen Wasser, schnell!",0
 19274,0,False,False,False,2,0,0,0,4,False,False,1,25,"Wie konnte das geschehen<Indent/>...?",0
-19275,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19276,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19277,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19278,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19279,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19280,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19275,0,False,False,False,3,0,0,0,4,False,False,1,25,"Oooh, nein, nein, nein! Kämpfen ist nichts für mich!",0
+19276,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lass dich nicht überwältigen!",0
+19277,0,False,False,False,3,0,0,0,4,False,False,1,25,"Verzieht euch!",0
+19278,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mal gucken, wie euch das Gift schmeckt!",0
+19279,0,False,False,False,3,0,0,0,4,False,False,1,25,"Nimm das!",0
+19280,0,False,False,False,3,0,0,0,4,False,False,1,25,"Und tschüss!",0
 19281,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schnell, in Deckung!",0
 19282,0,False,False,False,3,0,0,0,4,False,False,1,25,"Vorsicht, versteckt euch!",0
 19283,0,False,False,False,3,0,0,0,4,False,False,1,25,"Dieser Äther<Indent/>... Sucht euch Deckung!",0
@@ -19575,17 +19575,17 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19290,0,False,False,False,2,0,0,0,4,False,False,1,25,"Bringt euch rasch in Sicherheit!",0
 19291,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gebt auf euch Acht!",0
 19292,0,False,False,False,2,0,0,0,4,False,False,1,25,"Uwaaah!",0
-19293,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19295,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19296,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19293,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was soll das?!",0
+19294,0,False,False,False,3,0,0,0,4,False,False,1,25,"Grrr, jetzt bin ich aber wirklich sauer!",0
+19295,0,False,False,False,2,0,0,0,3,False,False,1,25,"Lalalalala ♪",0
+19296,0,False,False,False,2,0,0,0,3,False,False,1,25,"Abrakadabra!",0
 19297,0,False,False,False,2,0,0,0,3,False,False,1,25,"Schrubschrabschrabschrab<Indent/>...",0
 19298,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gwuuun<Indent/>...",0
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Miau, miau<Indent/>...",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Wuff, wuff!",0
 19301,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19302,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19303,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19303,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ich bin Nanaki, der Hüter des Tals!",0
 19304,0,False,False,False,2,0,0,0,3,False,False,1,25,"Partyzeeeiiit!",0
 19305,0,False,False,False,2,0,0,0,3,False,False,1,25,"<krächz> <krächz>",0
 19306,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hilf mir, kleiner Kolibri!",0
@@ -19627,14 +19627,14 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19342,0,False,False,False,3,0,0,0,4,False,False,1,25,"Seid vorsichtig, sein Gift ist höchst potent!",0
 19343,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die Frucht! Sie wird helfen!",0
 19344,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schnell, iss eine Frucht!",0
-19345,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19346,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19347,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19348,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19349,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19350,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19351,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19352,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19345,0,False,False,False,3,0,0,0,4,False,False,1,25,"0",0
+19346,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hörst du schlecht?! Her mit dem Geld!",0
+19347,0,False,False,False,3,0,0,0,3,False,False,1,25,"Hraaah!",0
+19348,0,False,False,False,3,0,0,0,4,False,False,1,25,"Passt gut auf euch auf<Indent/>...",0
+19349,0,False,False,False,3,0,0,0,4,False,False,1,25,"0",0
+19350,0,False,False,False,3,0,0,0,4,False,False,1,25,"Jetzt bloß nicht stolpern<Indent/>...",0
+19351,0,False,False,False,3,0,0,0,4,False,False,1,25,"Werden Golems auch von den magnetischen Schwankungen beeinflusst?",0
+19352,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wohl nicht so hart im Nehmen, wie sie aussieht<Indent/>...",0
 19353,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Da biste ja endlich! Auch hier auf Oizys werden wir 'ne richtig hoppeltastische Station aus dem Boden stampfen!",19354
 19354,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fangen wir mit den Habitationsmodulen an. Irgendwo muss ja geschlafen und vor allem geduscht werden, hm?",19382
 19355,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unserer Infrastruktur fehlt's noch an Energisierung und Hydrofizierung. Kümmern wir uns drum!",19356
@@ -19665,7 +19665,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19380,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Mir reicht ja 'ne Hängematte und 'n Eimer saftige Rüben, um mich wohlzufühlen. Aber ich seh's in euren müden Augen: Ihr freut euch auf 'n richtiges Bettchen, was? Harharhar!",0
 19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'Ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19507
 19382,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Ich erwarte höchste Qualität, verstanden?",0
-19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Hervorragend, so wünsche ich mir, dass alle Projekte vonstatten gehen! Wir werden mehr als genug sauberes Trinkwasser produzieren können!",19384
+19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Hervorragend, so wünsche ich mir, dass alle Projekte vonstattengehen! Wir werden mehr als genug sauberes Trinkwasser produzieren können!",19384
 19384,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So langsam nimmt die gute Station Form an. Hoppeltastisch! Wer fertig ist, gönnt sich 'ne Pause, verstanden?",0
 19385,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Anlage macht schon echt was her! Danke fürs Pfotenschmutzigmachen!",19386
 19386,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Läuft der Gravikreator erst einmal, hält uns nichts mehr davon ab, die Schwebeflotte zu erkunden!",19413
@@ -19687,24 +19687,24 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19402,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Danke für euren Schweiß und die Hornhaut auf euren Pfoten. Die Reaktivierung des Euhedron ist in Hoppelnähe! Und der Aufzug geht auch bald!",0
 19403,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fertig! Die Übertragungstests liefern schonmal viel<SoftHyphen/>ver<SoftHyphen/>sprechende Werte!",19404
 19404,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Das war's mit den Gemeinschaftsprojekten auf Oizys! Jetzt bleibt nur noch zu sehen, was der Euhedron für uns bereithält.",0
-19405,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19406,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19408,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19409,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19410,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19405,0,False,False,False,3,0,0,0,4,False,False,1,25,"Endlich kann ich wieder sicher gehen! Die Schwerkraft scheint hier un<SoftHyphen/>be<SoftHyphen/>rechen<SoftHyphen/>bar zu sein.",0
+19406,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was ist nur mit diesen Steinen los? Vielleicht wurden ihre Magnetfelder gestört?",0
+19407,0,False,False,False,3,0,0,0,4,False,False,1,25,"Schwebende Steine kann man wohl kaum als wertvolle Schätze bezeichnen, oder?",0
+19408,0,False,False,False,3,0,0,0,4,False,False,1,25,"Puh! Das war echt knapp<Indent/>...! Moment mal<Indent/>... Was ist das?",0
+19409,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wer hätte gedacht, dass wir ausgerechnet hier jemanden treffen würden<Indent/>...",0
+19410,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich hab ein ungutes Gefühl<Indent/>...",0
 19411,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Mit der Präzision eines Kochs am Möhrchenschnittbrett, ist das klar?",0
 19412,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Kommen wir erstmal auf die Schattenflotte, gibt's da sicher 'ne Menge zu den Gravitationsanomalien zu forschen.",0
 19413,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Jetzt legen wir 'ne kurze Pause ein und dann geht's weiter auf die Schattenflotte, erkunden und so.",0
 19414,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Jaspisse sind mehr wert als eure gesammelte Ausrüstung. Passt also auf, wenn ihr ihren Äther weiterleitet, klaro?",0
 19415,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Und bitte nicht den Aufzug vergessen, ja?",0
-19416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19417,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19418,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19419,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19420,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19421,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19422,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19416,0,False,False,False,2,0,0,0,3,False,False,1,25,"<plumps>",0
+19417,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was zum<Indent/>...?!",0
+19418,0,False,False,False,3,0,0,0,4,False,False,1,25,"Sogar unsere Gegner riechen irgendwie süß!",0
+19419,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die sahen gerade mal aus wie kleine Setzlinge<Indent/>... Stell dir nur mal vor, was aus ihnen werden könnte!",0
+19420,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wir sollten uns in Sicherheit bringen, bevor es gleich knallt<Indent/>...",0
+19421,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich hoffe, wir finden einen Schatz, der diesen Namen auch verdient!",0
+19422,0,False,False,False,3,0,0,0,4,False,False,1,25,"Und die Geschichte geht weiter!",0
 19423,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19424,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19425,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19741,7 +19741,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19456,0,False,False,False,3,0,0,0,4,False,False,1,25,"Bündeln wir unsere Kräfte.",0
 19457,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wenn dieses Monstrum auf die Fliehenden losgeht<Indent/>...",0
 19458,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lasst uns dieses Biest aufhalten.",0
-19459,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19459,0,False,False,False,3,0,0,0,4,False,False,1,25,"Jetzt muss ich bei jedem Stein zweimal hinsehen<Indent/>...",0
 19460,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19461,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19462,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19769,13 +19769,13 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19484,0,False,False,False,3,0,0,0,4,False,False,1,25,"Der Wirbelsturm reagiert sicher auch auf die Blitze!",0
 19485,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ein donnernder Tornado. Auch er wird eine Reaktion mit dem Äther hervorrufen.",0
 19486,0,False,False,False,3,0,0,0,4,False,False,1,25,"Achtet auf den Wirbelsturm!",0
-19487,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19488,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19487,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das eine Blume?",0
+19488,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ohne Zweifel<Indent/>...",0
 19489,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19490,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit könnt ihr auch ganz oben Aktivatormittel auftragen!",0
 19491,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit könnt ihr auch ganz oben Aktivatormittel auftragen!",0
 19492,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir haben extra ein Gerüst aufgebaut. Damit kommt ihr auch nach ganz oben!",0
-19493,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19493,0,False,False,False,3,0,0,0,4,False,False,1,25,"Verstehe<Indent/>... Jeder hat wohl eine eigene Vorstellung davon, wie viel Wert ein bestimmter Gegenstand besitzt.",0
 19494,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19495,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19496,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19983,3 +19983,30 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19698,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19699,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19700,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19701,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19702,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19703,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19704,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19705,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19706,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19707,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19708,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19709,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19710,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19711,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19712,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19713,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19714,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19715,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19716,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19717,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19718,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19719,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19720,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19721,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19722,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19723,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich dachte, ich hätte gerade Flammen gesehen<Indent/>...",0
+19724,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ist das die berüchtigte Meerjungfrau?",0
+19725,0,False,False,False,3,0,0,0,4,False,False,1,25,"Eine Flasche? An so einem Ort?",0
+19726,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
+19727,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
