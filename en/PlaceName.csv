@@ -3016,7 +3016,9 @@ East Shroud",0,0,1,0,1,"",0,0,0
 2943,"Zolm'ak Citadel",1,"Zolm'ak citadel",0,0,1,0,0,"",0,0,0
 2944,"The Gilded Sea",1,"Gilded Sea",0,0,1,0,0,"",0,0,0
 2945,"Drifting Encampment",0,"drifting encampment",0,0,1,0,0,"",0,0,0
-2946,"",0,"",0,0,0,0,0,"",0,0,0
+2946,"<Emphasis>The Merchant's Tale</Emphasis>
+(Dungeon Entry)",0,"<Emphasis>Merchant's Tale</Emphasis>
+(Dungeon Entry)",0,0,1,0,0,"",0,0,0
 2947,"",0,"",0,0,0,0,0,"",0,0,0
 2948,"",0,"",0,0,0,0,0,"",0,0,0
 2949,"Norvrandt",1,"Norvrandt",0,0,1,0,1,"",0,0,0
@@ -4834,7 +4836,7 @@ East Shroud",0,0,1,0,1,"",0,0,0
 4761,"The <Emphasis>Queen Lhaminn</Emphasis>",2,"<Emphasis>Queen Lhaminn</Emphasis>",0,0,1,0,0,"",0,0,0
 4762,"Alexandria Crater",0,"Alexandria crater",0,0,1,0,0,"",0,0,0
 4763,"Bentini Depot",0,"Bentini Depot",0,0,1,0,0,"",0,0,0
-4764,"",0,"",0,0,0,0,0,"",0,0,0
+4764,"The Maiden's Home",1,"maiden's home",0,0,1,0,0,"",0,0,0
 4765,"Treno",1,"Treno",0,0,1,0,1,"",0,0,0
 4766,"",0,"",0,0,1,0,0,"",0,0,0
 4767,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5442,39 +5444,39 @@ East Shroud",0,0,1,0,1,"",0,0,0
 5369,"Ring Noir",1,"Ring Noir",0,0,1,0,1,"",0,0,0
 5370,"The X-Ring",1,"X-Ring",0,0,1,0,0,"",0,0,0
 5371,"The Crown",1,"Crown",0,0,1,0,0,"",0,0,0
-5372,"",0,"",0,0,0,0,0,"",0,0,0
-5373,"",0,"",0,0,0,0,0,"",0,0,0
-5374,"",0,"",0,0,0,0,0,"",0,0,0
-5375,"",0,"",0,0,0,0,0,"",0,0,0
-5376,"",0,"",0,0,0,0,0,"",0,0,0
-5377,"",0,"",0,0,0,0,0,"",0,0,0
-5378,"",0,"",0,0,0,0,0,"",0,0,0
-5379,"",0,"",0,0,0,0,0,"",0,0,0
-5380,"",0,"",0,0,0,0,0,"",0,0,0
-5381,"",0,"",0,0,0,0,0,"",0,0,0
-5382,"",0,"",0,0,0,0,0,"",0,0,0
-5383,"",0,"",0,0,0,0,0,"",0,0,0
-5384,"",0,"",0,0,0,0,0,"",0,0,0
-5385,"",0,"",0,0,0,0,0,"",0,0,0
-5386,"",0,"",0,0,0,0,0,"",0,0,0
-5387,"",0,"",0,0,0,0,0,"",0,0,0
-5388,"",0,"",0,0,0,0,0,"",0,0,0
-5389,"",0,"",0,0,0,0,0,"",0,0,0
-5390,"",0,"",0,0,0,0,0,"",0,0,0
-5391,"",0,"",0,0,0,0,0,"",0,0,0
-5392,"",0,"",0,0,0,0,0,"",0,0,0
-5393,"",0,"",0,0,0,0,0,"",0,0,0
-5394,"",0,"",0,0,0,0,0,"",0,0,0
-5395,"",0,"",0,0,0,0,0,"",0,0,0
-5396,"",0,"",0,0,0,0,0,"",0,0,0
-5397,"",0,"",0,0,0,0,0,"",0,0,0
-5398,"",0,"",0,0,0,0,0,"",0,0,0
-5399,"",0,"",0,0,0,0,0,"",0,0,0
-5400,"",0,"",0,0,0,0,0,"",0,0,0
-5401,"",0,"",0,0,0,0,0,"",0,0,0
-5402,"",0,"",0,0,0,0,0,"",0,0,0
-5403,"",0,"",0,0,0,0,0,"",0,0,0
-5404,"",0,"",0,0,0,0,0,"",0,0,0
+5372,"<Emphasis>The Merchant's Tale</Emphasis>",1,"<Emphasis>Merchant's Tale</Emphasis>",0,0,1,0,0,"",0,0,0
+5373,"A Faraway Place",1,"faraway place",0,0,1,0,0,"",0,0,0
+5374,"Land of Eternal Harvest",1,"Land of Eternal Harvest",0,0,1,0,0,"",0,0,0
+5375,"Cove of Countless Colors",1,"Cove of Countless Colors",0,0,1,0,0,"",0,0,0
+5376,"Valley of Living Stone",1,"Valley of Living Stone",0,0,1,0,0,"",0,0,0
+5377,"Veil of Mist",1,"veil of mist",0,0,1,0,0,"",0,0,0
+5378,"Font of Paths Aplenty",0,"Font of Paths Aplenty",0,0,1,0,0,"",0,0,0
+5379,"Caravan Campsite",0,"caravan campsite",0,0,1,0,0,"",0,0,0
+5380,"Sun-teased Cavern",1,"sun-teased cavern",0,0,1,0,0,"",0,0,0
+5381,"Jealous Slope",2,"Jealous Slope",0,0,1,0,0,"",0,0,0
+5382,"Ruby Receiving Room",1,"Ruby Receiving Room",0,0,1,0,0,"",0,0,0
+5383,"Smoldering Bedchamber",1,"Smoldering Bedchamber",0,0,1,0,0,"",0,0,0
+5384,"Seven-shade Sands",2,"Seven-shade Sands",0,0,1,0,0,"",0,0,0
+5385,"Shimmering Stage",2,"shimmering stage",0,0,1,0,0,"",0,0,0
+5386,"Sea-maid's Mirror",0,"Sea-maid's Mirror",0,0,1,0,0,"",0,0,0
+5387,"Den of Thieves",1,"den of thieves",0,0,1,0,0,"",0,0,0
+5388,"Old Nest",0,"old nest",0,0,1,0,0,"",0,0,0
+5389,"Wound of the Heavens",0,"Wound of the Heavens",0,0,1,0,0,"",0,0,0
+5390,"Overgrown Dwelling",1,"Overgrown Dwelling",0,0,1,0,0,"",0,0,0
+5391,"Beckoning Backstreet",2,"Beckoning Backstreet",0,0,1,0,0,"",0,0,0
+5392,"Bountiful Bazaar",1,"Bountiful Bazaar",0,0,1,0,0,"",0,0,0
+5393,"Tiled Thoroughfare",2,"Tiled Thoroughfare",0,0,1,0,0,"",0,0,0
+5394,"Land of Eternal Harvest",1,"Land of Eternal Harvest",0,0,1,0,0,"",0,0,0
+5395,"Ever-ripe Vineyard",1,"Ever-ripe Vineyard",0,0,1,0,0,"",0,0,0
+5396,"Palace of the Spurned",1,"Palace of the Spurned",0,0,1,0,0,"",0,0,0
+5397,"Anchorite's Auspice",0,"Anchorite's Auspice",0,0,1,0,1,"",0,0,0
+5398,"Cove of Countless Colors",1,"Cove of Countless Colors",0,0,1,0,0,"",0,0,0
+5399,"Valley of Living Stone",1,"Valley of Living Stone",0,0,1,0,0,"",0,0,0
+5400,"Passage of Earth",1,"Passage of Earth",0,0,1,0,0,"",0,0,0
+5401,"Passage of Sky",1,"Passage of Sky",0,0,1,0,0,"",0,0,0
+5402,"Little-traveled Path",2,"Little-traveled Path",0,0,1,0,0,"",0,0,0
+5403,"Village of No One",1,"Village of No One",0,0,1,0,0,"",0,0,0
+5404,"Land of Sea",2,"Land of Sea",0,0,1,0,0,"",0,0,0
 5405,"Arcadia",1,"Arcadia",0,0,1,0,1,"",0,0,0
 5406,"Oizys",2,"Oizys",0,0,1,0,1,"",0,0,0
 5407,"Megalithopolis",0,"Megalithopolis",0,0,1,0,0,"",0,0,0
@@ -5531,11 +5533,11 @@ East Shroud",0,0,1,0,1,"",0,0,0
 5458,"Cape Geras",0,"Cape Geras",0,0,1,0,1,"",0,0,0
 5459,"Shadefleet",1,"Shadefleet",0,0,1,0,1,"",0,0,0
 5460,"Desert Burrow",1,"Desert Burrow",0,0,1,0,1,"",0,0,0
-5461,"",0,"",0,0,0,0,0,"",0,0,0
-5462,"",0,"",0,0,0,0,0,"",0,0,0
-5463,"",0,"",0,0,0,0,0,"",0,0,0
-5464,"",0,"",0,0,0,0,0,"",0,0,0
-5465,"",0,"",0,0,0,0,0,"",0,0,0
+5461,"Unfamiliar Street",2,"unfamiliar street",0,0,1,0,0,"",0,0,0
+5462,"Prismatic Cave",1,"prismatic cave",0,0,1,0,0,"",0,0,0
+5463,"Land of Sea",2,"land of sea",0,0,1,0,0,"",0,0,0
+5464,"Font of Earthly Treasures",0,"Font of Earthly Treasures",0,0,1,0,0,"",0,0,0
+5465,"Font of Earthly Treasures",0,"Font of Earthly Treasures",0,0,1,0,0,"",0,0,0
 5466,"",0,"",0,0,0,0,0,"",0,0,0
 5467,"Dorgerwor the Astute",0,"Dorgerwor the Astute",0,0,1,0,1,"",0,0,0
 5468,"Singing Stone",0,"Singing Stone",0,0,1,0,1,"",0,0,0
@@ -5544,7 +5546,7 @@ East Shroud",0,0,1,0,1,"",0,0,0
 5471,"Argent Overlook",2,"Argent Overlook",0,0,1,0,0,"",0,0,0
 5472,"Vahder",1,"Vahder",0,0,1,0,1,"",0,0,0
 5473,"Snowmelt",1,"Snowmelt",0,0,1,0,1,"",0,0,0
-5474,"",0,"",0,0,0,0,0,"",0,0,0
+5474,"Another Merchant's Tale",1,"Another Merchant's Tale",0,0,1,0,1,"",0,0,0
 5475,"",0,"",0,0,0,0,0,"",0,0,0
 5476,"",0,"",0,0,0,0,0,"",0,0,0
 5477,"",0,"",0,0,0,0,0,"",0,0,0

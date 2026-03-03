@@ -14275,15 +14275,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14271,"Amdusias",0,"Amdusias",0,1,1,0,1
 14272,"poison cloud",0,"poison clouds",0,0,1,0,0
 14273,"poison cloud",0,"poison clouds",0,0,1,0,0
-14274,"",0,"",0,0,0,0,0
-14275,"",0,"",0,0,0,0,0
-14276,"",0,"",0,0,0,0,0
-14277,"",0,"",0,0,0,0,0
-14278,"",0,"",0,0,0,0,0
-14279,"",0,"",0,0,0,0,0
-14280,"",0,"",0,0,0,0,0
-14281,"",0,"",0,0,0,0,0
-14282,"",0,"",0,0,0,0,0
+14274,"Pari of Plenty",0,"Paris of Plenty",0,0,1,1,0
+14275,"false flame",0,"false flames",0,0,1,0,0
+14276,"flying carpet",0,"flying carpets",0,0,1,0,0
+14277,"fiery bauble",0,"fiery baubles",0,0,1,0,0
+14278,"icy bauble",0,"icy baubles",0,1,1,0,0
+14279,"capricious chambermaid",0,"capricious chambermaids",0,0,1,1,0
+14280,"legendary bird",0,"legendary birds",0,0,1,0,0
+14281,"summoned spirit",0,"summoned spirits",0,0,1,0,0
+14282,"whirlwind",0,"whirlwinds",0,0,1,0,0
 14283,"sin beaver",0,"sin beavers",0,0,1,0,0
 14284,"Doomtrain",0,"Doomtrains",0,0,1,0,0
 14285,"levin signal",0,"levin signals",0,0,1,0,0
@@ -14292,15 +14292,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14288,"thundergust griffin",0,"thundergust griffins",0,0,1,0,0
 14289,"ball lightning",0,"ball lightnings",0,0,1,0,0
 14290,"shock storm",0,"shock storms",0,0,1,0,0
-14291,"",0,"",0,0,0,0,0
-14292,"",0,"",0,0,0,0,0
-14293,"",0,"",0,0,0,0,0
-14294,"",0,"",0,0,0,0,0
-14295,"",0,"",0,0,0,0,0
-14296,"",0,"",0,0,0,0,0
-14297,"",0,"",0,0,0,0,0
-14298,"",0,"",0,0,0,0,0
-14299,"",0,"",0,0,0,0,0
+14291,"Darya the Sea-maid",0,"Darya the Sea-maid",0,0,1,1,1
+14292,"seaborn steed",0,"seaborn steeds",0,0,1,0,0
+14293,"seaborn stalwart",0,"seaborn stalwarts",0,0,1,0,0
+14294,"seaborn steward",0,"seaborn stewards",0,0,1,0,0
+14295,"seaborn soldier",0,"seaborn soldiers",0,0,1,0,0
+14296,"seaborn servant",0,"seaborn servants",0,0,1,0,0
+14297,"seaborn shrike",0,"seaborn shrikes",0,0,1,0,0
+14298,"seaborn songstress",0,"seaborn songstresses",0,0,1,1,0
+14299,"siren sphere",0,"siren spheres",0,0,1,0,0
 14300,"Vamp Fatale",0,"Vamp Fatale",0,0,1,1,1
 14301,"coffinmaker",0,"coffinmakers",0,0,1,0,0
 14302,"fatal flail",0,"fatal flails",0,0,1,0,0
@@ -14324,43 +14324,43 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14320,"thunder spirit",0,"thunder spirits",0,0,1,0,0
 14321,"Treno citizen",0,"Treno citizens",0,0,1,0,0
 14322,"wounded Milalla",0,"wounded Milallas",0,0,1,0,0
-14323,"",0,"",0,0,0,0,0
-14324,"",0,"",0,0,0,0,0
-14325,"",0,"",0,0,0,0,0
-14326,"",0,"",0,0,0,0,0
-14327,"",0,"",0,0,0,0,0
-14328,"",0,"",0,0,0,0,0
-14329,"",0,"",0,0,0,0,0
-14330,"",0,"",0,0,0,0,0
-14331,"",0,"",0,0,0,0,0
-14332,"",0,"",0,0,0,0,0
-14333,"",0,"",0,0,0,0,0
-14334,"",0,"",0,0,0,0,0
-14335,"",0,"",0,0,0,0,0
-14336,"",0,"",0,0,0,0,0
-14337,"",0,"",0,0,0,0,0
-14338,"",0,"",0,0,0,0,0
-14339,"",0,"",0,0,0,0,0
-14340,"",0,"",0,0,0,0,0
-14341,"",0,"",0,0,0,0,0
-14342,"",0,"",0,0,0,0,0
-14343,"",0,"",0,0,0,0,0
-14344,"",0,"",0,0,0,0,0
-14345,"",0,"",0,0,0,0,0
-14346,"",0,"",0,0,0,0,0
-14347,"",0,"",0,0,0,0,0
-14348,"",0,"",0,0,0,0,0
-14349,"",0,"",0,0,0,0,0
-14350,"",0,"",0,0,0,0,0
-14351,"",0,"",0,0,0,0,0
-14352,"",0,"",0,0,0,0,0
-14353,"",0,"",0,0,0,0,0
-14354,"",0,"",0,0,0,0,0
-14355,"",0,"",0,0,0,0,0
-14356,"",0,"",0,0,0,0,0
-14357,"",0,"",0,0,0,0,0
-14358,"",0,"",0,0,0,0,0
-14359,"",0,"",0,0,0,0,0
+14323,"Lone Swordmaster",0,"Lone Swordmasters",0,0,1,1,0
+14324,"fallen rock",0,"fallen rocks",0,0,1,0,0
+14325,"magnetic rock",0,"magnetic rocks",0,0,1,0,0
+14326,"force of will",0,"forces of will",0,0,1,0,0
+14327,"hungry jackal",0,"hungry jackals",0,0,1,0,0
+14328,"bandari weed",0,"bandari weeds",0,0,1,0,0
+14329,"sweet-rat",0,"sweet-rats",0,0,1,0,0
+14330,"tree spirit",0,"tree spirits",0,0,1,0,0
+14331,"furball",0,"furballs",0,0,1,0,0
+14332,"great unweaver",0,"great unweavers",0,0,1,0,0
+14333,"man-eating beauty",0,"man-eating beauties",0,0,1,0,0
+14334,"shrouded lady",0,"shrouded ladies",0,0,1,0,0
+14335,"shrouded lady",0,"shrouded ladies",0,0,1,0,0
+14336,"shrouded lady",0,"shrouded ladies",0,0,1,0,0
+14337,"red bomb",0,"red bombs",0,0,1,0,0
+14338,"blue bomb",0,"blue bombs",0,0,1,0,0
+14339,"twisted div",0,"twisted divs",0,0,1,0,0
+14340,"well-fed wolf",0,"well-fed wolves",0,0,1,0,0
+14341,"airy wisp",0,"airy wisps",0,1,1,0,0
+14342,"will of the wind",0,"wills of the wind",0,0,1,0,0
+14343,"willful wind",0,"willful winds",0,0,1,0,0
+14344,"legendary hatchling",0,"legendary hatchlings",0,0,1,0,0
+14345,"restless crab",0,"restless crabs",0,0,1,0,0
+14346,"shell-dweller",0,"shell-dwellers",0,0,1,0,0
+14347,"sea-sweeper",0,"sea-sweepers",0,0,1,0,0
+14348,"div's perfume",0,"div's perfume",0,0,1,0,0
+14349,"thief",0,"thieves",0,0,1,0,0
+14350,"sunken spirit",0,"sunken spirits",0,0,1,0,0
+14351,"unsettled spirit",0,"unsettled spirits",0,0,1,0,0
+14352,"air-climber",0,"air-climbers",0,1,1,0,0
+14353,"stone puppet",0,"stone puppets",0,0,1,0,0
+14354,"seeing stone",0,"seeing stones",0,0,1,0,0
+14355,"pursued peasant",0,"pursued peasants",0,0,1,0,0
+14356,"perturbed peasant",0,"perturbed peasants",0,0,1,0,0
+14357,"unlucky clerk",0,"unlucky clerks",0,0,1,0,0
+14358,"pursued peasant",0,"pursued peasants",0,0,1,0,0
+14359,"Y'nazqha",0,"Y'nazqha",0,0,1,1,1
 14360,"greater behemoth",0,"greater behemoths",0,0,1,0,0
 14361,"thunderhead",0,"thunderheads",0,0,1,0,0
 14362,"ball lightning",0,"ball lightnings",0,0,1,0,0
@@ -14375,10 +14375,10 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14371,"Xtreme aether",0,"Xtreme aether",0,0,1,0,0
 14372,"sick swell",0,"sick swells",0,0,1,0,0
 14373,"watery grave",0,"watery graves",0,0,1,0,0
-14374,"",0,"",0,0,0,0,0
-14375,"",0,"",0,0,0,0,0
-14376,"",0,"",0,0,0,0,0
-14377,"",0,"",0,0,0,0,0
+14374,"sand pearl",0,"sand pearls",0,0,1,0,0
+14375,"large explosive",0,"large explosives",0,0,1,0,0
+14376,"growball",0,"growballs",0,0,1,0,0
+14377,"Rukhkh",0,"Rukhkhs",0,0,1,0,0
 14378,"Lindwurm",0,"Lindwurms",0,0,1,0,0
 14379,"Lindwurm",0,"Lindwurms",0,0,1,0,0
 14380,"_rsv_14380_-1_1_0_0_S64755250_E64755250",0,"_rsv_14380_-1_1_2_0_S64755250_E64755250",0,0,1,0,0
@@ -14397,16 +14397,16 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14393,"storming python",0,"storming pythons",0,0,1,0,0
 14394,"storming woolback",0,"storming woolbacks",0,0,1,0,0
 14395,"storming eyeclops",0,"storming eyeclopes",0,0,1,0,0
-14396,"",0,"",0,0,0,0,0
-14397,"",0,"",0,0,0,0,0
-14398,"",0,"",0,0,0,0,0
-14399,"Lumull",0,"Lumull",0,0,1,0,0
-14400,"",0,"",0,0,0,0,0
-14401,"",0,"",0,0,0,0,0
-14402,"",0,"",0,0,0,0,0
-14403,"",0,"",0,0,0,0,0
-14404,"",0,"",0,0,0,0,0
-14405,"",0,"",0,0,0,0,0
+14396,"Genie of the Lamp",0,"Genies of the Lamp",0,0,1,0,0
+14397,"dousing spirit",0,"dousing spirits",0,0,1,0,0
+14398,"airship",0,"airships",0,1,1,0,0
+14399,"Lumull",0,"Lumull",0,0,1,0,1
+14400,"grapevine vagabond",0,"grapevine vagabonds",0,0,1,0,0
+14401,"water-dreamer",0,"water-dreamers",0,0,1,0,0
+14402,"yawning maw",0,"yawning maws",0,0,1,0,0
+14403,"ferocious ferrobeast",0,"ferocious ferrobeasts",0,0,1,0,0
+14404,"shamshir-arm",0,"shamshir-arms",0,0,1,0,0
+14405,"sea-kin",0,"sea-kin",0,0,1,0,0
 14406,"ghost train",0,"ghost trains",0,0,1,0,0
 14407,"",0,"",0,0,0,0,0
 14408,"",0,"",0,0,0,0,0
@@ -14458,15 +14458,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14454,"",0,"",0,0,0,0,0
 14455,"",0,"",0,0,0,0,0
 14456,"",0,"",0,0,0,0,0
-14457,"",0,"",0,0,0,0,0
-14458,"",0,"",0,0,0,0,0
+14457,"little mermaid",0,"little mermaids",0,0,1,0,0
+14458,"magic lamp",0,"magic lamps",0,0,1,0,0
 14459,"Droningway",0,"Droningways",0,0,1,0,1
 14460,"G-Warrior MGSD",0,"G-Warrior MGSDs",0,0,1,0,0
 14461,"La Noscean shorthair",0,"La Noscean shorthairs",0,0,1,0,0
 14462,"gallant shepherd",0,"gallant shepherds",0,0,1,0,0
 14463,"",0,"",0,0,0,0,0
 14464,"",0,"",0,0,0,0,0
-14465,"",0,"",0,0,0,0,0
+14465,"wind-up Red XIII",0,"wind-up Red XIIIs",0,0,1,0,0
 14466,"Grooving Green",0,"Grooving Greens",0,0,1,0,1
 14467,"Mistic condor",0,"Mistic condors",0,0,1,0,0
 14468,"snow spirit",0,"snow spirits",0,0,1,0,0
@@ -14476,20 +14476,20 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14472,"G'raha Tia",0,"G'raha Tia",0,0,1,0,1
 14473,"Y'shtola",0,"Y'shtola",0,0,1,1,1
 14474,"Sphene",0,"Sphene",0,0,1,1,1
-14475,"",0,"",0,0,0,0,0
-14476,"",0,"",0,0,0,0,0
-14477,"",0,"",0,0,0,0,0
+14475,"Deadly Dandan",0,"Deadly Dandans",0,0,1,0,0
+14476,"airy bubble",0,"airy bubbles",0,1,1,0,0
+14477,"defective sentry R9",0,"defective sentries R9",0,0,1,0,0
 14478,"",0,"",0,0,0,0,0
 14479,"",0,"",0,0,0,0,0
 14480,"",0,"",0,0,0,0,0
 14481,"",0,"",0,0,0,0,0
 14482,"",0,"",0,0,0,0,0
-14483,"",0,"",0,0,0,0,0
+14483,"soothing sea-beast",0,"soothing sea-beasts",0,0,1,0,0
 14484,"troublesome trap",0,"troublesome traps",0,0,1,0,0
 14485,"transcendental trap",0,"transcendental traps",0,0,1,0,0
 14486,"",0,"",0,0,0,0,0
-14487,"",0,"",0,0,0,0,0
-14488,"",0,"",0,0,0,0,0
+14487,"falling rock",0,"falling rocks",0,0,1,0,0
+14488,"thief",0,"thieves",0,0,1,0,0
 14489,"",0,"",0,0,0,0,0
 14490,"",0,"",0,0,0,0,0
 14491,"",0,"",0,0,0,0,0
@@ -14517,5 +14517,5 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14513,"",0,"",0,0,0,0,0
 14514,"",0,"",0,0,0,0,0
 14515,"",0,"",0,0,0,0,0
-14516,"",0,"",0,0,0,0,0
+14516,"seaborn speaker",0,"seaborn speakers",0,0,1,0,0
 14517,"",0,"",0,0,0,0,0

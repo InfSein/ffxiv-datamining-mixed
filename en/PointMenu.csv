@@ -16,6 +16,6 @@ int32,uint32,str
 12,12,"Examine the jewel display plate."
 13,13,"Take in the view from the Iridized Rise."
 14,0,""
-15,0,""
+15,15,"Examine the room."
 16,16,"Examine the scenery at Shadefleet."
-17,0,""
+17,17,"Examine the room."

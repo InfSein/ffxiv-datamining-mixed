@@ -311,7 +311,7 @@ int32,Image,JournalCategory,bit&01,str
 307,61804,130,False,"Trials"
 308,61851,130,False,"The Occult Crescent"
 309,61824,130,False,"Deep Dungeons"
-310,0,0,False,""
+310,61846,130,False,"Criterion Dungeons"
 311,61803,125,False,"Guildhests"
 312,0,0,False,""
 313,0,0,False,""

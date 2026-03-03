@@ -1326,7 +1326,7 @@ Potency of <If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerPar
 1317,"Three Mudra","Able to execute any ninjutsu action.",212902,0,0,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 1318,"Zanshin Ready","Able to execute <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Zanshin<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",213318,0,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 1319,"Higanbana","Open wounds are bleeding, causing damage over time. HP recovery is reduced.",213304,0,0,111,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,10,0,True,0,False,1,False,0,0,0,False,False,False,0
-1320,"Meikyo Shisui","Nullifying status afflictions that can be removed by <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Purify<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, as well as knockback and draw-in effects.",214955,0,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,50,False,False,False,0
+1320,"Meikyo Shisui","HP recovery via healing actions is increased. Status afflictions that can be removed by <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Purify<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, as well as knockback and draw-in effects, are nullified.",214955,0,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,20,0,True,0,False,0,False,0,0,50,False,False,False,0
 1321,"Caustic Bite","Toxins are causing damage over time.",212616,0,0,24,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,10,0,True,0,False,2,False,0,0,0,False,False,False,0
 1322,"Stormbite","Wounds are exposed to the elements, causing damage over time.",212617,0,0,24,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,10,0,True,0,False,2,False,0,0,0,False,False,False,0
 1323,"Wildfire","Damage is being accumulated with each weaponskill landed by the machinist who applied the effect.",213011,0,0,96,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -3101,7 +3101,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 3082,"Toxicosis","Toxins are causing damage over time.",215517,149,0,1,2,1,0,False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False,False,False,0
 3083,"Cure III Ready","Able to execute <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cure III<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",214985,0,0,25,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3084,"●女神の加護","",210408,0,0,25,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,True,0,False,0,False,0,0,0,False,False,False,0
-3085,"Miracle of Nature","Transfiguration magicks have changed your form. Unable to execute actions.",214979,0,0,25,2,17,0,False,False,False,False,True,False,True,False,False,0,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
+3085,"Miracle of Nature","Transfiguration magicks have changed your form. Unable to execute actions and damage taken is increased.",214979,0,0,25,2,17,0,False,False,False,False,True,False,True,False,False,0,0,False,False,20,2,True,0,False,0,False,0,0,0,False,False,False,0
 3086,"Aquaveil","A magicked barrier is nullifying damage.",212638,0,0,25,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,False,0
 3087,"Galvanize","A magicked barrier is nullifying damage.",212801,0,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,False,0
 3088,"Catalyze","Damage taken is reduced.",212814,0,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -4428,7 +4428,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4409,"Star Contributor","Bearing proof of exceptional contributions made during a period of cosmic exploration. In effect only when playing as a Disciple of the Hand or Land.",216255,0,0,1,1,16,897,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4410,"Invincibility","Invulnerable to all damage.",215024,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 4411,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4412,"Enhanced Egg Acuity","Highly sensitive to the plentiful glimmer of Archon eggs.",216259,0,0,1,1,16,1040,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4412,"Enhanced Egg Acuity","Probability of gleaning Archon eggs is increased.",216259,0,0,1,1,16,1040,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4413,"Golden Eye","Any Archon eggs gleaned are guaranteed to be gold.",216260,0,0,1,1,16,1041,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4414,"Multihook","Able to hook twice as many fish on next catch.",216257,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4415,"Star Contributor","Bearing proof of exceptional contributions made during a period of cosmic exploration. In effect only when playing as a Disciple of the Hand or Land.",216255,0,0,1,1,16,897,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4440,7 +4440,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4421,"Forward Omen","The next attack will be executed from the front.",215424,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4422,"Rearward Omen","The next attack will be executed from the rear.",215423,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4423,"Leftward Omen","The next attack will be executed from the left.",215426,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4424,"Eggstreme Egg Acuity","Highly sensitive to the plentiful glimmer of gold Archon eggs.",216261,0,0,1,1,16,1042,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4424,"Eggstreme Egg Acuity","Probability of gleaning Archon eggs is increased, and all eggs gleaned will be gold.",216261,0,0,1,1,16,1042,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4425,"Rightward Omen","The next attack will be executed from the right.",215425,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4426,"Forward Omen","The next attack will be executed from the front.",215424,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4427,"Rearward Omen","The next attack will be executed from the rear.",215423,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4631,9 +4631,9 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4612,"Plasma Throttle Charged","Able to use the Plasma Throttle.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4613,"Energy Load","Storing energy gathered via the use of Fuller Throttle.",219866,0,6,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4614,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4615,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4616,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4617,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4615,"Curse of Solitude","Covered in accursed fire powder, resulting in an explosion when this effect expires.",214327,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4616,"Curse of Companionship","Covered in accursed fire powder, resulting in an intense explosion when this effect expires.",214328,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4617,"Curse of Immolation","Beset by rising heat, resulting in fire damage when this effect expires. Contact with ice-aspected attacks will remove this effect.",214329,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4618,"Standing Firm","Unbowed even by relentless onslaught.",215250,0,0,1,2,0,0,True,False,True,True,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4619,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,True,True,0,0,True,False,0,9,True,0,False,0,False,0,0,0,False,False,False,0
 4620,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4643,8 +4643,8 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4624,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4625,"Breaker of Wind","Mired in quicksand and impervious to knockback by even the most powerful winds.",216824,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,50,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4626,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4627,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4628,"草刈り参加","草刈りに参加している状態。",216258,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
+4627,"Fury","Empowered by righteous fury.",214330,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,False,0
+4628,"In the Weeds","Ready to slay leafkin with a bespoke garden scythe.",216258,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
 4629,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4630,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4631,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4740,9 +4740,9 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4721,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4722,"Morbid Meal","Queasy from eating morbol fruit. Unable to consume more until effect expires.",214331,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4723,"Sapling's Crown","Warded by the pixie king and invulnerable to all damage.",216829,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
-4724,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4725,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4726,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4724,"Near Shore Shackles","Chained to an ally. Drawing too near to this partner will result in increased damage taken.",215327,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4725,"Far Shore Shackles","Chained to an ally. Drawing too far from this partner will result in increased damage taken.",215328,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4726,"Tidalspout Target","Designated target of Tidalspout, which will activate when this effect expires.",215969,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4727,"Satisfied","Empowered by aether drained from the not-so-innocent.",220021,0,16,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4728,"_rsv_4728_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4728_-1_1_1_0_S74CFC3B0_E74CFC3B0",214322,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4729,"_rsv_4729_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4729_-1_1_1_0_S74CFC3B0_E74CFC3B0",214323,0,0,1,2,17,1064,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -4789,21 +4789,21 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4770,"_rsv_4770_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4770_-1_1_1_0_S74CFC3B0_E74CFC3B0",214353,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4771,"_rsv_4771_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4771_-1_1_1_0_S74CFC3B0_E74CFC3B0",214354,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4772,"Fate of the Wurm","Bound to the earth and unable to jump.",214355,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4773,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4774,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4775,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4776,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4777,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4778,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4779,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4780,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4781,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4782,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4783,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4784,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4785,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4786,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4787,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4773,"Malefic E","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214359,0,0,1,2,17,987,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4774,"Malefic W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214360,0,0,1,2,17,988,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4775,"Malefic E-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214361,0,0,1,2,17,989,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4776,"Malefic S","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214362,0,0,1,2,17,990,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4777,"Malefic S-E","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214363,0,0,1,2,17,991,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4778,"Malefic S-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214364,0,0,1,2,17,992,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4779,"Malefic S-E-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214365,0,0,1,2,17,993,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4780,"Malefic N","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214366,0,0,1,2,17,994,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4781,"Malefic N-E","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214367,0,0,1,2,17,995,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4782,"Malefic N-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214368,0,0,1,2,17,996,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4783,"Malefic N-E-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214369,0,0,1,2,17,997,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4784,"Malefic N-S","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214370,0,0,1,2,17,998,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4785,"Malefic N-S-E","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214371,0,0,1,2,17,999,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4786,"Malefic N-S-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214372,0,0,1,2,17,1000,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4787,"Malefic N-S-E-W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214373,0,0,1,2,17,1001,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4788,"Magic Shell","A magicked barrier is nullifying damage.",229963,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 4789,"Honed Spellblade","Next <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Spellblade<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will deal increased damage.",229964,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4790,"Blazing Spellblade","Damage dealt is increased.",229965,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,5,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -4837,10 +4837,10 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4818,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4819,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4820,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4821,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4822,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4823,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4824,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4821,"Positive Charge","Exhibiting a positive magnetic charge.",215663,0,0,1,2,17,1086,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4822,"Negative Charge","Exhibiting a negative magnetic charge.",215664,0,0,1,2,17,1087,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4823,"Positive Charge","Exhibiting a positive magnetic charge.",215663,0,0,1,2,17,522,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4824,"Negative Charge","Exhibiting a negative magnetic charge.",215664,0,0,1,2,17,523,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4825,"_rsv_4825_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4825_-1_1_1_0_S74CFC3B0_E74CFC3B0",214374,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4826,"_rsv_4826_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4826_-1_1_1_0_S74CFC3B0_E74CFC3B0",214375,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4827,"_rsv_4827_-1_1_0_0_S74CFC3B0_E74CFC3B0","_rsv_4827_-1_1_1_0_S74CFC3B0_E74CFC3B0",214376,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4853,15 +4853,15 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4834,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4835,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4836,"Butterfly Motif","Concentrating on a mental picture of colorful vilekin.",216413,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,True,0,False,0,False,0,24,0,False,False,False,0
-4837,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4838,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4837,"Magnetic Levitation","Suspended in midair by magnetic forces.",215037,0,0,1,1,16,912,False,False,False,False,False,False,False,True,True,1,0,False,False,0,12,True,0,False,0,False,0,49,0,False,False,False,0
+4838,"Magnetic Pull","Movement speed is decreased due to magnetic forces.",215002,150,0,1,2,4,6,False,False,False,False,False,False,False,True,True,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 4839,"Stellar Steady Hand","Actions are guaranteed to succeed.",211551,0,0,33,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,False,0
 4840,"Alexandrian Barrier","A magicked barrier is nullifying damage.",212801,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,30,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 4841,"Divine Will","Regenerating HP over time.",215532,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,0,False,True,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4842,"Alexandrian Swiftdodge","Damage taken is reduced.",212816,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4843,"Alexandrian Swiftstep","Movement speed is increased.",212817,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,18,False,0,False,0,False,0,6,0,False,False,False,0
-4844,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4845,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4844,"Chains of Passion α","Fated to be bound by burning chains to a partner with a matching mark when this effect expires.",216766,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
+4845,"Chains of Passion β","Fated to be bound by burning chains to a partner with a matching mark when this effect expires.",216767,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 4846,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4847,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4848,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4982,14 +4982,14 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4963,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4964,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4965,"Snow Fort","The snow spirits' blessing is nullifying damage.",214769,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,False,0
-4966,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4967,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4968,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4966,"Malefic E","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214359,0,0,1,2,17,1057,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4967,"Malefic W","Being hit by certain attacks from an ill-favored cardinal direction will result in increased damage taken.",214360,0,0,1,2,17,1058,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4968,"Hydrobullet Target","Designated target of Hydrobullet, which will activate when this effect expires.",215996,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4969,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4970,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4971,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4972,"Brotherly Love","Determined to protect a brother-in-arms, and will take a blow for said brother should he be in a tight spot.",214383,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4973,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4973,"In Event","Participating in an in-game event.",215765,0,0,1,1,0,27,False,False,True,True,False,False,False,False,True,100,0,False,False,0,4,True,0,False,0,False,0,0,0,False,False,False,0
 4974,"Firesnaking","Deemed the priority target for certain attacks by Red Hot.",214384,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4975,"Watersnaking","Deemed the priority target for certain attacks by Deep Blue.",214385,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4976,"Directed Grotesquerie","Covered in hemorrhagic cells, which will spray in the indicated direction when this effect expires.",214338,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -5063,7 +5063,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 5044,"Heavy","Movement speed is reduced.",215002,150,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5045,"Fire Resistance Down II","Fire resistance is significantly reduced.",215595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5046,"Dark Resistance Down II","Dark resistance is significantly reduced.",215485,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5047,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5047,"Bubble Gaol","Ensnared by aetherial seafoam and unable to move.",215301,0,0,1,2,17,0,False,True,True,True,False,True,False,False,False,200,0,False,False,0,12,True,0,False,0,False,0,0,0,False,False,False,0
 5048,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5049,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5050,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5168,7 +5168,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 5149,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5150,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5151,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5152,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5152,"Load-bearing","Carrying a weighty burden and growing wearier with each passing second.",216246,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5153,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5154,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5155,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
