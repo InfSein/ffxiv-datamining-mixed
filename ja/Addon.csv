@@ -16718,7 +16718,7 @@ PvPチームの結成に同意しますか？"
 14179,"<Value>IntegerParameter(1)</Value>％"
 14180,"必要収集価値"
 14181,"<Value>IntegerParameter(1)</Value>～"
-14182,"AUTO REDUSE"
+14182,"AUTO REDUCE"
 14183,"自動精選"
 14184,"強活眼
 「大胆純化」の収集価値上昇値が必ず最大値になり、
@@ -18231,7 +18231,7 @@ PvPコンテンツ「クリスタルコンフリクト」や、
 <Else/></If><If(GreaterThan(IntegerParameter(1),0))>平均アイテムレベル <Value>IntegerParameter(1)</Value>～
 <Else/></If><If(GreaterThan(IntegerParameter(2),0))>アイテムレベルシンク：<Value>IntegerParameter(2)</Value>
 <Else/></If><If(GreaterThan(IntegerParameter(3),0))><Switch(IntegerParameter(3))><Case(1)>コンテンツ内ジョブチェンジ可</Case><Case(2)>コンテンツ内ジョブチェンジ不可　蘇生制限</Case><Case(3)>コンテンツ内ジョブチェンジ不可　蘇生制限
-全滅時コンテンツリセット</Case></Switch><Else/></If>"
+全滅時コンテンツリセット</Case><Case(4)>コンテンツ内ジョブチェンジ可</Case></Switch><Else/></If>"
 15407,"以下の条件を満たしていないため参加できません。"
 15408,"ヴァリアントアクション
 (2種セット可能)"
@@ -18262,12 +18262,12 @@ PvPコンテンツ「クリスタルコンフリクト」や、
 15430,"本当にひとりで突入しますか？"
 15431,"戦闘中およびヴァリアントアクションのリキャスト中は別のヴァリアントアクションへの切り替えはできません。"
 15432,"発見した物語を読むには、クエスト「<Sheet(Quest,IntegerParameter(1),0)/>」をコンプリートする必要があります。"
-15433,""
-15434,""
-15435,""
-15436,""
-15437,""
-15438,""
+15433,"投票数： <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+15434,"残り時間： <Value>IntegerParameter(1)</Value>秒"
+15435,"ルート選択"
+15436,"所持数"
+15437,"攻略を完了する"
+15438,"「攻略を完了する」が投票多数の場合、移動ポイントの代わりに退出ポイントが出現します。この回答を選択してもよろしいですか？"
 15439,"<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value><Else/>1</If>～<Value>IntegerParameter(1)</Value>人用"
 15440,"まだ投票をしていませんがウィンドウを閉じますか？
 
