@@ -311,7 +311,7 @@ int32,Image,JournalCategory,bit&01,str
 307,61804,130,False,"Défis"
 308,61851,130,False,"Île de Lunule"
 309,61824,130,False,"Donjons sans fond"
-310,0,0,False,""
+310,61846,130,False,"Donjons alternatifs"
 311,61803,125,False,"Opérations de guilde"
 312,0,0,False,""
 313,0,0,False,""

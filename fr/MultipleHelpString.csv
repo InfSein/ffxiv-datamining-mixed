@@ -118,8 +118,16 @@ Il suffit de cliquer sur l'action souhaitée dans la fenêtre d'accès rapide. I
 31,"Donjons alt. (sadique) - restrictions","Les actions embranchées sont in<SoftHyphen/>uti<SoftHyphen/>li<SoftHyphen/>sa<SoftHyphen/>bles dans les versions sadiques des donjons alternatifs.
 
 Ces instances sont uniquement accessibles en équipe préformée de 4 joueurs remplissant les conditions requises."
-32,"",""
-33,"",""
+32,"Synchronisation de niveau spéciale","Les donjons à embranchements sont généralement accessibles aux classes/jobs de niveau 90 et supérieur, mais certains d'entre eux proposent une <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>synchronisation de niveau<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque ce prérequis n'est pas rempli.
+
+Accomplir un donjon à embranchements en niveau synchronisé octroie des <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>points d'expérience<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en guise de récompense à la place de mémoquartz allagois."
+33,"Donjons à embranchements (avancé)","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Les donjons à embranchements (avancé)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sont désormais accessibles.
+
+Ce mode de jeu est <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>conçu spé<SoftHyphen/>cia<SoftHyphen/>le<SoftHyphen/>ment pour combattre une succession de boss<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans l'ordre choisi. Il est possible de quitter la mission librement après chaque af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment.
+
+Vous pouvez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>choisir jusqu'à deux actions embranchées<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Ce contenu doit être effectué par 2 à 4 joueurs, ce qui signifie que le groupement automatique est <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>obligatoire en cas d'enregistrement en solo<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Pour vous enregistrer, rendez-vous dans l'onglet <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Donjons sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, en haut de la fenêtre des donjons spéciaux."
 34,"Lancement","La fenêtre d'accès rapide peut être ouverte à partir de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>la section Autres de la fenêtre Actions et traits<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
 Il est également possible d'y accéder par les moyens suivants<Indent/>:

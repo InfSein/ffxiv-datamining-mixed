@@ -67,25 +67,25 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,byte,byte,bool,bo
 1022,"Kurenai",6,55,255,68675,9,False,0,0,True,True,True,True,True,True,True,True
 1023,"Adkiragh",6,55,255,68713,8,False,0,0,True,True,True,True,True,True,True,True
 1024,"Kai-Shirr",6,55,255,69265,7,False,0,0,True,True,True,True,True,True,True,True
-1025,"Reconstruction d'Ishgard (1)",7,20,255,73,98,False,0,0,True,True,True,True,True,True,True,True
+1025,"Azurée (1)",7,20,255,73,98,False,0,0,True,True,True,True,True,True,True,True
 1026,"Autres",7,20,255,73,99,False,0,0,True,True,True,True,True,True,True,True
-1027,"Reconstruction d'Ishgard (2)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
+1027,"Azurée (2)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
 1028,"Outils de Cielacier",7,80,255,69384,97,False,0,0,True,True,True,True,True,True,True,True
 1029,"Quêtes naines",5,70,255,0,6,False,0,0,True,True,True,True,True,True,True,True
 1030,"Ehll Tou",6,55,255,69425,6,False,0,0,True,True,True,True,True,True,True,True
-1031,"Reconstruction d'Ishgard (3)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
+1031,"Azurée (3)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
 1032,"50-60",8,50,255,0,10,False,0,0,True,True,True,True,True,True,True,True
 1033,"61-70",8,60,255,0,9,False,0,0,True,True,True,True,True,True,True,True
 1034,"71-80",8,70,255,0,8,False,0,0,True,True,True,True,True,True,True,True
 1035,"Accessoires (1)",3,50,255,0,3,False,0,0,False,False,False,False,False,False,True,False
-1036,"Reconstruction d'Ishgard (4)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
+1036,"Azurée (4)",7,255,255,73,100,False,0,0,True,True,True,True,True,True,True,True
 1037,"Comte de Durendaire",6,55,255,69615,5,False,0,0,True,True,True,True,True,True,True,True
 1038,"Expert - tome 9",1,90,255,0,90,True,11,0,True,True,True,True,True,True,True,True
 1039,"81-90",8,80,255,0,7,False,0,0,True,True,True,True,True,True,True,True
 1040,"Académie de magie",4,80,255,69668,95,False,0,0,False,True,True,True,False,False,False,False
 1041,"Académie de magie",4,80,255,69675,94,False,0,0,True,False,False,False,True,True,False,False
 1042,"Académie de magie",4,80,255,69682,93,False,0,0,False,False,False,False,False,False,True,True
-1043,"Éléments d'intérieur et d'extérieur",2,12,255,0,1,False,0,0,True,True,True,True,True,True,True,False
+1043,"Éléments d'habillage",2,12,255,0,1,False,0,0,True,True,True,True,True,True,True,False
 1044,"Mobilier de jardin",2,12,255,0,2,False,0,0,True,True,True,True,True,True,True,True
 1045,"Mobilier d'intérieur",2,12,255,0,3,False,0,0,True,True,True,True,True,True,True,True
 1046,"Tables diverses",2,12,255,0,4,False,0,0,True,True,True,True,True,True,True,False
@@ -110,19 +110,19 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,byte,byte,bool,bo
 1065,"Quêtes yok huy",5,90,255,0,4,False,0,0,True,True,True,True,True,True,True,True
 1066,"[翻訳不要] SPレベル区分終端",0,255,255,0,0,False,0,0,True,True,True,True,True,True,True,True
 1067,"",0,0,0,0,0,False,0,0,False,False,False,False,False,False,False,False
-2000,"Légendes du Coerthas",10,255,50,0,12,False,0,0,True,True,True,True,True,True,True,True
-2001,"Légendes de Dravania",10,255,50,0,11,False,0,0,True,True,True,True,True,True,True,True
-2002,"Légendes d'Abalathia",10,255,50,0,10,False,0,0,True,True,True,True,True,True,True,True
-2003,"Légendes de Gyr Abania",10,255,60,0,9,False,0,0,True,True,True,True,True,True,True,True
-2004,"Légendes d'Othard",10,255,60,0,8,False,0,0,True,True,True,True,True,True,True,True
-2005,"Légendes de Norvrandt",10,255,70,0,7,False,0,0,True,True,True,True,True,True,True,True
-2006,"Reconstruction d'Ishgard",11,255,1,74,3,False,0,0,True,True,True,True,True,True,True,True
+2000,"Coerthas",10,255,50,0,12,False,0,0,True,True,True,True,True,True,True,True
+2001,"Dravania",10,255,50,0,11,False,0,0,True,True,True,True,True,True,True,True
+2002,"Abalathia",10,255,50,0,10,False,0,0,True,True,True,True,True,True,True,True
+2003,"Gyr Abania",10,255,60,0,9,False,0,0,True,True,True,True,True,True,True,True
+2004,"Othard",10,255,60,0,8,False,0,0,True,True,True,True,True,True,True,True
+2005,"Norvrandt",10,255,70,0,7,False,0,0,True,True,True,True,True,True,True,True
+2006,"Azurée",11,255,1,74,3,False,0,0,True,True,True,True,True,True,True,True
 2007,"Outils de Cielacier",11,255,80,69384,2,False,0,0,True,True,True,True,True,True,True,True
 2008,"50-70",9,255,50,67631,4,False,0,0,True,True,True,True,True,True,True,True
 2009,"71-80",9,255,70,67631,3,False,0,0,True,True,True,True,True,True,True,True
-2010,"Légendes des mers du Nord et d'Ilsabard",10,255,80,0,6,False,0,0,True,True,True,True,True,True,True,True
-2011,"Légendes de l'espace intersidéral",10,255,80,69932,5,False,0,0,True,True,True,True,True,True,True,True
-2012,"Légendes de l'ancien monde",10,255,80,69956,4,False,0,0,True,True,True,True,True,True,True,True
+2010,"Mers du N./Ilsabard",10,255,80,0,6,False,0,0,True,True,True,True,True,True,True,True
+2011,"Espace intersidéral",10,255,80,69932,5,False,0,0,True,True,True,True,True,True,True,True
+2012,"Ancien monde",10,255,80,69956,4,False,0,0,True,True,True,True,True,True,True,True
 2013,"81-90",9,255,80,67631,2,False,0,0,True,True,True,True,True,True,True,True
 2014,"Outils des merveilles",11,255,90,70266,1,False,0,0,True,True,True,True,True,True,True,True
 2015,"Yok Tural",10,255,90,0,3,False,0,0,True,True,True,True,True,True,True,True

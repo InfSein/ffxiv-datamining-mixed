@@ -3434,7 +3434,12 @@ Encourage d'un rythme lent avec des bâtons lumineux jaunes.
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/encouragerlentjaune","/bâtonslenjau",293,0
-713,0,0,0,0,0,"","","","","",0,0
+713,2,1,2,0,0,"/delighted","/delight","/fondredeplaisir, /fondplaisir, /delighted, /delight
+Utilisation<Indent/>: /fondredeplaisir [sous-commande]
+Peine à dissimuler son plaisir intense.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/fondredeplaisir","/fondplaisir",293,0
 714,2,1,2,0,0,"/runwaywalk","/runway","/démarchemannequin, /démarchem, /runwaywalk, /runway
 Utilisation<Indent/>: /démarchemannequin [sous-commande]
 Effectue une démarche de mannequin.

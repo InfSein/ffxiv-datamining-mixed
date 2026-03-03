@@ -3014,7 +3014,9 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 2943,"Camp fortifié de Zolm'ak",0,"Camp fortifié de Zolm'ak",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le camp fortifié de Zolm'ak</Case><Case(2)>au camp fortifié de Zolm'ak</Case><Case(3)>du camp fortifié de Zolm'ak</Case></Switch>",0,0,0
 2944,"Prairie mordorée",0,"Prairie mordorée",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la prairie mordorée</Case><Case(2)>à la prairie mordorée</Case><Case(3)>de la prairie mordorée</Case></Switch>",0,0,0
 2945,"Campement annexe",0,"Campement annexe",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le campement annexe</Case><Case(2)>au campement annexe</Case><Case(3)>du campement annexe</Case></Switch>",0,0,0
-2946,"",0,"",0,0,0,0,0,"",0,0,0
+2946,"Contes du Camelot
+[Donjons spéciaux]",0,"Contes du Camelot
+[Donjons spéciaux]",0,0,1,0,0,"",0,0,0
 2947,"",0,"",0,0,0,0,0,"",0,0,0
 2948,"",0,"",0,0,0,0,0,"",0,0,0
 2949,"Norvrandt",0,"Norvrandt",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Norvrandt</Case><Case(2)>en Norvrandt</Case><Case(3)>de Norvrandt</Case></Switch>",0,0,0
@@ -4834,7 +4836,7 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 4761,"Queen Lhaminn",0,"Queen Lhaminn",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Queen Lhaminn</Case><Case(2)>au Queen Lhaminn</Case><Case(3)>du Queen Lhaminn</Case></Switch>",0,0,0
 4762,"Vestiges d'Alexandrie",0,"Vestiges d'Alexandrie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les vestiges d'Alexandrie</Case><Case(2)>aux vestiges d'Alexandrie</Case><Case(3)>des vestiges d'Alexandrie</Case></Switch>",0,0,0
 4763,"Gare de Bendini",0,"Gare de Bendini",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la gare de Bendini</Case><Case(2)>à la gare de Bendini</Case><Case(3)>de la gare de Bendini</Case></Switch>",0,0,0
-4764,"",0,"",0,0,0,0,0,"",0,0,0
+4764,"Appartements de la belle demoiselle",0,"Appartements de la belle demoiselle",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les appartements de la belle demoiselle</Case><Case(2)>dans les appartements de la belle demoiselle</Case><Case(3)>des appartements de la belle demoiselle</Case></Switch>",0,0,0
 4765,"Tréno",0,"Tréno",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Tréno</Case><Case(2)>à Tréno</Case><Case(3)>de Tréno</Case></Switch>",0,0,0
 4766,"",0,"",0,0,1,0,0,"",0,0,0
 4767,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5023,15 +5025,15 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 4950,"Salle polyvalente",0,"Salle polyvalente",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la salle polyvalente</Case><Case(2)>à la salle polyvalente</Case><Case(3)>de la salle polyvalente</Case></Switch>",0,0,0
 4951,"Pièce centrale",0,"Pièce centrale",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la pièce centrale</Case><Case(2)>à la pièce centrale</Case><Case(3)>de la pièce centrale</Case></Switch>",0,0,0
 4952,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°1",0,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°1",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°1</Case><Case(2)>à la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°1</Case><Case(3)>de la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°1</Case></Switch>",0,0,0
-4953,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2",0,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case><Case(2)>à la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case><Case(3)>de la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case></Switch>",0,0,0
-4954,"Bureau de maintenance",0,"Bureau de maintenance",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>le bureau de maintenance</Case><Case(2)>au bureau de maintenance</Case><Case(3)>du bureau de maintenance</Case></Switch>",0,0,0
-4955,"Bureau du directeur",0,"Bureau du directeur",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>le bureau du directeur</Case><Case(2)>au bureau du directeur</Case><Case(3)>du bureau du directeur</Case></Switch>",0,0,0
-4956,"Gîte des Bienfaiteurs",0,"Gîte des Bienfaiteurs",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>le gîte des Bienfaiteurs</Case><Case(2)>au gîte des Bienfaiteurs</Case><Case(3)>du gîte des Bienfaiteurs</Case></Switch>",0,0,0
+4953,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2",0,"Salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case><Case(2)>à la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case><Case(3)>de la salle d'ex<SoftHyphen/>pé<SoftHyphen/>ri<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>tion n°2</Case></Switch>",0,0,0
+4954,"Bureau de maintenance",0,"Bureau de maintenance",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le bureau de maintenance</Case><Case(2)>au bureau de maintenance</Case><Case(3)>du bureau de maintenance</Case></Switch>",0,0,0
+4955,"Bureau du directeur",0,"Bureau du directeur",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le bureau du directeur</Case><Case(2)>au bureau du directeur</Case><Case(3)>du bureau du directeur</Case></Switch>",0,0,0
+4956,"Gîte des Bienfaiteurs",0,"Gîte des Bienfaiteurs",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le gîte des Bienfaiteurs</Case><Case(2)>au gîte des Bienfaiteurs</Case><Case(3)>du gîte des Bienfaiteurs</Case></Switch>",0,0,0
 4957,"Atelier de sculpture",0,"Atelier de sculpture",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'atelier de sculpture</Case><Case(2)>à l'atelier de sculpture</Case><Case(3)>de l'atelier de sculpture</Case></Switch>",0,0,0
-4958,"Garde-manger",0,"Garde-manger",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>le garde-manger</Case><Case(2)>au garde-manger</Case><Case(3)>du garde-manger</Case></Switch>",0,0,0
+4958,"Garde-manger",0,"Garde-manger",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le garde-manger</Case><Case(2)>au garde-manger</Case><Case(3)>du garde-manger</Case></Switch>",0,0,0
 4959,"Distillerie",0,"Distillerie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la distillerie</Case><Case(2)>à la distillerie</Case><Case(3)>de la distillerie</Case></Switch>",0,0,0
 4960,"Autel des Flocons",0,"Autel des Flocons",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'Autel des Flocons</Case><Case(2)>à l'Autel des Flocons</Case><Case(3)>de l'Autel des Flocons</Case></Switch>",0,0,0
-4961,"Relais des Cimes",0,"Relais des Cimes",0,0,1,0,0,"<Switch(IntegerParameter(2))><Case(1)>le relais des Cimes</Case><Case(2)>au relais des Cimes</Case><Case(3)>du relais des Cimes</Case></Switch>",0,0,0
+4961,"Relais des Cimes",0,"Relais des Cimes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le relais des Cimes</Case><Case(2)>au relais des Cimes</Case><Case(3)>du relais des Cimes</Case></Switch>",0,0,0
 4962,"",0,"",0,0,1,0,0,"",0,0,0
 4963,"",0,"",0,0,1,0,0,"",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5442,39 +5444,39 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5369,"Ring fatal",0,"Ring fatal",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le ring fatal</Case><Case(2)>au ring fatal</Case><Case(3)>du ring fatal</Case></Switch>",0,0,0
 5370,"Ring extrême",0,"Ring extrême",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le ring extrême</Case><Case(2)>au ring extrême</Case><Case(3)>du ring extrême</Case></Switch>",0,0,0
 5371,"Ring du champion",0,"Ring du champion",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le ring du champion</Case><Case(2)>au ring du champion</Case><Case(3)>du ring du champion</Case></Switch>",0,0,0
-5372,"",0,"",0,0,0,0,0,"",0,0,0
-5373,"",0,"",0,0,0,0,0,"",0,0,0
-5374,"",0,"",0,0,0,0,0,"",0,0,0
-5375,"",0,"",0,0,0,0,0,"",0,0,0
-5376,"",0,"",0,0,0,0,0,"",0,0,0
-5377,"",0,"",0,0,0,0,0,"",0,0,0
-5378,"",0,"",0,0,0,0,0,"",0,0,0
-5379,"",0,"",0,0,0,0,0,"",0,0,0
-5380,"",0,"",0,0,0,0,0,"",0,0,0
-5381,"",0,"",0,0,0,0,0,"",0,0,0
-5382,"",0,"",0,0,0,0,0,"",0,0,0
-5383,"",0,"",0,0,0,0,0,"",0,0,0
-5384,"",0,"",0,0,0,0,0,"",0,0,0
-5385,"",0,"",0,0,0,0,0,"",0,0,0
-5386,"",0,"",0,0,0,0,0,"",0,0,0
-5387,"",0,"",0,0,0,0,0,"",0,0,0
-5388,"",0,"",0,0,0,0,0,"",0,0,0
-5389,"",0,"",0,0,0,0,0,"",0,0,0
-5390,"",0,"",0,0,0,0,0,"",0,0,0
-5391,"",0,"",0,0,0,0,0,"",0,0,0
-5392,"",0,"",0,0,0,0,0,"",0,0,0
-5393,"",0,"",0,0,0,0,0,"",0,0,0
-5394,"",0,"",0,0,0,0,0,"",0,0,0
-5395,"",0,"",0,0,0,0,0,"",0,0,0
-5396,"",0,"",0,0,0,0,0,"",0,0,0
-5397,"",0,"",0,0,0,0,0,"",0,0,0
-5398,"",0,"",0,0,0,0,0,"",0,0,0
-5399,"",0,"",0,0,0,0,0,"",0,0,0
-5400,"",0,"",0,0,0,0,0,"",0,0,0
-5401,"",0,"",0,0,0,0,0,"",0,0,0
-5402,"",0,"",0,0,0,0,0,"",0,0,0
-5403,"",0,"",0,0,0,0,0,"",0,0,0
-5404,"",0,"",0,0,0,0,0,"",0,0,0
+5372,"Contes du Camelot",0,"Contes du Camelot",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les Contes du Camelot</Case><Case(2)>dans les Contes du Camelot</Case><Case(3)>des Contes du Camelot</Case></Switch>",0,0,0
+5373,"Ville lointaine",0,"Ville lointaine",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la ville lointaine</Case><Case(2)>à la ville loitaine</Case><Case(3)>de la ville lointaine</Case></Switch>",0,0,0
+5374,"Plaines verdoyantes",0,"Plaines verdoyantes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les plaines verdoyantes</Case><Case(2)>aux plaines verdoyantes</Case><Case(3)>des plaines verdoyantes</Case></Switch>",0,0,0
+5375,"Baie prismatique",0,"Baie prismatique",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la baie prismatique</Case><Case(2)>à la baie prismatique</Case><Case(3)>de la baie prismatique</Case></Switch>",0,0,0
+5376,"Vallée des Mille Roches",0,"Vallée des Mille Roches",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la vallée des Mille Roches</Case><Case(2)>à la vallée des Mille Roches</Case><Case(3)>de la vallée des Mille Roches</Case></Switch>",0,0,0
+5377,"Mer brumeuse",0,"Mer brumeuse",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la mer brumeuse</Case><Case(2)>à la mer brumeuse</Case><Case(3)>de la mer brumeuse</Case></Switch>",0,0,0
+5378,"Place centrale",0,"Place centrale",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la place centrale</Case><Case(2)>à la place centrale</Case><Case(3)>de la place centrale</Case></Switch>",0,0,0
+5379,"Relais des Voyageurs",0,"Relais des Voyageurs",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le relais des Voyageurs</Case><Case(2)>au relais des Voyageurs</Case><Case(3)>du relais des Voyageurs</Case></Switch>",0,0,0
+5380,"Place du Soleil",0,"Place du Soleil",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la place du Soleil</Case><Case(2)>à la place du Soleil</Case><Case(3)>de la place du Soleil</Case></Switch>",0,0,0
+5381,"Colline châtelaine",0,"Colline châtelaine",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la colline châtelaine</Case><Case(2)>à la colline châtelaine</Case><Case(3)>de la colline châtelaine</Case></Switch>",0,0,0
+5382,"Salle des Pierres rouges",0,"Salle des Pierres rouges",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la salle des Pierres rouges</Case><Case(2)>à la salle des Pierres rouges</Case><Case(3)>de la salle des Pierres rouges</Case></Switch>",0,0,0
+5383,"Chambre du Feu dormant",0,"Chambre du Feu dormant",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la chambre du Feu dormant</Case><Case(2)>à la chambre du Feu dormant</Case><Case(3)>de la chambre du Feu dormant</Case></Switch>",0,0,0
+5384,"Plage prismatique",0,"Plage prismatique",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la plage prismatique</Case><Case(2)>à la plage prismatique</Case><Case(3)>de la plage prismatique</Case></Switch>",0,0,0
+5385,"Scène de l'Arc-en-ciel",0,"Scène de l'Arc-en-ciel",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la scène de l'Arc-en-ciel</Case><Case(2)>à la scène de l'Arc-en-ciel</Case><Case(3)>de la scène de l'Arc-en-ciel</Case></Switch>",0,0,0
+5386,"Théâtre de la Sirène",0,"Théâtre de la Sirène",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le théâtre de la Sirène</Case><Case(2)>au théâtre de la Sirène</Case><Case(3)>du théâtre de la Sirène</Case></Switch>",0,0,0
+5387,"Antre des Couteaux",0,"Antre des Couteaux",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'Antre des Couteaux</Case><Case(2)>à l'Antre des Couteaux</Case><Case(3)>de l'Antre des Couteaux</Case></Switch>",0,0,0
+5388,"Nichoir ancien",0,"Nichoir ancien",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le nichoir ancien</Case><Case(2)>au nichoir ancien</Case><Case(3)>du nichoir ancien</Case></Switch>",0,0,0
+5389,"Le Fil de la Lame",0,"Le Fil de la Lame",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Fil de la Lame</Case><Case(2)>au Fil de la Lame</Case><Case(3)>du Fil de la Lame</Case></Switch>",0,0,0
+5390,"Demeure abandonnée",0,"Demeure abandonnée",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la demeure abandonnée</Case><Case(2)>à la demeure abandonnée</Case><Case(3)>de la demeure abandonnée</Case></Switch>",0,0,0
+5391,"Ruelle du quartier résidentiel",0,"Ruelle du quartier résidentiel",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la ruelle du quartier résidentiel</Case><Case(2)>à la ruelle du quartier résidentiel</Case><Case(3)>de la ruelle du quartier résidentiel</Case></Switch>",0,0,0
+5392,"Marché affairé",0,"Marché affairé",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le marché affairé</Case><Case(2)>au marché affairé</Case><Case(3)>du marché affairé</Case></Switch>",0,0,0
+5393,"Avenue de la Grande Porte",0,"Avenue de la Grande Porte",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'avenue de la Grande Porte</Case><Case(2)>à l'avenue de la Grande Porte</Case><Case(3)>de l'avenue de la Grande Porte</Case></Switch>",0,0,0
+5394,"Plaines verdoyantes",0,"Plaines verdoyantes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les plaines verdoyantes</Case><Case(2)>aux plaines verdoyantes</Case><Case(3)>des plaines verdoyantes</Case></Switch>",0,0,0
+5395,"Vignoble corvosien",0,"Vignoble corvosien",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Vignoble corvosien</Case><Case(2)>au Vignoble corvosien</Case><Case(3)>du Vignoble corvosien</Case></Switch>",0,0,0
+5396,"Palais abandonné",0,"Palais abandonné",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le palais abandonné</Case><Case(2)>au palais abandonné</Case><Case(3)>du palais abandonné</Case></Switch>",0,0,0
+5397,"Giron de l'Ermite",0,"Giron de l'Ermite",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Giron de l'Ermite</Case><Case(2)>au Giron de l'Ermite</Case><Case(3)>du Giron de l'Ermite</Case></Switch>",0,0,0
+5398,"Baie prismatique",0,"Baie prismatique",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la baie prismatique</Case><Case(2)>à la baie prismatique</Case><Case(3)>de la baie prismatique</Case></Switch>",0,0,0
+5399,"Vallée des Mille Roches",0,"Vallée des Mille Roches",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la vallée des Mille Roches</Case><Case(2)>à la vallée des Mille Roches</Case><Case(3)>de la vallée des Mille Roches</Case></Switch>",0,0,0
+5400,"Grotte magnétique",0,"Grotte magnétique",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la grotte magnétique</Case><Case(2)>à la grotte magnétique</Case><Case(3)>de la grotte magnétique</Case></Switch>",0,0,0
+5401,"Col des Roches volantes",0,"Col des Roches volantes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le col des Roches volantes</Case><Case(2)>au col des Roches volantes</Case><Case(3)>du col des Roches volantes</Case></Switch>",0,0,0
+5402,"Défilé des Disciples",0,"Défilé des Disciples",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le défilé des Disciples</Case><Case(2)>au défilé des Disciples</Case><Case(3)>du défilé des Disciples</Case></Switch>",0,0,0
+5403,"Village dépeuplé",0,"Village dépeuplé",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le village dépeuplé</Case><Case(2)>au village dépeuplé</Case><Case(3)>du village dépeuplé</Case></Switch>",0,0,0
+5404,"Mer de la Vacuité",0,"Mer de la Vacuité",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la mer de la Vacuité</Case><Case(2)>à la mer de la Vacuité</Case><Case(3)>de la mer de la Vacuité</Case></Switch>",0,0,0
 5405,"Ring arcadien",0,"Ring arcadien",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le ring arcadien</Case><Case(2)>au ring arcadien</Case><Case(3)>du ring arcadien</Case></Switch>",0,0,0
 5406,"Oizys",0,"Oizys",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Oizys</Case><Case(2)>à Oizys</Case><Case(3)>d'Oizys</Case></Switch>",0,0,0
 5407,"Mégalithopolis",0,"Mégalithopolis",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Mégalithopolis</Case><Case(2)>à Mégalithopolis</Case><Case(3)>de Mégalithopolis</Case></Switch>",0,0,0
@@ -5531,11 +5533,11 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5458,"Cap Géras",0,"Cap Géras",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le cap Géras</Case><Case(2)>au cap Géras</Case><Case(3)>du cap Géras</Case></Switch>",0,0,0
 5459,"Bâtiment ombré",0,"Bâtiment ombré",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Bâtiment ombré</Case><Case(2)>au Bâtiment ombré</Case><Case(3)>du Bâtiment ombré</Case></Switch>",0,0,0
 5460,"Terrier désertique",0,"Terrier désertique",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Terrier désertique</Case><Case(2)>au Terrier désertique</Case><Case(3)>du Terrier désertique</Case></Switch>",0,0,0
-5461,"",0,"",0,0,0,0,0,"",0,0,0
-5462,"",0,"",0,0,0,0,0,"",0,0,0
-5463,"",0,"",0,0,0,0,0,"",0,0,0
-5464,"",0,"",0,0,0,0,0,"",0,0,0
-5465,"",0,"",0,0,0,0,0,"",0,0,0
+5461,"Rue de la place",0,"Rue de la place",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la rue de la place</Case><Case(2)>à la rue de la place</Case><Case(3)>de la rue de la place</Case></Switch>",0,0,0
+5462,"Grotte de la baie",0,"Grotte de la baie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la grotte de la baie</Case><Case(2)>à la grotte de la baie</Case><Case(3)>de la grotte de la baie</Case></Switch>",0,0,0
+5463,"Mer de la Vacuité",0,"Mer de la Vacuité",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la mer de la Vacuité</Case><Case(2)>à la mer de la Vacuité</Case><Case(3)>de la mer de la Vacuité</Case></Switch>",0,0,0
+5464,"Place annexe",0,"Place annexe",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la place annexe</Case><Case(2)>à la place annexe</Case><Case(3)>de la place annexe</Case></Switch>",0,0,0
+5465,"Place annexe",0,"Place annexe",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la place annexe</Case><Case(2)>à la place annexe</Case><Case(3)>de la place annexe</Case></Switch>",0,0,0
 5466,"",0,"",0,0,0,0,0,"",0,0,0
 5467,"Campement de Dorgerwor",0,"Campement de Dorgerwor",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Campement de Dorgerwor</Case><Case(2)>au Campement de Dorgerwor</Case><Case(3)>du Campement de Dorgerwor</Case></Switch>",0,0,0
 5468,"Chanteroche",0,"Chanteroche",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Chanteroche</Case><Case(2)>à Chanteroche</Case><Case(3)>de Chanteroche</Case></Switch>",0,0,0
@@ -5544,7 +5546,7 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5471,"Colline d'argent",0,"Colline d'argent",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la colline d'argent</Case><Case(2)>à la colline d'argent</Case><Case(3)>de la colline d'argent</Case></Switch>",0,0,0
 5472,"Vahder",0,"Vahder",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Vahder</Case><Case(2)>à Vahder</Case><Case(3)>de Vahder</Case></Switch>",0,0,0
 5473,"Source gelée",0,"Source gelée",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la source gelée</Case><Case(2)>à la source gelée</Case><Case(3)>de la source gelée</Case></Switch>",0,0,0
-5474,"",0,"",0,0,0,0,0,"",0,0,0
+5474,"Contes du Camelot annexes",0,"Contes du Camelot annexes",0,0,1,0,0,"",0,0,0
 5475,"",0,"",0,0,0,0,0,"",0,0,0
 5476,"",0,"",0,0,0,0,0,"",0,0,0
 5477,"",0,"",0,0,0,0,0,"",0,0,0

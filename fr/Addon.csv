@@ -3800,7 +3800,7 @@ Les majuscules/minuscules sont prises en compte lors de la recherche."
 3615,"Record"
 3616,"Temps restant<Indent/>: <Value>IntegerParameter(1)</Value>m <TwoDigitValue>IntegerParameter(2)</TwoDigitValue>s"
 3617,"Quitter"
-3618,"Nouveau record"
+3618,"Record battu"
 3619,"???"
 3620,"nom du PJ"
 3621,"nom de la cible"
@@ -10694,7 +10694,7 @@ après avoir terminé la quête de l'épopée “<If(GreaterThan(IntegerParamete
 9891,"Choix de la tenue"
 9892,"Afficher l'aide"
 9893,"Événement saisonnier"
-9894,"<Clickable(<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>)/>
+9894,"<Clickable(<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>)/>
 <Clickable(<Sheet(DynamicEvent,IntegerParameter(2),11)/>)/>"
 9895,"Affichage"
 9896,"--/--/----"
@@ -16921,12 +16921,13 @@ Souhaitez-vous tout de même les envoyer<Indent/>?"
 15403,"Donjons sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res"
 15404,"Recruter des équipiers"
 15405,"Voir les recrutements"
-15406,"<If(GreaterThan(IntegerParameter(1),0))>Nv. d'objet moyen<Indent/>: <Value>IntegerParameter(1)</Value> ou plus
+15406,"<If(GreaterThan(IntegerParameter(4),0))>Synchronisation de niveau<Indent/>:<Value>IntegerParameter(4)</Value>
+<Else/></If><If(GreaterThan(IntegerParameter(1),0))>Nv. d'objet moyen<Indent/>: <Value>IntegerParameter(1)</Value> ou plus
 <Else/></If><If(GreaterThan(IntegerParameter(2),0))>Nv. d'objet synchronisé<Indent/>: <Value>IntegerParameter(2)</Value>
 <Else/></If><If(GreaterThan(IntegerParameter(3),0))><Switch(IntegerParameter(3))><Case(1)>Changement de job en cours de mission possible</Case><Case(2)>Changement de job en cours de mission impossible
 Anti-résurrection</Case><Case(3)>Changement de job en cours de mission impossible
 Anti-résurrection
-Réinitialisation de la mission en cas défaite</Case></Switch><Else/></If>"
+Réinitialisation de la mission en cas défaite</Case><Case(4)>Changement de job en cours de mission possible</Case></Switch><Else/></If>"
 15407,"Ces conditions ne sont pas remplies<Indent/>:"
 15408,"Actions embranchées
 (modifiables)"
@@ -16957,12 +16958,12 @@ Réinitialisation de la mission en cas défaite</Case></Switch><Else/></If>"
 15430,"Explorer le donjon en solo<Indent/>?"
 15431,"Les actions embranchées ne peuvent pas être modifiées en combat ou durant leur temps de recharge."
 15432,"Pour pouvoir lire le journal d'exploration, vous devez avoir terminé la quête “<Sheet(Quest,IntegerParameter(1),0)/>”."
-15433,""
-15434,""
-15435,""
-15436,""
-15437,""
-15438,""
+15433,"Nombre de votes<Indent/>: <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+15434,"Temps restant<Indent/>: <Value>IntegerParameter(1)</Value> <If(LessThanOrEqualTo(IntegerParameter(1),1))>seconde<Else/>secondes</If>"
+15435,"Embranchement"
+15436,"Possédés"
+15437,"Terminer la mission"
+15438,"Si une majorité de joueurs sélectionnent “Terminer la mission”, le point de téléportation sera remplacé par un point de sortie. Confirmer<Indent/>?"
 15439,"<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value><Else/>1</If> à <Value>IntegerParameter(1)</Value> joueurs"
 15440,"Fermer la fenêtre sans voter<Indent/>?
 

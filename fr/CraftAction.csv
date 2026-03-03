@@ -1377,42 +1377,42 @@ Utilise une esquisse d'artisan.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Utilisable jusqu'à 3 fois par synthèse.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>Réservé aux spé<SoftHyphen/>cia<SoftHyphen/>listes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",4655,4656,1984,15,16,55,67632,True,0,0,100395,100396,100397,100398,100399,100400,100401,100402
 100403,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),8))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1518,8,9,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100404,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),9))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1568,9,10,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100405,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),10))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1618,10,11,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100406,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),11))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1667,11,12,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100407,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),12))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1718,12,13,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100408,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),13))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1767,13,14,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100409,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),14))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1818,14,15,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
 100410,"Travail préparatoire","Fait progresser la synthèse au grand détriment de la solidité.
-L'efficacité est réduite de moitié si la solidité est inférieure à 20.
+L'efficacité est réduite de moitié si la solidité est inférieure à la perte de solidité.
 Efficacité<Indent/>: <If(Equal(PlayerParameter(68),15))><If(GreaterThanOrEqualTo(PlayerParameter(69),86))>360<Else/>300</If><Else/>300</If>
 Taux de réussite<Indent/>: 100%
 Perte de solidité<Indent/>: 20",241,248,1867,15,16,72,0,False,0,18,100403,100404,100405,100406,100407,100408,100409,100410
