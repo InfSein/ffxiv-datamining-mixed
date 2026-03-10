@@ -3,7 +3,9 @@
 **Languages:** [简体中文](README.md) | **English** | [日本語](README_JA.md)
 
 Provides mixed FFXIV CSV unpacked files, in the same format as [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining), but with unpacked data for multiple languages / clients at the same time. <br>
-Available starting from CN client 7.25 / Global client 7.31.
+Available starting from CN client 7.25 / Global client 7.31.<br>
+※ DE/FR starts from Global client 7.41.<br>
+※ TC needs community support.
 
 ## Usage
 
@@ -14,9 +16,11 @@ The project stores CSV unpacked files in the following directories at the root l
 | Directory |     Server    |       Language      |
 | :-------: | :-----------: | :-----------------: |
 |   `chs`   |   CN client   |  Simplified Chinese |
-|    `en`   | Global client |       English       |
-|    `ja`   | Global client |       Japanese      |
 |    `tc`   |   TW client   | Traditional Chinese |
+|    `ja`   | Global client |       Japanese      |
+|    `en`   | Global client |       English       |
+|    `de`   | Global client |       German        |
+|    `fr`   | Global client |       French        |
 
 You can view the CSV files directly on the GitHub website, but it may be slow. It is generally recommended to directly [download the project archive](https://github.com/InfSein/ffxiv-datamining-mixed/archive/refs/heads/master.zip). <br>
 In addition, you can check version update contents via the [commit history](https://github.com/InfSein/ffxiv-datamining-mixed/commits/master/).
@@ -47,9 +51,11 @@ Then, follow these steps:
    | Unpack Command       | Description                                                                        |
    | :------------------- | :--------------------------------------------------------------------------------- |
    | `npm run unpack:chs` | Unpack CN client text, output Simplified Chinese CSV files to the `chs` directory. |
-   | `npm run unpack:en`  | Unpack Global client text, output English CSV files to the `en` directory.         |
+   | `npm run unpack:tc`  | Unpack TC client text, output Traditional Chinese CSV files to the `tc` directory. |
    | `npm run unpack:ja`  | Unpack Global client text, output Japanese CSV files to the `ja` directory.        |
-   | `npm run unpack:tc`  | Unpack TW client text, output Traditional Chinese CSV files to the `tc` directory. |
+   | `npm run unpack:en`  | Unpack Global client text, output English CSV files to the `en` directory.         |
+   | `npm run unpack:de`  | Unpack Global client text, output German CSV files to the `de` directory.         |
+   | `npm run unpack:fr`  | Unpack Global client text, output French CSV files to the `fr` directory.         |
 
 This completes the initial unpacking. <br>
 After the initial unpack, subsequent unpacking runs can start directly from step 4.
@@ -63,16 +69,16 @@ To keep the project history clean, please ensure that your PR meets the followin
 * Each language’s unpack update should be committed only once
 
   > For example, if you unpack Global client game files and update both the `en` and `ja` folders, <br>
-  > you should make two commits, respectively named `data: GLOBALxxx／EN` and `data: GLOBALxxx／JA`. <br>
+  > you should make two commits, respectively named `data: GLOBAL xxx／EN` and `data: GLOBAL xxx／JA`. <br>
 * Commit format similar to the following:
 
   ```
   # CN client example
   [Title] data: CHS 7.31
-  [Body]  CHS 2025.09.03.0000.0000
+  [Body]  2025.09.03.0000.0000
   # Global client example
   [Title] data: GLOBAL 7.31／JA
-  [Body]  GLOBAL 2025.09.03.0000.0000
+  [Body]  2025.09.03.0000.0000
   # The game version number in the “Body” will be printed in the terminal when running the unpack command.
   ```
 

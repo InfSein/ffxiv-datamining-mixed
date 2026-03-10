@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-datamining-mixed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,8 @@
     "unpack:ja": "npx tsx scripts/unpack.ts ja",
     "unpack:en": "npx tsx scripts/unpack.ts en",
     "unpack:de": "npx tsx scripts/unpack.ts de",
-    "unpack:fr": "npx tsx scripts/unpack.ts fr"
+    "unpack:fr": "npx tsx scripts/unpack.ts fr",
+    "release": "npx tsx scripts/release.ts"
   },
   "dependencies": {
     "adm-zip": "^0.5.16",

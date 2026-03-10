@@ -5,8 +5,14 @@
   "chs": {
     "description": "国服/简体中文"
   },
+  "de": {
+    "description": "国际服/德语"
+  },
   "en": {
     "description": "国际服/英文"
+  },
+  "fr": {
+    "description": "国际服/法语"
   },
   "ja": {
     "description": "国际服/日文"
