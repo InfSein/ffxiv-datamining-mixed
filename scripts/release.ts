@@ -3,6 +3,7 @@ import path from "path"
 import { rm } from "node:fs/promises"
 import { execSync, spawn } from "child_process"
 import AppConfig from "../config.json"
+import { spawnSync } from "node:child_process"
 
 // ── 配置 ──────────────────────────────────────────────
 
@@ -116,7 +117,14 @@ function hasGitChanges(): boolean {
  */
 function createCommit(message: string): string {
   execSync("git add -A", { stdio: "inherit" })
-  execSync(`git commit -m "${message}"`, { stdio: "inherit" })
+
+  const args = message
+    .split("\n")
+    .map(line => `-m "${line}"`)
+    .join(" ")
+
+  execSync(`git commit ${args}`, { stdio: "inherit" })
+
   const hash = execSync("git rev-parse HEAD", { encoding: "utf-8" }).trim()
   return hash
 }
@@ -204,10 +212,17 @@ async function main() {
 
   // 使用 gh CLI 创建 Release
   const tagName = `v${patch}`.replace(/#/g, '-')
-  const escapedBody = releaseBody.replace(/"/g, '\\"')
-
-  execSync(
-    `gh release create "${tagName}" --title "${releaseTitle}" --notes "${escapedBody}"`,
+  spawnSync(
+    "gh",
+    [
+      "release",
+      "create",
+      tagName,
+      "--title",
+      releaseTitle,
+      "--notes",
+      releaseBody
+    ],
     { stdio: "inherit" }
   )
 
