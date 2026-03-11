@@ -36271,7 +36271,7 @@ int32,str
 自身から誘惑状態の対象にダメージを与えると、誘惑の効果時間が2秒延長される。
 この効果は一度しか発動しない。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「リミットゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>最大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蓄積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蓄積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90秒"
 29433,""
 29434,""
 29435,""
