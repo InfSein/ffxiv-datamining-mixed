@@ -57,7 +57,7 @@ Interagiere hierfür mit dem Eingangsportal und wähle „Mit anderen Spielern b
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Solltest du den Inhalt nicht innerhalb des angezeigten Zeitlimits betreten, musst du mit der Inhaltsauswahl von vorn anfangen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 14,"Verfügbare Dungeons","Mit dem Fortschreiten deines Abenteuers steigt die Anzahl der verfügbaren Inhalte in der Inhaltssuche und im Inhaltshelfer.
 Inhalte, die du bereits abgeschlossen hast, kannst du beliebig oft wiederholen, indem du sie im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hauptmenü<UIGlow>01</UIGlow><UIForeground>01</UIForeground> unter <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Spielinhalte<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in der Inhaltssuche oder im Inhaltshelfer erneut auswählst."
-15,"Die Gewölbesuche nutzen","Das Unstete und Kuriose Gewölbe kannst du entweder betreten, indem du mit einem entsprechenden NPC sprichst, oder aber die <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gewölbesuche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Hauptmenü → Spielinhalte) nutzt.
+15,"Die Gewölbesuche nutzen","Das Unstete und Kuriose Gewölbe kannst du entweder betreten, indem du mit einem entsprechenden NPC sprichst bzw. den Inhaltseingang auswählst, oder aber die <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gewölbesuche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (Hauptmenü → Spielinhalte) nutzt.
 
 In der Gewölbesuche werden alle Informationen zur Teilnahme angezeigt. Auch kannst du hier diverse Einstellungen vornehmen, ehe du einen Inhalt betrittst."
 16,"Das Unstete Gewölbe betreten","Das Unstete Gewölbe nutzt eine spezielle Mechanik, die seine Schwierigkeit <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>automatisch auf eine Gruppengröße zwischen einem und vier Spielern anpasst<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Es mag zwar eine Heraus<SoftHyphen/>forde<SoftHyphen/>rung sein, aber ein Unstetes Gewölbe kann durchaus alleine bezwungen werden.
@@ -93,7 +93,7 @@ Im Kuriosen Gewölbe gibt es keine Charaktere, die die Spielergruppe begleiten, 
 27,"Kommandotafel","Auf der Kommandotafel können <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>häufig benutzte Kommandos angelegt und leichter ausgelöst<UIGlow>01</UIGlow><UIForeground>01</UIForeground> werden.
 
 So kannst du z. B. den Zugriff auf Reittiere, Begleiter, Emotes und Ausrüstungssets vereinfachen und dein Abenteurerleben bequemer gestalten."
-28,"Registrierung","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>Controller<Else/>Gamepad</If>-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+28,"Registrierung","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><66>02</66>-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Kommandos können über <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>die Option „In der Kommandotafel anlegen“ im Modus „Kommandomenü belegen“<UIGlow>01</UIGlow><UIForeground>01</UIForeground> registriert werden.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Maus-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -101,7 +101,7 @@ Kommandos können mit der Maus <UIForeground>F201FA</UIForeground><UIGlow>F201FB
 29,"Einstellungen","Benutze das Zahnrad-Symbol oben rechts oder das Untermenü, um die Einstellungen für die Kommandotafel zu öffnen.
 
 Dort findest du Optionen, um bestimmte Kommandos direkt zu öffnen, die Farbintensität zu ändern oder die kontinuierliche Ausführung ohne Schließen des Fensters einzurichten."
-30,"Bedienung","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>Controller<Else/>Gamepad</If>-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+30,"Bedienung","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><66>02</66>-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Der Fokus liegt in der Mitte der Slots. So kannst du alle Felder mit maximal zwei Schritten erreichen.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Maus-Steuerung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -111,7 +111,7 @@ Eine Bewegung und ein Klick reichen, um das gewünschte Kommando auszuführen. A
 Um sie zu betreten, müssen alle vier Spieler der Gruppe die Anforderungen erfüllen."
 32,"Besondere Stufenanpassung","Unstete Gewölbe sind in der Regel für alle Klassen und Jobs der Stufe 90 und höher zugänglich. Sollte diese Voraussetzung nicht erfüllt sein, erfolgt automatisch eine <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stufenanpassung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
-Für den erfolgreichen Abschluss eines unsteten Gewölbes mit angepasster Stufe erhältst du als Belohnung <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground> anstelle von allagischen Steinen."
+Für den erfolgreichen Abschluss eines unsteten Gewölbes mit angepasster Stufe erhältst du als Belohnung <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground> anstelle von Allagischen Steinen."
 33,"Unstete Gewölbe (fortgeschritten)","Du hast <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unstete Gewölbe (fortgeschritten)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> freigeschaltet.
 
 Unstete Gewölbe (fortgeschritten) sind speziell dafür konzipiert, die entsprechenden <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bosse in einer frei gewählten Reihenfolge bekämpfen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu können. Die Mission kann nach jedem Kampf verlassen werden.

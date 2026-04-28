@@ -77,14 +77,14 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 73,10,61820,13,1,0,0,8,3000,0,0,69566,"Das Manderville-Turnier","1 Mal am offiziellen Manderville-Turnier teilnehmen und die Belohnung erhalten",0
 74,11,61847,11,100,0,0,11,1000,0,0,70179,"Inselparadies: Sammeln","100 Gegenstände auf dem Inselparadies sammeln",0
 75,11,61847,12,20,0,0,11,1000,0,0,70179,"Inselparadies: Basteln","20 Inselgüter im Inselatelier herstellen und verschiffen lassen",0
-76,13,61851,1,30,12,30,13,140,0,0,70847,"Kreszentia: Kriegsführung I","30 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
-77,13,61851,2,60,12,70,13,240,0,0,70847,"Kreszentia: Kriegsführung II","60 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
-78,13,61851,3,8,12,30,13,140,0,0,70847,"Kreszentia: Kritische Begegnungen I","8 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
-79,13,61851,4,15,12,70,13,240,0,0,70847,"Kreszentia: Kritische Begegnungen II","15 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
-80,13,61851,5,10,12,30,13,140,0,0,70847,"Kreszentia: FATEs I","10 FATEs im südlichen Kreszentia abgeschlossen",0
-81,13,61851,6,20,12,70,13,240,0,0,70847,"Kreszentia: FATEs II","20 FATEs im südlichen Kreszentia abgeschlossen",0
-82,13,61851,7,1,12,30,13,140,0,0,70847,"Kreszentia: Erfolgssträhnen I","20 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
-83,13,61851,8,1,12,70,13,240,0,0,70847,"Kreszentia: Erfolgssträhnen II","40 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
+76,13,61851,1,30,12,75,13,700,0,0,70847,"Kreszentia: Kriegsführung I","30 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
+77,13,61851,2,60,12,150,13,1400,0,0,70847,"Kreszentia: Kriegsführung II","60 Gegner besiegen, deren Wissensstufe mindestens so hoch wie die eigene ist",0
+78,13,61851,3,8,12,75,13,700,0,0,70847,"Kreszentia: Kritische Begegnungen I","8 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
+79,13,61851,4,15,12,150,13,1400,0,0,70847,"Kreszentia: Kritische Begegnungen II","15 kritische Begegnungen im südlichen Kreszentia abgeschlossen",0
+80,13,61851,5,10,12,75,13,700,0,0,70847,"Kreszentia: FATEs I","10 FATEs im südlichen Kreszentia abgeschlossen",0
+81,13,61851,6,20,12,150,13,1400,0,0,70847,"Kreszentia: FATEs II","20 FATEs im südlichen Kreszentia abgeschlossen",0
+82,13,61851,7,1,12,75,13,700,0,0,70847,"Kreszentia: Erfolgssträhnen I","20 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
+83,13,61851,8,1,12,150,13,1400,0,0,70847,"Kreszentia: Erfolgssträhnen II","40 Mal eine Erfolgssträhne im südlichen Kreszentia erreicht ",0
 84,14,61824,1,1,14,7,0,0,0,0,70941,"Pilgers Pfad: Fortschritt I","Ebene 20 von Pilgers Pfad abschließen",0
 85,14,61824,2,1,15,2,0,0,0,0,70941,"Pilgers Pfad: Fortschritt II","Ebene 30 von Pilgers Pfad abschließen",0
 86,14,61824,3,1,14,8,0,0,0,0,70942,"Pilgers Pfad: Fortschritt III","Ebene 50 von Pilgers Pfad abschließen",0

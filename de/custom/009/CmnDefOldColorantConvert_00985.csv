@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT","Du hast keinen der benötigten Gegenstände."
+1,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1","Deine Farbstoffe eintauschen?
+Du erhältst:<Highlight>StringParameter(1)</Highlight>"
+2,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2","
+<Value>IntegerParameter(2)</Value> <If(Equal(IntegerParameter(2),1))><SheetDe(Item,5,IntegerParameter(1),1,1,1)/><Else/><SheetDe(Item,5,IntegerParameter(1),2,1,1)/></If>"

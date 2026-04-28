@@ -915,7 +915,7 @@ Seine Symbole sind die Sand- und die Sonnenuhr.","",""
 Bis zum nächsten Rang: <Format(IntegerParameter(2),FF022E)/></If>","",""
 618,0,0,0,"Deine restliche Spielzeit beträgt <Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>Tag<Else/>Tage</If>. Über die Mogry-Station (https://sqex.to/Msp) kannst du deine Spielzeit verlängern.","",""
 619,0,0,0,"Deine restliche kostenlose Testspielzeit beträgt
-<Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>Tag<Else/>Tage</If>. Wenn du FINAL FANTASY XIV nach Ablauf der Testspielzeit weiterspielen möchtest, kannst du <If(Equal(PlayerParameter(75),0))>in der Mogry-Station (https://sqex.to/Msp)<Else/><If(Equal(PlayerParameter(78),99))>im PlayStation™Store<Else/>im Microsoft Store</If></If> die Vollversion erwerben und alle Funktionen des Spiels freischalten.","",""
+<Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>Tag<Else/>Tage</If>. Wenn du FINAL FANTASY XIV nach Ablauf der Testspielzeit weiterspielen möchtest, kannst du in der Mogry-Station (https://sqex.to/Msp) oder im <66>F201A5</66> die Vollversion erwerben und alle Funktionen des Spiels freischalten.","",""
 620,0,0,0,"","",""
 621,0,0,0,"Gefällt dir dein Gehilfe so, wie er ist?","",""
 622,0,0,0,"Die Gestaltung deines Gehilfen wird abgebrochen.","",""
@@ -1204,7 +1204,7 @@ Die Charakterdaten laden?","",""
 867,0,0,0,"Kürzlich gesicherte Charaktere (Nur auf dem gleichen Datenzentrum)","",""
 868,0,0,0,"Keine Daten","",""
 869,0,0,0,"Sicherungszeit: <Time(IntegerParameter(1))/><Value>TopLevelParameter(219)</Value>.<Value>TopLevelParameter(221)</Value>.<Value>TopLevelParameter(222)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> Uhr","",""
-870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case><Case(5)>Xbox</Case></Switch>]","",""
+870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case><Case(5)>Xbox</Case><Case(6)>Switch2</Case></Switch>]","",""
 871,0,0,0,"Bereit zum Erstellen des Backups.","",""
 872,0,0,0,"Bereit zum Herunterladen.","",""
 873,0,0,0,"<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>Charaktereinstellungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> für einen anderen Charakter anwenden.","",""
@@ -1253,13 +1253,12 @@ Bitte versuche es später erneut.
 900,0,1,0,"Speichert UI-Größe, Bildfrequenz und andere Anzeigeeinstellungen.
 ※ Die Auflösung und andere Grafikeinstellungen der Spiel<SoftHyphen/>um<SoftHyphen/>gebung werden nicht gespeichert.","Anzeige",""
 901,0,11,0,"Speichert Lautstärke, ausgeschaltete Töne und andere Soundeinstellungen.","Sound",""
-902,0,41,0,"Speichert Einstellungen für <If(Equal(PlayerParameter(75),0))>Gamepad und Maus<Else/><If(Equal(PlayerParameter(78),99))>Wireless Controller<Else/>Controller</If> und Maus</If>.
+902,0,41,0,"Speichert Einstellungen für <66>16</66> und Maus.
 ※ Informationen zum Eingabegerät werden nicht gespeichert.","Eingabegerät",""
 903,0,181,0,"Speichert das Farbschema für UI-Elemente.","Farbschema",""
 904,0,51,0,"Speichert Einstellungen für Sprachausgabe in Videos/Zwischensequenzen.
 ※ Einstellungen, die von der derzeitigen Spiel<SoftHyphen/>um<SoftHyphen/>gebung abhängen, werden nicht gespeichert.","Anderes",""
-905,0,61,0,"Speichert Einstellungen für visuelle Tondarstellung und Farbkorrekturen.<If(Equal(PlayerParameter(75),0))><Else/>
-※ Nicht zutreffend für <If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PlayStation®3</Case><Case(2)>PlayStation®4</Case><Case(3)>PlayStation®4</Case><Case(4)>PlayStation®5</Case><Case(5)>Xbox Series X</Case><Case(6)>Xbox Series S</Case></Switch><Else/></If>.</If>","Barrierefreiheit",""
+905,0,61,0,"Speichert Einstellungen für visuelle Tondarstellung und Farbkorrekturen.","Barrierefreiheit",""
 906,0,161,0,"Speichert Makros, die für alle Charaktere verfügbar sind.
 ※ Makros für den aktuellen Charakter werden durch die Sicherung der <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>Charaktereinstellungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> gespeichert.","Alle Makros",""
 907,0,0,0,"","",""
@@ -1275,7 +1274,7 @@ Bitte versuche es später erneut.
 917,0,0,0,"","",""
 918,0,0,0,"","",""
 919,0,0,0,"","",""
-920,0,131,0,"Speichert die Einstellungen für <If(GreaterThan(PlayerParameter(75),0))>Controller und Maus<Else/>Gamepad und Maus</If>.","Charakterkonfig.",""
+920,0,131,0,"Speichert die Einstellungen für <If(GreaterThan(PlayerParameter(75),0))><66>02</66> und Maus<Else/>Maus und <66>02</66></If>.","Charakterkonfig.",""
 921,0,91,0,"Speichert Einstellungen für das Layout und die Größe des HUDs.","HUD-Layout",""
 922,0,111,0,"Speichert Einstellungen für Kommandomenüs/Kreuz-Kommandomenüs für alle Klassen und Jobs.","Kommandomenüs",""
 923,0,141,0,"Speichert Ausrüstungssets.","Ausrüstungssets",""
@@ -1322,9 +1321,8 @@ Derzeit existieren keine Daten.","",""
 959,0,0,0,"<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>Charaktereinstellungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground> konnten nicht wieder<SoftHyphen/>her<SoftHyphen/>gestellt werden.","",""
 960,0,0,0,"Daten können nicht heruntergeladen werden. Die Sicherungsdatei ist nicht vorhanden oder beschädigt.","",""
 961,0,0,0,"Beschädigte Daten","",""
-962,0,0,0,"Diese Funktion lässt dich Backups von deinen Charakter- und Client-Einstellungen auf den Servern von FINAL FANTASY XIV erstellen. Sie erlaubt dir, nahtlos weiterzuspielen, auch wenn sich deine Spiel<SoftHyphen/>um<SoftHyphen/>gebung ändert.
-
-Wir empfehlen eine lokale Sicherheitskopie deiner Einstellungsdaten zu erstellen, bevor du diese Funktion nutzt.<If(Equal(PlayerParameter(75),0))> Dies kann manuell oder über die KONFIGURATION im Launcher vorgenommen werden.<Else/></If>","",""
+962,0,0,0,"Mit dieser Funktion kannst du deine lokalen Konfigurationen (z. B. HUD- und Kommandomenü-Einstellungen) auf den Servern von FINAL FANTASY XIV erstellen und herunterladen. So kannst du schnell und einfach deine Einstellungen über<SoftHyphen/>nehmen, wenn du auf anderer Hardware spielst.
+Wir empfehlen, zusätzlich eine lokale Sicherheitskopie deiner Einstellungen zu erstellen.<If(Equal(PlayerParameter(75),0))> Dies kann manuell oder im Launcher über „Konfiguration“ → „Backup/Import von Speicherdaten“ vorgenommen werden.<Else/></If>","",""
 963,0,0,0,"","",""
 964,0,0,0,"","",""
 965,0,0,0,"","",""
@@ -1578,7 +1576,7 @@ Voraussichtliche Dauer: <If(LessThan(IntegerParameter(1),60))>etwa 1 Minute<Else
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>Der Reiseprozess kann nicht mehr abgebrochen werden.
 Bis die Reise vollzogen ist, ist das Einloggen mit anderen Charakteren nicht möglich.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1192,0,0,0,"Während du dich auf einem anderen Datenzentrum befindest, werden die Charakterdaten vereinfacht dargestellt.","",""
-1193,0,0,0,"","",""
+1193,0,0,0,"<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>※ Von einem Ätheryten in den Städten Limsa Lominsa, Gridania und Ul'dah kannst du zu Welten auf anderen Datenzentren in der gleichen Region wie deine Stammwelt reisen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1194,0,0,0,"","",""
 1195,0,0,0,"","",""
 1196,0,0,0,"","",""
@@ -2414,9 +2412,7 @@ Alle anderen Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände wer
 1971,0,0,0,"Hintergrund und Beleuchtung zu „Küste“ ändern.","",""
 1972,0,0,0,"Hintergrund und Beleuchtung zu „Wüste“ ändern.","",""
 1973,0,0,0,"Eorzäischer Kalender","","Nach eorzäischer Zeitrechnung steht eine Ära des Lichts immer mit einer Ära des Schattens
-im Wechsel. In der Ära des Lichts entwickeln sich die Sterblichen zur Blüte, um in der Ära
-des Schattens - von einer Katastrophe heimgesucht - unterzugehen. Wie viele Jahre eine
-Ära zählen wird, ist nicht vorherzusehen, doch jedes Jahr besteht aus 12 Monden -
+im Wechsel. Jedes Jahr besteht aus 12 Monden -
 6 Lichtmonden und 6 Schattenmonden - die sich jeweils den 6 Elementen zuordnen lassen.
 (Das entsprechende Datum im gregorianischen Kalender wird unten angezeigt.)"
 1974,0,0,0,"<Sheet(ClassJob,IntegerParameter(1),0)/> St. <Value>IntegerParameter(2)</Value>","",""
@@ -2451,8 +2447,10 @@ dem Textilgewerbe sowie dem Bergbau.
 Berühmt-berüchtigt ist die Perle der Wüste für die martialischen
 Kämpfe im Kolosseum und die einschlägigen Vergnügungstempel."
 1983,0,0,0,"","",""
-1984,0,0,0,"Vor- und Nachname können je zwischen 2 und 15 Zeichen, insgesamt aber maximal 20 Zeichen lang sein. Nur Buchstaben, ' und - sind verwendbar, wobei ' und - nicht am Anfang von Vor- oder Nachnamen oder mehrmals hintereinander stehen dürfen.","",""
-1985,0,0,0,"Der Name kann zwischen 3 und 20 Zeichen lang sein. Nur Buchstaben, ' und - sind verwendbar, wobei ' und - nicht am Anfang oder mehrmals hintereinander stehen dürfen.","",""
+1984,0,0,0,"Vor- und Nachname können je zwischen 2 und 15 Zeichen, insgesamt aber maximal 20 Zeichen lang sein. Nur Buchstaben, ' und - sind verwendbar, wobei ' und - nicht am Anfang von Vor- oder Nachnamen oder mehrmals hintereinander stehen dürfen.<If(Equal(PlayerParameter(75),7))>
+※Mit ausgewählter Chateingabe: <CommandIcon(11)/> <66>2A</66> aktivieren<Else/></If>","",""
+1985,0,0,0,"Der Name kann zwischen 3 und 20 Zeichen lang sein. Nur Buchstaben, ' und - sind verwendbar, wobei ' und - nicht am Anfang oder mehrmals hintereinander stehen dürfen.<If(Equal(PlayerParameter(75),7))>
+※Mit ausgewählter Chateingabe: <CommandIcon(11)/> <66>2A</66> aktivieren<Else/></If>","",""
 1986,0,0,0,"","",""
 1987,0,0,0,"","",""
 1988,0,0,0,"","",""
@@ -2664,7 +2662,7 @@ Bei Erschaffung eines neuen Charakters können sie geladen und bearbeitet werden
 2191,0,0,0,"A Realm Reborn","",""
 2192,0,0,0,"Heavensward","",""
 2193,0,0,0,"Stormblood","",""
-2194,0,0,0,"","",""
+2194,0,0,0,"Shadowbringers","",""
 2195,0,0,0,"","",""
 2196,0,0,0,"","",""
 2197,0,0,0,"","",""

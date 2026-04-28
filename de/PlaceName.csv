@@ -4121,7 +4121,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 4093,"Die Mechanische Menagerie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Mechanischen Menagerie</Case><Case(2)>in der Mechanischen Menagerie</Case><Case(3)>die Mechanische Menagerie</Case></Switch>",0,0,0
 4094,"Die Roten Sande",0,"",0,0,1,0,0,"",0,0,0
 4095,"Der Küstenkampf",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Küstenkampf</Case><Case(2)>im Küstenkampf</Case><Case(3)>der Küstenkampf</Case></Switch>",0,0,0
-4096,"",0,"",0,0,1,0,0,"",0,0,0
+4096,"Archeia Harmonias",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Archeia Harmonias</Case><Case(2)>in der Archeia Harmonias</Case><Case(3)>die Archeia Harmonias</Case></Switch>",0,0,0
 4097,"",0,"",0,0,1,0,0,"",0,0,0
 4098,"Medias Res",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>ins Medias Res</Case><Case(2)>im Medias Res</Case><Case(3)>das Medias Res</Case></Switch>",0,0,0
 4099,"Medias Res",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>ins Medias Res</Case><Case(2)>im Medias Res</Case><Case(3)>das Medias Res</Case></Switch>",0,0,0
@@ -4791,8 +4791,8 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 4763,"Bahnhof Bentini",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Bahnhof Bentini</Case><Case(2)>am Bahnhof Bentini</Case><Case(3)>der Bahnhof Bentini</Case></Switch>",0,0,0
 4764,"Gemächer der jungen Angebeteten",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu den Gemächern der jungen Angebeteten</Case><Case(2)>in den Gemächern der jungen Angebeteten</Case><Case(3)>die Gemächer der jungen Angebeteten</Case></Switch>",0,0,0
 4765,"Treno",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Treno</Case><Case(2)>in Treno</Case><Case(3)>Treno</Case></Switch>",0,0,0
-4766,"",0,"",0,0,1,0,0,"",0,0,0
-4767,"",0,"",0,0,1,0,0,"",0,0,0
+4766,"Nichts-Territorium",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Nichts-Territorium</Case><Case(2)>im Nichts-Territorium</Case><Case(3)>das Nichts-Territorium</Case></Switch>",0,0,0
+4767,"Nichts-Tiefe",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Nichts-Tiefe</Case><Case(2)>in der Nichts-Tiefe</Case><Case(3)>die Nichts-Tiefe</Case></Switch>",0,0,0
 4768,"",0,"",0,0,1,0,0,"",0,0,0
 4769,"",0,"",0,0,1,0,0,"",0,0,0
 4770,"",0,"",0,0,1,0,0,"",0,0,0
@@ -4987,8 +4987,8 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 4959,"Weinbrennerei",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Weinbrennerei</Case><Case(2)>in der Weinbrennerei</Case><Case(3)>die Weinbrennerei</Case></Switch>",0,0,0
 4960,"Kalter Altar",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Kalten Altar</Case><Case(2)>am Kalten Altar</Case><Case(3)>der Kalte Altar</Case></Switch>",0,0,0
 4961,"Wächtersteig",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Wächtersteig</Case><Case(2)>auf dem Wächtersteig</Case><Case(3)>der Wächtersteig</Case></Switch>",0,0,0
-4962,"",0,"",0,0,1,0,0,"",0,0,0
-4963,"",0,"",0,0,1,0,0,"",0,0,0
+4962,"",0,"",0,0,0,0,0,"",0,0,0
+4963,"",0,"",0,0,0,0,0,"",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
 4966,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5324,7 +5324,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5296,"Fusingway-Fluss",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Fusingway-Fluss</Case><Case(2)>am Fusingway-Fluss</Case><Case(3)>der Fusingway-Fluss</Case></Switch>",0,0,0
 5297,"Tresor Oneiron",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Tresor Oneiron</Case><Case(2)>im Tresor Oneiron</Case><Case(3)>der Tresor Oneiron</Case></Switch>",0,0,0
 5298,"Flotten-Luftschiff",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Flotten-Luftschiff</Case><Case(2)>auf dem Flotten-Luftschiff</Case><Case(3)>das Flotten-Luftschiff</Case></Switch>",0,0,0
-5299,"",0,"",0,0,0,0,0,"",0,0,0
+5299,"隠された小部屋",0,"",0,0,1,0,0,"",0,0,0
 5300,"Mecha-Einsatz",0,"",0,0,1,0,0,"",0,0,0
 5301,"Phaenna",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Phaenna</Case><Case(2)>auf Phaenna</Case><Case(3)>Phaenna</Case></Switch>",0,0,0
 5302,"Glasbläser-Grotte",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Glasbläser-Grotte</Case><Case(2)>in der Glasbläser-Grotte</Case><Case(3)>die Glasbläser-Grotte</Case></Switch>",0,0,0
@@ -5522,7 +5522,122 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5494,"",0,"",0,0,0,0,0,"",0,0,0
 5495,"",0,"",0,0,0,0,0,"",0,0,0
 5496,"",0,"",0,0,0,0,0,"",0,0,0
-5497,"",0,"",0,0,0,0,0,"",0,0,0
-5498,"",0,"",0,0,0,0,0,"",0,0,0
-5499,"",0,"",0,0,0,0,0,"",0,0,0
-5500,"",0,"",0,0,0,0,0,"",0,0,0
+5497,"Commercium",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Commercium</Case><Case(2)>im Commercium</Case><Case(3)>das Commercium</Case></Switch>",0,0,0
+5498,"Weg zum Klyteum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Weg zum Klyteum</Case><Case(2)>auf dem Weg zum Klyteum</Case><Case(3)>der Weg zum Klyteum</Case></Switch>",0,0,0
+5499,"Klyteum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Klyteum</Case><Case(2)>im Klyteum</Case><Case(3)>das Klyteum</Case></Switch>",0,0,0
+5500,"Septium-Straße",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Septium-Straße</Case><Case(2)>auf der Septium-Straße</Case><Case(3)>die Septium-Straße</Case></Switch>",0,0,0
+5501,"Via Valis",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Via Valis</Case><Case(2)>auf der Via Valis</Case><Case(3)>die Via Valis</Case></Switch>",0,0,0
+5502,"Straße der VI. Legion",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Straße der VI. Legion</Case><Case(2)>auf der Straße der VI. Legion</Case><Case(3)>die Straße der VI. Legion</Case></Switch>",0,0,0
+5503,"Fabrikdurchgang",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Fabrikdurchgang</Case><Case(2)>im Fabrikdurchgang</Case><Case(3)>der Fabrikdurchgang</Case></Switch>",0,0,0
+5504,"Waldweg Nord-Eblan",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Waldweg Nord-Eblan</Case><Case(2)>auf dem Waldweg Nord-Eblan</Case><Case(3)>der Waldweg Nord-Eblan</Case></Switch>",0,0,0
+5505,"Eingang zum Klyteum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Eingang zum Klyteum</Case><Case(2)>am Eingang zum Klyteum</Case><Case(3)>der Eingang zum Klyteum</Case></Switch>",0,0,0
+5506,"Dock 1",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zu Dock 1</Case><Case(2)>auf Dock 1</Case><Case(3)>Dock 1</Case></Switch>",0,0,0
+5507,"Forum Floricomum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Forum Floricomum</Case><Case(2)>im Forum Floricomum</Case><Case(3)>das Forum Floricomum</Case></Switch>",0,0,0
+5508,"Materiallager",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Materiallager</Case><Case(2)>im Materiallager</Case><Case(3)>das Materiallager</Case></Switch>",0,0,0
+5509,"Waffentestgelände",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Waffentestgelände</Case><Case(2)>auf dem Waffentestgelände</Case><Case(3)>das Waffentestgelände</Case></Switch>",0,0,0
+5510,"Windurst: Die dritte Etappe",0,"",0,0,1,0,0,"",0,0,0
+5511,"Windurst: Die dritte Etappe",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Windurst</Case><Case(2)>in Windurst</Case><Case(3)>Windurst</Case></Switch>",0,0,0
+5512,"Al Zahbi",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Al Zahbi</Case><Case(2)>in Al Zahbi</Case><Case(3)>Al Zahbi</Case></Switch>",0,0,0
+5513,"Nyzul-Insel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Nyzul-Insel</Case><Case(2)>auf der Nyzul-Insel</Case><Case(3)>die Nyzul-Insel</Case></Switch>",0,0,0
+5514,"Garten von Ru'Hmet",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Garten von Ru'Hmet</Case><Case(2)>im Garten von Ru'Hmet</Case><Case(3)>der Garten von Ru'Hmet</Case></Switch>",0,0,0
+5515,"Empyreal-Paradox",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Empyreal-Paradox</Case><Case(2)>im Empyreal-Paradox</Case><Case(3)>das Empyreal-Paradox</Case></Switch>",0,0,0
+5516,"Abyssea - Empyreal-Paradox",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Abyssea - Empyreal-Paradox</Case><Case(2)>im Abyssea - Empyreal-Paradox</Case><Case(3)>das Abyssea - Empyreal-Paradox</Case></Switch>",0,0,0
+5517,"Windurst-Mauern",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Windurst-Mauern</Case><Case(2)>in Windurst-Mauern</Case><Case(3)>Windurst-Mauern</Case></Switch>",0,0,0
+5518,"Volksbezirk",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Volksbezirk</Case><Case(2)>im Volksbezirk</Case><Case(3)>der Volksbezirk</Case></Switch>",0,0,0
+5519,"Nyzul-Insel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Nyzul-Insel</Case><Case(2)>auf der Nyzul-Insel</Case><Case(3)>die Nyzul-Insel</Case></Switch>",0,0,0
+5520,"Garten von Ru'Hmet",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Garten von Ru'Hmet</Case><Case(2)>im Garten von Ru'Hmet</Case><Case(3)>der Garten von Ru'Hmet</Case></Switch>",0,0,0
+5521,"Empyreal-Paradox",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Empyreal-Paradox</Case><Case(2)>im Empyreal-Paradox</Case><Case(3)>das Empyreal-Paradox</Case></Switch>",0,0,0
+5522,"Abyssea - Empyreal-Paradox",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Abyssea - Empyreal-Paradox</Case><Case(2)>im Abyssea - Empyreal-Paradox</Case><Case(3)>das Abyssea - Empyreal-Paradox</Case></Switch>",0,0,0
+5523,"Himmelsturm",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Himmelsturm</Case><Case(2)>im Himmelsturm</Case><Case(3)>der Himmelsturm</Case></Switch>",0,0,0
+5524,"Kampfplatz",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Kampfplatz</Case><Case(2)>auf dem Kampfplatz</Case><Case(3)>der Kampfplatz</Case></Switch>",0,0,0
+5525,"Siegestor",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Siegestor</Case><Case(2)>beim Siegestor</Case><Case(3)>das Siegestor</Case></Switch>",0,0,0
+5526,"Das Bollwerk",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Bollwerk</Case><Case(2)>im Bollwerk</Case><Case(3)>das Bollwerk</Case></Switch>",0,0,0
+5527,"Reich des Lichtgottes",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Reich des Lichtgottes</Case><Case(2)>im Reich des Lichtgottes</Case><Case(3)>das Reich des Lichtgottes</Case></Switch>",0,0,0
+5528,"Reich der Engel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Reich der Engel</Case><Case(2)>im Reich der Engel</Case><Case(3)>das Reich der Engel</Case></Switch>",0,0,0
+5529,"Klyteum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Klyteum</Case><Case(2)>im Klyteum</Case><Case(3)>das Klyteum</Case></Switch>",0,0,0
+5530,"",0,"",0,0,0,0,0,"",0,0,0
+5531,"Einsame Insel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Einsamen Insel</Case><Case(2)>an der Einsamen Insel</Case><Case(3)>die Einsame Insel</Case></Switch>",0,0,0
+5532,"Thavnair",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Thavnair</Case><Case(2)>in Thavnair</Case><Case(3)>Thavnair</Case></Switch>",0,0,0
+5533,"Einsamer Saum",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Einsamen Saum</Case><Case(2)>am Einsamen Saum</Case><Case(3)>der Einsame Saum</Case></Switch>",0,0,0
+5534,"Einsamer Saum - Phantomströmung",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Einsamen Saum - Phantomströmung</Case><Case(2)>am Einsamen Saum - Phantomströmung</Case><Case(3)>der Einsame Saum - Phantomströmung</Case></Switch>",0,0,0
+5535,"Thavnair - Hochsee",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Thavnair - Hochsee</Case><Case(2)>in Thavnair - Hochsee</Case><Case(3)>Thavnair - Hochsee</Case></Switch>",0,0,0
+5536,"Thavnair - Phantomströmung",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>nach Thavnair - Phantomströmung</Case><Case(2)>in Thavnair - Phantomströmung</Case><Case(3)>Thavnair - Phantomströmung</Case></Switch>",0,0,0
+5537,"",0,"",0,0,0,0,0,"",0,0,0
+5538,"",0,"",0,0,0,0,0,"",0,0,0
+5539,"",0,"",0,0,0,0,0,"",0,0,0
+5540,"",0,"",0,0,0,0,0,"",0,0,0
+5541,"",0,"",0,0,0,0,0,"",0,0,0
+5542,"",0,"",0,0,0,0,0,"",0,0,0
+5543,"",0,"",0,0,0,0,0,"",0,0,0
+5544,"",0,"",0,0,0,0,0,"",0,0,0
+5545,"",0,"",0,0,0,0,0,"",0,0,0
+5546,"",0,"",0,0,0,0,0,"",0,0,0
+5547,"",0,"",0,0,0,0,0,"",0,0,0
+5548,"",0,"",0,0,0,0,0,"",0,0,0
+5549,"",0,"",0,0,0,0,0,"",0,0,0
+5550,"",0,"",0,0,0,0,0,"",0,0,0
+5551,"",0,"",0,0,0,0,0,"",0,0,0
+5552,"",0,"",0,0,0,0,0,"",0,0,0
+5553,"",0,"",0,0,0,0,0,"",0,0,0
+5554,"",0,"",0,0,0,0,0,"",0,0,0
+5555,"",0,"",0,0,0,0,0,"",0,0,0
+5556,"",0,"",0,0,0,0,0,"",0,0,0
+5557,"",0,"",0,0,0,0,0,"",0,0,0
+5558,"",0,"",0,0,0,0,0,"",0,0,0
+5559,"",0,"",0,0,0,0,0,"",0,0,0
+5560,"",0,"",0,0,0,0,0,"",0,0,0
+5561,"",0,"",0,0,0,0,0,"",0,0,0
+5562,"",0,"",0,0,0,0,0,"",0,0,0
+5563,"",0,"",0,0,0,0,0,"",0,0,0
+5564,"",0,"",0,0,0,0,0,"",0,0,0
+5565,"",0,"",0,0,0,0,0,"",0,0,0
+5566,"",0,"",0,0,0,0,0,"",0,0,0
+5567,"",0,"",0,0,0,0,0,"",0,0,0
+5568,"",0,"",0,0,0,0,0,"",0,0,0
+5569,"",0,"",0,0,0,0,0,"",0,0,0
+5570,"Ulthalam Allee",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Ulthalam Allee</Case><Case(2)>auf der Ulthalam Allee</Case><Case(3)>die Ulthalam Allee</Case></Switch>",0,0,0
+5571,"",0,"",0,0,0,0,0,"",0,0,0
+5572,"",0,"",0,0,0,0,0,"",0,0,0
+5573,"",0,"",0,0,0,0,0,"",0,0,0
+5574,"",0,"",0,0,0,0,0,"",0,0,0
+5575,"",0,"",0,0,0,0,0,"",0,0,0
+5576,"",0,"",0,0,0,0,0,"",0,0,0
+5577,"",0,"",0,0,0,0,0,"",0,0,0
+5578,"",0,"",0,0,0,0,0,"",0,0,0
+5579,"",0,"",0,0,0,0,0,"",0,0,0
+5580,"",0,"",0,0,0,0,0,"",0,0,0
+5581,"",0,"",0,0,0,0,0,"",0,0,0
+5582,"",0,"",0,0,0,0,0,"",0,0,0
+5583,"",0,"",0,0,0,0,0,"",0,0,0
+5584,"",0,"",0,0,0,0,0,"",0,0,0
+5585,"",0,"",0,0,0,0,0,"",0,0,0
+5586,"",0,"",0,0,0,0,0,"",0,0,0
+5587,"",0,"",0,0,0,0,0,"",0,0,0
+5588,"",0,"",0,0,0,0,0,"",0,0,0
+5589,"",0,"",0,0,0,0,0,"",0,0,0
+5590,"",0,"",0,0,0,0,0,"",0,0,0
+5591,"",0,"",0,0,0,0,0,"",0,0,0
+5592,"",0,"",0,0,0,0,0,"",0,0,0
+5593,"",0,"",0,0,0,0,0,"",0,0,0
+5594,"",0,"",0,0,0,0,0,"",0,0,0
+5595,"",0,"",0,0,0,0,0,"",0,0,0
+5596,"",0,"",0,0,0,0,0,"",0,0,0
+5597,"",0,"",0,0,0,0,0,"",0,0,0
+5598,"",0,"",0,0,0,0,0,"",0,0,0
+5599,"",0,"",0,0,0,0,0,"",0,0,0
+5600,"",0,"",0,0,0,0,0,"",0,0,0
+5601,"",0,"",0,0,0,0,0,"",0,0,0
+5602,"",0,"",0,0,0,0,0,"",0,0,0
+5603,"",0,"",0,0,0,0,0,"",0,0,0
+5604,"",0,"",0,0,0,0,0,"",0,0,0
+5605,"",0,"",0,0,0,0,0,"",0,0,0
+5606,"",0,"",0,0,0,0,0,"",0,0,0
+5607,"",0,"",0,0,0,0,0,"",0,0,0
+5608,"",0,"",0,0,0,0,0,"",0,0,0
+5609,"",0,"",0,0,1,0,0,"",0,0,0
+5610,"",0,"",0,0,1,0,0,"",0,0,0
+5611,"",0,"",0,0,1,0,0,"",0,0,0
+5612,"",0,"",0,0,1,0,0,"",0,0,0
+5613,"",0,"",0,0,1,0,0,"",0,0,0
+5614,"",0,"",0,0,1,0,0,"",0,0,0
+5615,"",0,"",0,0,1,0,0,"",0,0,0

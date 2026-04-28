@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/> Ins Inventar zurücknehmen"
-2,"<CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+2,"<CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 3,"<CommandIcon(8)/> Reihenfolge ändern　<CommandIcon(10)/> Untermenü"
 4,"<CommandIcon(11)/> Suche ausführen"
 5,"<CommandIcon(10)/> Untermenü  <CommandIcon(8)/> Kaufen  <CommandIcon(11)/> Etwas verkaufen"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/> Untermenü <CommandIcon(1)/> Chatlog auswählen <CommandIcon(2)/> Reiter umschalten <CommandIcon(11)/> Chatlog vergrößern"
 73,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück zum Chat   <CommandIcon(11)/> Chatlog vergrößern"
 74,"<CommandIcon(10)/> Untermenü <CommandIcon(9)/> Zurück zum Chat  <CommandIcon(11)/> Chatlog auf Normalgröße"
-75,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen  <CommandIcon(13)/> Auto-Übersetzung<If(GreaterThan(PlayerParameter(94),0))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+75,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen  <CommandIcon(13)/> Auto-Übersetzung<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 76,"<CommandIcon(3)/> Zurück  <CommandIcon(4)/> Vorwärts  <CommandIcon(13)/> Auto-Übersetzung"
 77,"<CommandIcon(10)/> Untermenü  <CommandIcon(11)/> Anwenden"
 78,"<CommandIcon(11)/> Anwenden  <CommandIcon(10)/> Einstellungen löschen"
@@ -232,14 +232,20 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 „DUALSHOCK“ and „DualSense“ are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.
+------
+
+
+------------------------
+QR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.
+------------------------"
 174,"<CommandIcon(12)/><CommandIcon(13)/> Kategorie wählen"
 175,"<CommandIcon(12)/><CommandIcon(13)/> Arbeitsschritt wechseln  <CommandIcon(10)/> Untermenü"
 176,"<CommandIcon(12)/><CommandIcon(13)/> Arbeitsschritt wechseln  <CommandIcon(10)/> Untermenü"
 177,"<CommandIcon(9)/> Zurück  <CommandIcon(11)/> Erkundung starten"
 178,"<CommandIcon(10)/> Untermenü"
 179,"<CommandIcon(8)/> Auswählen  <CommandIcon(9)/> Bestätigen  <CommandIcon(11)/> Bestätigen und schließen"
-180,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen  <If(GreaterThan(PlayerParameter(94),0))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+180,"<CommandIcon(5)/> Verlauf  <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen  <CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 181,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Anwenden und schließen"
 182,"<CommandIcon(9)/> Anwenden und schließen"
 183,"<CommandIcon(10)/> Untermenü <CommandIcon(11)/> Begleiterliste anzeigen"
@@ -275,7 +281,7 @@ Visiere dann einen Trabanten an und wähle „Technik ausführen“.
 Einige Trabanten beherrschen als Technik das Fallenstellen. Fallen können 10 Sekunden nach dem Aufstellen ausgelöst werden. Wähle dazu am Kommando-Menü „Falle auslösen“.
 ※ Es kann immer nur eine Falle aufgestellt werden.
 
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit dem Controller spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bedienung mit <66>02</66><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 - Einzeln
   <CommandIcon(12)/>＋<CommandIcon(7)/> : aus der Truppenliste wählen
@@ -312,7 +318,7 @@ Einige Trabanten beherrschen als Technik das Fallenstellen. Fallen können 10 Se
      werden alle gleichen Trabanten in der Nähe ausgewählt.
  Links ziehen: Alle im ausgewählten Bereich
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mit dem Controller spielen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bedienung mit <66>02</66><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trabanten auswählen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 - Einzeln
   <CommandIcon(12)/>＋<CommandIcon(7)/> : aus der Truppenliste wählen
@@ -436,12 +442,12 @@ Trabantenliste: Begleiter-Verzeichnis"
 277,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Trabanten-Kommandomenü bearbeiten"
 278,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Bewegen"
 279,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
-280,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+280,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 281,"<CommandIcon(5)/> Bewegen <CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü"
 282,"<CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü"
 283,"<CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü <CommandIcon(11)/> Bewegen"
 284,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/> Bestätigen <CommandIcon(9)/> Abbrechen"
-285,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+285,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 286,"<CommandIcon(5)/> Bewegen <CommandIcon(8)/> Ausführen <CommandIcon(10)/> Untermenü"
 287,"<CommandIcon(7)/> Bewegen <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/> Bestätigen <CommandIcon(9)/> Abbrechen"
 288,"<CommandIcon(8)/> Rufen/Wegschicken <CommandIcon(10)/> Untermenü"
@@ -461,14 +467,14 @@ Trabantenliste: Begleiter-Verzeichnis"
 302,"<CommandIcon(10)/> Untermenü"
 303,"<CommandIcon(8)/><CommandIcon(10)/> Zimmerdetails ansehen"
 304,"<CommandIcon(8)/><CommandIcon(10)/> Zimmerdetails ansehen"
-305,"<CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+305,"<CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
 307,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen  <CommandIcon(11)/> Kommandomenü bearbeiten"
 308,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen"
 309,"<CommandIcon(8)/> Kommando ausführen  <CommandIcon(10)/> Im Kommandomenü anlegen"
 310,"<CommandIcon(12)/><CommandIcon(13)/> Info ein-/ausblenden"
-311,"<CommandIcon(8)/> Bestätigen <CommandIcon(24)/> Scrollen"
-312,"<CommandIcon(8)/> Bestätigen"
+311,"<CommandIcon(8)/> Bestätigen  <CommandIcon(11)/> Auf Stammwelt zurückkehren  <CommandIcon(24)/> Scrollen"
+312,"<CommandIcon(8)/> Bestätigen  <CommandIcon(11)/> Auf Stammwelt zurückkehren"
 313,"<CommandIcon(10)/> Ausrufe <CommandIcon(11)/> Hilfsfunktionen"
 314,"<CommandIcon(8)/> Online-Status aktualisieren <CommandIcon(10)/> Untermenü  <CommandIcon(9)/> Zurück"
 315,"<CommandIcon(12)/><CommandIcon(13)/> <CommandIcon(13)/> Info ein-/ausblenden  <CommandIcon(8)/> Immunitäten"
@@ -542,7 +548,7 @@ Trabantenliste: Begleiter-Verzeichnis"
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/> Scroll-Sprung <CommandIcon(10)/> Untermenü"
-386,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(GreaterThan(PlayerParameter(94),0))>   <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Virtuelle Tastatur<Else/><CommandIcon(11)/> Bildschirmtastatur</If><Else/><Indent/></If>"
+386,"<CommandIcon(5)/> Verlauf   <CommandIcon(12)/> + <CommandIcon(13)/> Einfügen   <CommandIcon(10)/> Löschen<If(PlayerParameter(94))>  <CommandIcon(11)/> <66>2A</66><Else/><Indent/></If>"
 387,"<CommandIcon(8)/> Belohnung entgegennehmen <CommandIcon(10)/> Untermenü"
 388,"<CommandIcon(10)/> Untermenü"
 389,"<CommandIcon(10)/> Untermenü"
@@ -625,7 +631,7 @@ W, A, S, D (Bewegungstasten) / <CommandIcon(20)/>
 Z (Waffe ziehen) / <Gui(16)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/> Richtungstasten
+<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/><66>3E</66>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen) / <CommandIcon(11)/>
@@ -640,7 +646,7 @@ R oder  (Automat. Rennen) / <CommandIcon(10)/><Else/>
 <Gui(16)/> / Z (Waffe ziehen)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>Steuerkreuz<Else/>Richtungstasten</If> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
+<CommandIcon(7)/><66>3E</66> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(11)/> / <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen)
@@ -690,7 +696,7 @@ W, A, S, D (Bewegungstasten) / <CommandIcon(20)/>
 Z (Waffe ziehen) / <Gui(16)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/> Richtungstasten
+<If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If> / <CommandIcon(7)/><66>3E</66>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen) / <CommandIcon(11)/>
@@ -705,13 +711,13 @@ R oder  (Automat. Rennen) / <CommandIcon(10)/><Else/>
 <Gui(16)/> / Z (Waffe ziehen)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kamerafokus wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>Steuerkreuz<Else/>Richtungstasten</If> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
+<CommandIcon(7)/><66>3E</66></If> / <If(Equal(PlayerParameter(78),3))>Tab, Shift+Tab<Else/>Tab, Shift+Tab</If>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(11)/> / <If(Equal(PlayerParameter(78),3))>Leertaste<Else/>Leertaste</If> (Springen)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steuerkonsole anzeigen/verbergen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/> / R oder  (Automat. Rennen)</If>"
+<CommandIcon(10)/> / R oder  (Automat. Rennen)"
 449,"Funktionen der Steuerkonsole"
 450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wiedergabe pausieren/fortsetzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Hält die Wiedergabe vor<SoftHyphen/>über<SoftHyphen/>gehend an oder setzt sie fort.
@@ -791,10 +797,10 @@ Beendet die Wiedergabe der Rückblende."
 504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
 505,"<CommandIcon(8)/> Vorschau öffnen/schließen <CommandIcon(11)/> Vorschau <CommandIcon(20)/> Bewegen <CommandIcon(25)/> Drehen <CommandIcon(12)/>＋<CommandIcon(24)/> Zoom"
 506,"<CommandIcon(11)/> Anwenden"
-507,""
-508,""
-509,""
-510,""
+507,"<CommandIcon(10)/> Untermenü"
+508,"<CommandIcon(8)/> Bestätigen  <CommandIcon(12)/><CommandIcon(13)/>Datenzentrum wählen  <CommandIcon(11)/>Auf Stammwelt zurückkehren  <CommandIcon(24)/> Scrollen"
+509,"<CommandIcon(8)/> Bestätigen  <CommandIcon(12)/><CommandIcon(13)/> Datenzentrum wählen  <CommandIcon(11)/> Auf Stammwelt zurückkehren"
+510,"<CommandIcon(8)/><CommandIcon(10)/> Untermenü"
 511,""
 512,""
 513,""
@@ -1061,7 +1067,7 @@ Willst du es alleine oder nur mit Freunden versuchen, stelle sicher, dass du die
 
 Gleichzeitig bietet dir diese Option die Möglichkeit, eine zufällige Gruppe aus vier Spielern zu<SoftHyphen/>sammen<SoftHyphen/>zustellen und das Unstete Gewölbe gemeinsam zu bestreiten."
 1054,"Das Unstete Gewölbe bestreiten"
-1055,"Im Unsteten Gewölbe können sogenannte unstete Kommandos eingesetzt werden, damit eine Gruppe nicht an eine bestimmte Komposition aus Rollen und Jobs gebunden ist.
+1055,"Im Unsteten Gewölbe können sogenannte Unstete Kommandos eingesetzt werden, damit eine Gruppe nicht an eine bestimmte Komposition aus Rollen und Jobs gebunden ist.
 
 Verteidiger und Angreifer erhalten beispielsweise besondere Heilung und Wiederbelebung - derlei <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>spezielle Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sind für jede Rolle verfügbar.
 
@@ -1079,9 +1085,9 @@ In der Gewölbesuche kann oben zwischen Unsteten und Kuriosen Gewölben gewechse
 
 Im Kuriosen Gewölbe gibt es keine Charaktere, die die Spielergruppe begleiten, keine Abzweigungen und auch keine Seiten zu entdecken. Dafür werden in der Gewölbesuche andere Elemente angezeigt, wie die spezielle Währung."
 1060,"Ein<SoftHyphen/>schrän<SoftHyphen/>kungen"
-1061,"Im Gegensatz zum Unsteten Gewölbe, kannst du im Kuriosen Gewölbe deinen <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Job nicht wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Auch die Wiederbelebung durch reguläre Kommandos ist beschränkt - lediglich unstete Kommandos können dafür eingesetzt werden.
+1061,"Im Gegensatz zum Unsteten Gewölbe, kannst du im Kuriosen Gewölbe deinen <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Job nicht wechseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Auch die Wiederbelebung durch reguläre Kommandos ist beschränkt - lediglich Unstete Kommandos können dafür eingesetzt werden.
 
-In der epischen Version des Kuriosen Gewölbes können allerdings auch <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>keine unsteten Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> eingesetzt werden und ihr seid komplett auf euch gestellt.
+In der epischen Version des Kuriosen Gewölbes können allerdings auch <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>keine Unsteten Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground> eingesetzt werden und ihr seid komplett auf euch gestellt.
 
 Das Kuriose Gewölbe (episch) kann außerdem nur eine Gruppe aus vier Spielern betreten, die alle Anforderungen erfüllt."
 1062,"Hausverbote in einer Unterkunft"

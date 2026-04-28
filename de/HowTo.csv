@@ -259,7 +259,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 255,"Rückblenden wiedergeben",True,2480,0,0,0,0,0,0,0,0,0,8,59
 256,"Schatzsuche mit dem Glückshasen",True,2487,2488,0,0,0,0,0,0,0,0,8,51
 257,"Diarien",True,2481,2482,2483,2484,0,0,0,0,0,0,2,23
-258,"Projektionen auf NPCs anwenden",True,2485,2486,0,0,0,0,0,0,0,0,8,61
+258,"Projektionen für Wunschlieferungskunden",True,2485,2486,0,0,0,0,0,0,0,0,8,61
 259,"Mystischer Hort ",True,2489,2490,2491,2492,0,0,0,0,0,0,6,35
 260,"Kleiderpuppen",True,2493,2494,2495,0,0,0,0,0,0,0,2,24
 261,"Logos-Manipulator",True,2496,2497,2498,0,0,0,0,0,0,0,8,52
@@ -297,3 +297,11 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 293,"",False,0,0,0,0,0,0,0,0,0,0,0,0
 294,"",False,0,0,0,0,0,0,0,0,0,0,0,0
 295,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+296,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+297,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+298,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+299,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+300,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+301,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+302,"",False,0,0,0,0,0,0,0,0,0,0,0,0
+303,"",False,0,0,0,0,0,0,0,0,0,0,0,0

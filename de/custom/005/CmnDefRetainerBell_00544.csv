@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_LOW_PLAYER_LEVEL","Die gewünschte Aktion war nicht möglich, da die Stufe des Gehilfen als <Sheet(ClassJob,IntegerParameter(1),0)/> höher als deine Stufe ist."
 22,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_NO_ITEM","Du musst zuerst <SheetDe(Item,1,IntegerParameter(1),1,4,1)/> erwerben."
 23,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_SUCCESS","Du hast dem Gehilfen erfolgreich dein Wissen als <Sheet(ClassJob,IntegerParameter(1),0)/> vermittelt!"
-24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Der Job konnte nicht wie gewünscht festgelegt werden."
+24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Der Job kann während einer aktiven Unternehmung nicht festgelegt werden."
 25,"TEXT_CMNDEFRETAINERBELL_00544_ASK_BE_CHANGE_JOB","Du kannst diesem Gehilfen einen Job zuweisen. Möchtest du mehr darüber erfahren?"
 26,"TEXT_CMNDEFRETAINERBELL_00544_ASK_CHANGE_JOB","Möchtest du dein Wissen über den Job „<Sheet(ClassJob,IntegerParameter(2),0)/>“ in <SheetDe(Item,2,IntegerParameter(1),1,4,1)/> eintragen und deinem Gehilfen dieses Wissen vermitteln?"
 27,"TEXT_CMNDEFRETAINERBELL_00544_ASK_CHANGE_JOB_CHECK","Den Job „<Sheet(ClassJob,IntegerParameter(2),0)/>“ zuweisen."

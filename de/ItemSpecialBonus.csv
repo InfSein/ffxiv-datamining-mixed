@@ -12,3 +12,4 @@ int32,str,str
 8,"Bozja-Bonus:",""
 9,"Kreszentia-Effekt:",""
 10,"Kreszentia-Set-Bonus:","Erfordert <Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>ausgerüstetes Setteil<Else/>ausgerüstete Setteile</If>"
+11,"",""

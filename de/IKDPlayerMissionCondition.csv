@@ -36,3 +36,8 @@ int32,byte,str
 32,49,"Fische mit schwachem Zug fangen (!)"
 33,16,"Fische mit starkem Zug fangen (!!)"
 34,8,"Fische mit extremem Zug fangen (!!!)"
+35,13,"Fangschreckenkrebse oder Urzeittiere fangen"
+36,5,"Fische mit Rang ★★★ oder höher fangen"
+37,30,"Fische mit schwachem Zug fangen (!)"
+38,22,"Fische mit starkem Zug fangen (!!)"
+39,9,"Fische mit extremem Zug fangen (!!!)"

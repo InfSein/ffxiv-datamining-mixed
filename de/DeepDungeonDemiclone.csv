@@ -2,8 +2,8 @@
 #,Icon,Singular,,Plural,,,,,,TitleCase,Description
 int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
 0,0,"",0,"",0,0,1,0,0,"",""
-1,27970,"Demiklon-Unei",3,"Demiklon-Uneis",1,0,1,1,0,"Demiklon-Unei","Ein allagischer Stein mit Uneis Daten. Liest man ihn in den Demiklon-Generator ein, wird eine Unei generiert."
-2,27971,"Demiklon-Doga",3,"Demiklon-Dogas",1,0,1,0,0,"Demiklon-Doga","Ein allagischer Stein mit Dogas Daten. Liest man ihn in den Demiklon-Generator ein, wird ein Doga generiert."
-3,27972,"Demiklon-Zwiebelritter",4,"Demiklon-Zwiebelritter",2,0,1,0,0,"Demiklon-Zwiebelritter","Ein allagischer Stein mit den Daten eines Zwiebelritters. Liest man ihn in den Demiklon-Generator ein, wird ein Zwiebelritter generiert."
+1,27970,"Demiklon-Unei",3,"Demiklon-Uneis",1,0,1,1,0,"Demiklon-Unei","Ein Allagischer Stein mit Uneis Daten. Liest man ihn in den Demiklon-Generator ein, wird eine Unei generiert."
+2,27971,"Demiklon-Doga",3,"Demiklon-Dogas",1,0,1,0,0,"Demiklon-Doga","Ein Allagischer Stein mit Dogas Daten. Liest man ihn in den Demiklon-Generator ein, wird ein Doga generiert."
+3,27972,"Demiklon-Zwiebelritter",4,"Demiklon-Zwiebelritter",2,0,1,0,0,"Demiklon-Zwiebelritter","Ein Allagischer Stein mit den Daten eines Zwiebelritters. Liest man ihn in den Demiklon-Generator ein, wird ein Zwiebelritter generiert."
 4,27973,"Handvoll[p] Wandelwurz",3,"Handvoll[p] Wandelwurz",1,0,1,1,0,"Wandelwurz","Dieser Wacholderweihrauch wird in Kirchen des Strahlenden Lichts bei Beerdigungen verwendet. Verbrenne ihn in deinem Räucherfass, um Feo Ul zu rufen und dir den Weg weisen zu lassen."
 5,27974,"Handvoll[p] Sakralharz",3,"Handvoll[p] Sakralharz",1,0,1,1,0,"Sakralharz","Dieser Wacholderweihrauch wird in Kirchen des Strahlenden Lichts bei Beerdigungen verwendet. Verbrenne ihn in deinem Räucherfass, um Feo Ul zu rufen und dich segnen zu lassen."

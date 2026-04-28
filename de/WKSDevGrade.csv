@@ -362,10 +362,10 @@ int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,uint32,int32,uint32,uin
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Beteilige dich am Projekt!","Terra Firma: Kernstabilisierung - Im Gange","Für die Kernstabilisierung von Terra Firma ist ein Gemeinschaftsprojekt im Gange! Wir können jede freie Hand gebrauchen!","Für die Kernstabilisierung von Terra Firma ist ein Gemeinschaftsprojekt im Gange! Wir können jede freie Hand gebrauchen!","Searchingway",24,False,170,26,0,241099,0,0,0,0,2,0,0,6,3,4,5,0,0,0,0,0
 186,"Terra Firma: Kernstabilisierung abgeschlossen
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Unterstütze weiter die Erkundung!","Terra Firma - Kernstabilisiert","Fertig! Damit sollte nichts mehr an unserer guten Station wackeln! Danke für die hoppeltastische Hilfe!","Fertig! Damit sollte nichts mehr an unserer guten Station wackeln! Danke für die hoppeltastische Hilfe!","Searchingway",25,False,170,27,0,241100,1589,166,54,6,2,0,0,6,3,4,5,0,0,34,35,31
-187,"Datenempfangsapparatur: Bauunterstützung in Planung. <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Schließe Stellarmissionen ab!","Datenempfangsapparatur: Bauunterstützung - In Planung","Wir wollen Terra Firma eine Datenempfangsapparatur verpassen, wofür gerade noch Materialien gesammelt werden! Jede einzelne Stellarmission hilft dabei, diesem Ziel näher zu kommen!","Wir wollen Terra Firma eine Datenempfangsapparatur verpassen. Gerade werden noch Materialien gesammelt, wobei wir für jede Unterstützung dankbar sind!","Searchingway",26,True,170,28,0,241101,0,166,55,5,2,0,0,6,3,4,5,0,0,34,35,0
-188,"Datenempfangsapparatur: Bauunterstützung steht an
+187,"Datenempfangsapparatur: Bauunterstützung in Pla. <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Schließe Stellarmissionen ab!","Datenempfangsapparatur: Bauunterstützung - In Planung","Wir wollen Terra Firma eine Datenempfangsapparatur verpassen, wofür gerade noch Materialien gesammelt werden! Jede einzelne Stellarmission hilft dabei, diesem Ziel näher zu kommen!","Wir wollen Terra Firma eine Datenempfangsapparatur verpassen. Gerade werden noch Materialien gesammelt, wobei wir für jede Unterstützung dankbar sind!","Searchingway",26,True,170,28,0,241101,0,166,55,5,2,0,0,6,3,4,5,0,0,34,35,0
+188,"Datenempfangsapparatur: Bauunterstützung in Vorb.
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Begib dich mit dem Aufzug zum Projekt!","Datenempfangsapparatur: Bauunterstützung - In Vorbereitung","Für die Errichtung der Datenempfangsapparatur ist gerade ein Gemeinschaftsprojekt in Vorbereitung. Wir hoffen, dass sich so viele Unterstützer wie möglich daran beteiligen werden!","Für die Errichtung der Datenempfangsapparatur ist gerade ein Gemeinschaftsprojekt in Vorbereitung. Hilf doch bitte auch mit!","Searchingway",26,False,170,28,203,241101,1451,166,56,5,2,0,0,6,3,4,5,0,0,34,35,0
-189,"Datenempfangsapparatur: Bauunterstützung im Gange
+189,"Datenempfangsapparatur: Bauunterstützung im Gan.
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Nimm den Aufzug zum Projekt!","Datenempfangsapparatur: Bauunterstützung - Im Gange","Für die Errichtung der Datenempfangsapparatur ist ein Gemeinschaftsprojekt im Gange! Wir können jede freie Hand gebrauchen!","Für die Errichtung der Datenempfangsapparatur ist ein Gemeinschaftsprojekt im Gange! Wir können jede freie Hand gebrauchen!","Searchingway",26,False,170,28,203,241101,0,0,0,0,2,0,0,6,3,4,5,0,0,34,35,0
 190,"Orthostat-Türme fertiggestellt
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Unterstütze weiter die Erkundung!","Orthostat-Türme - Fertiggestellt","Die Orthostat-Türme sind fertig und bereit, jede Menge Daten zu empfangen! Danke für die hoppeltastische Hilfe!","Die Orthostat-Türme sind fertig! Danke für die hoppeltastische Hilfe!","Searchingway",27,False,170,29,0,241102,1590,166,58,6,2,0,0,6,3,4,5,0,0,34,35,33
@@ -379,3 +379,59 @@ int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,uint32,int32,uint32,uin
 197,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 198,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 199,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
