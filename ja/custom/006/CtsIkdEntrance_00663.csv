@@ -17,7 +17,7 @@ int32,str,str
 9,"TEXT_CTSIKDENTRANCE_00663_STM_001","「<Sheet(IKDRoute,IntegerParameter(1),11)/>」に乗船する。"
 10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","「<Sheet(IKDRoute,IntegerParameter(1),11)/>」に乗船しますか？"
 11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","「<Sheet(IKDRoute,IntegerParameter(1),11)/>」に乗船しますか？
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※メインクエスト「紅蓮のリベレーター」を、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※メインクエスト｢<Sheet(Quest,IntegerParameter(2),QUEST_NAME)/>｣を、
 　コンプリートしていないパーティメンバーがいる場合、
 　この航路には乗船できません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","あら、釣り竿をどこかにお忘れですか？

@@ -96,3 +96,9 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 92,0,"",0,False,"",0,0,0,0,0,0,0
 93,0,"巨大グラビデ塊",2,False,"",-1,1,0,-1,1,0,0
 94,0,"",0,False,"",0,0,0,0,0,0,0
+95,0,"",0,False,"",0,0,0,0,0,0,0
+96,0,"",0,False,"",0,0,0,0,0,0,0
+97,0,"エーテル供給率",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+98,0,"プロマシアの魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+99,0,"無の力",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+100,0,"",0,False,"",0,0,0,0,0,0,0

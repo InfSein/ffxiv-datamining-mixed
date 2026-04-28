@@ -43,7 +43,7 @@ int32,str,str
 リテイナーに<Sheet(ClassJob,IntegerParameter(1),0)/>の知識を伝授できません。"
 22,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_NO_ITEM","「<Sheet(Item,IntegerParameter(1),0)/>」がありません。"
 23,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_SUCCESS","リテイナーが「<Sheet(ClassJob,IntegerParameter(1),0)/>」の知識を受け継いだ！"
-24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","リテイナーのジョブ設定ができません。"
+24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","リテイナーベンチャー依頼中は、リテイナーのジョブ設定ができません。"
 25,"TEXT_CMNDEFRETAINERBELL_00544_ASK_BE_CHANGE_JOB","現在、このリテイナーに対して
 クラスのリセット以外に、ジョブの設定が行えます。
 ジョブの設定に興味がありますか？"

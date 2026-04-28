@@ -92,7 +92,8 @@ int32,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>メインコマンド<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンテンツ情報」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンテンツファインダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「コンテンツサポーター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を利用して
 再挑戦できます。"
-15,"特殊ダンジョン探索の方法","専用NPCとの会話、またはメインコマンド「コンテンツ情報」内にある
+15,"特殊ダンジョン探索の方法","専用NPCとの会話や突入地点へのアクセス、
+またはメインコマンド「コンテンツ情報」内にある
 「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊ダンジョン探索<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」を選択して開かれる専用ウィンドウから、
 特殊ダンジョン探索コンテンツへの突入を行います。
 
@@ -168,7 +169,7 @@ int32,str,str
 27,"クイックパネル","クイックパネルは、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>各種コマンド・アクションを自由にスロットに登録して、簡単にアクセス・実行ができる便利な機能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>です。
 
 よく使うエモートや、お気に入りのマウント、ギアセット、各種アイテムなど、常時表示しなくても構わないがアクセスしやすくしておきたいものを登録しておくことで、日々の冒険を便利に進めることができます。"
-28,"登録方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+28,"登録方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><66>02</66>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ホットバー登録モードに進み、「クイックパネルに送る」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から、設定できます。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マウス操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -176,8 +177,8 @@ int32,str,str
 29,"利用設定","画面右上の歯車マーク、またはサブコマンドから、クイックパネルの挙動を変更できる設定画面が利用できます。
 
 指定したパネルを直接開くコマンドや、ウィンドウカラーの濃さ、ウィンドウを閉じない連続実行など、自分が使いやすい設定を見つけてみましょう。"
-30,"操作方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(GreaterThan(PlayerParameter(75),0))>コントローラー<Else/>ゲームパッド</If>操作モード時にクイックパネルを起動すると、スロットの中央にカーソルがフォーカスされます。
+30,"操作方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><66>02</66>操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<66>02</66>操作モード時にクイックパネルを起動すると、スロットの中央にカーソルがフォーカスされます。
 加速キーと移動キーを組み合わせることで、5x5のすべてのスロットに、2手以内でアクセス可能です。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>マウス操作モード<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

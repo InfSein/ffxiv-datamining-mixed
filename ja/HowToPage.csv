@@ -785,7 +785,7 @@ EXPバー上に黄色か青の
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「パーティリスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されます。
 パーティリストには仲間の状態が表示され
 パーティメンバーの状況を確認できます。
-また、<If(Equal(PlayerParameter(106),99))>方向パッド<Else/>方向キー</If>の上下を押すことで、
+また、<66>3E</66>の上下を押すことで、
 パーティメンバーを直接選択できます。
 仲間を回復したい時など、とっさの操作が
 必要な場合に利用してみましょう。
@@ -816,7 +816,7 @@ EXPバー上に黄色か青の
 
 　　　　　　　　　　　次のページヘ》","",""
 192,1,0,150933,0,"クロスホットバーは<Gui(14)/><Gui(15)/>ボタンの
-どちらかを押しながら、各<If(Equal(PlayerParameter(106),99))>方向パッド<Else/>方向キー</If>、
+どちらかを押しながら、各<66>3E</66>、
 または<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>のいずれかのボタンを押すことで、アクションを実行できます。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※新たに修得したアクションは、自動で
@@ -2949,7 +2949,7 @@ Lv35の弓術士が装備できる
 アクションリストの「染色」を
 実行します。
 
-染める色はカララントの種類で変わり、
+染める色によって必要なカララントは違い
 カララントさえあれば、同じアイテムを
 何度でも染色することができます。
 
@@ -3811,7 +3811,7 @@ EXホットバーにセットされた
 
 敵をターゲットした状態で、
 <CommandIcon(19)/>で目的リストをフォーカスします。
-<If(Equal(PlayerParameter(106),99))>方向パッド<Else/>方向キー</If>でアイコンを選び、
+<66>3E</66>でアイコンを選び、
 <CommandIcon(8)/>を押せば、
 イベントアイテムを使用できます。","",""
 1274,0,0,0,0,"","",""
@@ -3859,7 +3859,7 @@ EXホットバーにセットされた
 1291,1,0,151472,0,"このクエストは、イベントアイテムを
 指定された<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>範囲<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に使うことで進行します。
 
-<CommandIcon(19)/>で<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的リスト<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をフォーカスします。<If(Equal(PlayerParameter(106),99))>方向パッド<Else/>方向キー</If>でアイコンを選び、
+<CommandIcon(19)/>で<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的リスト<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をフォーカスします。<66>3E</66>でアイコンを選び、
 <CommandIcon(8)/>を押せば、アイテムを使用する
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>範囲を示すターゲット<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が表示されます。
 
@@ -6859,20 +6859,16 @@ HUD上に表示されたアクションを
 ハウスを気に入ったら「いいね」を使って
 ハウスオーナーをほめてあげましょう！","",""
 2485,1,0,152691,0,"お得意様との信頼度が上がり、
-「着せ替え」ができるようになりました。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「着せ替え」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ができるようになりました。
 
-「着せ替えさせる」を選択すると
+「武具投影を行う」を選択すると
 お得意様の服装を変更できます。
 
 変更できるのは、
 頭・胴・手・脚・足の5部位です。
 
 　　　　　　　　　　　次のページへ》","",""
-2486,1,0,152692,0,"お得意様に着せることができる装備は、
-全種族・全クラスが
-装備可能なものだけです。
-
-また、着せ替えや、染色を行う際には、
+2486,1,0,152692,0,"着せ替えや染色を行う際には、
 それぞれの触媒を消費します。
 
 あなた好みの装備を選んで、
