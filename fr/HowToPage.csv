@@ -260,7 +260,7 @@ Pour vérifier son état, ouvrez la fenêtre <UIForeground>F201FA</UIForeground>
 
 Respectez-vous, entraidez-vous et surtout... <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>amusez-vous<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Indent/>!","",""
 185,1,0,150902,0,"La <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des équipiers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, qui s'affiche en haut à gauche de l'écran, permet de vérifier la condition des membres de votre équipe.
-Presser <If(Equal(PlayerParameter(106),99))>BMD haut ou bas<Else/>la touche directionnelle haut ou bas</If> permet de les cibler directement. Cette fonction s'avère par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement utile dans les situations d'urgence, pour prodiguer des soins notamment.","",""
+Presser <Gui(1)/> ou <Gui(2)/> permet de les cibler directement. Cette fonction s'avère par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement utile dans les situations d'urgence, pour prodiguer des soins notamment.","",""
 186,0,0,0,0,"","",""
 187,0,0,0,0,"","",""
 188,0,0,0,0,"","",""
@@ -268,7 +268,7 @@ Presser <If(Equal(PlayerParameter(106),99))>BMD haut ou bas<Else/>la touche dire
 190,1,0,150931,0,"Pour attaquer un ennemi, ciblez-le à l'aide des touches directionnelles puis pressez deux fois la touche <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Confirmer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Un icone circulaire indiquant que l'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>attaque automatique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> est activée apparaît alors au-dessus de sa plaque de nom. Placez-vous à portée pour lui asséner des coups.","",""
 191,1,0,150932,0,"La <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>croix de raccourcis<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, située en bas de l'écran, permet d'exécuter diverses commandes utiles pendant le combat.
 N.B.<Indent/>: la croix de raccourcis est uniquement disponible lors du jeu à la manette.","",""
-192,1,0,150933,0,"Pour lancer une action, maintenez enfoncé <Gui(14)/> ou <Gui(15)/>, puis pressez <If(Equal(PlayerParameter(106),99))>une direction de BMD<Else/>une touche directionnelle</If> ou l'une des touches <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>.
+192,1,0,150933,0,"Pour utiliser une action, maintenez enfoncé <Gui(14)/> ou <Gui(15)/>, puis pressez une direction sur <Gui(7)/> ou <If(Equal(PlayerParameter(78),99))>l'une des touches<Else/><If(Equal(PlayerParameter(78),4))>l'une des touches<Else/><If(Equal(PlayerParameter(78),5))>l'une des touches<Else/>l'un des boutons</If></If></If> <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>.
 N.B.<Indent/>: les actions que vous apprenez s'ajoutent au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment à la croix de raccourcis.","",""
 193,1,0,150934,0,"L'utilisation des actions requiert un certain nombre de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>points de magie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (PM). En outre, il est nécessaire d'attendre un certain temps avant de pouvoir les relancer.","",""
 194,0,0,0,0,"","",""
@@ -1216,6 +1216,8 @@ L'action peut être utilisée avec toutes les classes et tous les jobs, sans dé
 Pour ce faire, vous devez d'abord vous procurer du colorant. Vous pouvez en fabriquer vous-même ou en acheter dans les échoppes.","",""
 951,1,0,151002,0,"Une fois le colorant en votre possession, il vous suffit d'utiliser l'action “Teinture” disponible à partir de la fenêtre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Actions et traits<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
+La couleur obtenue dépend du colorant utilisé.
+
 Vous pouvez teindre un objet autant de fois que vous le désirez. Vous pouvez également retirer la teinture à l'aide de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>térébenthine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.","",""
 952,1,0,151003,0,"En outre, certains objets ne peuvent être teints qu'après avoir accompli certaines quêtes.
 Ces conditions sont indiquées en bas à gauche dans la fenêtre de teinture.","",""
@@ -1600,7 +1602,7 @@ La première consiste à faire un clic droit sur la <UIForeground>F201FA</UIFore
 1272,1,0,151504,0,"Certaines quêtes exigent que vous utilisiez des objets-clefs sur des ennemis particuliers. Pour cela deux méthodes s'offrent à vous.
 
 La première consiste à cibler un ennemi puis à presser la touche <CommandIcon(10)/> pour ouvrir le sous-menu. À partir de là, il suffit de choisir l'option <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Utiliser un objet-clef<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour exécuter l'action.","",""
-1273,1,0,151502,0,"La seconde, consiste à cibler un ennemi puis à presser <CommandIcon(19)/> pour accéder à la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des objectifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Il suffit alors de sélectionner l'icone de l'objet désiré avec <If(Equal(PlayerParameter(106),99))>BMD<Else/>les touches directionnelles</If>, puis de presser <CommandIcon(8)/> pour l'utiliser.","",""
+1273,1,0,151502,0,"La seconde, consiste à cibler un ennemi puis à presser <CommandIcon(19)/> pour accéder à la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des objectifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Il suffit alors de sélectionner l'icone de l'objet désiré avec <CommandIcon(7)/>, puis de presser <CommandIcon(8)/> pour l'utiliser.","",""
 1274,0,0,0,0,"","",""
 1275,0,0,0,0,"","",""
 1276,0,0,0,0,"","",""
@@ -1621,7 +1623,7 @@ La première consiste à cibler un ennemi puis à presser la touche <CommandIcon
 
 Pour ce faire, commencez par cliquer sur l'icone de l'objet dans la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des objectifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Déplacez ensuite la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground> qui apparaît à l'écran à l'aide de la souris et cliquez sur l'objectif de votre choix pour réaliser l'action.","",""
 1291,1,0,151472,0,"Certaines quêtes exigent que vous utilisiez des objets à des endroits spécifiques pour progresser.
-Pour ce faire, commencez par sélectionner l'objet dans la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des objectifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en pressant <CommandIcon(19)/>. Déplacez ensuite la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground> qui apparaît à l'écran sur l'objectif de votre choix à l'aide <If(Equal(PlayerParameter(106),99))>de BMD<Else/>des touches directionnelles</If>, et pressez  <CommandIcon(8)/> pour réaliser l'action.","",""
+Pour ce faire, commencez par sélectionner l'objet dans la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>liste des objectifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en pressant <CommandIcon(19)/>. Déplacez ensuite la <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground> qui apparaît à l'écran sur l'objectif de votre choix à l'aide de <CommandIcon(23)/>, et pressez <CommandIcon(8)/> pour réaliser l'action.","",""
 1292,0,0,0,0,"","",""
 1293,0,0,0,0,"","",""
 1294,0,0,0,0,"","",""
@@ -2617,8 +2619,8 @@ Le pro<SoftHyphen/>prié<SoftHyphen/>taire des lieux est également libre d'util
 2484,1,0,152684,0,"L'option “J'aime” permet aux visiteurs de montrer combien ils apprécient les lieux.
 
 Vous disposez de 10 “J'aime” pour commencer, et vous en gagnez au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment 5 par jour par la suite. N'hésitez pas à en distribuer, car vous ne pourrez pas en avoir plus de 50<Indent/>!","",""
-2485,1,0,152691,0,"Votre partenaire d'affaires peut vous laisser modifier sa tenue à l'aide de mirages si vous atteignez un niveau de sa<SoftHyphen/>tis<SoftHyphen/>fac<SoftHyphen/>tion suffisant. Pour cela, parlez-lui et sélectionnez l'option “Appliquer un mirage”. Les parties personnalisables sont la tête, le torse, les mains, les jambes et les pieds.","",""
-2486,1,0,152692,0,"Seules les pièces d'équipement adaptées à toutes les races et toutes les classes peuvent être portées par votre partenaire d'affaires. Attention<Indent/>: un prisme mirage sera consommé par mirage appliqué.","",""
+2485,1,0,152691,0,"Votre partenaire d'affaires peut vous laisser <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>modifier sa tenue<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à l'aide de mirages si vous atteignez un niveau de sa<SoftHyphen/>tis<SoftHyphen/>fac<SoftHyphen/>tion suffisant. Pour cela, parlez-lui et sélectionnez l'option “Appliquer un mirage”.","",""
+2486,1,0,152692,0,"Les parties personnalisables sont la tête, le torse, les mains, les jambes et les pieds. Attention<Indent/>: un prisme mirage sera consommé par mirage appliqué.","",""
 2487,1,0,152701,0,"Lorsque vous aidez des <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>lapins du bonheur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, il arrive que l'un d'entre eux décide de vous remercier en vous guidant vers un trésor<Indent/>!
 
 Utilisez l'objet-clef <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>carotte du bonheur<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour que le lapin se dirige vers cet emplacement.","",""

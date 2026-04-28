@@ -630,7 +630,7 @@ nomfamille (familyname) [nom]    Spécifie le nom de famille.
 - État en ligne<Indent/>:
 chef (chef d'équipe), absent (absent(e)), occupé (occupé(e)), mission (en mission), scène (regarde une scène cinématique), chéq (cherche une équipe), sertmat (propose le sertissage de matérias), novice (joueur novice), mentor (mentor), mentorcombat (mentor pour le combat), mentorartisanatrécolte (mentor pour l'artisanat et la récolte), mentorjcj (mentor pour le JcJ), jeuderôle (en train de jouer un rôle), rappelé (joueur rappelé).
 - Classes/jobs<Indent/>:
-PLD (paladin), GLA (gladiateur), GUE (guerrier), MRD (maraudeur), CHN (chevalier noir), PSB (pistosabreur), MBL (mage blanc), ELM (élé<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>lis<SoftHyphen/>te), ERU (érudit), AST (astromancien), SAG (sage), MOI (moine), PGL (pugiliste), DRG (chevalier dragon), HAS (maître d'hast), NIN (ninja), SUR (surineur), SAM (samouraï), FCH (faucheur), VPR (rôdeur vipère), BRD (barde), ARC (archer), MCH (machiniste), DNS (danseur), MNO (mage noir), OCC (occultiste), INV (invocateur), ACN (arcaniste), MRG (mage rouge), PIC (pictomancien), MBU (mage bleu), MEN (menuisier), FRG (forgeron), ARM (armurier), ORF (orfèvre), TAN (tanneur), COU (couturier), ALC (alchimiste), CUI (cuisinier), MIN (mineur), BTN (botaniste), PEC (pêcheur).
+PLD (paladin), GLA (gladiateur), GUE (guerrier), MRD (maraudeur), CHN (chevalier noir), PSB (pistosabreur), MBL (mage blanc), ELM (élé<SoftHyphen/>men<SoftHyphen/>ta<SoftHyphen/>lis<SoftHyphen/>te), ERU (érudit), AST (astromancien), SAG (sage), MOI (moine), PGL (pugiliste), DRG (chevalier dragon), HAS (maître d'hast), NIN (ninja), SUR (surineur), SAM (samouraï), FCH (faucheur), VPR (rôdeur vipère), DRE (dresseur), BRD (barde), ARC (archer), MCH (machiniste), DNS (danseur), MNO (mage noir), OCC (occultiste), INV (invocateur), ACN (arcaniste), MRG (mage rouge), PIC (pictomancien), MBU (mage bleu), MEN (menuisier), FRG (forgeron), ARM (armurier), ORF (orfèvre), TAN (tanneur), COU (couturier), ALC (alchimiste), CUI (cuisinier), MIN (mineur), BTN (botaniste), PEC (pêcheur).
 * Si aucun nom de classe ou de job n'est spécifié, la recherche les couvre tous.
 - Niveaux<Indent/>:
 Il est possible de spécifier un niveau avec le nombre correspondant, ou une fourchette de niveaux avec deux nombres séparés par le signe ""-"".
@@ -1144,7 +1144,7 @@ Cible le PNJ ou l'objet le plus proche dans un certain rayon.","/ciblerpnj","/cp
 256,1,0,0,0,0,"/targetenemy","/tenemy","/ciblerenn, /targetenemy, /tenemy
 Cible l'ennemi le plus proche dans un certain rayon.","/ciblerenn","",36,0
 257,1,0,0,0,0,"/battletarget","/bt","/ciblecombat, /battletarget, /bt
-Cible l'ennemi le plus proche ayant de l'inimitié dans un certain rayon.","/ciblecombat","",36,0
+Cible l'ennemi le plus proche affiché à l'écran et ayant de l'inimitié dans un certain rayon.","/ciblecombat","",36,0
 258,2,0,0,0,0,"/assist","/as","/aider, /assist, /as
 Utilisation<Indent/>: /aider [argument de ciblage]
 Cible la cible du PJ ou PNJ ciblé.
@@ -1499,6 +1499,8 @@ commun (share) [chiffre] off    Rend la croix de raccourcis spécifiée exclusiv
 * Si on/off n'est pas spécifié, alterne entre ces deux options.
 supprimer (remove) [chiffre] [code de case]    Retire l'action/macro de la case spécifiée de la croix de raccourcis n°[chiffre]. Si ""all"" est saisi à la place du code de la case, toutes les cases sont libérées.
 >> Codes de case<Indent/>:
+(Les codes de case peuvent être omis durant la configuration.
+Dans ce cas, les actions sont au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment attribuées à un emplacement vide selon l'ordre par défaut du système.)
 <Gui(14)/> + <Gui(3)/> => LDL (LD1)
 <Gui(15)/> + <Gui(3)/> => RDL (RD1)
 <Gui(14)/> + <Gui(1)/> => LDU (LD2)
@@ -1610,6 +1612,8 @@ commun (share) [chiffre] off    Rend la croix de raccourcis spécifiée exclusiv
 * Si on/off n'est pas spécifié, alterne entre ces deux options.
 supprimer (remove) [chiffre] [code de case]    Retire l'action/macro de la case spécifiée de la croix de raccourcis n°[chiffre]. Si ""all"" est saisi à la place du code de la case, toutes les cases sont libérées.
 >> Codes de case<Indent/>:
+(Les codes de case peuvent être omis durant la configuration.
+Dans ce cas, les actions sont au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment attribuées à un emplacement vide selon l'ordre par défaut du système.)
 <Gui(14)/> + <Gui(3)/> => LDL (LD1)
 <Gui(15)/> + <Gui(3)/> => RDL (RD1)
 <Gui(14)/> + <Gui(1)/> => LDU (LD2)
@@ -3354,7 +3358,12 @@ Lit un livre en continu.
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/lireunlivrecontinu","/lirecont",293,0
-698,0,0,0,0,0,"","","","","",0,0
+698,2,1,2,0,0,"/breakdance","/breaking","/dansebreak, /breakdance, /breaking
+Utilisation<Indent/>: /dansebreak [sous-commande]
+Danse le break.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/dansebreak","",293,0
 699,2,1,2,0,0,"/gridaniansip","","/tassegridania, /gridaniansip
 Utilisation<Indent/>: /tassegridania [sous-commande]
 Boit du kinderpunsch dans une tasse de Gridania.
@@ -3415,7 +3424,12 @@ Utilisation<Indent/>: /écrireplume [sous-commande]
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/écrireplume","/plume",293,0
-709,0,0,0,0,0,"","","","","",0,0
+709,2,1,2,0,0,"/blownaway","","/sefaireéjecter,/éjecter,/blownaway
+Utilisation<Indent/>: /sefaireéjecter [sous-commande]
+Se fait projeter au sol par un puissant coup.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/sefaireéjecter","/éjecter",293,0
 710,2,1,2,0,0,"/stomp","","/trépigner, /stomp
 Utilisation<Indent/>: /trépigner [sous-commande]
 Martèle le sol du pied en signe d'impatience ou de colère.
@@ -3446,9 +3460,24 @@ Effectue une démarche de mannequin.
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/démarchemannequin","/démarchem",293,0
-715,0,0,0,0,0,"","","","","",0,0
-716,0,0,0,0,0,"","","","","",0,0
-717,0,0,0,0,0,"","","","","",0,0
+715,2,1,2,0,0,"/cheeronorange","/cheeroo","/encouragerdevantorange, /bâtonsdvor, /cheeronorange, /cheeroo
+Utilisation<Indent/>: /encouragerdevantorange [sous-commande]
+Encourage vers l'avant avec des bâtons lumineux orange.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/encouragerdevantorange","/bâtonsdvor",293,0
+716,2,1,2,0,0,"/cheerwavepink","/cheerwp","/encouragerarcrose, /bâtonsarcsrose, /cheerwavepink, /cheerwp
+Utilisation<Indent/>: /encouragerarcrose [sous-commande]
+Encourage en agitant le bras en arc-de-cercle avec des bâtons lumineux roses.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/encouragerarcrose"," /bâtonsarcsrose",293,0
+717,2,1,2,0,0,"/cheerjumpindigo","/cheerji","/encouragersautindigo, /bâtonssautind, /cheerjumpindigo, /cheerji
+Utilisation<Indent/>: /encouragersautindigo [sous-commande]
+Encourage en sautillant avec des bâtons lumineux indigo.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/encouragersautindigo","/bâtonssautind",293,0
 718,2,1,2,0,0,"/carrybook","","/serrerlivre, /carrybook
 Utilisation<Indent/>: /serrerlivre [sous-commande]
 Serre un livre contre sa poitrine.
@@ -3497,3 +3526,22 @@ Encourage d'un rythme lent avec des bâtons lumineux verts.
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/encouragerlentvert","/bâtonslenver",293,0
+726,0,0,0,0,0,"","","","","",0,0
+727,0,0,0,0,0,"","","","","",0,0
+728,0,0,0,0,0,"","","","","",0,0
+729,2,1,2,0,0,"/cackle","","/ricaner, /cackle
+Utilisation<Indent/>: /ricaner [sous-commande]
+Ricane avec un air narquois.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/ricaner","",293,0
+730,2,1,2,0,0,"/conduct","","/chefdorchestre, /chefdorc, /conduct
+Utilisation<Indent/>: /chefdorchestre [sous-commande]
+Agite une baguette pour battre la mesure.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/chefdorchestre","/chefdorc",293,0
+731,0,0,0,0,0,"","","","","",0,0
+732,0,0,0,0,0,"","","","","",0,0
+733,0,0,0,0,0,"","","","","",0,0
+734,0,0,0,0,0,"","","","","",0,0

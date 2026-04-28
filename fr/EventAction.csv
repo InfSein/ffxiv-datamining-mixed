@@ -92,7 +92,7 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 88,"Découpage",19603,7,181,182,183
 89,"Obtention",19603,10,80,81,82
 90,"Confection",19603,10,0,7421,150
-91,"Transport",19603,3,80,81,82
+91,"Levage",19603,3,80,81,82
 92,"Chargement",19603,2,0,4189,12632
 93,"Ouverture",19603,5,80,81,82
 94,"Monte",19603,2,172,173,174
@@ -118,7 +118,7 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 114,"Soudage",19603,6,0,12258,12474
 115,"Obtention de matériau",19603,4,172,173,12473
 116,"Manufacture de produit",19603,5,181,182,12480
-117,"Ramassage",19603,6,80,81,82
+117,"Levage",19603,6,80,81,82
 118,"Stockage",19603,3,0,4189,12474
 119,"Récupération",19603,4,181,182,12470
 120,"Recharge",19603,6,172,173,12471
@@ -137,7 +137,7 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 133,"Picto Nixe",19730,3,12523,12524,12525
 134,"Creusage",19603,5,0,12534,151
 135,"Aspersion",19603,5,0,12537,12538
-136,"Ramassage",19603,6,80,81,12535
+136,"Levage",19603,6,80,81,12535
 137,"Levage",19603,4,181,182,12539
 138,"Levage",19603,4,181,182,12542
 139,"Canalisation éthérée",19603,5,12557,12558,12541
@@ -146,3 +146,9 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 142,"Approvisionnement",19603,5,172,173,174
 143,"",0,0,0,0,0
 144,"",0,0,0,0,0
+145,"",0,0,0,0,0
+146,"",0,0,0,0,0
+147,"",0,0,0,0,0
+148,"",0,0,0,0,0
+149,"",0,0,0,0,0
+150,"",0,0,0,0,0

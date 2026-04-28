@@ -36,3 +36,8 @@ int32,byte,str
 32,49,"Attraper un poisson qui tire peu (!)"
 33,16,"Attraper un poisson qui tire bien (!!)"
 34,8,"Attraper un poisson qui tire fort (!!!)"
+35,13,"Attraper des crevettes-mantes ou des créatures antiques"
+36,5,"Attraper des poissons de rareté trois étoiles (★★★) ou plus"
+37,30,"Attraper un poisson qui tire peu (!)"
+38,22,"Attraper un poisson qui tire bien (!!)"
+39,9,"Attraper un poisson qui tire fort (!!!)"

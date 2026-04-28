@@ -2,298 +2,298 @@
 #,LegacyQuestID,Text,String,SortKey,Genre
 int32,uint16,str,str,uint16,uint32
 0,0,"","",0,0
-1,0,"Paroles sibyllines","",1,342
-2,1,"Le trésor du grand bleu","",2,342
-3,2,"La légende de Llymlaen","",3,342
-4,3,"Duel sur le pont","",4,342
-5,4,"Naufrage","",5,342
-6,5,"La souillure","",6,342
-7,6,"La colère des esprits","",7,342
-8,7,"Les invités","",8,342
-9,8,"Un festival mouvementé","",9,342
-10,9,"La Cité qui ne dort jamais","",10,342
-11,10,"Dégâts collatéraux","",11,342
-12,11,"Quand la mort frappe","",12,342
-13,12,"Prémices","",13,342
-14,13,"Sauvetage désespéré","",14,342
-15,14,"Un dialogue de sourds","",15,342
-16,15,"Une alliance risquée","",16,342
-17,16,"Le dieu des flammes","",17,342
-18,17,"Libérer les libérateurs","",18,342
-19,18,"Retrouvailles","",19,342
-20,59,"L'art de l'usure","",20,344
-21,60,"L'affaire des faux jetons","",21,344
-22,61,"L'envers du jeton","",22,344
-23,79,"Les éliminatoires","",23,344
-24,80,"Droits inaliénables","",24,344
-25,81,"Le tournoi","",25,344
-26,99,"Le baptême des Bourreaux","",26,344
-27,100,"Le bal des pirates","",27,344
-28,101,"Tous les coups sont permis","",28,344
-29,139,"Les comptoirs de l'auberge","",29,344
-30,140,"Les comptoirs de l'auberge","",30,344
-31,141,"Les comptoirs de l'auberge","",31,344
-32,143,"J'aimerais changer de partenaire","",32,344
-33,159,"Les flèches divines","",33,344
-34,160,"Sombre forêt","",34,344
-35,161,"Blessures du passé","",35,344
-36,179,"Les vigiles sombres","",36,344
-37,180,"Choc de cultures","",37,344
-38,181,"Un mal nécessaire","",38,344
-39,239,"Les contrats de vendetta","",39,344
-40,240,"La rivale","",40,344
-41,241,"La parole de Nald'thal","",41,344
-42,259,"Au service des esprits","",42,344
-43,260,"Le rêve du chevalier","",43,344
-44,261,"La voix des esprits","",44,344
-45,299,"De bien jeunes professeurs","",45,344
-46,300,"Les petits démons","",46,344
-47,301,"Le cadeau des esprits","",47,344
-48,319,"Dur d'oreille","",48,344
-49,320,"Le chant des sirènes","",49,344
-50,321,"L'île interdite","",50,344
-51,359,"Donner forme à la beauté","",51,344
-52,360,"La Fleur de F'lhaminn","",52,344
-53,361,"Percecœur","",53,344
-54,379,"Contrôle qualité","",54,344
-55,380,"Le deuxième Atelier","",55,344
-56,381,"Evaluation générale","",56,344
-57,399,"Acte I : Le rouge","",57,344
-58,400,"Acte II : La cendre","",58,344
-59,401,"Acte III : Le blanc","",59,344
-60,419,"Un sommeil sans fin","",60,344
-61,420,"Le garçon et le dragon","",61,344
-62,421,"Rêve... ou réalité ?","",62,344
-63,439,"Duel aux fourneaux","",63,344
-64,440,"Le gourmet disparu","",64,344
-65,441,"La soupe empoisonnée","",65,344
-66,459,"Un fragment du passé","",66,344
-67,460,"Sabotage","",67,344
-68,461,"La fugue","",68,344
-69,479,"Les racines de Gridania","",69,344
-70,480,"La Cité lumière","",70,344
-71,481,"Le champ de fleurs des Mogs","",71,344
-72,499,"Unis contre les Sahuagins","",72,344
-73,500,"Le Maître des viviers","",73,344
-74,501,"Opération exceptionnelle","",74,344
-75,626,"L'épreuve du feu","",75,343
-76,632,"Marchandises égarées à la douane","",76,343
-77,633,"Un pont à réparer","",77,343
-78,635,"La revanche des Barracudas","",78,343
-79,637,"Tout pour mon ragoût","",79,343
-80,638,"Un pirate bien distrait","",80,343
-81,639,"L'amour d'une mère","",81,343
-82,640,"Bon pour le moral","",82,343
-83,641,"La plage aux coquillages","",83,343
-84,642,"Mauvaise pêche","",84,343
-85,643,"Un peu plus près des étoiles","",85,343
-86,645,"Un sombre passé","",86,343
-87,647,"Une mission taillée sur mesure","",87,343
-88,652,"Les petits secrets des pirates","",88,343
-89,653,"Mets de l'huile","",89,343
-90,654,"Rallumer les feux","",90,343
-91,655,"Les légumes de Sandre","",91,343
-92,657,"Petit farceur","",92,343
-93,658,"Légendaire sicksa","",93,343
-94,659,"Tel est pris qui croyait prendre","",94,343
-95,661,"Les tourments d'un fils","",95,343
-96,662,"Le carnet de Lonsygg","",96,343
-97,663,"Dites-le avec des fleurs","",97,343
-98,664,"En l'honneur de nos proches","",98,343
-99,665,"Pierre muette","",99,343
-100,666,"Ceux qui menacent la forêt","",100,343
-101,667,"Les fèves du succès","",101,343
-102,668,"Perdre le fil","",102,343
-103,673,"Les Oracles","",103,343
-104,674,"Toc toc toc","",104,343
-105,675,"Insomnies","",105,343
-106,676,"Le retour du mort-vivant","",106,343
-107,678,"Le client est roi","",107,343
-108,679,"Les Mille Feuilles","",108,343
-109,680,"La tache","",109,343
-110,681,"Le kidnapping","",110,343
-111,682,"Le bon geôlier","",111,343
-112,683,"Y a des jours comme ça","",112,343
-113,684,"Chocobos en danger","",113,343
-114,685,"Le prix de la liberté","",114,343
-115,686,"Pousser comme du minerai","",115,343
-116,689,"Concurrence déloyale","",116,343
-117,694,"Promesse d'immortalité","",117,343
-118,705,"Brebis égarées","",118,343
-119,706,"Le prix de la vie","",119,343
-120,707,"Rituels sanglants","",120,343
-121,725,"Donnant, donnant","",121,343
-122,726,"Paris sanglants","",122,343
-123,727,"Le marché noir","",123,343
-124,733,"Les grandes gueules","",124,343
-125,734,"La frairie","",125,343
-126,735,"Crime désorganisé","",126,343
-127,736,"A la poursuite du trésor vivant","",127,343
-128,743,"L'Empire s'affiche","",128,343
-129,744,"Le cœur en joue","",129,343
-130,745,"L'écume des trésors","",130,343
-131,752,"Le Preux Ahldbhar","",131,343
-132,753,"Recherches sanglantes","",132,343
-133,754,"La vérité est au fond du puits","",133,343
-134,755,"Recherches tranchantes","",134,343
-135,761,"Quand les spriggans montrent les dents","",135,343
-136,762,"La parole de la Gardienne","",136,343
-137,763,"De l'huile sur les plaies","",137,343
-138,764,"Les spores, c'est la santé","",138,343
-139,770,"Un Gobelin bien curieux","",139,343
-140,771,"La cargaison de l'Orion","",140,343
-141,772,"Plus de raisin à Port-aux-Vins","",141,343
-142,773,"Flairer le filon","",142,343
-143,788,"Les Prœufs d'Ul'dah","",143,343
-144,789,"Prœufs en péril à Ul'dah","",144,343
-145,793,"Les Prœufs de Gridania","",145,343
-146,794,"Prœufs en péril à Gridania","",146,343
-147,798,"Dans le feu de l'action","",147,343
-148,799,"Des imps impertinents","",148,343
-149,800,"La fête des étoiles","",149,343
-150,801,"La fête de la transition","",150,343
-151,803,"Les Prœufs de Limsa Lominsa","",151,343
-152,804,"Prœufs en péril à Limsa Lominsa","",152,343
-153,808,"Tâches de guilde","",153,343
-154,809,"Le secret de la grotte maudite","",154,343
-155,810,"Un commerce risqué","",155,343
-156,811,"Forger l'âme","",156,343
-157,812,"Unir l'âme","",157,343
-158,813,"Eveiller l'âme","",158,343
-159,815,"Le retour du roi","",159,343
-160,816,"Missions de ravitaillement","",160,343
-161,817,"Le mausolée des sables","",161,343
-162,818,"Tout ce qui brille n'est pas or","",162,343
-163,820,"Exploration des Mille Gueules","",163,343
-164,821,"Reprise de la Forteresse","",164,343
-165,822,"Le sulfureux Val d'Aurum","",165,343
-166,823,"Le dédale de sable du Gouffre","",166,343
-167,827,"Le Perchoir","",167,343
-168,828,"Des indices","",168,343
-169,837,"Auberge de L'Artimon","",169,343
-170,838,"Une affaire résolue","",170,343
-171,839,"Les mystères de Dalamud","",171,343
-172,840,"Le héros de la prophétie","",172,343
-173,847,"Auberge du Sablier","",173,343
-174,848,"Un suspect","",174,343
-175,857,"Evénement saisonnier","",175,343
-176,858,"Qui vole un Prœuf, vole un Preux","",176,343
-177,859,"Les Feux de la Mort","",177,343
-178,860,"Evénements saisonniers (trois Cités)","",178,343
-179,861,"Approvisionnement des hameaux","",179,343
-180,862,"Le séminaire du professeur Erik","",180,343
-181,866,"L'épreuve du vent","",181,343
-182,867,"Restauration des armes antiques","",182,343
-183,868,"Le pèlerinage","",183,343
-184,869,"La fin du rapace","",184,343
-185,1200,"L'art de la guerre","",254,345
-186,1201,"Au bout de l'extrême limite","",255,345
-187,1202,"A la guerre comme à la guerre","",256,345
-188,1203,"La grande vadrouille","",257,345
-189,1204,"Le bras de fer","",258,345
-190,1205,"Le Maître de guerre","",259,345
-191,1220,"Le moine errant","",260,345
-192,1221,"Les contes des combats passés","",261,345
-193,1222,"La quête de pouvoir","",262,345
-194,1223,"Le septième chakra","",263,345
-195,1224,"Prendre l'habit","",264,345
-196,1225,"Le véritable courage","",265,345
-197,1240,"De ce qui jaillit du fond des abîmes","",266,345
-198,1241,"Des réminiscences de lumière","",267,345
-199,1242,"Des lendemains à venir","",268,345
-200,1243,"D'un espoir éphémère","",269,345
-201,1244,"Du fond de la colère","",270,345
-202,1245,"De la chaleur qui comble l'immaculé","",271,345
-203,1260,"La voix des Marchands","",272,345
-204,1261,"L'appel du sang","",273,345
-205,1262,"Des amis étrangers","",274,345
-206,1263,"La corruption du néant","",275,345
-207,1264,"Les habits du pouvoir","",276,345
-208,1265,"La voie de la magie noire","",277,345
-209,1280,"Le serment du paladin","",278,345
-210,1281,"Un rêve d'enfant","",279,345
-211,1282,"Déception, colère et détermination","",280,345
-212,1283,"Un poison nommé Solkzagyl","",281,345
-213,1284,"Des négociations à haut risque","",282,345
-214,1285,"A chacun son chemin","",283,345
-215,1300,"Quand les cordes résonnent à l'unisson","",284,345
-216,1301,"Les partisans du chant","",285,345
-217,1302,"Les desseins du Contemplateur","",286,345
-218,1303,"Celui qui pécha par orgueil","",287,345
-219,1304,"En quête d'absolution","",288,345
-220,1305,"L'hymne à la vie","",289,345
-221,1320,"L'éveil du dragon","",290,345
-222,1321,"La lance du destin","",291,345
-223,1322,"Les griffes de la nuit","",292,345
-224,1323,"Des donjons et des dragons","",293,345
-225,1324,"Confessions intimes","",294,345
-226,1325,"La fureur du dragon","",295,345
-227,1400,"Le secret des Preux","",185,346
-228,1401,"Enrôlement provisoire au Maelstrom","",186,346
-229,1402,"Les sceaux du Maelstrom","",187,346
-230,1403,"Les desseins de l'Empire","",188,346
-231,1404,"Un vent nouveau en poupe","",189,346
-232,1405,"Ecueils à l'horizon","",190,346
-233,1406,"Allégeance au Maelstrom","",191,346
-234,1409,"Les Mille Gueules de Toto-Rak (Limsa Lominsa)","",192,346
-235,1410,"La Forteresse de Dzemael (Limsa Lominsa)","",193,346
-236,1415,"Combattre le feu par le feu (Limsa Lominsa)","",194,346
-237,1416,"Bulles troubles","",195,346
-238,1417,"Les bons, les brutes et les Kobolds","",196,346
-239,1418,"Qui s'y frotte, s'y pique","",197,346
-240,1419,"Forages au centre de la Terre","",198,346
-241,1425,"Aux bons ouvriers, les bons outils","",199,346
-242,1426,"La pierre et le Loup","",200,346
-243,1427,"Des infiltrations chez les Kobolds","",201,346
-244,1428,"Deus ex Machina","",202,346
-245,1429,"Qui sème le vent récolte la tempête (Limsa Lominsa)","",203,346
-246,1430,"L'union fait la force (Limsa Lominsa)","",204,346
-247,1431,"Les sentiers de la victoire (Limsa Lominsa)","",205,346
-248,1432,"Joute sous la lune (Limsa Lominsa)","",206,346
-249,1433,"Le buffle se rebiffe","",207,346
-250,1600,"Les marques du Preux","",208,346
-251,1601,"Enrôlement provisoire dans l'ordre des Deux Vipères","",209,346
-252,1602,"Les sceaux de l'ordre des Deux Vipères","",210,346
-253,1603,"Une lettre cher payée","",211,346
-254,1604,"Vers une nouvelle harmonie","",212,346
-255,1605,"Blessures de l'âme","",213,346
-256,1606,"Allégeance à l'ordre des Deux Vipères","",214,346
-257,1609,"Les Mille Gueules de Toto-Rak (Gridania)","",215,346
-258,1610,"La Forteresse de Dzemael (Gridania)","",216,346
-259,1615,"Combattre le feu par le feu (Gridania)","",217,346
-260,1616,"Le cycle de la vie","",218,346
-261,1617,"Trouver sa voie","",219,346
-262,1618,"L'éthique de la botanique","",220,346
-263,1619,"La conquête du ciel","",221,346
-264,1625,"Embûches pour les bûcherons","",222,346
-265,1626,"L'oiseau de mauvais augure","",223,346
-266,1627,"Raid sur le site de déboisement des Ixali","",224,346
-267,1628,"Le feu au lac","",225,346
-268,1629,"Qui sème le vent récolte la tempête (Gridania)","",226,346
-269,1630,"L'union fait la force (Gridania)","",227,346
-270,1631,"Les sentiers de la victoire (Gridania)","",228,346
-271,1632,"Joute sous la lune (Gridania)","",229,346
-272,1633,"Les yeux plus gros que le ventru","",230,346
-273,1800,"La réponse du Preux","",231,346
-274,1801,"Enrôlement provisoire chez les Immortels","",232,346
-275,1802,"Les sceaux des Immortels","",233,346
-276,1803,"Course à l'armement","",234,346
-277,1804,"Pour la prospérité","",235,346
-278,1805,"Le traître","",236,346
-279,1806,"Allégeance aux Immortels","",237,346
-280,1809,"Les Mille Gueules de Toto-Rak (Ul'dah)","",238,346
-281,1810,"La Forteresse de Dzemael (Ul'dah)","",239,346
-282,1815,"Combattre le feu par le feu (Ul'dah)","",240,346
-283,1816,"Faire les gros yeux","",241,346
-284,1817,"Brandon de discorde","",242,346
-285,1818,"De fil en épée","",243,346
-286,1819,"Mort-aux-draconides","",244,346
-287,1825,"Dette or Alive","",245,346
-288,1826,"Tel père, tel fils","",246,346
-289,1827,"Descente à l'autel amalj'aa","",247,346
-290,1828,"Confidence pour confidence","",248,346
-291,1829,"Qui sème le vent récolte la tempête (Ul'dah)","",249,346
-292,1830,"L'union fait la force (Ul'dah)","",250,346
-293,1831,"Les sentiers de la victoire (Ul'dah)","",251,346
-294,1832,"Joute sous la lune (Ul'dah)","",252,346
-295,1833,"Avancer à coup de bélier","",253,346
+1,0,"Paroles sibyllines","",1,344
+2,1,"Le trésor du grand bleu","",2,344
+3,2,"La légende de Llymlaen","",3,344
+4,3,"Duel sur le pont","",4,344
+5,4,"Naufrage","",5,344
+6,5,"La souillure","",6,344
+7,6,"La colère des esprits","",7,344
+8,7,"Les invités","",8,344
+9,8,"Un festival mouvementé","",9,344
+10,9,"La Cité qui ne dort jamais","",10,344
+11,10,"Dégâts collatéraux","",11,344
+12,11,"Quand la mort frappe","",12,344
+13,12,"Prémices","",13,344
+14,13,"Sauvetage désespéré","",14,344
+15,14,"Un dialogue de sourds","",15,344
+16,15,"Une alliance risquée","",16,344
+17,16,"Le dieu des flammes","",17,344
+18,17,"Libérer les libérateurs","",18,344
+19,18,"Retrouvailles","",19,344
+20,59,"L'art de l'usure","",20,346
+21,60,"L'affaire des faux jetons","",21,346
+22,61,"L'envers du jeton","",22,346
+23,79,"Les éliminatoires","",23,346
+24,80,"Droits inaliénables","",24,346
+25,81,"Le tournoi","",25,346
+26,99,"Le baptême des Bourreaux","",26,346
+27,100,"Le bal des pirates","",27,346
+28,101,"Tous les coups sont permis","",28,346
+29,139,"Les comptoirs de l'auberge","",29,346
+30,140,"Les comptoirs de l'auberge","",30,346
+31,141,"Les comptoirs de l'auberge","",31,346
+32,143,"J'aimerais changer de partenaire","",32,346
+33,159,"Les flèches divines","",33,346
+34,160,"Sombre forêt","",34,346
+35,161,"Blessures du passé","",35,346
+36,179,"Les vigiles sombres","",36,346
+37,180,"Choc de cultures","",37,346
+38,181,"Un mal nécessaire","",38,346
+39,239,"Les contrats de vendetta","",39,346
+40,240,"La rivale","",40,346
+41,241,"La parole de Nald'thal","",41,346
+42,259,"Au service des esprits","",42,346
+43,260,"Le rêve du chevalier","",43,346
+44,261,"La voix des esprits","",44,346
+45,299,"De bien jeunes professeurs","",45,346
+46,300,"Les petits démons","",46,346
+47,301,"Le cadeau des esprits","",47,346
+48,319,"Dur d'oreille","",48,346
+49,320,"Le chant des sirènes","",49,346
+50,321,"L'île interdite","",50,346
+51,359,"Donner forme à la beauté","",51,346
+52,360,"La Fleur de F'lhaminn","",52,346
+53,361,"Percecœur","",53,346
+54,379,"Contrôle qualité","",54,346
+55,380,"Le deuxième Atelier","",55,346
+56,381,"Evaluation générale","",56,346
+57,399,"Acte I : Le rouge","",57,346
+58,400,"Acte II : La cendre","",58,346
+59,401,"Acte III : Le blanc","",59,346
+60,419,"Un sommeil sans fin","",60,346
+61,420,"Le garçon et le dragon","",61,346
+62,421,"Rêve... ou réalité ?","",62,346
+63,439,"Duel aux fourneaux","",63,346
+64,440,"Le gourmet disparu","",64,346
+65,441,"La soupe empoisonnée","",65,346
+66,459,"Un fragment du passé","",66,346
+67,460,"Sabotage","",67,346
+68,461,"La fugue","",68,346
+69,479,"Les racines de Gridania","",69,346
+70,480,"La Cité lumière","",70,346
+71,481,"Le champ de fleurs des Mogs","",71,346
+72,499,"Unis contre les Sahuagins","",72,346
+73,500,"Le Maître des viviers","",73,346
+74,501,"Opération exceptionnelle","",74,346
+75,626,"L'épreuve du feu","",75,345
+76,632,"Marchandises égarées à la douane","",76,345
+77,633,"Un pont à réparer","",77,345
+78,635,"La revanche des Barracudas","",78,345
+79,637,"Tout pour mon ragoût","",79,345
+80,638,"Un pirate bien distrait","",80,345
+81,639,"L'amour d'une mère","",81,345
+82,640,"Bon pour le moral","",82,345
+83,641,"La plage aux coquillages","",83,345
+84,642,"Mauvaise pêche","",84,345
+85,643,"Un peu plus près des étoiles","",85,345
+86,645,"Un sombre passé","",86,345
+87,647,"Une mission taillée sur mesure","",87,345
+88,652,"Les petits secrets des pirates","",88,345
+89,653,"Mets de l'huile","",89,345
+90,654,"Rallumer les feux","",90,345
+91,655,"Les légumes de Sandre","",91,345
+92,657,"Petit farceur","",92,345
+93,658,"Légendaire sicksa","",93,345
+94,659,"Tel est pris qui croyait prendre","",94,345
+95,661,"Les tourments d'un fils","",95,345
+96,662,"Le carnet de Lonsygg","",96,345
+97,663,"Dites-le avec des fleurs","",97,345
+98,664,"En l'honneur de nos proches","",98,345
+99,665,"Pierre muette","",99,345
+100,666,"Ceux qui menacent la forêt","",100,345
+101,667,"Les fèves du succès","",101,345
+102,668,"Perdre le fil","",102,345
+103,673,"Les Oracles","",103,345
+104,674,"Toc toc toc","",104,345
+105,675,"Insomnies","",105,345
+106,676,"Le retour du mort-vivant","",106,345
+107,678,"Le client est roi","",107,345
+108,679,"Les Mille Feuilles","",108,345
+109,680,"La tache","",109,345
+110,681,"Le kidnapping","",110,345
+111,682,"Le bon geôlier","",111,345
+112,683,"Y a des jours comme ça","",112,345
+113,684,"Chocobos en danger","",113,345
+114,685,"Le prix de la liberté","",114,345
+115,686,"Pousser comme du minerai","",115,345
+116,689,"Concurrence déloyale","",116,345
+117,694,"Promesse d'immortalité","",117,345
+118,705,"Brebis égarées","",118,345
+119,706,"Le prix de la vie","",119,345
+120,707,"Rituels sanglants","",120,345
+121,725,"Donnant, donnant","",121,345
+122,726,"Paris sanglants","",122,345
+123,727,"Le marché noir","",123,345
+124,733,"Les grandes gueules","",124,345
+125,734,"La frairie","",125,345
+126,735,"Crime désorganisé","",126,345
+127,736,"A la poursuite du trésor vivant","",127,345
+128,743,"L'Empire s'affiche","",128,345
+129,744,"Le cœur en joue","",129,345
+130,745,"L'écume des trésors","",130,345
+131,752,"Le Preux Ahldbhar","",131,345
+132,753,"Recherches sanglantes","",132,345
+133,754,"La vérité est au fond du puits","",133,345
+134,755,"Recherches tranchantes","",134,345
+135,761,"Quand les spriggans montrent les dents","",135,345
+136,762,"La parole de la Gardienne","",136,345
+137,763,"De l'huile sur les plaies","",137,345
+138,764,"Les spores, c'est la santé","",138,345
+139,770,"Un Gobelin bien curieux","",139,345
+140,771,"La cargaison de l'Orion","",140,345
+141,772,"Plus de raisin à Port-aux-Vins","",141,345
+142,773,"Flairer le filon","",142,345
+143,788,"Les Prœufs d'Ul'dah","",143,345
+144,789,"Prœufs en péril à Ul'dah","",144,345
+145,793,"Les Prœufs de Gridania","",145,345
+146,794,"Prœufs en péril à Gridania","",146,345
+147,798,"Dans le feu de l'action","",147,345
+148,799,"Des imps impertinents","",148,345
+149,800,"La fête des étoiles","",149,345
+150,801,"La fête de la transition","",150,345
+151,803,"Les Prœufs de Limsa Lominsa","",151,345
+152,804,"Prœufs en péril à Limsa Lominsa","",152,345
+153,808,"Tâches de guilde","",153,345
+154,809,"Le secret de la grotte maudite","",154,345
+155,810,"Un commerce risqué","",155,345
+156,811,"Forger l'âme","",156,345
+157,812,"Unir l'âme","",157,345
+158,813,"Eveiller l'âme","",158,345
+159,815,"Le retour du roi","",159,345
+160,816,"Missions de ravitaillement","",160,345
+161,817,"Le mausolée des sables","",161,345
+162,818,"Tout ce qui brille n'est pas or","",162,345
+163,820,"Exploration des Mille Gueules","",163,345
+164,821,"Reprise de la Forteresse","",164,345
+165,822,"Le sulfureux Val d'Aurum","",165,345
+166,823,"Le dédale de sable du Gouffre","",166,345
+167,827,"Le Perchoir","",167,345
+168,828,"Des indices","",168,345
+169,837,"Auberge de L'Artimon","",169,345
+170,838,"Une affaire résolue","",170,345
+171,839,"Les mystères de Dalamud","",171,345
+172,840,"Le héros de la prophétie","",172,345
+173,847,"Auberge du Sablier","",173,345
+174,848,"Un suspect","",174,345
+175,857,"Evénement saisonnier","",175,345
+176,858,"Qui vole un Prœuf, vole un Preux","",176,345
+177,859,"Les Feux de la Mort","",177,345
+178,860,"Evénements saisonniers (trois Cités)","",178,345
+179,861,"Approvisionnement des hameaux","",179,345
+180,862,"Le séminaire du professeur Erik","",180,345
+181,866,"L'épreuve du vent","",181,345
+182,867,"Restauration des armes antiques","",182,345
+183,868,"Le pèlerinage","",183,345
+184,869,"La fin du rapace","",184,345
+185,1200,"L'art de la guerre","",254,347
+186,1201,"Au bout de l'extrême limite","",255,347
+187,1202,"A la guerre comme à la guerre","",256,347
+188,1203,"La grande vadrouille","",257,347
+189,1204,"Le bras de fer","",258,347
+190,1205,"Le Maître de guerre","",259,347
+191,1220,"Le moine errant","",260,347
+192,1221,"Les contes des combats passés","",261,347
+193,1222,"La quête de pouvoir","",262,347
+194,1223,"Le septième chakra","",263,347
+195,1224,"Prendre l'habit","",264,347
+196,1225,"Le véritable courage","",265,347
+197,1240,"De ce qui jaillit du fond des abîmes","",266,347
+198,1241,"Des réminiscences de lumière","",267,347
+199,1242,"Des lendemains à venir","",268,347
+200,1243,"D'un espoir éphémère","",269,347
+201,1244,"Du fond de la colère","",270,347
+202,1245,"De la chaleur qui comble l'immaculé","",271,347
+203,1260,"La voix des Marchands","",272,347
+204,1261,"L'appel du sang","",273,347
+205,1262,"Des amis étrangers","",274,347
+206,1263,"La corruption du néant","",275,347
+207,1264,"Les habits du pouvoir","",276,347
+208,1265,"La voie de la magie noire","",277,347
+209,1280,"Le serment du paladin","",278,347
+210,1281,"Un rêve d'enfant","",279,347
+211,1282,"Déception, colère et détermination","",280,347
+212,1283,"Un poison nommé Solkzagyl","",281,347
+213,1284,"Des négociations à haut risque","",282,347
+214,1285,"A chacun son chemin","",283,347
+215,1300,"Quand les cordes résonnent à l'unisson","",284,347
+216,1301,"Les partisans du chant","",285,347
+217,1302,"Les desseins du Contemplateur","",286,347
+218,1303,"Celui qui pécha par orgueil","",287,347
+219,1304,"En quête d'absolution","",288,347
+220,1305,"L'hymne à la vie","",289,347
+221,1320,"L'éveil du dragon","",290,347
+222,1321,"La lance du destin","",291,347
+223,1322,"Les griffes de la nuit","",292,347
+224,1323,"Des donjons et des dragons","",293,347
+225,1324,"Confessions intimes","",294,347
+226,1325,"La fureur du dragon","",295,347
+227,1400,"Le secret des Preux","",185,348
+228,1401,"Enrôlement provisoire au Maelstrom","",186,348
+229,1402,"Les sceaux du Maelstrom","",187,348
+230,1403,"Les desseins de l'Empire","",188,348
+231,1404,"Un vent nouveau en poupe","",189,348
+232,1405,"Ecueils à l'horizon","",190,348
+233,1406,"Allégeance au Maelstrom","",191,348
+234,1409,"Les Mille Gueules de Toto-Rak (Limsa Lominsa)","",192,348
+235,1410,"La Forteresse de Dzemael (Limsa Lominsa)","",193,348
+236,1415,"Combattre le feu par le feu (Limsa Lominsa)","",194,348
+237,1416,"Bulles troubles","",195,348
+238,1417,"Les bons, les brutes et les Kobolds","",196,348
+239,1418,"Qui s'y frotte, s'y pique","",197,348
+240,1419,"Forages au centre de la Terre","",198,348
+241,1425,"Aux bons ouvriers, les bons outils","",199,348
+242,1426,"La pierre et le Loup","",200,348
+243,1427,"Des infiltrations chez les Kobolds","",201,348
+244,1428,"Deus ex Machina","",202,348
+245,1429,"Qui sème le vent récolte la tempête (Limsa Lominsa)","",203,348
+246,1430,"L'union fait la force (Limsa Lominsa)","",204,348
+247,1431,"Les sentiers de la victoire (Limsa Lominsa)","",205,348
+248,1432,"Joute sous la lune (Limsa Lominsa)","",206,348
+249,1433,"Le buffle se rebiffe","",207,348
+250,1600,"Les marques du Preux","",208,348
+251,1601,"Enrôlement provisoire dans l'ordre des Deux Vipères","",209,348
+252,1602,"Les sceaux de l'ordre des Deux Vipères","",210,348
+253,1603,"Une lettre cher payée","",211,348
+254,1604,"Vers une nouvelle harmonie","",212,348
+255,1605,"Blessures de l'âme","",213,348
+256,1606,"Allégeance à l'ordre des Deux Vipères","",214,348
+257,1609,"Les Mille Gueules de Toto-Rak (Gridania)","",215,348
+258,1610,"La Forteresse de Dzemael (Gridania)","",216,348
+259,1615,"Combattre le feu par le feu (Gridania)","",217,348
+260,1616,"Le cycle de la vie","",218,348
+261,1617,"Trouver sa voie","",219,348
+262,1618,"L'éthique de la botanique","",220,348
+263,1619,"La conquête du ciel","",221,348
+264,1625,"Embûches pour les bûcherons","",222,348
+265,1626,"L'oiseau de mauvais augure","",223,348
+266,1627,"Raid sur le site de déboisement des Ixali","",224,348
+267,1628,"Le feu au lac","",225,348
+268,1629,"Qui sème le vent récolte la tempête (Gridania)","",226,348
+269,1630,"L'union fait la force (Gridania)","",227,348
+270,1631,"Les sentiers de la victoire (Gridania)","",228,348
+271,1632,"Joute sous la lune (Gridania)","",229,348
+272,1633,"Les yeux plus gros que le ventru","",230,348
+273,1800,"La réponse du Preux","",231,348
+274,1801,"Enrôlement provisoire chez les Immortels","",232,348
+275,1802,"Les sceaux des Immortels","",233,348
+276,1803,"Course à l'armement","",234,348
+277,1804,"Pour la prospérité","",235,348
+278,1805,"Le traître","",236,348
+279,1806,"Allégeance aux Immortels","",237,348
+280,1809,"Les Mille Gueules de Toto-Rak (Ul'dah)","",238,348
+281,1810,"La Forteresse de Dzemael (Ul'dah)","",239,348
+282,1815,"Combattre le feu par le feu (Ul'dah)","",240,348
+283,1816,"Faire les gros yeux","",241,348
+284,1817,"Brandon de discorde","",242,348
+285,1818,"De fil en épée","",243,348
+286,1819,"Mort-aux-draconides","",244,348
+287,1825,"Dette or Alive","",245,348
+288,1826,"Tel père, tel fils","",246,348
+289,1827,"Descente à l'autel amalj'aa","",247,348
+290,1828,"Confidence pour confidence","",248,348
+291,1829,"Qui sème le vent récolte la tempête (Ul'dah)","",249,348
+292,1830,"L'union fait la force (Ul'dah)","",250,348
+293,1831,"Les sentiers de la victoire (Ul'dah)","",251,348
+294,1832,"Joute sous la lune (Ul'dah)","",252,348
+295,1833,"Avancer à coup de bélier","",253,348

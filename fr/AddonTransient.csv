@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/> Retirer l'objet"
-2,"<CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 3,"<CommandIcon(8)/> Changer l'ordre  <CommandIcon(10)/> Sous-menu"
 4,"<CommandIcon(11)/> Rechercher"
 5,"<CommandIcon(10)/> Sous-menu  <CommandIcon(8)/> Acheter  <CommandIcon(11)/> Vendre un objet"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/> Sous-menu  <CommandIcon(1)/> Sélection du log   <CommandIcon(2)/> Sélection de l'onglet <CommandIcon(11)/> Agrandissement du log"
 73,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Discussion  <CommandIcon(11)/> Agrandissement du log"
 74,"<CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Discussion  <CommandIcon(11)/> Réinitialise la taille du log"
-75,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer  <CommandIcon(13)/> Traduction automatique  <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+75,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer  <CommandIcon(13)/> Traduction automatique<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 76,"<CommandIcon(3)/> Précédent  <CommandIcon(4)/> Suivant  <CommandIcon(13)/> Traduction automatique"
 77,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Appliquer"
 78,"<CommandIcon(11)/> Appliquer  <CommandIcon(10)/> Supprimer les paramètres"
@@ -232,14 +232,20 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 “DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.
+------
+
+
+------------------------
+QR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.
+------------------------"
 174,"<CommandIcon(12)/><CommandIcon(13)/> Choisir la catégorie"
 175,"<CommandIcon(12)/><CommandIcon(13)/> Changer de phase de con<SoftHyphen/>struc<SoftHyphen/>tion  <CommandIcon(10)/> Sous-menu"
 176,"<CommandIcon(12)/><CommandIcon(13)/> Changer de phase de con<SoftHyphen/>struc<SoftHyphen/>tion  <CommandIcon(10)/> Sous-menu"
 177,"<CommandIcon(9)/> Retour  <CommandIcon(11)/> Expédier"
 178,"<CommandIcon(10)/> Sous-menu"
 179,"<CommandIcon(8)/> Sélectionner  <CommandIcon(9)/> Fermer  <CommandIcon(11)/> Confirmer la par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion"
-180,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+180,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 181,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Valider et fermer"
 182,"<CommandIcon(9)/> Valider et fermer"
 183,"<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Encyclopédie des mascottes"
@@ -295,7 +301,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
   dans le menu.
   * Un seul piège peut être placé à la fois.
 
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la manette<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la <66>02</66><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
     - Sélection individuelle
 　　　<CommandIcon(12)/>+<CommandIcon(7)/><Indent/>: Sélectionne une mascotte dans la liste d'équipe
@@ -333,7 +339,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
       permet de sélectionner celles identiques autour.
 　　 Glisser gauche<Indent/>: Sélectionne les mascottes dans le cadre
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la manette<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Jeu à la <66>02</66><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　Sélection des mascottes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
     - Sélection individuelle
 　　　<CommandIcon(12)/>+<CommandIcon(7)/><Indent/>: Sélectionne une mascotte dans la liste d'équipe
@@ -461,12 +467,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/>Sous-menu <CommandIcon(11)/> Éditer les barres CdM"
 278,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/>Sous-menu <CommandIcon(11)/> Déplacer une mascotte"
 279,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/> Confirmer <CommandIcon(9)/> Annuler"
-280,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+280,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 281,"<CommandIcon(5)/> Déplacer <CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
 282,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
 283,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Déplacer une monture"
 284,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/> Confirmer <CommandIcon(9)/> Annuler"
-285,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+285,"<CommandIcon(5)/> Historique  <CommandIcon(12)/>+<CommandIcon(13)/> Coller<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 286,"<CommandIcon(5)/> Déplacer <CommandIcon(8)/> Utiliser <CommandIcon(10)/> Sous-menu"
 287,"<CommandIcon(7)/> Déplacer <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/> Confirmer <CommandIcon(9)/> Annuler"
 288,"<CommandIcon(8)/> Appeler/Renvoyer <CommandIcon(10)/> Sous-menu"
@@ -486,14 +492,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,"<CommandIcon(10)/> Sous-menu"
 303,"<CommandIcon(8)/><CommandIcon(10)/> Profil de la chambre"
 304,"<CommandIcon(8)/><CommandIcon(10)/> Profil de l'appartement"
-305,"<CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+305,"<CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
 307,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action <CommandIcon(11)/> Éditer les barres CdM"
 308,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action"
 309,"<CommandIcon(8)/> Exécuter  <CommandIcon(10)/> Placer dans les barres d'action"
 310,"<CommandIcon(12)/><CommandIcon(13)/> Informations sur la phase"
-311,"<CommandIcon(8)/> Confirmer  <CommandIcon(24)/> Défiler"
-312,"<CommandIcon(8)/> Confirmer "
+311,"<CommandIcon(8)/> Confirmer  <CommandIcon(11)/> Retourner au Monde d'origine  <CommandIcon(24)/> Défiler"
+312,"<CommandIcon(8)/> Confirmer  <CommandIcon(11)/> Retourner au Monde d'origine"
 313,"<CommandIcon(10)/> Annonces <CommandIcon(11)/> Aide"
 314,"<CommandIcon(8)/> Vérifier l'état en ligne  <CommandIcon(10)/> Sous-menu  <CommandIcon(9)/> Retour"
 315,"<CommandIcon(12)/><CommandIcon(13)/> Informations sur la phase  <CommandIcon(8)/> Vérifier les vulnérabilités"
@@ -567,7 +573,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/> Défilement rapide <CommandIcon(10)/> Sous-menu"
-386,"<CommandIcon(5)/> Historique <CommandIcon(12)/>+ <CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <If(Equal(PlayerParameter(78),99))><CommandIcon(11)/> Clavier virtuel<Else/><CommandIcon(11)/> Clavier visuel</If><Else/><Indent/></If>"
+386,"<CommandIcon(5)/> Historique <CommandIcon(12)/>+ <CommandIcon(13)/> Coller  <CommandIcon(10)/> Effacer<If(PlayerParameter(94))>  <CommandIcon(11)/> <Clickable(<66>2A</66>)/><Else/><Indent/></If>"
 387,"<CommandIcon(8)/> Obtenir une récompense <CommandIcon(10)/> Sous-menu"
 388,"<CommandIcon(10)/> Sous-menu"
 389,"<CommandIcon(10)/> Sous-menu"
@@ -656,33 +662,33 @@ Vous pourrez également revisiter les donjons déjà accomplis, aussi bien avec 
 442,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les touches du mode clavier/souris mentionnées ci-dessous sont celles de la configuration par défaut.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <If(Equal(PlayerParameter(75),0))>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/>/Touches Z, Q, S, D (déplacement)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/>/Touche W (dégainer/rengainer)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/>/Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/>/<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/>/Touche R, bouton  (course automatique)<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Touches Z, Q, S, D (déplacement)/<CommandIcon(20)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Touche W (dégainer/rengainer)/<Gui(16)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
+<If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)/<CommandIcon(11)/>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
+Touche R, bouton  (course automatique)/<CommandIcon(10)/><Else/>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/>/Touches Z, Q, S, D (déplacement)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/>/Touche W (dégainer/rengainer)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/>/<If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/>/<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/>/Touche R, bouton  (course automatique)</If>"
 443,"Enregistrement des missions"
 444,"Les conditions ci-dessous sont requises<Indent/>:
 1. Activer l'enregistrement des missions
@@ -702,7 +708,21 @@ Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les données d'enregistrement peuvent devenir in<SoftHyphen/>uti<SoftHyphen/>li<SoftHyphen/>sa<SoftHyphen/>bles en cas de mise à jour ou de correctif d'urgence du jeu.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 447,"Commandes de visionnage"
 448,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Les touches du mode clavier/souris mentionnées ci-dessous sont celles de la configuration par défaut.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(PlayerParameter(75),0))>
+<If(Equal(PlayerParameter(75),0))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touches Z, Q, S, D (déplacement)/<CommandIcon(20)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche W (dégainer/rengainer)/<Gui(16)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)/<CommandIcon(11)/>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Touche R, bouton  (course automatique)/<CommandIcon(10)/>
+<Else/>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(20)/>/Touches Z, Q, S, D (déplacement)
 
@@ -710,27 +730,13 @@ Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
 <Gui(16)/>/Touche W (dégainer/rengainer)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/>/Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
+<CommandIcon(7)/>/<If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(11)/>/<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/>/Touche R, bouton  (course automatique)<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Déplacement de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touches Z, Q, S, D (déplacement)/<CommandIcon(20)/>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Réinitialisation de la caméra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touche W (dégainer/rengainer)/<Gui(16)/>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Changement de cible<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touches <If(Equal(PlayerParameter(78),3))>tab, maj+tab<Else/>Tab, Maj+Tab</If>/<CommandIcon(7)/>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Pause/Lecture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(PlayerParameter(78),3))>espace<Else/>Espace</If> (saut)/<CommandIcon(11)/>
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Affichage des commandes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
+<CommandIcon(10)/>/Touche R, bouton  (course automatique)</If>"
 449,"Fonctions de visionnage"
 450,"- Pause
 - Sélection de chapitre
@@ -795,10 +801,10 @@ Touche R, bouton  (course automatique)/<CommandIcon(10)/></If>"
 504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
 505,"<CommandIcon(8)/> Ouvrir/Fermer l'aperçu  <CommandIcon(11)/> Aperçu  <CommandIcon(20)/> Déplacer  <CommandIcon(25)/> Rotation  <CommandIcon(12)/>+<CommandIcon(24)/> Zoom avant/arrière"
 506,"<CommandIcon(11)/> Appliquer"
-507,""
-508,""
-509,""
-510,""
+507,"<CommandIcon(10)/> Sous-menu"
+508,"<CommandIcon(8)/> Confirmer  <CommandIcon(12)/><CommandIcon(13)/> Choisir un centre de données  <CommandIcon(11)/> Retourner au Monde d'origine  <CommandIcon(24)/> Défiler"
+509,"<CommandIcon(8)/> Confirmer  <CommandIcon(12)/><CommandIcon(13)/> Choisir un centre de données  <CommandIcon(11)/> Retourner au Monde d'origine"
+510,"<CommandIcon(8)/><CommandIcon(10)/> Sous-menu"
 511,""
 512,""
 513,""

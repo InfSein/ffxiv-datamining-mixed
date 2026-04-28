@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_LOW_PLAYER_LEVEL","Le niveau du servant étant supérieur à celui que votre personnage a en <Sheet(ClassJob,IntegerParameter(1),0)/>, vous ne pouvez pas lui attribuer ce job."
 22,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_NO_ITEM","Vous ne possédez pas de <SheetFr(Item,12,IntegerParameter(1),1,1)/>."
 23,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_SUCCESS","Vous avez transmis la pratique du job “<Sheet(ClassJob,IntegerParameter(1),0)/>” au servant<Indent/>!"
-24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Impossible d'attribuer un job au servant."
+24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","Impossible d'attribuer un job au servant lorsqu'il effectue une tâche."
 25,"TEXT_CMNDEFRETAINERBELL_00544_ASK_BE_CHANGE_JOB","Voulez-vous attribuer un job à ce servant, au lieu de réinitialiser sa classe<Indent/>?"
 26,"TEXT_CMNDEFRETAINERBELL_00544_ASK_CHANGE_JOB","Voulez-vous inscrire vos con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ces et expériences relatives au job “<Sheet(ClassJob,IntegerParameter(2),0)/>” dans <SheetFr(Item,2,IntegerParameter(1),1,1)/> et le remettre au servant<Indent/>?
  <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>* Une fois un job attribué, il faudra le réinitialiser pour pouvoir le changer.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

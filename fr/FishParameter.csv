@@ -1781,7 +1781,71 @@ des vagues.","","","",32087,1,4,5139,True,1,249,0,True,0
 1461,"Au contact du métal présent dans les ruines d'Alexandrie, ce poisson doré s'est chargé en énergie de foudre, ce qui a donné à ses écailles une radiance naturelle.","","","",49799,750,0,7000,True,2,326,2519,True,1145
 1462,"Cet imposant poisson est si rapide que les rayures blanches et noires sur ses écailles donnent l'impression de magnifiques aurores qui fendent les flots.","Vous sentez une présence impétueuse dans l'eau !","La présence impétueuse s'est éloignée...","Vous avez pêché la présence impétueuse !",49800,750,0,7000,True,3,330,2519,True,1145
 1463,"Cet imposant spécimen originaire des douves de l'ancien château d'Alexandrie a une longévité remarquable. Pour beaucoup, la prolifération de son espèce est synonyme d'espoir.","","","",49801,750,0,7000,True,3,333,2519,True,1145
-1464,"","","","",0,0,0,0,False,0,0,0,False,0
+1464,"Malgré son nom qui peut signifier “tourner à gauche” dans la langue commune du Tuliyollal, ce poisson ancien est uniquement capable de nager vers la droite. Il est très apprécié des danseurs locaux car son rythme de nage leur rappelle la mélodie d'un poème chanté.","Vous sentez une présence énigmatique dans l'eau !","La présence énigmatique s'est éloignée...","Vous avez pêché la présence énigmatique !",51999,770,0,7000,True,9,298,2515,True,1145
+1465,"Un imposant oxydoras d'un noir profond. Selon la légende, les Yok Huy auraient utilisé ces poissons comme massues lors de leur conquête de Kozama'uka.","","","",52000,770,0,7000,True,2,306,2515,True,1145
+1466,"Ce spécimen de poisson-chat se distingue de ses congénères par sa bouche plate et proéminente, qui lui sert de pelle pour dénicher ses proies cachées dans le sable.","","","",52001,770,0,7000,True,3,307,2515,True,1145
+1467,"Ce poisson a un corps plat et circulaire qui ressemble à s'y méprendre au halo lunaire, à tel point que les Mamool Ja, qui n'aperçoivent pas le ciel à Ja Tiika, pensaient qu'il apparaissait pour leur indiquer la pleine lune.","","","",52002,770,0,7000,True,3,315,2515,True,1145
+1468,"Cette variété rarissime de farlowella a toujours été considérée avec respect en raison de sa capacité à assainir l'eau de son habitat. À Mamook, on l'offre en guise de premier repas aux jeunes doubles-têtes pour leur porter bonheur.","","","",52003,770,0,7000,True,3,316,2515,True,1145
+1469,"À force de boire de l'eau salée et boueuse, ce grand crocodile a la chair na<SoftHyphen/>tu<SoftHyphen/>rel<SoftHyphen/>le<SoftHyphen/>ment relevée. Les chasseurs n'hésitent pas à risquer leur vie pour l'affronter.","","","",52004,770,0,7000,True,3,317,2515,True,1145
+1470,"Une colonie de thaliacés qui se présente sous la forme d'un grand tube bleu. Portée par les courants capricieux du détroit de Zorgor, elle est familière des gouffres, raison pour laquelle elle est souvent redoutée.","","","",52005,770,0,7000,True,5,321,2517,True,1145
+1471,"Un énorme requin dont le corps luit comme un lingot de cuivre tout neuf. Certains disent que cet éclat viendrait de l'éther des Éternels qu'il aurait dévorés.","","","",52006,770,0,7000,True,1,332,2519,True,1145
+1472,"Lorsque cette crevette-mante verte se promène sur le pont de leur bateau, les marins roegadyns ont tendance à s'observer mu<SoftHyphen/>tuel<SoftHyphen/>le<SoftHyphen/>ment pour s'assurer qu'ils ont toujours leurs dix doigts.","","","",51209,1,1,7001,False,1,334,0,True,0
+1473,"Quand il est en compagnie de ses semblables au sein d'un banc, ce poisson translucide de taille moyenne est considéré comme un mauvais présage par les marins, aux yeux desquels il ressemble à l'âme errante d'un naufragé.","","","",51210,1,1,7002,False,1,334,0,True,0
+1474,"Cette espèce peut être aperçue dans une vaste zone océanique allant d'Éorzéa jusqu'au Tural. Selon toute vraisemblance, elle migre au gré des courants maritimes saisonniers.","","","",51211,1,1,7003,False,1,334,0,True,0
+1475,"Ce cnidaire vit dans les eaux peu profondes de la mer de Rhotano. L'extrémité de ses tentacules contient un venin puissant qui colore ses proies d'un vert très vif.","","","",51212,1,2,7007,False,1,334,0,True,0
+1476,"Parfois simplement appelée “poisson-plume” en raison de son corps long et fin, cette espèce serait même véritablement utilisée comme substitut aux plumes d'oie lorsque celles-ci viennent à manquer en pleine navigation.","","","",51213,1,2,7008,False,1,334,0,True,0
+1477,"Un poisson vivant entre les eaux côtières de Thavnair et d'Éorzéa. Animé d'un fort esprit combatif, on raconte que c'est en poursuivant des bateaux pirates qu'il a occupé un espace maritime aussi étendu.","","","",51214,1,2,7009,False,1,334,0,True,0
+1478,"Un cousin du mosasaure occupant les eaux des terres intérieures de Gyr Abania. Non moins féroce que son congénère continental, il est en plus capable d'évoluer en mer.","","","",51215,1,3,7013,False,1,334,0,True,0
+1479,"D'après la légende, ce poisson serait la réincarnation d'un émissaire passé par-dessus bord lors d'un voyage diplomatique. Ses couleurs rappellent celles d'un habit oriental traditionnel.","","","",51216,1,3,7014,False,1,334,0,True,0
+1480,"Une étoile de mer à moitié cristallisée après avoir été exposée à une intense énergie éthérée. Elle nage telle une étoile filante, entraînant dans son sillage les courants spectraux.","","","",51217,1,4,7037,True,1,334,0,True,0
+1481,"Un poisson tropical reconnaissable à son motif particulier. Il doit son nom aux pantins qui l'ont vu nager dans les eaux côtières de la Félicité insulaire.","","","",51218,1,4,7017,True,1,334,0,True,0
+1482,"Une variété par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement bien en chair de doigt-du-second. Qui d'autre qu'un capitaine un peu trop glouton pour avoir un doigt aussi boudiné<Indent/>?","","","",51219,1,4,7019,True,1,335,0,True,0
+1483,"Un corail originaire des mers de la Noscea, dont la couleur rouge foncé est due à l'influence des courants spectraux. Ces coraux sont tellement rares qu'ils sont utilisés comme monnaie d'échange, au même titre que des pierres précieuses.","","","",51220,1,4,7020,True,1,335,0,True,0
+1484,"On raconte que ce poisson tropical est la réincarnation d'un émissaire tombé à l'eau lors d'une mission diplomatique. Il continue d'accomplir son devoir, nageant avec flegme dans les courants spectraux.","","","",51221,1,4,7021,True,1,335,0,True,0
+1485,"Les écailles dorées et teintées de vert de ce poisson scintillent d'un éclat remarquable. Les pirates croient que sa ressemblance avec une bourse bien garnie est un présage de prospérité.","","","",51222,1,4,7022,True,1,335,0,True,0
+1486,"On raconte que ce poisson servait de plume, mais que sa taille plus imposante que celle de ses congénères le réservait au capitaine plutôt qu'au navigateur.","","","",51223,1,4,7023,True,1,335,0,True,0
+1487,"La bouche cylindrique de cette ancienne créature lui a valu le surnom de “lézard à trompe”. On le confond parfois avec une baleine en raison de sa taille.","","","",51224,1,4,7024,True,1,335,0,True,0
+1488,"Bien que les poissons-coqs soient très répandus, cette sous-espèce est unique aux courants spectraux des îles de Cieldalaes. Les mouvements ondulants des nageoires de ces spécimens évoquent une danse gracieuse.","","","",51225,1,4,7025,True,1,335,0,True,0
+1489,"Ce reptile aussi immense que féroce impose sa sombre présence au sein des courants spectraux. Il a terrassé bien d'autres rhotanosaures pour se hisser au sommet de leur hiérarchie.","","","",51226,1,4,7026,True,1,335,0,True,0
+1490,"Habitant des courants spectraux, ce poisson rhombiforme ressemble à la pointe d'une lance, raison pour laquelle les pêcheurs au harpon le considèrent comme de bon augure.","","","",51227,1,4,7027,True,1,335,0,True,0
+1491,"Pendant très longtemps, cette tortue géante s'est laissée doucement dériver, sa carapace flottant juste au-dessus de la surface de l'eau. Résultat, de la végétation s'y est développée, formant un écosystème à part entière.","","","",51228,745,5,7039,True,1,335,0,True,0
+1492,"Du fait de sa carapace rouge vif, ce petit crustacé est souvent pris à tort pour une crevette. À noter qu'il possède non pas des pinces, mais des pattes avant en forme de faucille.","","","",51229,1,1,7004,False,1,336,0,True,0
+1493,"En ancienne langue thavnairoise, le nom de ce crabe signifie “rose sucrée”, et pour cause<Indent/>: sa chair est vénéneuse, mais devient comestible après avoir été cuite dans l'eau bouillante, révélant au passage un goût étonnamment doux.","","","",51230,1,1,7005,False,1,336,0,True,0
+1494,"On raconte que ce poisson se serait incarné lorsqu'un poil de la barbe blanche d'Agama, un saint de la culture thavnairoise, est tombé dans l'eau. De nombreux moines affectionnent toujours de porter un spécimen séché avec eux comme porte-bonheur.","","","",51231,1,1,7006,False,1,336,0,True,0
+1495,"Ce poisson est très reconnaissable à sa nageoire dorsale argentée. Son petit sobriquet lui a été donné en référence aux épées utilisées par les gardes des temples thavnairois.","","","",51232,1,2,7010,False,1,336,0,True,0
+1496,"Ce labre, surnommé “nuage de pluie” dans la langue locale, a pour habitude de se déplacer en nombre avant l'arrivée d'une tempête, ce qui est désormais perçu comme un signe avant-coureur. En vérité, ce poisson cherche simplement à éviter les intempéries.","","","",51233,1,2,7011,False,1,336,0,True,0
+1497,"Un reptile amphibien très féroce et dont le nom signifie “le voleur au nez bossu”. Grâce à sa mâchoire très robuste, il peut déchiqueter ses proies avec aise, faisant de lui un redoutable prédateur des mers.","","","",51234,1,2,7012,False,1,336,0,True,0
+1498,"Ce grand reptile préhistorique a élu domicile dans les eaux autour de l'île de Thavnair. Il se montre généralement doux envers les humains et est très apprécié des habitants, qui l'ont inclus depuis longtemps dans leurs récits folkloriques.","","","",51235,1,3,7015,False,1,336,0,True,0
+1499,"","","","",0,0,0,0,False,0,0,0,False,0
+1500,"Le corps de ce garoupa s'est partiellement cristallisé sous l'effet d'une forte con<SoftHyphen/>cen<SoftHyphen/>tra<SoftHyphen/>tion en éther.  On raconte qu'il nage souvent en tête d'un courant spectral, comme s'il le créait lui-même.","","","",51237,1,4,7038,True,1,336,0,True,0
+1501,"Ce poisson est considéré comme un véritable porte-bonheur par les habitants de Thavnair. Ses motifs éclatants sont visibles depuis le pont des bateaux, et guideraient les pêcheurs vers des eaux où les prises sont les plus abondantes.","","","",51238,1,4,7018,True,1,336,0,True,0
+1502,"Une variété de squille dont la couleur est plus foncée que celle de ses congénères. Sa chair est délicieuse lorsqu'elle est bouillie dans de l'eau salée, mais sa carapace vire au gris terne sous l'effet de la chaleur.","","","",51239,1,4,7028,True,1,337,0,True,0
+1503,"L'influence des courants spectraux a rendu la chair de ce datli gwl encore plus exquise que celle de son cousin. Surnommé “le merveilleux délice”, il est même servi au palais du satrape.","","","",51240,1,4,7029,True,1,337,0,True,0
+1504,"Un poisson argenté au corps plat, orné d'un motif semblable à l'œil d'une créature marine. On dit que même les gros poissons prennent la fuite dès qu'ils croisent ce “regard”.","","","",51241,1,4,7030,True,1,337,0,True,0
+1505,"Ces poissons sont reconnaissables à leur corps très effilé. Il fut un temps où les marchands de Thavnair décidaient de leur prochaine destination en les séchant, puis en les lançant pour les planter sur une carte.","","","",51242,1,4,7031,True,1,337,0,True,0
+1506,"Un reptile des temps anciens dont la constitution a été altérée par les courants spectraux. Les chercheurs du département d'éthérologie de l'académie de magie de Sharlayan s'y intéressent, car ils pensent qu'il pourra les aider à mieux comprendre la circulation des flux aquatiques.","","","",51243,1,4,7032,True,1,337,0,True,0
+1507,"La grande taille de ce crustacé surprend, au vu de son appartenance à la famille des crevettes. A contrario, son surnom de “tigre” semble usurpé tant il est peureux. Il vit dans les profondeurs du grand large, où il reste discret jusqu'à ce que des courants spectraux le remontent vers la surface.","","","",51244,1,4,7033,True,1,337,0,True,0
+1508,"Cette variété de mahi-mahi nage de façon très lente, comme pour prendre son temps. Il existe ainsi sur l'île de Thavnair un vieux conte au sujet de pêcheurs qui se lancent le défi de faire nager un mouhi-mouhi le plus loin possible...","","","",51245,1,4,7034,True,1,337,0,True,0
+1509,"Ce petit requin-baleine se plaît à nager dans les courants marins des côtes de Thavnair. Son nom aux sonorités orientales lui vient des motifs tachetés ca<SoftHyphen/>rac<SoftHyphen/>té<SoftHyphen/>ris<SoftHyphen/>ti<SoftHyphen/>ques qui se trouvent sur son dos.","","","",51687,1,4,7016,True,1,336,0,True,0
+1510,"Ce reptile dévore avidement ses proies grâce à ses puissantes mâchoires et à ses rangées de dents semblables à des scies. Sa férocité légendaire lui vaut d'être craint même par les pêcheurs les plus chevronnés.","","","",51246,1,4,7036,True,1,337,0,True,0
+1511,"Son nom signifie “grands sabres” et fait référence aux deux énormes crocs qui le caractérisent. Selon une légende du Proche-Orient, il est vu comme un protecteur capable de chasser les démons et autres créatures malveillantes.","","","",51247,745,5,7040,True,1,337,0,True,0
+1512,"","","","",0,0,0,0,False,0,0,0,False,0
+1513,"","","","",0,0,0,0,False,0,0,0,False,0
+1514,"","","","",0,0,0,0,False,0,0,0,False,0
+1515,"","","","",0,0,0,0,False,0,0,0,False,0
+1516,"","","","",0,0,0,0,False,0,0,0,False,0
+1517,"","","","",0,0,0,0,False,0,0,0,False,0
+1518,"","","","",0,0,0,0,False,0,0,0,False,0
+1519,"","","","",0,0,0,0,False,0,0,0,False,0
+1520,"","","","",0,0,0,0,False,0,0,0,False,0
+1521,"","","","",0,0,0,0,False,0,0,0,False,0
+1522,"","","","",0,0,0,0,False,0,0,0,False,0
+1523,"","","","",0,0,0,0,False,0,0,0,False,0
+1524,"","","","",0,0,0,0,False,0,0,0,False,0
+1525,"","","","",0,0,0,0,False,0,0,0,False,0
+1526,"","","","",0,0,0,0,False,0,0,0,False,0
+1527,"","","","",0,0,0,0,False,0,0,0,False,0
+1528,"","","","",0,0,0,0,False,0,0,0,False,0
 15000,"","","","",6688,36,0,0,False,44,0,0,False,0
 15001,"","","","",6689,41,0,0,False,44,0,0,False,0
 15002,"","","","",6690,46,0,0,False,44,0,0,False,0
@@ -2625,3 +2689,143 @@ des vagues.","","","",32087,1,4,5139,True,1,249,0,True,0
 15840,"","","","",50227,10,0,0,False,44,0,0,False,0
 15841,"","","","",50228,10,0,0,False,44,0,0,False,0
 15842,"","","","",50229,10,0,0,False,44,0,0,False,0
+15843,"","","","",0,0,0,0,False,0,0,0,False,0
+15844,"","","","",0,0,0,0,False,0,0,0,False,0
+15845,"","","","",0,0,0,0,False,0,0,0,False,0
+15846,"","","","",0,0,0,0,False,0,0,0,False,0
+15847,"","","","",0,0,0,0,False,0,0,0,False,0
+15848,"","","","",0,0,0,0,False,0,0,0,False,0
+15849,"","","","",0,0,0,0,False,0,0,0,False,0
+15850,"","","","",0,0,0,0,False,0,0,0,False,0
+15851,"","","","",0,0,0,0,False,0,0,0,False,0
+15852,"","","","",0,0,0,0,False,0,0,0,False,0
+15853,"","","","",0,0,0,0,False,0,0,0,False,0
+15854,"","","","",0,0,0,0,False,0,0,0,False,0
+15855,"","","","",0,0,0,0,False,0,0,0,False,0
+15856,"","","","",0,0,0,0,False,0,0,0,False,0
+15857,"","","","",0,0,0,0,False,0,0,0,False,0
+15858,"","","","",0,0,0,0,False,0,0,0,False,0
+15859,"","","","",0,0,0,0,False,0,0,0,False,0
+15860,"","","","",0,0,0,0,False,0,0,0,False,0
+15861,"","","","",0,0,0,0,False,0,0,0,False,0
+15862,"","","","",0,0,0,0,False,0,0,0,False,0
+15863,"","","","",0,0,0,0,False,0,0,0,False,0
+15864,"","","","",0,0,0,0,False,0,0,0,False,0
+15865,"","","","",0,0,0,0,False,0,0,0,False,0
+15866,"","","","",0,0,0,0,False,0,0,0,False,0
+15867,"","","","",0,0,0,0,False,0,0,0,False,0
+15868,"","","","",0,0,0,0,False,0,0,0,False,0
+15869,"","","","",0,0,0,0,False,0,0,0,False,0
+15870,"","","","",0,0,0,0,False,0,0,0,False,0
+15871,"","","","",0,0,0,0,False,0,0,0,False,0
+15872,"","","","",0,0,0,0,False,0,0,0,False,0
+15873,"","","","",0,0,0,0,False,0,0,0,False,0
+15874,"","","","",0,0,0,0,False,0,0,0,False,0
+15875,"","","","",0,0,0,0,False,0,0,0,False,0
+15876,"","","","",0,0,0,0,False,0,0,0,False,0
+15877,"","","","",0,0,0,0,False,0,0,0,False,0
+15878,"","","","",0,0,0,0,False,0,0,0,False,0
+15879,"","","","",0,0,0,0,False,0,0,0,False,0
+15880,"","","","",0,0,0,0,False,0,0,0,False,0
+15881,"","","","",0,0,0,0,False,0,0,0,False,0
+15882,"","","","",0,0,0,0,False,0,0,0,False,0
+15883,"","","","",0,0,0,0,False,0,0,0,False,0
+15884,"","","","",0,0,0,0,False,0,0,0,False,0
+15885,"","","","",0,0,0,0,False,0,0,0,False,0
+15886,"","","","",0,0,0,0,False,0,0,0,False,0
+15887,"","","","",0,0,0,0,False,0,0,0,False,0
+15888,"","","","",0,0,0,0,False,0,0,0,False,0
+15889,"","","","",0,0,0,0,False,0,0,0,False,0
+15890,"","","","",0,0,0,0,False,0,0,0,False,0
+15891,"","","","",0,0,0,0,False,0,0,0,False,0
+15892,"","","","",0,0,0,0,False,0,0,0,False,0
+15893,"","","","",0,0,0,0,False,0,0,0,False,0
+15894,"","","","",0,0,0,0,False,0,0,0,False,0
+15895,"","","","",0,0,0,0,False,0,0,0,False,0
+15896,"","","","",0,0,0,0,False,0,0,0,False,0
+15897,"","","","",0,0,0,0,False,0,0,0,False,0
+15898,"","","","",0,0,0,0,False,0,0,0,False,0
+15899,"","","","",0,0,0,0,False,0,0,0,False,0
+15900,"","","","",0,0,0,0,False,0,0,0,False,0
+15901,"","","","",0,0,0,0,False,0,0,0,False,0
+15902,"","","","",0,0,0,0,False,0,0,0,False,0
+15903,"","","","",0,0,0,0,False,0,0,0,False,0
+15904,"","","","",0,0,0,0,False,0,0,0,False,0
+15905,"","","","",0,0,0,0,False,0,0,0,False,0
+15906,"","","","",0,0,0,0,False,0,0,0,False,0
+15907,"","","","",0,0,0,0,False,0,0,0,False,0
+15908,"","","","",0,0,0,0,False,0,0,0,False,0
+15909,"","","","",0,0,0,0,False,0,0,0,False,0
+15910,"","","","",0,0,0,0,False,0,0,0,False,0
+15911,"","","","",0,0,0,0,False,0,0,0,False,0
+15912,"","","","",0,0,0,0,False,0,0,0,False,0
+15913,"","","","",0,0,0,0,False,0,0,0,False,0
+15914,"","","","",0,0,0,0,False,0,0,0,False,0
+15915,"","","","",0,0,0,0,False,0,0,0,False,0
+15916,"","","","",0,0,0,0,False,0,0,0,False,0
+15917,"","","","",0,0,0,0,False,0,0,0,False,0
+15918,"","","","",0,0,0,0,False,0,0,0,False,0
+15919,"","","","",0,0,0,0,False,0,0,0,False,0
+15920,"","","","",0,0,0,0,False,0,0,0,False,0
+15921,"","","","",0,0,0,0,False,0,0,0,False,0
+15922,"","","","",0,0,0,0,False,0,0,0,False,0
+15923,"","","","",0,0,0,0,False,0,0,0,False,0
+15924,"","","","",0,0,0,0,False,0,0,0,False,0
+15925,"","","","",0,0,0,0,False,0,0,0,False,0
+15926,"","","","",0,0,0,0,False,0,0,0,False,0
+15927,"","","","",0,0,0,0,False,0,0,0,False,0
+15928,"","","","",0,0,0,0,False,0,0,0,False,0
+15929,"","","","",0,0,0,0,False,0,0,0,False,0
+15930,"","","","",0,0,0,0,False,0,0,0,False,0
+15931,"","","","",0,0,0,0,False,0,0,0,False,0
+15932,"","","","",0,0,0,0,False,0,0,0,False,0
+15933,"","","","",0,0,0,0,False,0,0,0,False,0
+15934,"","","","",0,0,0,0,False,0,0,0,False,0
+15935,"","","","",0,0,0,0,False,0,0,0,False,0
+15936,"","","","",0,0,0,0,False,0,0,0,False,0
+15937,"","","","",0,0,0,0,False,0,0,0,False,0
+15938,"","","","",0,0,0,0,False,0,0,0,False,0
+15939,"","","","",0,0,0,0,False,0,0,0,False,0
+15940,"","","","",0,0,0,0,False,0,0,0,False,0
+15941,"","","","",0,0,0,0,False,0,0,0,False,0
+15942,"","","","",0,0,0,0,False,0,0,0,False,0
+15943,"","","","",0,0,0,0,False,0,0,0,False,0
+15944,"","","","",0,0,0,0,False,0,0,0,False,0
+15945,"","","","",0,0,0,0,False,0,0,0,False,0
+15946,"","","","",0,0,0,0,False,0,0,0,False,0
+15947,"","","","",0,0,0,0,False,0,0,0,False,0
+15948,"","","","",0,0,0,0,False,0,0,0,False,0
+15949,"","","","",0,0,0,0,False,0,0,0,False,0
+15950,"","","","",0,0,0,0,False,0,0,0,False,0
+15951,"","","","",0,0,0,0,False,0,0,0,False,0
+15952,"","","","",0,0,0,0,False,0,0,0,False,0
+15953,"","","","",0,0,0,0,False,0,0,0,False,0
+15954,"","","","",0,0,0,0,False,0,0,0,False,0
+15955,"","","","",0,0,0,0,False,0,0,0,False,0
+15956,"","","","",0,0,0,0,False,0,0,0,False,0
+15957,"","","","",0,0,0,0,False,0,0,0,False,0
+15958,"","","","",0,0,0,0,False,0,0,0,False,0
+15959,"","","","",0,0,0,0,False,0,0,0,False,0
+15960,"","","","",0,0,0,0,False,0,0,0,False,0
+15961,"","","","",0,0,0,0,False,0,0,0,False,0
+15962,"","","","",0,0,0,0,False,0,0,0,False,0
+15963,"","","","",0,0,0,0,False,0,0,0,False,0
+15964,"","","","",0,0,0,0,False,0,0,0,False,0
+15965,"","","","",0,0,0,0,False,0,0,0,False,0
+15966,"","","","",0,0,0,0,False,0,0,0,False,0
+15967,"","","","",0,0,0,0,False,0,0,0,False,0
+15968,"","","","",0,0,0,0,False,0,0,0,False,0
+15969,"","","","",0,0,0,0,False,0,0,0,False,0
+15970,"","","","",0,0,0,0,False,0,0,0,False,0
+15971,"","","","",0,0,0,0,False,0,0,0,False,0
+15972,"","","","",0,0,0,0,False,0,0,0,False,0
+15973,"","","","",0,0,0,0,False,0,0,0,False,0
+15974,"","","","",0,0,0,0,False,0,0,0,False,0
+15975,"","","","",0,0,0,0,False,0,0,0,False,0
+15976,"","","","",0,0,0,0,False,0,0,0,False,0
+15977,"","","","",0,0,0,0,False,0,0,0,False,0
+15978,"","","","",0,0,0,0,False,0,0,0,False,0
+15979,"","","","",0,0,0,0,False,0,0,0,False,0
+15980,"","","","",0,0,0,0,False,0,0,0,False,0
+15981,"","","","",0,0,0,0,False,0,0,0,False,0
+15982,"","","","",0,0,0,0,False,0,0,0,False,0

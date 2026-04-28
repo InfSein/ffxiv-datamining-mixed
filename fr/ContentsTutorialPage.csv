@@ -93,7 +93,7 @@ Utilisables au sein des donjons à embranchements, les <UIForeground>0F</UIForeg
 Vous pouvez choisir jusqu'à deux actions embranchées, et en changer à tout moment durant la mission via la fenêtre des donjons spéciaux."
 18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>S'enregistrer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-Pour explorer un donjon à embranchements, enregistrez-vous via la fenêtre dédiée. Ouvrez-la en parlant au <UIForeground>0F</UIForeground>PNJ<UIForeground>01</UIForeground> à l'entrée du donjon, ou en choisissant <UIForeground>0F</UIForeground>Donjons spéciaux<UIForeground>01</UIForeground> dans la rubrique Missions du menu principal.
+Ouvrez-la soit en parlant au <UIForeground>0F</UIForeground>PNJ<UIForeground>01</UIForeground> ou en utilisant le <UIForeground>0F</UIForeground>point d'accès<UIForeground>01</UIForeground> à l'entrée du donjon, soit en choisissant <UIForeground>0F</UIForeground>Donjons spéciaux<UIForeground>01</UIForeground> dans la rubrique Missions du menu principal.
 
 Depuis cette fenêtre, vous pouvez également modifier vos actions embranchées, consulter votre journal d'exploration, ou encore régler certains paramètres de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion."
 19,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Soyez les bienvenus sur votre Félicité insulaire, un petit coin de nature rien qu'à vous, au milieu de l'archipel des Cieldalaes<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

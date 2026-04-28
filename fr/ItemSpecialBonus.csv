@@ -12,3 +12,4 @@ int32,str,str
 8,"Bonus en Bozja<Indent/>:",""
 9,"Bonus sur l'île de Lunule<Indent/>: ",""
 10,"Bonus de tenue sur l'île de Lunule<Indent/>: ","<Value>IntegerParameter(1)</Value> <If(Equal(IntegerParameter(1),1))>pièce<Else/>pièces</If> de l'ensemble <If(Equal(IntegerParameter(1),1))>doit être équipée<Else/>doivent être équipées</If>."
+11,"",""

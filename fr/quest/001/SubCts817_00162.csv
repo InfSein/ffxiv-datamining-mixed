@@ -82,3 +82,4 @@ J'ai hâte de voir si vous êtes un<If(PlayerParameter(4))>e<Else/></If> vrai<If
 71,"TEXT_SUBCTS817_00162_SYSTEM_000_037","Vous possédez désormais un carnet d'exploration. Vous pouvez le consulter par le biais de la rubrique “Carnets” du menu principal."
 72,"TEXT_SUBCTS817_00162_SYSTEM_000_038","Pour y marquer un “lieu notoire”, vous devez vous y tenir et effectuer une emote par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>re à un moment précis de la journée ou dans des conditions météorologiques déterminées."
 73,"TEXT_SUBCTS817_00162_SYSTEM_000_039","Le carnet d'exploration contient des in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions partielles qui vous aideront à découvrir ces emplacements."
+74,"TEXT_SUBCTS817_00162_SYSTEM_100_039","Pour plus d'in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions, cliquez sur l'icone d'aide en bas à droite de la fenêtre du carnet d'exploration."

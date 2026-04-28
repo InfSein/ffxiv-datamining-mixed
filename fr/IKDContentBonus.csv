@@ -41,18 +41,26 @@ int32,str,str,uint16,Image,byte
 37,"Une pêche d'enfer<Indent/>: golfe de Rothlyt","Condition : pêcher 10 prises différentes ou plus en équipe dans le golfe de Rothlyt.",110,65922,28
 38,"Une pêche d'enfer<Indent/>: golfe de Rothlyt","Condition : pêcher 9 prises différentes ou plus en équipe dans le golfe de Rothlyt. (Nombre requis ajusté au nombre de participants)",110,65922,29
 39,"Une pêche d'enfer<Indent/>: golfe de Rothlyt","Condition : pêcher 8 prises différentes ou plus en équipe dans le golfe de Rothlyt. (Nombre requis ajusté au nombre de participants)",110,65922,30
-40,"Malacologie","Condition : pêcher 350 mollusques ou plus en équipe.",130,65930,52
-41,"Surume dragon","Condition : pêcher 400 céphalopodes ou plus en équipe.",130,65931,53
-42,"Banc de crevettes","Condition : pêcher 50 crevettes ou plus.",120,65932,54
-43,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 10 prises différentes ou plus en équipe dans la Mer du Chant des sirènes.",110,65926,40
-44,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 9 prises différentes ou plus en équipe dans la Mer du Chant des sirènes. (Nombre requis ajusté au nombre de participants)",110,65926,41
-45,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 8 prises différentes ou plus en équipe dans la Mer du Chant des sirènes. (Nombre requis ajusté au nombre de participants)",110,65926,42
-46,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 10 prises différentes ou plus en équipe dans la baie de Kugane.",110,65927,43
-47,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 9 prises différentes ou plus en équipe dans la baie de Kugane. (Nombre requis ajusté au nombre de participants)",110,65927,44
-48,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 8 prises différentes ou plus en équipe dans la baie de Kugane. (Nombre requis ajusté au nombre de participants)",110,65927,45
-49,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 10 prises différentes ou plus en équipe dans la Mer de rubis.",110,65928,46
-50,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 9 prises différentes ou plus en équipe dans la Mer de rubis. (Nombre requis ajusté au nombre de participants)",110,65928,47
-51,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 8 prises différentes ou plus en équipe dans la Mer de rubis. (Nombre requis ajusté au nombre de participants)",110,65928,48
-52,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 10 prises différentes ou plus en équipe dans la Muni.",110,65929,49
-53,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 9 prises différentes ou plus en équipe dans la Muni. (Nombre requis ajusté au nombre de participants)",110,65929,50
-54,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 8 prises différentes ou plus en équipe dans la Muni. (Nombre requis ajusté au nombre de participants)",110,65929,51
+40,"Malacologie","Condition : pêcher 350 mollusques ou plus en équipe.",130,65930,55
+41,"Surume dragon","Condition : pêcher 400 céphalopodes ou plus en équipe.",130,65931,56
+42,"Banc de crevettes","Condition : pêcher 50 crevettes ou plus.",120,65932,57
+43,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 10 prises différentes ou plus en équipe dans la Mer du Chant des sirènes.",110,65926,43
+44,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 9 prises différentes ou plus en équipe dans la Mer du Chant des sirènes. (Nombre requis ajusté au nombre de participants)",110,65926,44
+45,"Une pêche d'enfer<Indent/>: Mer du Chant des sirènes","Condition : pêcher 8 prises différentes ou plus en équipe dans la Mer du Chant des sirènes. (Nombre requis ajusté au nombre de participants)",110,65926,45
+46,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 10 prises différentes ou plus en équipe dans la baie de Kugane.",110,65927,46
+47,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 9 prises différentes ou plus en équipe dans la baie de Kugane. (Nombre requis ajusté au nombre de participants)",110,65927,47
+48,"Une pêche d'enfer<Indent/>: baie de Kugane","Condition : pêcher 8 prises différentes ou plus en équipe dans la baie de Kugane. (Nombre requis ajusté au nombre de participants)",110,65927,48
+49,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 10 prises différentes ou plus en équipe dans la Mer de rubis.",110,65928,49
+50,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 9 prises différentes ou plus en équipe dans la Mer de rubis. (Nombre requis ajusté au nombre de participants)",110,65928,50
+51,"Une pêche d'enfer<Indent/>: Mer de rubis","Condition : pêcher 8 prises différentes ou plus en équipe dans la Mer de rubis. (Nombre requis ajusté au nombre de participants)",110,65928,51
+52,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 10 prises différentes ou plus en équipe dans la Muni.",110,65929,52
+53,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 9 prises différentes ou plus en équipe dans la Muni. (Nombre requis ajusté au nombre de participants)",110,65929,53
+54,"Une pêche d'enfer<Indent/>: Muni","Condition : pêcher 8 prises différentes ou plus en équipe dans la Muni. (Nombre requis ajusté au nombre de participants)",110,65929,54
+55,"Archéologie sous-marine","Condition : pêcher 300 créatures antiques ou plus en équipe.",130,65933,61
+56,"Banc de crevettes-mantes","Condition : pêcher 50 crevettes-mantes ou plus.",120,65934,62
+57,"Une pêche d'enfer<Indent/>: île sans nom","Condition : pêcher 10 prises différentes ou plus en équipe au large de l'île sans nom.",110,65935,40
+58,"Une pêche d'enfer<Indent/>: île sans nom","Condition : pêcher 9 prises différentes ou plus en équipe au large de l'île sans nom. (Nombre requis ajusté au nombre de participants)",110,65935,41
+59,"Une pêche d'enfer<Indent/>: île sans nom","Condition : pêcher 8 prises différentes ou plus en équipe au large de l'île sans nom. (Nombre requis ajusté au nombre de participants)",110,65935,42
+60,"Une pêche d'enfer<Indent/>: Thavnair","Condition : pêcher 10 prises différentes ou plus en équipe au large de Thavnair.",110,65936,58
+61,"Une pêche d'enfer<Indent/>: Thavnair","Condition : pêcher 9 prises différentes ou plus en équipe au large de Thavnair. (Nombre requis ajusté au nombre de participants)",110,65936,59
+62,"Une pêche d'enfer<Indent/>: Thavnair","Condition : pêcher 8 prises différentes ou plus en équipe au large de Thavnair. (Nombre requis ajusté au nombre de participants)",110,65936,60

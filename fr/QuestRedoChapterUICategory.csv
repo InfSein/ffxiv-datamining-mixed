@@ -41,7 +41,7 @@ int32,byte,str
 37,13,"Danseur"
 38,0,""
 39,23,"Mage rouge"
-40,99,"Mage bleu (Job restreint)"
+40,90,"Mage bleu (Job restreint)"
 41,0,"Quêtes de rôle"
 42,0,"Quêtes de rôle"
 43,0,"Quêtes de rôle"
@@ -61,3 +61,4 @@ int32,byte,str
 57,1,"Quêtes de récolteurs"
 58,6,"Quêtes d'artisans et récolteurs - prologue"
 59,7,"Quêtes d'artisans et récolteurs - épilogue"
+60,0,""

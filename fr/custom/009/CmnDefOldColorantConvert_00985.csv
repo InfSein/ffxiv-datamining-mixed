@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT","Vous n'avez aucune ancienne teinture à échanger."
+1,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1","Vous recevrez<Indent/>:
+<Highlight>StringParameter(1)</Highlight>
+
+Échanger vos anciennes teintures<Indent/>?"
+2,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2","
+<If(Equal(IntegerParameter(2),1))><SheetFr(Item,1,IntegerParameter(1),1,1)/><Else/><Format(IntegerParameter(2),FF05021D0103)/> <SheetFr(Item,12,IntegerParameter(1),2,1)/></If>"

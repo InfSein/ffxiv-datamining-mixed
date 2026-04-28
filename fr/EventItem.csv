@@ -3473,7 +3473,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003469,"cloporte du sud",0,"cloporte du sud",0,0,1,0,0,False,"Cloporte du sud",25919,0,1,1,0,0,0,0
 2003470,"ver du sud",0,"ver du sud",0,0,1,0,0,False,"Ver du sud",25919,0,1,1,0,0,0,0
 2003471,"amplificarotteur",0,"amplificarotteurs",0,1,1,0,0,False,"Amplificarotteur",25207,1,1,1,70331,0,0,0
-2003472,"cor de l'éternité",0,"cors de l'éternité",0,0,1,0,0,False,"Cor de l'éternité",26038,1,1,1,70331,0,0,0
+2003472,"cor de l'éternité",0,"cors de l'éternité",0,0,1,0,0,False,"Cor de l'éternité",26038,1,1,1,70331,3,0,0
 2003473,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003474,"statue de tortue",0,"statues de tortue",0,0,1,1,0,False,"Statue de tortue",25919,0,1,1,0,0,0,0
 2003475,"statue de baleine",0,"statues de baleine",0,0,1,1,0,False,"Statue de baleine",25919,0,1,1,0,0,0,0
@@ -3660,7 +3660,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003656,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003657,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003658,"bague en verre",0,"bagues en verre",0,0,1,1,0,False,"Bague en verre",54417,0,1,1,70562,0,0,0
-2003659,"caisse de marchandises éparpillées",0,"caisses de marchandises éparpillées",0,0,1,1,0,False,"Caisse de marchandises éparpillées",26108,0,3,1,70564,0,0,0
+2003659,"caisse de marchandises égarée",0,"caisses de marchandises égarées",0,0,1,1,0,False,"Caisse de marchandises égarée",26108,0,3,1,70564,0,0,0
 2003660,"lettre pour Zeebil Ja",0,"lettres pour Zeebil Ja",0,0,1,1,0,False,"Lettre pour Zeebil Ja",26171,0,1,1,70564,0,0,0
 2003661,"paquet de purificateurs",0,"paquets de purificateurs",0,0,1,0,0,False,"Paquet de purificateurs",23001,0,1,1,70529,0,0,0
 2003662,"cristal bleu ciel",0,"cristaux bleu ciel",0,0,1,0,0,False,"Cristal bleu ciel",20048,0,1,1,70531,0,0,0
@@ -3804,7 +3804,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003800,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003801,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003802,"cartouche d'activeur d'éther",0,"cartouches d'activeur d'éther",0,0,1,1,0,False,"Cartouche d'activeur d'éther",23569,0,3,1,0,0,0,0
-2003803,"cartouche d'activeur d'éther",0,"cartouches d'activeur d'éther",0,0,1,1,0,False,"Cartouche d'activeur d'éther",23569,0,3,1,0,0,0,0
+2003803,"cartouche d'activeur d'éther",0,"cartouches d'activeur d'éther",0,0,1,1,0,False,"Cartouche d'activeur d'éther",23569,0,5,1,0,0,0,0
 2003804,"sac de bombes fumigènes anti-foudre",0,"sacs de bombes fumigènes anti-foudre",0,0,1,0,0,False,"Bombes fumigènes anti-foudre",26110,1276,1,1,70966,1,0,4
 2003805,"morceau de jaspe d'Oizys",0,"morceaux de jaspe d'Oizys",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2003806,"gros morceau de jaspe d'Oizys",0,"gros morceaux de jaspe d'Oizys",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
@@ -3816,4 +3816,32 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003812,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003813,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003814,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003815,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003815,"tasse de kinderpunsch chaud",0,"tasses de kinderpunsch chaud",0,0,1,1,0,False,"Kinderpunsch chaud",53492,0,3,1,71001,0,0,0
+2003816,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003817,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003818,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003819,"見破りカボチャ玉",0,"",0,0,1,0,0,False,"",24153,1276,1,1,71004,1,0,4
+2003820,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003821,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003822,"sachet de pirojki",0,"sachets de pirojki",0,0,1,0,0,False,"Sachet de pirojki",53302,0,1,1,71008,0,0,0
+2003823,"transmetteur d'éther",0,"transmetteurs d'éther",0,0,1,0,0,False,"Transmetteur d'éther",26086,1,1,1,71009,0,0,1
+2003824,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003825,"sifflet ailes blanches et dorées",0,"sifflets ailes blanches et dorées",0,0,1,0,0,False,"Sifflet ailes blanches et dorées",26039,1,1,1,71005,3,0,1
+2003826,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003827,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003828,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003829,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003830,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003831,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003832,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003833,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003834,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003835,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003836,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003837,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003838,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003839,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003840,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003841,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003842,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003843,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
