@@ -11386,14 +11386,14 @@ Ah, what am I thinkin'? I've captainly duties to attend to!",0
 9667,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Brace yourselves against something sturdy. The big bastards in these waters like to give passin' boats a love tap from time to time.",0
 9668,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Sailors passin' through these parts have told stories of an undersea flower bed in full bloom.",0
 9669,9357,False,False,False,3,0,0,0,5,False,False,1,25,"The plum trees are a sight to behold─if you can ignore the bugs swarmin' around them, that is.",0
-9670,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9671,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9672,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9673,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9674,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9675,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9676,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
-9677,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
+9670,9357,False,False,False,3,0,0,0,5,False,False,1,25,"This rain ain't lettin' up... But some species of starfish love swimmin' 'round rough currents like these.",0
+9671,9357,False,False,False,3,0,0,0,5,False,False,1,25,"The starfish in these waters prefer snackin' on smaller bits of bait, if you're lookin' to haul up somethin' different.",0
+9672,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Some sailors say the islands 'round here start wanderin' across the tides at sunset...",0
+9673,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Some ol' chums of mine claim they've seen entire bloody islands sneakin' after schools of fish here. Hard to believe, but...nothin's impossible.",0
+9674,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Seven hells, the rain's got it out for us today! Bet there's a wily wavekin in the depths, revelin' in these roilin' waves...",0
+9675,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Word of advice for you─bait your hook with the average-sized fish in mind. The bastards'll be bitin' in no time.",0
+9676,9357,False,False,False,3,0,0,0,5,False,False,1,25,"They say when night falls upon these seas, you can hear the slitherin' of an ancient serpent, echoin' across the pitch-black surf...",0
+9677,9357,False,False,False,3,0,0,0,5,False,False,1,25,"Keep a sharp eye on any small animals you may've brought, lest you want 'em stolen away─but by what manner of monster, no one quite knows...",0
 9678,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
 9679,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
 9680,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
@@ -20764,7 +20764,7 @@ I can't take any more...",0
 18713,0,False,False,False,2,0,0,0,2,False,False,1,25,"Help...me...",0
 18714,0,False,False,False,2,0,0,0,2,False,False,1,25,"Why...?",0
 18715,0,False,False,False,2,0,0,0,2,False,False,1,25,"Not...like this...",0
-18716,0,False,False,False,2,0,0,0,2,False,False,1,25,"Aaahhh....",0
+18716,0,False,False,False,2,0,0,0,2,False,False,1,25,"Aaahhh...",0
 18717,0,False,False,False,2,0,0,0,3,False,False,1,25,"Meow! Your attention, please!",0
 18718,0,False,False,False,2,0,0,0,3,False,False,1,25,"Catch me if you can!
 I'll make it worth your while!",0
@@ -21512,7 +21512,7 @@ Be ready!",0
 19422,0,False,False,False,3,0,0,0,4,False,False,1,25,"And the story unfurls further!",0
 19423,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19424,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19425,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19425,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pip pip! Prrr!",0
 19426,0,False,False,False,3,0,0,0,4,False,False,1,25,"The tunnel looks to have been maintained to some degree.",0
 19427,0,False,False,False,3,0,0,0,4,False,False,1,25,"The path is certainly too smooth to be natural.",0
 19428,0,False,False,False,3,0,0,0,4,False,False,1,25,"The cave itself is a natural formation, but this...",0
@@ -21632,32 +21632,32 @@ Be ready!",0
 19542,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19543,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19544,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19545,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19546,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19547,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19548,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19549,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19550,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19551,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19552,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19553,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19554,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19555,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19556,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19557,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19558,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19559,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19560,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19561,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19562,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19563,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19564,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19565,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19566,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19567,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19568,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19569,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19570,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19545,0,False,False,False,2,0,0,0,2,False,False,1,25,"We'll not lose anyone else!",0
+19546,0,False,False,False,2,0,0,0,2,False,False,1,25,"Hold them off!",0
+19547,0,False,False,False,2,0,0,0,2,False,False,1,25,"We must protect the people!",0
+19548,0,False,False,False,2,0,0,0,2,False,False,1,25,"Die!",0
+19549,0,False,False,False,2,0,0,0,2,False,False,1,25,"Grrrgh!",0
+19550,0,False,False,False,2,0,0,0,2,False,False,1,25,"Curse these voidsent!",0
+19551,0,False,False,False,2,0,0,0,2,False,False,1,25,"I am <Emphasis>not</Emphasis> dying today!",0
+19552,0,False,False,False,2,0,0,0,2,False,False,1,25,"Wretched creature!",0
+19553,0,False,False,False,2,0,0,0,2,False,False,1,25,"They just keep coming!",0
+19554,0,False,False,False,2,0,0,0,2,False,False,1,25,"Have at you!",0
+19555,0,False,False,False,3,0,0,0,3,False,True,1,25,"Shantotto!?",0
+19556,0,False,False,False,3,0,0,0,3,False,True,1,25,"She was...a doll?",0
+19557,0,False,False,False,3,0,0,0,3,False,True,1,25,"Here they come!",0
+19558,0,False,False,False,3,0,0,0,3,False,True,1,25,"Reinforcements!",0
+19559,0,False,False,False,3,0,0,0,3,False,True,1,25,"Ugh, is there no end to them!?",0
+19560,0,False,False,False,3,0,0,0,3,False,True,1,25,"And now the fight begins in earnest!",0
+19561,0,False,False,False,3,0,0,0,3,False,True,1,25,"Their leader has finally shown themself.",0
+19562,0,False,False,False,3,0,0,0,3,False,True,1,25,"It would appear the siege has ended.",0
+19563,0,False,False,False,3,0,0,0,3,False,True,1,25,"Where is Sareel Ja hiding?",0
+19564,0,False,False,False,3,0,0,0,3,False,True,1,25,"It can't be... The light divinity!",0
+19565,0,False,False,False,3,0,0,0,3,False,True,1,25,"Ready everyone?",0
+19566,0,False,False,False,3,0,0,0,3,False,True,1,25,"That's the last of them.",0
+19567,0,False,False,False,3,0,0,0,3,False,True,1,25,"Promathia!",0
+19568,0,False,False,False,3,0,0,0,3,False,True,1,25,"0",0
+19569,0,False,False,False,3,0,0,0,3,False,True,1,25,"0",0
+19570,0,False,False,False,3,0,0,0,3,False,True,1,25,"0",0
 19571,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19572,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19573,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -21815,3 +21815,226 @@ Be ready!",0
 19725,0,False,False,False,3,0,0,0,4,False,False,1,25,"A bottle, here?",0
 19726,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
 19727,0,False,False,False,1,0,0,0,1,False,False,1,25,"0",0
+19728,14778,False,False,False,3,0,0,0,4,False,False,1,25,"Ohohohoho!",0
+19729,14778,False,False,False,3,0,0,0,4,False,False,1,25,"Ohohohohohoho!",0
+19730,14778,False,False,False,3,0,0,0,4,False,False,1,25,"My word, this futile resistance is simply absurd!",0
+19731,14778,False,False,False,3,0,0,0,4,False,False,1,25,"Your offenses demand consequences!",0
+19732,14778,False,False,False,3,0,0,0,4,False,False,1,25,"I'm no saint, so don't expect restraint!",0
+19733,14778,False,False,False,3,0,0,0,4,False,False,1,25,"So very brave─digging your own grave!",0
+19734,14778,False,False,False,3,0,0,0,4,False,False,1,25,"Very well...",0
+19735,14085,False,False,False,3,0,0,0,4,False,False,1,25,"What are you plotting, witch!?",0
+19736,14085,False,False,False,3,0,0,0,4,False,False,1,25,"Urgh!",0
+19737,14085,False,False,False,3,0,0,0,4,False,False,1,25,"The darkness... It's growing...",0
+19738,14085,False,False,False,3,0,0,0,4,False,False,1,25,"No... I won't...give in!",0
+19739,14085,False,False,False,3,0,0,0,4,False,False,1,25,"It's too late...",0
+19740,0,False,False,False,3,0,0,0,4,False,False,1,25,"This place has seen better days...",0
+19741,0,False,False,False,3,0,0,0,4,False,False,1,25,"Brrr... It's freezing...",0
+19742,0,False,False,False,3,0,0,0,4,False,False,1,25,"Quite a few beasts running amok here.",0
+19743,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let us make for the fortress.",0
+19744,0,False,False,False,3,0,0,0,4,False,False,1,25,"It's enormous!",0
+19745,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was that a griffin...?",0
+19746,0,False,False,False,3,0,0,0,4,False,False,1,25,"Seems we must fell the beast if we wish to pass.",0
+19747,0,False,False,False,3,0,0,0,4,False,False,1,25,"It's almost as if it's guarding the entrance...",0
+19748,0,False,False,False,3,0,0,0,4,False,False,1,25,"Such powerful bellows.",0
+19749,0,False,False,False,3,0,0,0,4,False,False,1,25,"My ears are still ringing...",0
+19750,0,False,False,False,3,0,0,0,4,False,False,1,25,"So this is what became of the soldiers...",0
+19751,0,False,False,False,3,0,0,0,4,False,False,1,25,"The corpses are springing to life!?",0
+19752,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let us put him to rest.",0
+19753,0,False,False,False,3,0,0,0,4,False,False,1,25,"The commander of the fortress, it would seem.",0
+19754,0,False,False,False,3,0,0,0,4,False,False,1,25,"Gods, that was unsettling.",0
+19755,0,False,False,False,3,0,0,0,4,False,False,1,25,"Even in death, he continued his command...",0
+19756,0,False,False,False,3,0,0,0,4,False,False,1,25,"We'd best pass through here swiftly!",0
+19757,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ware the biting winds!",0
+19758,0,False,False,False,3,0,0,0,4,False,False,1,25,"It's not as cold here...",0
+19759,0,False,False,False,3,0,0,0,4,False,False,1,25,"You have no place here!",0
+19760,0,False,False,False,3,0,0,0,4,False,False,1,25,"It may unleash powerful gales. Be on your guard.",0
+19761,0,False,False,False,3,0,0,0,4,False,False,1,25,"A statue of Halone...",0
+19762,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let's give the voidsent what for.",0
+19763,0,False,False,False,3,0,0,0,4,False,False,1,25,"So much coral! So many fish!",0
+19764,0,False,False,False,3,0,0,0,4,False,False,1,25,"It's like a picture scroll brought to life.",0
+19765,0,False,False,False,3,0,0,0,4,False,False,1,25,"A wondrous sight.",0
+19766,0,False,False,False,3,0,0,0,4,False,False,1,25,"An elegant palace indeed.",0
+19767,0,False,False,False,3,0,0,0,4,False,False,1,25,"Still no sign of any voidsent.",0
+19768,0,False,False,False,3,0,0,0,4,False,False,1,25,"Those legs look sharp...",0
+19769,0,False,False,False,3,0,0,0,4,False,False,1,25,"A sea-dwelling monster!",0
+19770,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ugh... What an ungodly smell.",0
+19771,0,False,False,False,3,0,0,0,4,False,False,1,25,"At last, the way to the palace is open.",0
+19772,0,False,False,False,3,0,0,0,4,False,False,1,25,"They've been possessed!",0
+19773,0,False,False,False,3,0,0,0,4,False,False,1,25,"What!? Even the guards!?",0
+19774,0,False,False,False,3,0,0,0,4,False,False,1,25,"These coffers... How curious.",0
+19775,0,False,False,False,3,0,0,0,4,False,False,1,25,"She too has been bewitched.",0
+19776,0,False,False,False,3,0,0,0,4,False,False,1,25,"Please tell me all the wrinkles are gone!",0
+19777,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let her rest here for now.",0
+19778,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let us return peace to the palace.",0
+19779,0,False,False,False,3,0,0,0,4,False,False,1,25,"It's truly beautiful here.",0
+19780,0,False,False,False,3,0,0,0,4,False,False,1,25,"Does it think itself the master of this place?",0
+19781,0,False,False,False,3,0,0,0,4,False,False,1,25,"Perhaps it possessed an octopus.",0
+19782,0,False,False,False,3,0,0,0,4,False,False,1,25,"Tentacles...?",0
+19783,0,False,False,False,3,0,0,0,4,False,False,1,25,"An unsightly thing.",0
+19784,0,False,False,False,3,0,0,0,2,False,False,1,25,"Take that!",0
+19785,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19786,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19787,0,False,False,False,3,0,0,0,3,False,False,1,25,"More of them!?",0
+19788,0,False,False,False,3,0,0,0,3,False,True,1,25,"I mislike this quiet...",0
+19789,0,False,False,False,3,0,0,0,3,False,True,1,25,"Under attack!?",0
+19790,0,False,False,False,3,0,0,0,3,False,False,1,25,"The Galeserpent General's counting on us!",0
+19791,0,False,False,False,3,0,0,0,3,False,False,1,25,"Damned beastmen!",0
+19792,0,False,False,False,3,0,0,0,3,False,False,1,25,"We must hold the line!",0
+19793,0,False,False,False,3,0,0,0,3,False,False,1,25,"Time for a little subtle sorcery.",0
+19794,0,False,False,False,3,0,0,0,3,False,False,1,25,"Leave the healing to me!",0
+19795,0,False,False,False,3,0,0,0,3,False,False,1,25,"Time to get to work!",0
+19796,0,False,False,False,2,0,0,0,3,False,False,1,25,"Let's see them hit me now!",0
+19797,0,False,False,False,2,0,0,0,3,False,False,1,25,"I guess I'm blink tanking again...",0
+19798,0,False,False,False,2,0,0,0,3,False,False,1,25,"Take that! And that!",0
+19799,0,False,False,False,2,0,0,0,3,False,False,1,25,"If you need to chain skills, just say the word!",0
+19800,0,False,False,False,2,0,0,0,3,False,False,1,25,"Hyah!",0
+19801,0,False,False,False,2,0,0,0,3,False,False,1,25,"Taste my steel!",0
+19802,0,False,False,False,2,0,0,0,3,False,False,1,25,"Just die already!",0
+19803,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19804,0,False,False,False,2,0,0,0,5,False,False,1,25,"Give it everything you've got!",0
+19805,0,False,False,False,2,0,0,0,5,False,False,1,25,"I need to time this flare just right!",0
+19806,0,False,False,False,2,0,0,0,3,False,False,1,25,"Don't worry─I've got your back!",0
+19807,0,False,False,False,2,0,0,0,3,False,False,1,25,"Starting to get a little tired...",0
+19808,0,False,False,False,2,0,0,0,3,False,False,1,25,"I've still got mana. Let's keep pushing!",0
+19809,0,False,False,False,2,0,0,0,3,False,False,1,25,"Don't you go dying on me!",0
+19810,0,False,False,False,2,0,0,0,3,False,False,1,25,"The Springserpent needn't get involved!",0
+19811,0,False,False,False,2,0,0,0,3,False,False,1,25,"Down with you!",0
+19812,0,False,False,False,2,0,0,0,3,False,False,1,25,"Thank goodness the generals are unharmed!",0
+19813,0,False,False,False,3,0,0,0,3,False,False,1,25,"Over already? Dammit...",0
+19814,0,False,False,False,3,0,0,0,3,False,False,1,25,"Is everyone all right?",0
+19815,0,False,False,False,3,0,0,0,3,False,False,1,25,"That was a little <Emphasis>too</Emphasis> close...",0
+19816,0,False,False,False,3,0,0,0,3,False,False,1,25,"Phew! Glad that's over!",0
+19817,0,False,False,False,3,0,0,0,3,False,False,1,25,"Time to get our reward!",0
+19818,0,False,False,False,3,0,0,0,3,False,False,1,25,"Everyone all right? Then let's go eat!",0
+19819,0,False,False,False,3,0,0,0,3,False,False,1,25,"We live to fight another day...",0
+19820,0,False,False,False,2,0,0,0,1,False,False,1,25,"DoWn WiTh YoU!",0
+19821,0,False,False,False,2,0,0,0,1,False,False,1,25,"EnD oF tHe RoAd!",0
+19822,0,False,False,False,2,0,0,0,1,False,False,1,25,"Glub...glub...",0
+19823,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19824,0,False,False,False,2,0,0,0,1,False,False,1,25,"Meeeeeeh!",0
+19825,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19826,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19827,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19828,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19829,0,False,False,False,2,0,0,0,1,False,False,1,25,"Time to break out the grub!",0
+19830,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19831,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19832,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19833,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19834,0,False,False,False,3,0,0,0,4,False,False,1,25,"Watch out for falling debris!",0
+19835,0,False,False,False,3,0,0,0,4,False,False,1,25,"A magitek bombardment!?",0
+19836,0,False,False,False,3,0,0,0,4,False,False,1,25,"Onward!",0
+19837,0,False,False,False,3,0,0,0,4,False,False,1,25,"They don't stand a chance!",0
+19838,0,False,False,False,3,0,0,0,4,False,False,1,25,"We must hurry!",0
+19839,0,False,False,False,3,0,0,0,4,False,False,1,25,"Their hunger for aether is insatiable...",0
+19840,0,False,False,False,3,0,0,0,4,False,False,1,25,"There you are!",0
+19841,0,False,False,False,3,0,0,0,4,False,False,1,25,"Jullus! Stand fast!",0
+19842,0,False,False,False,3,0,0,0,4,False,False,1,25,"We're here now!",0
+19843,0,False,False,False,3,0,0,0,4,False,False,1,25,"We can speak later!",0
+19844,0,False,False,False,3,0,0,0,4,False,False,1,25,"Understood.",0
+19845,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hang in there!",0
+19846,0,False,False,False,3,0,0,0,4,False,False,1,25,"An amalgamation of beast and machine?",0
+19847,0,False,False,False,3,0,0,0,4,False,False,1,25,"That baleful eye... Be on your guard!",0
+19848,0,False,False,False,3,0,0,0,4,False,False,1,25,"An intriguing specimen...",0
+19849,0,False,False,False,3,0,0,0,4,False,False,1,25,"That was a strange encounter...",0
+19850,0,False,False,False,3,0,0,0,4,False,False,1,25,"To the Clyteum!",0
+19851,0,False,False,False,3,0,0,0,4,False,False,1,25,"Time to push forward!",0
+19852,0,False,False,False,3,0,0,0,4,False,False,1,25,"We must keep going!",0
+19853,0,False,False,False,3,0,0,0,4,False,False,1,25,"Awfully persistent...",0
+19854,0,False,False,False,3,0,0,0,4,False,False,1,25,"Halt their advance!",0
+19855,0,False,False,False,3,0,0,0,4,False,False,1,25,"Their numbers are legion...",0
+19856,0,False,False,False,3,0,0,0,4,False,False,1,25,"They're everywhere!",0
+19857,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let none bar our path!",0
+19858,0,False,False,False,3,0,0,0,4,False,False,1,25,"Leave none standing!",0
+19859,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let's make short work of them!",0
+19860,0,False,False,False,3,0,0,0,4,False,False,1,25,"Doesn't seem like the brightest of foes...",0
+19861,0,False,False,False,3,0,0,0,4,False,False,1,25,"Surprisingly agile for one so rotund!",0
+19862,0,False,False,False,3,0,0,0,4,False,False,1,25,"A veritable giant!",0
+19863,0,False,False,False,3,0,0,0,4,False,False,1,25,"Such blistering speed!",0
+19864,0,False,False,False,3,0,0,0,4,False,False,1,25,"That was quite the challenge...",0
+19865,0,False,False,False,3,0,0,0,4,False,False,1,25,"Not far to the Clyteum now!",0
+19866,0,False,False,False,3,0,0,0,4,False,False,1,25,"I was starting to feel dizzy...",0
+19867,0,False,False,False,3,0,0,0,4,False,False,1,25,"These creatures are made of scrap?",0
+19868,0,False,False,False,3,0,0,0,4,False,False,1,25,"Twisted constructs like puppets...",0
+19869,0,False,False,False,3,0,0,0,4,False,False,1,25,"An unseen hand doth guide them...",0
+19870,0,False,False,False,3,0,0,0,4,False,False,1,25,"Better than taking the stairs....",0
+19871,0,False,False,False,3,0,0,0,4,False,False,1,25,"How exhilarating!",0
+19872,0,False,False,False,3,0,0,0,4,False,False,1,25,"My word!",0
+19873,0,False,False,False,3,0,0,0,4,False,False,1,25,"Something tells me that wasn't designed for people...",0
+19874,0,False,False,False,3,0,0,0,4,False,False,1,25,"This one seems more formidable than the others...",0
+19875,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mayhap this is the puppeteer...",0
+19876,0,False,False,False,3,0,0,0,4,False,False,1,25,"Let's put an end to this!",0
+19877,0,False,False,False,3,0,0,0,4,False,False,1,25,"Watch out!",0
+19878,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ware that eye!",0
+19879,0,False,False,False,3,0,0,0,4,False,False,1,25,"What does it seek!?",0
+19880,0,False,False,False,3,0,0,0,4,False,False,1,25,"The eye draweth aether unto itself...",0
+19881,0,False,False,False,3,0,0,0,4,False,False,1,25,"What's it doing?",0
+19882,0,False,False,False,3,0,0,0,4,False,False,1,25,"Stay alert!",0
+19883,0,False,False,False,3,0,0,0,4,False,False,1,25,"Perhaps it waits for an opportune moment?",0
+19884,0,False,False,False,3,0,0,0,4,False,False,1,25,"Its movements are unpredictable...",0
+19885,0,False,False,False,3,0,0,0,4,False,False,1,25,"Have care!",0
+19886,0,False,False,False,3,0,0,0,4,False,False,1,25,"What in the hells!?",0
+19887,0,False,False,False,3,0,0,0,4,False,False,1,25,"Everyone, gather close!",0
+19888,0,False,False,False,3,0,0,0,4,False,False,1,25,"Quickly, we must stay together!",0
+19889,0,False,False,False,3,0,0,0,4,False,False,1,25,"We'll make it through this together!",0
+19890,0,False,False,False,3,0,0,0,4,False,False,1,25,"One cannot weather such power alone...",0
+19891,0,False,False,False,3,0,0,0,4,False,False,1,25,"Stand together, everyone!",0
+19892,0,False,False,False,3,0,0,0,4,False,False,1,25,"What are they doing?",0
+19893,0,False,False,False,3,0,0,0,4,False,False,1,25,"Those tendrils...",0
+19894,0,False,False,False,3,0,0,0,4,False,False,1,25,"Be careful!",0
+19895,0,False,False,False,3,0,0,0,4,False,False,1,25,"Born of scrap before our very eyes...",0
+19896,0,False,False,False,3,0,0,0,4,False,False,1,25,"Be wary of the puppets!",0
+19897,0,False,False,False,3,0,0,0,4,False,False,1,25,"We ought to split up!",0
+19898,0,False,False,False,3,0,0,0,4,False,False,1,25,"If only we could sever those strands...",0
+19899,0,False,False,False,3,0,0,0,4,False,False,1,25,"They command the puppets as one!",0
+19900,0,False,False,False,3,0,0,0,4,False,False,1,25,"By the Twelve! This is madness!",0
+19901,0,False,False,False,3,0,0,0,4,False,False,1,25,"A battle of attrition...",0
+19902,0,False,False,False,3,0,0,0,4,False,False,1,25,"They're beginning to try my patience!",0
+19903,0,False,False,False,3,0,0,0,4,False,False,1,25,"Keep an eye on the minions.",0
+19904,0,False,False,False,3,0,0,0,4,False,False,1,25,"Try to predict their attacks!",0
+19905,0,False,False,False,3,0,0,0,4,False,False,1,25,"Watch the puppets' movements!",0
+19906,0,False,False,False,3,0,0,0,4,False,False,1,25,"They are a puppeteer of surpassing skill...",0
+19907,0,False,False,False,3,0,0,0,4,False,False,1,25,"I won't fall for that again!",0
+19908,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19909,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19910,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19911,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19912,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19913,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19914,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19915,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19916,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19917,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19918,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19919,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19920,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19921,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pay me back later!",0
+19922,0,False,False,False,2,0,0,0,1,False,False,1,25,"Ptui～♪",0
+19923,0,False,False,False,2,0,0,0,1,False,False,1,25,"Meo～w.",0
+19924,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19925,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19926,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19927,0,False,False,False,3,0,0,0,4,False,False,1,25,"Leave the fodder to us. Don't hold back!",0
+19928,0,False,False,False,3,0,0,0,4,False,False,1,25,"Long hath it been since last we fought together.",0
+19929,0,False,False,False,3,0,0,0,4,False,False,1,25,"How in the hells is it moving so fast?",0
+19930,0,False,False,False,3,0,0,0,4,False,False,1,25,"They're up to something... Be on your guard!",0
+19931,0,False,False,False,3,0,0,0,4,False,False,1,25,"Not quite the lumbering lump I'd expected...",0
+19932,0,False,False,False,3,0,0,0,4,False,False,1,25,"I don't like the looks of this fellow.",0
+19933,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19934,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19935,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19936,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19937,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19938,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19939,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19940,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19941,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19942,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19943,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19944,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19945,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19946,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19947,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19948,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19949,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19950,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0

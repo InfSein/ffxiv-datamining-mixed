@@ -3473,7 +3473,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003469,"southern sow bug",0,"southern sow bugs",0,0,1,0,0,False,"Southern Sow Bug",25919,0,1,1,0,0,0,0
 2003470,"southern worm",0,"southern worms",0,0,1,0,0,False,"Southern Worm",25919,0,1,1,0,0,0,0
 2003471,"curiously carrot-shaped amplifier",0,"curiously carrot-shaped amplifiers",0,0,1,0,0,False,"Curiously Carrot-shaped Amplifier",25207,1,1,1,70331,0,0,0
-2003472,"apocryphal horn",0,"apocryphal horns",0,1,1,0,0,False,"Apocryphal Horn",26038,1,1,1,70331,0,0,0
+2003472,"apocryphal horn",0,"apocryphal horns",0,1,1,0,0,False,"Apocryphal Horn",26038,1,1,1,70331,3,0,0
 2003473,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003474,"turtle statue",0,"turtle statues",0,0,1,0,0,False,"Turtle Statue",25919,0,1,1,0,0,0,0
 2003475,"whale statue",0,"whale statues",0,0,1,0,0,False,"Whale Statue",25919,0,1,1,0,0,0,0
@@ -3804,7 +3804,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003800,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003801,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003802,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant",23569,0,3,1,0,0,0,0
-2003803,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant",23569,0,3,1,0,0,0,0
+2003803,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant",23569,0,5,1,0,0,0,0
 2003804,"pouch of synthetic desensitizer",0,"pouches of synthetic desensitizer",0,0,1,0,0,False,"Synthetic Desensitizer",26110,1276,1,1,70966,1,0,4
 2003805,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",0,0,1,1,0,0,0,0
 2003806,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",0,0,1,1,0,0,0,0
@@ -3816,4 +3816,32 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003812,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003813,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003814,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003815,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003815,"温かいキンダープンシュ",0,"",0,0,1,0,0,False,"",53492,0,3,1,71001,0,0,0
+2003816,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003817,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003818,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003819,"見破りカボチャ玉",0,"",0,0,1,0,0,False,"",24153,1276,1,1,71004,1,0,4
+2003820,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003821,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003822,"package of dumplings",0,"packages of dumplings",0,0,1,0,0,False,"Package of Dumplings",53302,0,1,1,71008,0,0,0
+2003823,"aether transmitter",0,"aether transmitters",0,1,1,0,0,False,"Aether Transmitter",26086,1,1,1,71009,0,0,1
+2003824,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003825,"flute of wings",0,"flutes of wings",0,0,1,0,0,False,"Flute of Wings",26039,1,1,1,71005,3,0,1
+2003826,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003827,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003828,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003829,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003830,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003831,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003832,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003833,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003834,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003835,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003836,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003837,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003838,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003839,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003840,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003841,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003842,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003843,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

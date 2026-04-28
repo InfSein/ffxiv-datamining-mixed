@@ -1011,7 +1011,7 @@ USAGE:
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>WHM<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>BLM<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>SMN<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>SCH<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>NIN<UIGlow>01</UIGlow><UIForeground>01</UIForeground>,
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>DRK<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MCH<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>AST<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>SAM<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RDM<UIGlow>01</UIGlow><UIForeground>01</UIForeground>,
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>BLU<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>GNB<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>DNC<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>SGE<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RPR<UIGlow>01</UIGlow><UIForeground>01</UIForeground>,
-　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>VPR<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PCT<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>VPR<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PCT<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>BST<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Searches all jobs and classes if none specified.
 【Level】
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>[number]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2075,7 +2075,7 @@ USAGE:
 USAGE:
 　/battletarget
 
-→Targets the closest enemy within a certain radius that is attacking you.","","",36,0
+→Targets the closest enemy within a certain radius on screen that is attacking you.","","",36,0
 258,2,0,0,0,0,"/assist","/as","ALIASES:
 　/assist, /as
 USAGE:
@@ -2724,7 +2724,10 @@ USAGE:
 　<Gui(14)/>＋<Gui(8)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>LAR (LA3) <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<Gui(15)/>＋<Gui(8)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAR (RA3)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<Gui(14)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>LAD (LA4) <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　<Gui(15)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAD (RA4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","","/chotbar",36,0
+　<Gui(15)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAD (RA4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+　　Slot names are not required for setting.
+　　Omitting slot names will automatically set actions to an unassigned slot according to the system's default order.","","/chotbar",36,0
 317,1,0,0,0,0,"/hudreset","","USAGE:
 　/hudreset
 
@@ -2917,7 +2920,10 @@ USAGE:
 　<Gui(14)/>＋<Gui(8)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>LAR (LA3) <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<Gui(15)/>＋<Gui(8)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAR (RA3)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<Gui(14)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>LAD (LA4) <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　<Gui(15)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAD (RA4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","","/pvpchotbar",36,0
+　<Gui(15)/>＋<Gui(9)/>  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>RAD (RA4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+　　Slot names are not required for setting.
+　　Omitting slot names will automatically set actions to an unassigned slot according to the system's default order.","","/pvpchotbar",36,0
 327,2,1,2,0,0,"/emotelog","","USAGE:
 　/emotelog [subcommand]
 
@@ -5639,7 +5645,17 @@ Both text and motion will be displayed when no subcommand is specified.","","",2
  　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
 
 Both text and motion will be displayed when no subcommand is specified.","","",293,0
-698,0,0,0,0,0,"","","","","",0,0
+698,2,1,2,0,0,"/breakdance","/breaking","ALIASES:
+　/breakdance, /breaking
+USAGE:
+　/breakdance [subcommand]
+
+→Perform a stylish and powerful dance.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
 699,2,1,2,0,0,"/gridaniansip","","USAGE:
 　/gridaniansip [subcommand]
 
@@ -5734,7 +5750,15 @@ Both text and motion will be displayed when no subcommand is specified.","","",2
  　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
 
 Both text and motion will be displayed when no subcommand is specified.","","",293,0
-709,0,0,0,0,0,"","","","","",0,0
+709,2,1,2,0,0,"/blownaway","","USAGE:
+　/blownaway [subcommand]
+
+→Be hurled backwards by a great force.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
 710,2,1,2,0,0,"/stomp","","USAGE:
 　/stomp [subcommand]
 
@@ -5788,9 +5812,39 @@ USAGE:
  　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
 
 Both text and motion will be displayed when no subcommand is specified.","","",293,0
-715,0,0,0,0,0,"","","","","",0,0
-716,0,0,0,0,0,"","","","","",0,0
-717,0,0,0,0,0,"","","","","",0,0
+715,2,1,2,0,0,"/cheeronorange","/cheeroo","ALIASES:
+　/cheeronorange, /cheeroo
+USAGE:
+　/cheeronorange [subcommand]
+
+→Wave your hands enthusiastically with orange illuminated rods.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
+716,2,1,2,0,0,"/cheerwavepink","/cheerwp","ALIASES:
+　/cheerwavepink, /cheerwp
+USAGE:
+　/cheerwavepink [subcommand]
+
+→Wave your hand in the air with a pink illuminated rod.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
+717,2,1,2,0,0,"/cheerjumpindigo","/cheerji","ALIASES:
+　/cheerjumpindigo, /cheerji
+USAGE:
+　/cheerjumpindigo [subcommand]
+
+→Jump and cheer enthusiastically with indigo illuminated rods.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
 718,2,1,2,0,0,"/carrybook","","USAGE:
 　/carrybook [subcommand]
 
@@ -5871,3 +5925,28 @@ USAGE:
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
 
 Both text and motion will be displayed when no subcommand is specified.","","",293,0
+726,0,0,0,0,0,"","","","","",0,0
+727,0,0,0,0,0,"","","","","",0,0
+728,0,0,0,0,0,"","","","","",0,0
+729,2,1,2,0,0,"/cackle","","USAGE:
+　/cackle [subcommand]
+
+→Erupt into a haughty cackle that will put all who hear it in their place.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
+730,2,1,2,0,0,"/conduct","","USAGE:
+　/conduct [subcommand]
+
+→Confidently conduct whatever may be unfolding before you.
+
+>>Subcommands:
+　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>    Perform motion only.
+
+Both text and motion will be displayed when no subcommand is specified.","","",293,0
+731,0,0,0,0,0,"","","","","",0,0
+732,0,0,0,0,0,"","","","","",0,0
+733,0,0,0,0,0,"","","","","",0,0
+734,0,0,0,0,0,"","","","","",0,0

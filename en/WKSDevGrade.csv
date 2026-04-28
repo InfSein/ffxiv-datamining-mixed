@@ -63,7 +63,7 @@ int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,uint32,int32,uint32,uin
 30,"Piercingway Tunnel Complete
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Explore at your leisure until the next project.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Piercingway Tunnel Complete","Thanks to the efforts of all, the Piercingway Tunnel has been completed. Feel free to explore while we prepare for future projects!","At last, we can get a good look inside Gleamslope! We thank you all for your cooperation!","Searchingway",9,False,158,26,0,241016,1408,18,8,6,0,2,3,4,6,7,0,0,0,0,0,0
 31,"Preparation for Cosmoliner Delta Construction
-<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Complete stellar missions.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Preparation for Cosmoliner Delta Construction","We are presently gathering materials for a Cosmoliner extension through the Piercingway Tunnel. Complete stellar missions to assist in our efforts!","Let's extend the Cosmoliner into our brand new Piercingway Tunnel. Presently gathering materials for construction!","Searchingway",9,False,158,27,0,241017,0,0,0,0,0,2,3,4,6,7,0,0,0,0,0,0
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Complete stellar missions.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Preparation for Cosmoliner Delta Construction","We are presently gathering materials for a Cosmoliner extension through the Piercingway Tunnel. Complete stellar missions to assist in our efforts!","Let's extend the Cosmoliner into our brand-new Piercingway Tunnel. Presently gathering materials for construction!","Searchingway",9,False,158,27,0,241017,0,0,0,0,0,2,3,4,6,7,0,0,0,0,0,0
 32,"Cosmoliner Delta Construction Underway
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Await the Cosmoliner's completion.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmoliner Delta Construction Underway","The Cosmoliner is under construction. Please wait until the southwestern extension is complete!","The southwestern extension of the Cosmoliner is now underway! Please wait patiently until we can confirm its functionality and safety.","Searchingway",9,False,158,27,0,241017,1452,0,0,0,0,2,3,4,6,7,0,0,0,0,0,0
 33,"Cosmoliner Southwestern Radius Complete
@@ -392,3 +392,59 @@ int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,uint32,int32,uint32,uin
 197,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 198,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 199,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
