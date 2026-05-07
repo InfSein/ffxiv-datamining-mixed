@@ -12208,10 +12208,9 @@ Lisez la description pour en savoir plus."
 11193,""
 11194,"Échanger l'objet ci-dessous
 contre <Format(IntegerParameter(2),FF05021D0103)/> <SheetFr(Item,12,IntegerParameter(1),IntegerParameter(2),1)/><Indent/>?"
-11195,"以下のアイテムを
-<Sheet(Item,IntegerParameter(3),0)/>×<Format(IntegerParameter(4),FF022C)/>と交換します。
+11195,"Échanger le ou les objets ci-dessous contre <Format(IntegerParameter(4),FF05021D0103)/> <SheetFr(Item,12,IntegerParameter(3),IntegerParameter(4),1)/><Indent/>?
 
-<Sheet(Item,IntegerParameter(1),0)/>×<Format(IntegerParameter(2),FF022C)/>"
+<Format(IntegerParameter(2),FF05021D0103)/> <SheetFr(Item,12,IntegerParameter(1),IntegerParameter(2),1)/>"
 11196,""
 11197,""
 11198,""
