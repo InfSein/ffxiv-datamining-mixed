@@ -6272,7 +6272,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 6268,"Inferno",3,"Infernos",1,0,0,2,1
 6269,"Stapler[p] der XII. Legion",4,"Stapler[p] der XII. Legion",2,0,1,0,0
 6270,"Todesklaue[p] der XII. Legion",3,"Todesklauen[p] der XII. Legion",1,0,1,1,0
-6271,"Shinryus Herz",3,"Shinryus Herz",1,0,0,2,1
+6271,"Shinryus Herz[p]",7,"Shinryus Herz[p]",1,0,0,2,1
 6272,"Ginryu",3,"Ginryu",1,0,1,0,0
 6273,"Hakkinryu",3,"Hakkinryu",1,0,1,0,0
 6274,"Tamatebako",3,"Tamatebako",1,0,1,0,0
@@ -14464,7 +14464,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14460,"G-Krieger[p] MGSD",4,"G-Krieger[p] MGSD",2,0,1,0,0
 14461,"La Noscea-Kurzhaar[p]",4,"La Noscea-Kurzhaare[p]",2,0,1,2,0
 14462,"brav[a] Schäferhund",4,"brav[a] Schäferhunde",2,0,1,0,0
-14463,"",0,"",0,0,0,0,0
+14463,"Aufzieh-Yuffie",3,"Aufzieh-Yuffie",1,0,1,1,0
 14464,"",0,"",0,0,0,0,0
 14465,"Aufzieh-Red XIII",3,"Aufzieh-Red XIII",1,0,1,0,0
 14466,"Hüpfis Khan",3,"Hüpfis Khans",1,0,0,0,1
@@ -14829,7 +14829,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14825,"",0,"",0,0,0,0,0
 14826,"Jullus pyr Norbanus",3,"Jullus pyr Norbanus",1,0,0,0,1
 14827,"Laquearius[p] der I. Legion",3,"Laquearii[p] der I. Legion",1,0,1,0,0
-14828,"Medusa Schwarmsängerin",3,"NONE",1,0,0,1,1
+14828,"Medusa-Schwarmsängerin",3,"NONE",1,0,1,1,0
 14829,"nemeisch[a] Löwe",8,"nemeisch[a] Löwen",1,0,1,0,0
 14830,"Lamia-Jägerin",3,"Lamia-Jägerinnen",1,0,1,1,0
 14831,"Lamia[p] Nr. 2",3,"Lamia[p] Nr. 2",1,0,1,1,0
@@ -14847,7 +14847,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14843,"blau[a] Wikinger-Marionette",3,"blau[a] Wikinger-Marionetten",1,0,1,1,0
 14844,"rot[a] Wikinger-Marionette",3,"rot[a] Wikinger-Marionetten",1,0,1,1,0
 14845,"Jinbei[p] Jr.",3,"Jinbei[p] Jr.",1,0,0,0,1
-14846,"",0,"",0,0,0,0,0
+14846,"Sternchenebner",4,"Sternchenebner",2,0,1,0,0
 14847,"Caprino",3,"Caprino",1,0,0,0,1
 14848,"",0,"",0,0,0,0,0
 14849,"",0,"",0,0,0,0,0
@@ -14855,7 +14855,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14851,"",0,"",0,0,0,0,0
 14852,"Prishe-Puppe",3,"Prishe-Puppen",1,0,1,1,0
 14853,"",0,"",0,0,0,0,0
-14854,"",0,"",0,0,0,0,0
+14854,"Nagy",3,"NONE",1,0,0,0,1
 14855,"",0,"",0,0,0,0,0
 14856,"",0,"",0,0,0,0,0
 14857,"",0,"",0,0,0,0,0

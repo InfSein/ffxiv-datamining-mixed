@@ -1,4 +1,4 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CTSWKSMECHATANK_00994_TALK_ACTOR","Ein Tank voller Wachstumsmittel. Automatisches Auffüllen bei Berührung."
+0,"TEXT_CTSWKSMECHATANK_00994_TALK_ACTOR","Ein Tank voller Wachstumsmittel. Automatisches Auffüllen, sobald du dich in der Nähe befindest."

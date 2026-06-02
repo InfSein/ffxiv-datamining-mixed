@@ -10,4 +10,4 @@ int32,str,bit&01,bit&02
 6,"Klassen und Jobs",True,True
 7,"Sonstige",True,True
 8,"Freibriefe",True,False
-9,"Missionen",False,True
+9,"Inhalte",False,True

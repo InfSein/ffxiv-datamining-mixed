@@ -1751,18 +1751,19 @@ Macht Menü Nummer X zu einem geteilten Menü.
 Macht Menü Nummer X zu einem geteilten/exklusiven Menü.
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>entf<UIGlow>01</UIGlow><UIForeground>01</UIForeground> [Nummer X] [Slot-Name]
 Entfernt, was in Menü Nummer X im angegebenen Slot angelegt war.
-  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>entf<UIGlow>01</UIGlow><UIForeground>01</UIForeground>[Nummer X] <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>alle<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>entf<UIGlow>01</UIGlow><UIForeground>01</UIForeground> [Nummer X] <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>alle<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Leert alle Slots von Menü Nummer X.
 >>Slot-Namen:
 
-<Gui(14)/>＋<Gui(3)/> ... LDL (LD1)  <Gui(15)/>＋<Gui(3)/> ... RDL (RD1)
-<Gui(14)/>＋<Gui(1)/> ... LDU (LD2)  <Gui(15)/>＋<Gui(1)/> ... RDU (RD2)
-<Gui(14)/>＋<Gui(4)/> ... LDR (LD3)  <Gui(15)/>＋<Gui(4)/> ... RDR (RD3)
-<Gui(14)/>＋<Gui(2)/> ... LDD (LD4)  <Gui(15)/>＋<Gui(2)/> ... RDD (RD4)
-<Gui(14)/>＋<Gui(10)/> ... LAL (LA1)  <Gui(15)/>＋<Gui(10)/> ... RAL (RA1)
-<Gui(14)/>＋<Gui(11)/> ... LAU (LA2)  <Gui(15)/>＋<Gui(11)/> ... RAU (RA2)
-<Gui(14)/>＋<Gui(8)/> ... LAR (LA3)  <Gui(15)/>＋<Gui(8)/> ... RAR (RA3)
-<Gui(14)/>＋<Gui(9)/> ... LAD (LA4)  <Gui(15)/>＋<Gui(9)/> ... RAD (RA4)","/pvpkreuzkommandomenü","/pvpkreuzmenü",36,0
+Slots können ohne Namen erstellt werden. In diesem Fall wird der automatisch einem nicht benutzten Slot zugewiesen.
+<Gui(14)/>＋<Gui(3)/> ... LDL (LD1) <Gui(15)/>＋<Gui(3)/> ... RDL (RD1)
+<Gui(14)/>＋<Gui(1)/> ... LDU (LD2) <Gui(15)/>＋<Gui(1)/> ... RDU (RD2)
+<Gui(14)/>＋<Gui(4)/> ... LDR (LD3) <Gui(15)/>＋<Gui(4)/> ... RDR (RD3)
+<Gui(14)/>＋<Gui(2)/> ... LDD (LD4) <Gui(15)/>＋<Gui(2)/> ... RDD (RD4)
+<Gui(14)/>＋<Gui(10)/> ... LAL (LA1) <Gui(15)/>＋<Gui(10)/> ... RAL (RA1)
+<Gui(14)/>＋<Gui(11)/> ... LAU (LA2) <Gui(15)/>＋<Gui(11)/> ... RAU (RA2)
+<Gui(14)/>＋<Gui(8)/> ... LAR (LA3) <Gui(15)/>＋<Gui(8)/> ... RAR (RA3)
+<Gui(14)/>＋<Gui(9)/> ... LAD (LA4) <Gui(15)/>＋<Gui(9)/> ... RAD (RA4)","/pvpkreuzkommandomenü","/pvpkreuzmenü",36,0
 327,2,1,2,0,0,"/emotelog","","/emotelog
 VERWENDUNG:
 /emotelog [Unterbefehl]
@@ -3618,7 +3619,7 @@ VERWENDUNG:
 715,2,1,2,0,0,"/cheeronorange","/cheeroo","/anwipporange, /wipporange, /cheeroo
 VERWENDUNG:
 /anwipporange [Unterbefehl]
-→ Du feuerst wippend mit blau schimmernden Leuchtstäben an.
+→ Du feuerst wippend mit orange schimmernden Leuchtstäben an.
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/anwipporange","/wipporange",293,0
 716,2,1,2,0,0,"/cheerwavepink","/cheerwp","/anschwenkpink, /schwenkpink, /cheerwp
@@ -3629,7 +3630,7 @@ VERWENDUNG:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/anschwenkpink","/schwenkpink",293,0
 717,2,1,2,0,0,"/cheerjumpindigo","/cheerji","/anhüpfdunkelblau, /hüpfdunkelblau, /cheerji
 VERWENDUNG:
-/anhüpfrot [Unterbefehl]
+/anhüpfdunkelblau [Unterbefehl]
 → Du feuerst hüpfend mit dunkelblau schimmernden Leuchtstäben an.
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/anhüpfdunkelblau","/hüpfdunkelblau",293,0
@@ -3696,7 +3697,17 @@ VERWENDUNG:
 → Du gibst begeistert den Takt an.
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/dirigieren","",293,0
-731,0,0,0,0,0,"","","","","",0,0
-732,0,0,0,0,0,"","","","","",0,0
+731,2,1,2,0,0,"/eattaco","/taco","/tacoessen, /eattaco
+VERWENDUNG:
+/tacoessen [Unterbefehl]
+→ Du isst genüsslich einen Taco.
+>>Unterbefehl:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/tacoessen","",293,0
+732,2,1,2,0,0,"/devourtaco","","/tacomampfen, /devourtaco
+VERWENDUNG:
+/tacomampfen [Unterbefehl]
+→ Du mampfst unaufhörlich einen Taco.
+>>Unterbefehl:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/tacomampfen","",293,0
 733,0,0,0,0,0,"","","","","",0,0
 734,0,0,0,0,0,"","","","","",0,0

@@ -4927,25 +4927,25 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4873,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4874,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4875,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4876,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4877,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4878,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4879,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4876,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214401,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4877,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214402,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4878,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214403,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4879,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214404,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4880,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4881,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4882,"Nagendes Nichts","Erleidet schrittweise Schaden.",214386,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4883,"Geteiltes Leid","Erleidet schrittweise Schaden.",214397,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4884,"Geteiltes Leid","Erleidet schrittweise Schaden.",214398,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
-4885,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4886,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4887,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4888,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4885,"●ターゲット","●攻撃のターゲットとして、狙いをつけられている状態。ほかのプレイヤーに近づくと、ターゲットの対象が移る。",215026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4886,"●ターゲット対象外","●ターゲットの対象にならない。",215027,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4887,"_rsv_4887_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_4887_-1_2_1_0_S74CFC3B0_E74CFC3B0",215782,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4888,"_rsv_4888_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_4888_-1_2_1_0_S74CFC3B0_E74CFC3B0",215783,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4889,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4890,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4891,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4892,"Flüchtige Macht: Unstetes Adlerauge","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Unstetes Adlerauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground> wurde temporär erlernt und kann ausgeführt werden.",216765,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,6,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4893,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4894,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4894,"Schlaf","Tiefschlaf verhindert das Ausführen jeglicher Kommandos.",215013,1,0,1,2,2,3,True,False,True,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,3,0,False,False,False,0
 4895,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4896,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4897,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5129,15 +5129,15 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5075,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5076,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5077,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5078,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5079,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5080,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5081,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5082,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5083,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5084,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5085,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5086,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5078,"_rsv_5078_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5078_-1_2_1_0_S74CFC3B0_E74CFC3B0",214406,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5079,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214401,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5080,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214402,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5081,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214403,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5082,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214404,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5083,"_rsv_5083_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5083_-1_2_1_0_S74CFC3B0_E74CFC3B0",218951,0,5,0,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5084,"","",0,89,0,0,2,0,0,False,False,False,False,False,False,False,False,True,True,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5085,"","",0,89,0,0,2,0,0,False,False,False,False,False,False,False,False,True,True,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5086,"","",0,89,0,0,2,0,0,False,False,False,False,False,False,False,False,True,True,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5087,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5088,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5089,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5195,7 +5195,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5141,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5142,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5143,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5144,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5144,"_rsv_5144_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5144_-1_2_1_0_S74CFC3B0_E74CFC3B0",214407,0,0,1,2,17,0,False,False,False,True,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5145,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5146,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5147,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5401,12 +5401,12 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5347,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5348,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5349,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5350,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5351,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5350,"_rsv_5350_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5350_-1_2_1_0_S74CFC3B0_E74CFC3B0",214408,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5351,"_rsv_5351_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5351_-1_2_1_0_S74CFC3B0_E74CFC3B0",214409,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5352,"Mantel der Dämmerung (Licht)","Von Lichtäther umgeben. Erhöht erlittenen Dunkelschaden.",214392,89,0,1,2,17,1106,False,False,False,False,False,False,False,False,False,False,255,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5353,"Mantel der Dämmerung (Dunkel)","Von Dunkeläther umgeben. Erhöht erlittenen Lichtschaden.",214393,89,0,1,2,17,1107,False,False,False,False,False,False,False,False,False,False,255,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5354,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5355,"Lebensglyphe","Erlittener Schaden ist verringert und LP werden schrittweise regeneriert.",215119,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,2,0,False,False,-20,0,True,0,False,0,False,0,1,0,False,False,False,0
+5355,"Lebensglyphe","LP werden schrittweise regeneriert.",215119,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,2,0,False,False,-20,0,True,0,False,0,False,0,1,0,False,False,False,0
 5356,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5357,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5358,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5463,8 +5463,8 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5409,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5410,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5411,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5412,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5413,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5412,"Auffüllmittel","Füllt an einer Nachfüllstation Wachstumsmittel auf und kann infolgedessen ein besonderes Extrakommando ausführen.",217690,0,10,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5413,"Vitalauffüller","Füllt Wachstumsmittel auf und kann infolgedessen ein besonderes Extrakommando ausführen.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5414,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5415,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5416,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5503,9 +5503,9 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5449,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5450,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5451,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5452,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5453,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5454,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5452,"_rsv_5452_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5452_-1_2_1_0_S74CFC3B0_E74CFC3B0",217398,0,2,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5453,"_rsv_5453_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5453_-1_2_1_0_S74CFC3B0_E74CFC3B0",214413,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5454,"_rsv_5454_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5454_-1_2_1_0_S74CFC3B0_E74CFC3B0",215907,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,31,False,False,False,0
 5455,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5456,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5457,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5515,7 +5515,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5461,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5462,"","",0,0,0,1,0,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 5463,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5464,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5464,"_rsv_5464_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5464_-1_2_1_0_S74CFC3B0_E74CFC3B0",215780,0,0,1,2,17,20,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5465,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5466,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5467,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",215021,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5524,7 +5524,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5470,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5471,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5472,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5473,"Verhängnis","Wird kampfunfähig, sobald der Timer des Fluchs auf 0 sinkt.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,25,0,False,False,False,0
+5473,"Verhängnis","Wird kampfunfähig, sobald der Timer des Fluchs auf 0 sinkt. Der Effekt endet, sobald die LP vollständig geheilt sind.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,25,0,False,False,False,0
 5474,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5475,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5476,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5592,14 +5592,14 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5538,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5539,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5540,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5541,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5542,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5543,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5544,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5545,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5546,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5547,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5548,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5541,"Wunde des Lebenden","Durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Dunkellicht des Lebenden<UIGlow>01</UIGlow><UIForeground>01</UIForeground> erlittener Schaden ist erhöht.",215782,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5542,"Wunde des Toten","Durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Dunkellicht des Toten<UIGlow>01</UIGlow><UIForeground>01</UIForeground> erlittener Schaden ist erhöht.",215783,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5543,"Schrei der Verwünschung","Verwunschen. Bei Ende des Effekts werden alle anderen im Umkreis versteinert.",215588,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5544,"Gabelblitz","Statisch aufgeladen. Bei Ende des Effekts verursacht eine Entladung blitzbasierten Schaden an Zielen im Umkreis.",215623,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5545,"Wasserkompression","Mit verdichtetem Wasser-Äther geladen. Entfesselt am Ende des Effekts einen wasserbasierten Angriff.",215696,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5546,"Beschleunigungsbombe","Eine Bombe mit Beschleunigungssensor haftet am Körper. Bewegung bei Ende des Effekts führt zur Detonation.",215727,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5547,"Chaosflammen","Beim Ende des Effekts wird ein Feuerangriff ausgelöst.",215902,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,196,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5548,"Chaosspritzer","Beim Ende des Effekts wird ein Wasserangriff ausgelöst.",215903,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,196,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5549,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5550,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5551,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
