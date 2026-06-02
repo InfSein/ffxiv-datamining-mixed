@@ -575,66 +575,186 @@ Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searc
 191,"Développement de la station Terra Firma terminé
 <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Vers l'infini, et au-delà<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Développement de la station Terra Firma terminé","Les infrastructures de la station Terra Firma sont toutes achevées<Indent/>! Nos recherches vont désormais pouvoir avancer à pas de géant<Indent/>! Fé<SoftHyphen/>li<SoftHyphen/>ci<SoftHyphen/>ta<SoftHyphen/>tions et merci à toutes et à tous<Indent/>!","Grâce à nos efforts combinés, les différentes infrastructures prévues 
 pour la station Terra Firma sont enfin terminées ! Merci, merci, et encore merci !!!","Searchingway",27,False,170,30,0,241103,0,166,59,5,2,0,0,6,3,4,5,0,0,34,35,0
-192,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-193,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-194,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-195,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-196,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-197,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-198,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-199,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-200,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-201,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-204,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-205,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-206,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-207,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-208,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-213,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-214,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-215,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-216,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-217,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-218,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-219,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-220,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-221,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-222,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-223,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-224,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-225,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-226,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-227,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-228,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-229,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-230,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-231,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-232,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-233,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-234,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-235,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-236,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-237,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-238,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-239,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-240,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-241,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-242,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-243,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-244,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-245,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-246,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-247,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-248,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-249,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-250,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-251,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,"Modules d'habitation<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Modules d'habitation<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour construire des modules d'habitation<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous sommes en train de réunir les matériaux nécessaires à
+la con<SoftHyphen/>struc<SoftHyphen/>tion des modules d'habitation<Indent/>! Votre aide est la bienvenue<Indent/>!","Searchingway",0,False,171,1,0,241105,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+193,"Modules d'habitation<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Modules d'habitation<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à construire des modules d'habitation va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour
+la con<SoftHyphen/>struc<SoftHyphen/>tion des modules d'habitation<Indent/>! On compte sur vous<Indent/>!","Searchingway",0,False,171,1,0,241105,1451,184,1,5,5,0,0,0,0,0,0,0,0,0,0,0
+194,"Modules d'habitation<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Modules d'habitation<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à construire des modules d'habitation est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour
+la con<SoftHyphen/>struc<SoftHyphen/>tion des modules d'habitation<Indent/>! Merci d'avance<Indent/>!","Searchingway",0,False,171,2,0,241105,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+195,"Modules d'habitation<Indent/>: terminés
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Modules d'habitation<Indent/>: chantier terminé","Les modules d'habitation sont terminés<Indent/>! Les conditions de vie à la station vont s'améliorer, merci de votre coopération<Indent/>!","La con<SoftHyphen/>struc<SoftHyphen/>tion des modules d'habitation
+est terminée<Indent/>! Bravo à tous<Indent/>!","Searchingway",1,False,171,3,0,241106,1641,184,3,6,5,0,0,0,0,0,0,0,0,0,0,6
+196,"Cosmo-navette du Foyer primaire<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette du Foyer primaire<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à installer un système de navettes va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour
+la con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette<Indent/>! On compte sur vous<Indent/>!","Searchingway",2,True,171,4,0,241107,0,184,4,5,5,0,0,0,0,0,0,0,0,0,0,7
+197,"Cosmo-navette du Foyer primaire<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Encore un peu de patience<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette du Foyer primaire<Indent/>: chantier en cours","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette du Foyer primaire approche<Indent/>! Encore un peu de patience, et nous pourrons tous en profiter<Indent/>!","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de
+la cosmo-navette du Foyer primaire est prévue pour bientôt<Indent/>!","Searchingway",2,False,171,4,0,241107,0,184,5,5,5,0,0,0,0,0,0,0,0,0,0,0
+198,"Cosmo-navette du Foyer primaire<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette du Foyer primaire<Indent/>: chantier terminé","L'installation du système de navettes est terminée<Indent/>! L'exploration va pouvoir se poursuivre à grande vitesse, merci de votre coopération<Indent/>!","La con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette du
+Foyer primaire est terminée<Indent/>! Bravo à tous<Indent/>!","Searchingway",3,False,171,4,0,241108,1642,184,6,6,5,0,0,2,3,0,0,0,0,0,0,8
+199,"Nouvelles infrastructures<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Nouvelles infrastructures<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour construire une station énergétique et une station hydropurificatrice<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous sommes en train de réunir les matériaux nécessaires à la con<SoftHyphen/>struc<SoftHyphen/>tion de
+nouvelles infrastructures<Indent/>! Votre aide est la bienvenue<Indent/>!","Searchingway",4,True,171,5,0,241109,0,184,7,5,5,0,0,2,3,0,0,0,0,0,0,0
+200,"Station énergétique<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Station énergétique<Indent/>: préparation du chantier 1/2","Un projet d'ouvrage collectif visant à construire une station énergétique va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour la con<SoftHyphen/>struc<SoftHyphen/>tion
+d'une station énergétique<Indent/>! Venez nous filer un coup de main<Indent/>!","Searchingway",4,False,171,5,0,241109,1451,184,8,5,5,0,0,2,3,0,0,0,0,0,0,0
+201,"Station énergétique<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Station énergétique<Indent/>: chantier en cours 1/2","Un projet d'ouvrage collectif visant à construire une station énergétique est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour la
+con<SoftHyphen/>struc<SoftHyphen/>tion d'une station énergétique<Indent/>! Merci d'avance<Indent/>!","Searchingway",4,False,171,5,0,241109,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+202,"Station hydropurificatrice<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Station hydropurificatrice<Indent/>: préparation du chantier 2/2","Un projet d'ouvrage collectif visant à construire une station hydropurificatrice va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour la con<SoftHyphen/>struc<SoftHyphen/>tion
+d'une station hydropurificatrice<Indent/>! Venez nous filer un coup de main<Indent/>!","Searchingway",5,False,171,6,0,241110,1643,184,10,6,5,0,0,2,3,0,0,0,0,0,0,9
+203,"Station hydropurificatrice<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Station hydropurificatrice<Indent/>: chantier en cours 2/2","Un projet d'ouvrage collectif visant à construire une station hydropurificatrice est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour la con<SoftHyphen/>struc<SoftHyphen/>tion
+d'une station hydropurificatrice<Indent/>! Merci d'avance<Indent/>!","Searchingway",5,False,171,6,0,241110,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+204,"Stations énergétique/hydropurificatrice<Indent/>: terminées
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Stations énergétique et hydropurificatrice<Indent/>: chantiers terminés","La con<SoftHyphen/>struc<SoftHyphen/>tion des stations énergétique et hydropurificatrice est terminée<Indent/>! Nos besoins sont satisfaits, merci de votre coopération<Indent/>!","La con<SoftHyphen/>struc<SoftHyphen/>tion des stations énergétique et hydropurificatrice
+est terminée<Indent/>! Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants<Indent/>!","Searchingway",6,False,171,7,0,241111,1644,184,12,6,5,0,0,2,3,0,0,0,0,0,0,10
+205,"Restauration de la Pousse épanouie<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse épanouie<Indent/>: collecte des matériaux","La tour découverte dans le Répertoire racine semble être un des piliers du système informatique de la ville. Nous allons la restaurer pour mieux en percer les mystères<Indent/>!","Nous projetons de restaurer la Pousse épanouie !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",7,True,171,8,0,241112,0,184,13,5,5,0,0,2,3,0,0,0,0,0,0,0
+206,"Restauration de la Pousse épanouie<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse épanouie<Indent/>: préparation du chantier","Un projet d'ouvrage collectif pour la restauration de la Pousse épanouie va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour la restauration
+de la Pousse épanouie<Indent/>! Venez nous filer un coup de main !","Searchingway",7,False,171,8,0,241112,1451,184,14,5,5,0,0,2,3,0,0,0,0,0,0,0
+207,"Restauration de la Pousse épanouie<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse épanouie<Indent/>: chantier en cours","Un projet d'ouvrage collectif pour la restauration de la Pousse épanouie est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour la restauration
+de la Pousse épanouie<Indent/>! Merci d'avance<Indent/>!","Searchingway",7,False,171,8,0,241112,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+208,"Restauration de la Pousse épanouie<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse épanouie<Indent/>: chantier terminé","La restauration de la Pousse épanouie est terminée ! Nos chercheurs vont se faire un plaisir d'en décortiquer le fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment<Indent/>!","La restauration de la Pousse épanouie est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",8,False,171,9,0,241113,1645,184,16,6,5,0,0,2,3,0,0,0,0,0,0,0
+209,"Maintenance du Havre forestier<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Maintenance du Havre forestier<Indent/>: collecte des matériaux","Nous allons restructurer le réseau informatique de la station pour pouvoir analyser les données extraites de la Pousse épanouie. Une opération qui va évidemment nécessiter des matériaux<Indent/>!","Nous projetons d'effectuer la maintenance de la station du Havre forestier !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",9,True,171,10,0,241114,0,184,17,5,5,0,0,2,3,0,0,0,0,0,0,11
+210,"Maintenance du Havre forestier<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Maintenance du Havre forestier<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à effectuer la maintenance de la station du Havre forestier va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour effectuer
+la maintenance de la station du Havre forestier ! Venez nous filer un coup de main !","Searchingway",9,False,171,10,0,241114,1451,184,18,5,5,0,0,2,3,0,0,0,0,0,0,0
+211,"Maintenance du Havre forestier<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Maintenance du Havre forestier<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à effectuer la maintenance de la station du Havre forestier est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour effectuer
+la maintenance de la station du Havre forestier ! Merci d'avance<Indent/>!","Searchingway",9,False,171,10,0,241114,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+212,"Maintenance du Havre forestier<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Maintenance du Havre forestier<Indent/>: chantier terminé","Le réseau informatique de la station a été restructuré, et la Pousse épanouie va être raccordée dans la foulée<Indent/>! Voilà qui devrait nous permettre d'explorer encore davantage les mystères de cette planète<Indent/>!","La maintenance de la station du Havre forestier est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",10,False,171,11,0,241115,1646,184,20,6,5,0,0,2,3,0,0,0,0,0,0,0
+213,"Accès aux Bibliothèques sylvestres<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès aux Bibliothèques sylvestres<Indent/>: collecte des matériaux","L'analyse des données de la Pousse épanouie nous a aiguillés vers une deuxième tour<Indent/>: la Pousse fleurie, située au sein des Bibliothèques sylvestres<Indent/>! À nous d'ouvrir un passage jusqu'à elle<Indent/>!","Nous projetons d'ouvrir un accès aux Bibliothèques sylvestres<Indent/>!
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",11,True,171,12,0,241116,0,184,21,5,5,0,0,2,3,0,0,0,0,0,0,0
+214,"Accès aux Bibliothèques sylvestres<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès aux Bibliothèques sylvestres<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à ouvrir un accès aux Bibliothèques sylvestres va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour ouvrir
+un accès aux Bibliothèques sylvestres<Indent/>! Venez nous filer un coup de main !","Searchingway",11,False,171,12,0,241116,1451,184,22,5,5,0,0,2,3,0,0,0,0,0,0,0
+215,"Accès aux Bibliothèques sylvestres<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès aux Bibliothèques sylvestres<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à ouvrir un accès aux Bibliothèques sylvestres est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour ouvrir
+un accès aux Bibliothèques sylvestres ! Merci d'avance<Indent/>!","Searchingway",11,False,171,12,0,241116,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+216,"Accès aux Bibliothèques sylvestres<Indent/>: terminé
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès aux Bibliothèques sylvestres<Indent/>: chantier terminé","Nous avons ouvert l'accès aux Bibliothèques sylvestres et à la Pousse fleurie<Indent/>! Une fois encore, nos scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ques vont s'empresser de prendre le relais<Indent/>!","L'accès aux Bibliothèques sylvestres est ouvert !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",12,False,171,13,0,241117,1647,184,24,6,5,0,0,2,3,0,0,0,0,0,0,0
+217,"Restauration de la Pousse fleurie<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse fleurie<Indent/>: collecte des matériaux","La restauration de la Pousse fleurie va nécessiter une approche différente de celle que nous avons eue précédemment. Nos chercheurs se penchent sur la question au moment où je vous parle<Indent/>!","Nous projetons de restaurer la Pousse fleurie !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",13,True,171,14,0,241118,0,184,25,5,5,0,0,2,3,0,0,0,0,0,0,0
+218,"Restauration de la Pousse fleurie<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse fleurie<Indent/>: préparation du chantier","Un projet d'ouvrage collectif pour la restauration de la Pousse fleurie va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour la restauration
+de la Pousse fleurie<Indent/>! Venez nous filer un coup de main !","Searchingway",13,False,171,14,0,241118,1451,184,26,5,5,0,0,2,3,0,0,0,0,0,0,0
+219,"Restauration de la Pousse fleurie<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse fleurie<Indent/>: chantier en cours","Un projet d'ouvrage collectif pour la restauration de la Pousse fleurie est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour la restauration
+de la Pousse fleurie<Indent/>! Merci d'avance<Indent/>!","Searchingway",13,False,171,14,0,241118,0,0,0,0,5,0,0,2,3,0,0,0,0,0,0,0
+220,"Restauration de la Pousse fleurie<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse fleurie<Indent/>: chantier terminé","La restauration de la Pousse fleurie est un succès<Indent/>! En la connectant à la Pousse épanouie, on devrait obtenir des résultats in<SoftHyphen/>té<SoftHyphen/>res<SoftHyphen/>sants<Indent/>!","La restauration de la Pousse fleurie est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",14,False,171,15,0,241119,1648,184,28,6,5,0,0,2,3,0,0,0,0,0,0,0
+221,"Cosmo-navette des Bibli. sylvestres<Indent/>: matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette des Bibliothèques sylvestres<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour construire la cosmo-navette des Bibliothèques sylvestres<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous prévoyons de construire une nouvelle cosmo-navette vers les
+Bibliothèques sylvestres ! Nous sommes en train de réunir les matériaux nécessaires !","Searchingway",14,False,171,16,0,241120,0,184,29,5,5,0,0,2,3,0,0,0,0,0,0,0
+222,"Cosmo-navette des Bibli. sylvestres<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Encore un peu de patience<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette des Bibliothèques sylvestres<Indent/>: chantier en cours","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette des Bibliothèques sylvestres approche<Indent/>! Encore un peu de patience, et nous pourrons tous en profiter<Indent/>!","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de
+la cosmo-navette des Bibliothèques sylvestres est prévue pour bientôt !","Searchingway",14,False,171,16,0,241120,0,184,30,5,5,0,0,2,3,0,0,0,0,0,0,0
+223,"Cosmo-navette des Bibli. sylvestres<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette des Bibliothèques sylvestres<Indent/>: chantier terminé","La con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette des Bibliothèques sylvestres est terminée ! L'étude de la Pousse fleurie va s'accélérer, merci de votre coopération<Indent/>!","La con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette des Bibliothèques sylvestres est terminée !
+Un grand merci à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",15,False,171,16,0,241121,1649,184,31,6,5,0,0,2,3,4,0,0,0,0,0,0
+224,"Cosmoport bêta<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmoport bêta<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour améliorer le cosmoport<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous projetons d'améliorer le cosmoport<Indent/>!
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",16,True,171,17,0,241122,0,184,32,5,5,0,0,2,3,4,0,0,0,0,0,12
+225,"Cosmoport bêta<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmoport bêta<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à améliorer le cosmoport va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour
+l'amélioration du cosmoport ! Venez nous filer un coup de main !","Searchingway",16,False,171,17,0,241122,1451,184,33,5,5,0,0,2,3,4,0,0,0,0,0,0
+226,"Cosmoport bêta<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmoport bêta<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à améliorer le cosmoport est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour
+l'amélioration du cosmoport ! Merci d'avance<Indent/>!","Searchingway",16,False,171,17,0,241122,0,0,0,0,5,0,0,2,3,4,0,0,0,0,0,0
+227,"Cosmoport bêta<Indent/>: terminé
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmoport bêta<Indent/>: chantier terminé","L'amélioration du cosmoport est terminé<Indent/>! Nous allons pouvoir faire profiter Ætherys de toutes nos découvertes, merci de votre coopération<Indent/>!","L'amélioration du cosmoport est terminée<Indent/>!
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants<Indent/>!","Searchingway",17,False,171,18,0,241123,1650,184,35,6,5,0,0,2,3,4,0,0,0,0,0,0
+228,"Accès à la Pousse vivace<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès à la Pousse vivace<Indent/>: collecte des matériaux","L'analyse de la Pousse fleurie nous a révélé l'existence d'une dernière tour appelée la “Pousse vivace”. Pour l'atteindre, il va falloir dégager un passage<Indent/>!","Nous projetons d'ouvrir un accès à la Pousse vivace<Indent/>!
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",18,False,171,19,0,241124,0,184,36,5,5,0,0,2,3,4,0,0,0,0,0,0
+229,"Accès à la Pousse vivace<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès à la Pousse vivace<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à ouvrir un accès à la Pousse vivace va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour ouvrir
+un accès à la Pousse vivace<Indent/>! Venez nous filer un coup de main !","Searchingway",18,False,171,19,0,241124,1451,184,37,5,5,0,0,2,3,4,0,0,0,0,0,0
+230,"Accès à la Pousse vivace<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès à la Pousse vivace<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à ouvrir un accès à la Pousse vivace est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour ouvrir
+un accès à la Pousse vivace ! Merci d'avance<Indent/>!","Searchingway",18,False,171,19,0,241124,0,0,0,0,5,0,0,2,3,4,0,0,0,0,0,0
+231,"Accès à la Pousse vivace<Indent/>: terminé
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Accès à la Pousse vivace<Indent/>: chantier terminé","L'accès à la Pousse vivace est dégagé<Indent/>! À suivre, l'entrée en scène de nos scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>ques... Jamais deux sans trois, comme on dit<Indent/>!","L'accès à la Pousse vivace est ouvert !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",19,False,171,20,0,241125,1651,184,39,6,5,0,0,2,3,4,0,0,0,0,0,0
+232,"Restauration de la Pousse vivace<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse vivace<Indent/>: collecte des matériaux","Après la Pousse épanouie et la Pousse fleurie, au tour de la Pousse vivace d'être restaurée<Indent/>! Il va nous falloir beaucoup d'énergie pour cela, alors ne vous relâchez pas<Indent/>!","Nous projetons de restaurer la Pousse vivace !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",20,True,171,21,0,241126,0,184,40,5,5,0,0,2,3,4,0,0,0,0,0,13
+233,"Restauration de la Pousse vivace<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse vivace<Indent/>: préparation du chantier","Un projet d'ouvrage collectif pour la restauration de la Pousse vivace va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour la restauration
+de la Pousse vivace<Indent/>! Venez nous filer un coup de main !","Searchingway",20,False,171,21,0,241126,1451,184,41,5,5,0,0,2,3,4,0,0,0,0,0,0
+234,"Restauration de la Pousse vivace<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse vivace<Indent/>: chantier en cours","Un projet d'ouvrage collectif pour la restauration de la Pousse vivace est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour la restauration
+de la Pousse vivace<Indent/>! Merci d'avance<Indent/>!","Searchingway",20,False,171,21,0,241126,0,0,0,0,5,0,0,2,3,4,0,0,0,0,0,0
+235,"Restauration de la Pousse vivace<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Restauration de la Pousse vivace<Indent/>: chantier terminé","Ça y est, la Pousse vivace est restaurée<Indent/>! À présent que les trois tours fonctionnent, qui sait quelles fascinantes découvertes attendent nos chercheurs<Indent/>?","La restauration de la Pousse vivace est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",21,False,171,22,0,241127,1652,184,43,6,5,0,0,2,3,4,0,0,0,0,0,14
+236,"Cosmo-navette de la Parcelle verd.<Indent/>: matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette de la Parcelle verdoyante<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour construire la cosmo-navette de la Parcelle verdoyante<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous prévoyons de construire une nouvelle cosmo-navette vers la
+Parcelle verdoyante ! Nous sommes en train de réunir les matériaux nécessaires !","Searchingway",21,False,171,23,0,241128,0,184,44,5,5,0,0,2,3,4,0,0,0,0,0,0
+237,"Cosmo-navette de la Parcelle verdoyante<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Encore un peu de patience<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette de la Parcelle verdoyante<Indent/>: chantier en cours","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette de la Parcelle verdoyante approche<Indent/>! Encore un peu de patience, et nous pourrons tous en profiter<Indent/>!","La fin du chantier pour la con<SoftHyphen/>struc<SoftHyphen/>tion de
+la cosmo-navette de la Parcelle verdoyante est prévue pour bientôt !","Searchingway",21,False,171,23,0,241128,0,184,45,5,5,0,0,2,3,4,0,0,0,0,0,0
+238,"Cosmo-navette de la Parcelle verdoyante<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Cosmo-navette de la Parcelle verdoyante<Indent/>: chantier terminé","La con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette de la Parcelle verdoyante est terminée ! L'étude de la Pousse vivace va s'accélérer, merci de votre coopération<Indent/>!","La con<SoftHyphen/>struc<SoftHyphen/>tion de la cosmo-navette de la Parcelle verdoyante est terminée !
+Un grand merci à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",22,False,171,23,0,241129,1653,184,46,6,5,0,0,2,3,4,22,0,0,0,0,15
+239,"Amélioration des hangars<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Amélioration des hangars<Indent/>: collecte des matériaux","Les mécanos cosmiques sont le meilleur moyen d'accéder à l'Écosystème central. De nouveaux modèles vont être déployés, mais pour cela, nous devons d'abord moderniser nos hangars<Indent/>!","Nous projetons d'améliorer les hangars des machines !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",23,True,171,24,0,241130,0,184,47,5,5,0,0,2,3,4,22,0,0,0,0,16
+240,"Amélioration des hangars<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Amélioration des hangars<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à améliorer les hangars des machines va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour
+l'amélioration des hangars ! Venez nous filer un coup de main !","Searchingway",23,False,171,24,0,241130,1451,184,48,5,5,0,0,2,3,4,22,0,0,0,0,0
+241,"Amélioration des hangars<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Amélioration des hangars<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à améliorer les hangars des machines est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé
+pour l'amélioration des hangars ! Merci d'avance<Indent/>!","Searchingway",23,False,171,24,0,241130,0,0,0,0,5,0,0,2,3,4,22,0,0,0,0,0
+242,"Amélioration des hangars<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Amélioration des hangars<Indent/>: chantier terminé","L'amélioration des hangars est terminée ! Nous pouvons à présent tourner nos regards vers le sommet de la grande tour<Indent/>!","L'amélioration des hangars est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",24,False,171,25,0,241131,1654,184,50,6,5,0,0,2,3,4,22,0,0,0,0,17
+243,"Aménagement de l'Écosystème central<Indent/>: matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Aménagement de l'Écosystème central<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour aménager l'Écosystème central et faciliter la restauration du Laurier-Mère<Indent/>! Merci de participer aux missions cosmiques <Indent/>!","Nous projetons d'aménager la partie supérieure de l'Écosystème central<Indent/>!
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",25,True,171,26,0,241132,0,184,51,5,5,0,0,2,3,4,22,0,0,0,0,18
+244,"Aménagement de l'Écosystème central<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Aménagement de l'Écosystème central<Indent/>: préparation du chantier","Un projet d'ouvrage collectif pour aménager l'Écosystème central va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour l'aménagement
+de l'Écosystème central<Indent/>! Venez nous filer un coup de main !","Searchingway",25,False,171,26,205,241132,1451,184,52,5,5,0,0,2,3,4,22,0,0,0,0,0
+245,"Aménagement de l'Écosystème central<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Aménagement de l'Écosystème central<Indent/>: chantier en cours","Un projet d'ouvrage collectif pour aménager l'Écosystème central est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour l'aménagement
+de l'Écosystème central<Indent/>! Merci d'avance<Indent/>!","Searchingway",26,False,171,26,204,241132,0,0,0,0,5,0,0,2,3,4,22,0,0,0,0,0
+246,"Aménagement de l'Écosystème central<Indent/>: terminé
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Quartier libre<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Aménagement de l'Écosystème central<Indent/>: chantier terminé","L'aménagement de l'Écosystème central est terminé, et une ligne de cosmo-navette a été ouverte dans la foulée<Indent/>! Plus que jamais, nous touchons au but<Indent/>!","L'aménagement de l'Écosystème central est terminé<Indent/>!
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",27,False,171,27,0,241133,1655,184,54,6,5,0,0,2,3,4,22,0,0,0,0,19
+247,"Réactivation du Laurier-Mère<Indent/>: coll. matériaux
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez aux missions cosmiques<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Réactivation du Laurier-Mère<Indent/>: collecte des matériaux","Nous avons besoin de matériaux pour réactiver Le Laurier-Mère<Indent/>! Merci de participer aux missions cosmiques<Indent/>!","Nous projetons de réactiver Le Laurier-Mère !
+Aidez-nous à réunir les matériaux nécessaires<Indent/>!","Searchingway",28,True,171,28,0,241134,0,184,55,5,5,0,0,2,3,4,22,0,0,0,0,20
+248,"Réactivation du Laurier-Mère<Indent/>: préparation
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Tenez-vous prêts<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Réactivation du Laurier-Mère<Indent/>: préparation du chantier","Un projet d'ouvrage collectif visant à réactiver Le Laurier-Mère va bientôt commencer<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif va bientôt être lancé pour réactiver
+Le Laurier-Mère ! Venez nous filer un coup de main !","Searchingway",28,False,171,28,0,241134,1451,184,56,5,5,0,0,2,3,4,22,0,0,0,0,0
+249,"Réactivation du Laurier-Mère<Indent/>: en cours
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Participez à l'effort collectif<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Réactivation du Laurier-Mère<Indent/>: chantier en cours","Un projet d'ouvrage collectif visant à réactiver Le Laurier-Mère est en cours<Indent/>! Merci de participer<Indent/>!","Un projet d'ouvrage collectif vient d'être lancé pour réactiver
+Le Laurier-Mère ! Merci d'avance<Indent/>!","Searchingway",28,False,171,28,0,241134,0,0,0,0,5,0,0,2,3,4,22,0,0,0,0,0
+250,"Réactivation du Laurier-Mère<Indent/>: terminée
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Prenez un repos bien mérité<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Réactivation du Laurier-Mère<Indent/>: chantier terminé","La réactivation du Laurier-Mère est terminée ! Merci encore pour tout ce que vous avez accompli<Indent/>!","La réactivation du Laurier-Mère est terminée !
+Bravo à tous les par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pants !","Searchingway",29,False,171,29,0,241135,1656,184,58,6,5,0,0,2,3,4,22,0,0,0,0,21
+251,"Développement du Havre forestier terminé
+<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>Vers l'infini, et au-delà<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","Développement du Havre forestier terminé","Les infrastructures de la station du Havre forestier sont toutes achevées<Indent/>! Encore une expédition spatiale rondement menée<Indent/>! Fé<SoftHyphen/>li<SoftHyphen/>ci<SoftHyphen/>ta<SoftHyphen/>tions et merci à toutes et à tous<Indent/>!","Grâce à nos efforts combinés, les différentes infrastructures prévues
+pour la station du Havre forestier sont terminées ! Merci, merci, et encore merci !!!","Searchingway",29,False,171,30,0,241136,0,184,59,5,5,0,0,2,3,4,22,0,0,0,0,0
 252,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 253,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 254,"","","","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

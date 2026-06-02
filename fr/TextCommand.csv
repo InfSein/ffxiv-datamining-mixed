@@ -3541,7 +3541,17 @@ Agite une baguette pour battre la mesure.
 >> Sous-commande<Indent/>:
 animation (motion)   Exécute uniquement l'animation.
 * Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/chefdorchestre","/chefdorc",293,0
-731,0,0,0,0,0,"","","","","",0,0
-732,0,0,0,0,0,"","","","","",0,0
+731,2,1,2,0,0,"/eattaco","/taco","/mangeruntaco, /taco, /eattaco
+Utilisation<Indent/>: /mangeruntaco [sous-commande]
+Croque dans un taco.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/mangeruntaco","/taco",293,0
+732,2,1,2,0,0,"/devourtaco","","/dégusteruntaco, /dégtaco, /devourtaco
+Utilisation<Indent/>: /dégusteruntaco [sous-commande]
+Déguste un taco en continu.
+>> Sous-commande<Indent/>:
+animation (motion)   Exécute uniquement l'animation.
+* Si aucune sous-commande n'est spécifiée, le message apparaît en même temps que l'animation.","/dégusteruntaco","/dégtaco",293,0
 733,0,0,0,0,0,"","","","","",0,0
 734,0,0,0,0,0,"","","","","",0,0

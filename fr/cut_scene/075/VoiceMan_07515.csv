@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
+0,"TEXT_VOICEMAN_07515_000000_CEFCA","(-Kefka-)Je suis l'être le plus puissant de l'univers<Indent/>!"
+1,"TEXT_VOICEMAN_07515_000010_CEFCA","(-Kefka-)Vous n'êtes rien<Indent/>! Moins que rien<Indent/>! Rien du tout<Indent/>! Rien de rien<Indent/>!"
+2,"TEXT_VOICEMAN_07515_000020_CEFCA","(-Kefka-)En détruisant tout, je créerai mon empire de la mort<Indent/>!"
+3,"TEXT_VOICEMAN_07515_000030_CEFCA","(-Kefka-)Commeeent<Indent/>!? C'est pas vrai<Indent/>! J'ai perdu, moi<Indent/>!?"
+4,"TEXT_VOICEMAN_07515_000040_CEFCA","(-Kefka-)Je n'arrive pas à y croiiire<Indent/>!"
+5,"TEXT_VOICEMAN_07515_000050_CEFCA","(-Kefka-)<Gui(54)/>C'était génial<Indent/>!<Gui(55)/>"

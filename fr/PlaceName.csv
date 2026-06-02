@@ -5609,39 +5609,39 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5534,"Courant spectral (large de l'île sans nom)",0,"Courant spectral (large de l'île sans nom)",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le courant spectral au large de l'île sans nom</Case><Case(2)>au courant spectral au large de l'île sans nom</Case><Case(3)>du courant spectral au large de l'île sans nom</Case></Switch>",0,0,0
 5535,"Large de Thavnair",0,"Large de Thavnair",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le large de Thavnair</Case><Case(2)>au large de Thavnair</Case><Case(3)>du large de Thavnair</Case></Switch>",0,0,0
 5536,"Courant spectral (large de Thavnair)",0,"Courant spectral (large de Thavnair)",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le courant spectral au large de Thavnair</Case><Case(2)>au courant spectral au large de Thavnair</Case><Case(3)>du courant spectral au large de Thavnair</Case></Switch>",0,0,0
-5537,"",0,"",0,0,0,0,0,"",0,0,0
-5538,"",0,"",0,0,0,0,0,"",0,0,0
-5539,"",0,"",0,0,0,0,0,"",0,0,0
-5540,"",0,"",0,0,0,0,0,"",0,0,0
-5541,"",0,"",0,0,0,0,0,"",0,0,0
-5542,"",0,"",0,0,0,0,0,"",0,0,0
-5543,"",0,"",0,0,0,0,0,"",0,0,0
-5544,"",0,"",0,0,0,0,0,"",0,0,0
+5537,"Étang forestier",0,"Étang forestier",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'étang forestier</Case><Case(2)>à l'étang forestier</Case><Case(3)>de l'étang forestier</Case></Switch>",0,0,0
+5538,"Bassin de la Feuillaison",0,"Bassin de la Feuillaison",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le bassin de la Feuillaison</Case><Case(2)>au bassin de la Feuillaison</Case><Case(3)>du bassin de la Feuillaison</Case></Switch>",0,0,0
+5539,"Bassin d'Émeraude",0,"Bassin d'Émeraude",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le bassin d'Émeraude</Case><Case(2)>au bassin d'Émeraude</Case><Case(3)>du bassin d'Émeraude</Case></Switch>",0,0,0
+5540,"Nervure routière ouest",0,"Nervure routière ouest",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Nervure routière ouest</Case><Case(2)>à la Nervure routière ouest</Case><Case(3)>de la Nervure routière ouest</Case></Switch>",0,0,0
+5541,"Fontaine luxuriante",0,"Fontaine luxuriante",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la fontaine luxuriante</Case><Case(2)>à la fontaine luxuriante</Case><Case(3)>de la fontaine luxuriante</Case></Switch>",0,0,0
+5542,"Cuvette sylvestre",0,"Cuvette sylvestre",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la cuvette sylvestre</Case><Case(2)>à la cuvette sylvestre</Case><Case(3)>de la cuvette sylvestre</Case></Switch>",0,0,0
+5543,"Parcelle du rivage",0,"Parcelle du rivage",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la parcelle du rivage</Case><Case(2)>à la parcelle du rivage</Case><Case(3)>de la parcelle du rivage</Case></Switch>",0,0,0
+5544,"Source épanouie",0,"Source épanouie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la source épanouie</Case><Case(2)>à la source épanouie</Case><Case(3)>de la source épanouie</Case></Switch>",0,0,0
 5545,"",0,"",0,0,0,0,0,"",0,0,0
-5546,"",0,"",0,0,0,0,0,"",0,0,0
-5547,"",0,"",0,0,0,0,0,"",0,0,0
-5548,"",0,"",0,0,0,0,0,"",0,0,0
-5549,"",0,"",0,0,0,0,0,"",0,0,0
-5550,"",0,"",0,0,0,0,0,"",0,0,0
-5551,"",0,"",0,0,0,0,0,"",0,0,0
-5552,"",0,"",0,0,0,0,0,"",0,0,0
-5553,"",0,"",0,0,0,0,0,"",0,0,0
-5554,"",0,"",0,0,0,0,0,"",0,0,0
-5555,"",0,"",0,0,0,0,0,"",0,0,0
-5556,"",0,"",0,0,0,0,0,"",0,0,0
-5557,"",0,"",0,0,0,0,0,"",0,0,0
-5558,"",0,"",0,0,0,0,0,"",0,0,0
-5559,"",0,"",0,0,0,0,0,"",0,0,0
-5560,"",0,"",0,0,0,0,0,"",0,0,0
-5561,"",0,"",0,0,0,0,0,"",0,0,0
-5562,"",0,"",0,0,0,0,0,"",0,0,0
-5563,"",0,"",0,0,0,0,0,"",0,0,0
-5564,"",0,"",0,0,0,0,0,"",0,0,0
-5565,"",0,"",0,0,0,0,0,"",0,0,0
-5566,"",0,"",0,0,0,0,0,"",0,0,0
-5567,"",0,"",0,0,0,0,0,"",0,0,0
-5568,"",0,"",0,0,0,0,0,"",0,0,0
-5569,"",0,"",0,0,0,0,0,"",0,0,0
+5546,"Havre forestier",0,"Havre forestier",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Havre forestier</Case><Case(2)>au Havre forestier</Case><Case(3)>du Havre forestier</Case></Switch>",0,0,0
+5547,"Jardins luxuriants",0,"Jardins luxuriants",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les Jardins luxuriants</Case><Case(2)>aux Jardins luxuriants</Case><Case(3)>des Jardins luxuriants</Case></Switch>",0,0,0
+5548,"Pileus Pergola",0,"Pileus Pergola",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Pileus Pergola</Case><Case(2)>à Pileus Pergola</Case><Case(3)>de Pileus Pergola</Case></Switch>",0,0,0
+5549,"Bibliothèques sylvestres",0,"Bibliothèques sylvestres",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les Bibliothèques sylvestres</Case><Case(2)>aux Bibliothèques sylvestres</Case><Case(3)>des Bibliothèques sylvestres</Case></Switch>",0,0,0
+5550,"Parcelle verdoyante",0,"Parcelle verdoyante",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Parcelle verdoyante</Case><Case(2)>à la Parcelle verdoyante</Case><Case(3)>de la Parcelle verdoyante</Case></Switch>",0,0,0
+5551,"Auxesia",0,"Auxesia",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Auxesia</Case><Case(2)>à Auxesia</Case><Case(3)>d'Auxesia</Case></Switch>",0,0,0
+5552,"Écosystème central",0,"Écosystème central",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'Écosystème central</Case><Case(2)>à l'Écosystème central</Case><Case(3)>de l'Écosystème central</Case></Switch>",0,0,0
+5553,"Bois dormant",0,"Bois dormant",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le bois dormant</Case><Case(2)>au bois dormant</Case><Case(3)>du bois dormant</Case></Switch>",0,0,0
+5554,"Répertoire racine",0,"Répertoire racine",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Répertoire racine</Case><Case(2)>au Répertoire racine</Case><Case(3)>du Répertoire racine</Case></Switch>",0,0,0
+5555,"Bibliothèques sylvestres",0,"Bibliothèques sylvestres",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les Bibliothèques sylvestres</Case><Case(2)>aux Bibliothèques sylvestres</Case><Case(3)>des Bibliothèques sylvestres</Case></Switch>",0,0,0
+5556,"Jardins luxuriants",0,"Jardins luxuriants",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>les Jardins luxuriants</Case><Case(2)>aux Jardins luxuriants</Case><Case(3)>des Jardins luxuriants</Case></Switch>",0,0,0
+5557,"Nervure routière",0,"Nervure routière",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Nervure routière</Case><Case(2)>à la Nervure routière</Case><Case(3)>de la Nervure routière</Case></Switch>",0,0,0
+5558,"Parcelle verdoyante",0,"Parcelle verdoyante",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Parcelle verdoyante</Case><Case(2)>à la Parcelle verdoyante</Case><Case(3)>de la Parcelle verdoyante</Case></Switch>",0,0,0
+5559,"Le Laurier-Mère",0,"Le Laurier-Mère",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Le Laurier-Mère</Case><Case(2)>au Laurier-Mère</Case><Case(3)>du Laurier-Mère</Case></Switch>",0,0,0
+5560,"Haute pépinière",0,"Haute pépinière",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Haute pépinière</Case><Case(2)>à la Haute pépinière</Case><Case(3)>de la Haute pépinière</Case></Switch>",0,0,0
+5561,"Havre forestier",0,"Havre forestier",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Havre forestier</Case><Case(2)>au Havre forestier</Case><Case(3)>du Havre forestier</Case></Switch>",0,0,0
+5562,"Pousse épanouie",0,"Pousse épanouie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Pousse épanouie</Case><Case(2)>à la Pousse épanouie</Case><Case(3)>de la Pousse épanouie</Case></Switch>",0,0,0
+5563,"L'Entrelacement",0,"L'Entrelacement",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>L'Entrelacement</Case><Case(2)>à L'Entrelacement</Case><Case(3)>de L'Entrelacement</Case></Switch>",0,0,0
+5564,"Cité de la Feuillaison",0,"Cité de la Feuillaison",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la cité de la Feuillaison</Case><Case(2)>à la cité de la Feuillaison</Case><Case(3)>de la cité de la Feuillaison</Case></Switch>",0,0,0
+5565,"Orchidelirium",0,"Orchidelirium",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'Orchidelirium</Case><Case(2)>à l'Orchidelirium</Case><Case(3)>de l'Orchidelirium</Case></Switch>",0,0,0
+5566,"Pileus Pergola",0,"Pileus Pergola",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>Pileus Pergola</Case><Case(2)>à Pileus Pergola</Case><Case(3)>de Pileus Pergola</Case></Switch>",0,0,0
+5567,"Pousse fleurie",0,"Pousse fleurie",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Pousse fleurie</Case><Case(2)>à la Pousse fleurie</Case><Case(3)>de la Pousse fleurie</Case></Switch>",0,0,0
+5568,"Parterre de Blossomingway",0,"Parterre de Blossomingway",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le parterre de Blossomingway</Case><Case(2)>au parterre de Blossomingway</Case><Case(3)>du parterre de Blossomingway</Case></Switch>",0,0,0
+5569,"Pousse vivace",0,"Pousse vivace",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Pousse vivace</Case><Case(2)>à la Pousse vivace</Case><Case(3)>de la Pousse vivace</Case></Switch>",0,0,0
 5570,"Avenue d'Ulthalam",0,"Avenue d'Ulthalam",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'avenue d'Ulthalam</Case><Case(2)>à l'avenue d'Ulthalam</Case><Case(3)>de l'avenue d'Ulthalam</Case></Switch>",0,0,0
 5571,"",0,"",0,0,0,0,0,"",0,0,0
 5572,"",0,"",0,0,0,0,0,"",0,0,0

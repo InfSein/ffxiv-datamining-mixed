@@ -4804,7 +4804,7 @@ La puissance est réduite de 50% au-delà du premier ennemi touché.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s"
 3558,"Effectue une attaque physique sur la cible.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),94))>260<Else/>240</If><Else/>240</If><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),68))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inspiration poétique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> après utilisation de Ballade du mage, Péan martial ou Menuet du Vagabond.<Else/></If><Else/></If>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inspiration poétique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sous l'effet de Ballade du mage, Péan martial ou Menuet du Vagabond.<Else/></If><Else/></If>"
 3559,"Entonne le Menuet du Vagabond et augmente de 2% vos chances de critiques ainsi que celles des équipiers dans un rayon de 50 yalms.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 45s
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 80% de chances qu'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inspiration poétique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous soit octroyée.
@@ -5635,7 +5635,7 @@ En contrepartie, les chances de réussite de ferrage sont réduites de 40%.
 L'utilisation de cette action annule au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment les chances de pêche au vif."
 4103,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pêche<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Ignore l'état Chances de ferrage réduites et ferre votre prise grâce à un maniement puissant de votre canne à pêche.
-Sans effet sur certains poissons facile à ferrer."
+Sans effet sur certains poissons faciles à ferrer."
 4104,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pêche<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Réduit le temps d'attente jusqu'à la prochaine touche.
 L'utilisation de cette action annule au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment les chances de pêche au vif."
@@ -5723,7 +5723,7 @@ L'utilisation de cette action annule au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen
 4178,""
 4179,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pêche<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Ignore l'état Chances de ferrage réduites et ferre votre prise grâce à un maniement précis de votre canne à pêche.
-Sans effet sur certains poissons difficile à ferrer."
+Sans effet sur certains poissons difficiles à ferrer."
 4180,""
 4181,""
 4182,""
@@ -53213,7 +53213,9 @@ Ne peut-être utilisé qu'à certains emplacements de la zone d'in<SoftHyphen/>t
 Érode légèrement les sphères-Gravité géantes."
 42066,"Une variante de cosmoaspirateur conçue pour la collecte de matériaux imbibés d'énergie antigravitationnelle. Permet de récolter les petites pierres-Lévitation devant vous. Ne fonctionne pas sur les pierres-Lévitation et les pierres-Lévitation géantes."
 42067,""
-42068,""
+42068,"Ignore l'état Chances de ferrage réduites et ferre votre prise grâce à un maniement gracieux de votre canne à pêche.
+Cette technique de pêche évite également de blesser le poisson et augmente les chances d'obtenir une prise de haute qualité.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cette action ne peut être utilisée qu'au cours d'une pêche lors d'une mission cosmique.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 42069,""
 42070,""
 42071,"Se rue en avant et balaye les grosses excroissances fongiques d'un grand coup de lame frontale."
@@ -53404,14 +53406,19 @@ Ne fonctionne pas sur les grands cristaux corrompus."
 42247,""
 42248,""
 42249,""
-42250,""
-42251,""
-42252,""
+42250,"Tranche les plantes à pollen toxique et les plantes agressives dans une zone en éventail devant vous à l'aide de griffes acérées."
+42251,"Se rue en avant et tranche les plantes à pollen toxique et les plantes agressives de grands coups de griffes."
+42252,"Brûle les plantes à pollen toxique dans une zone en éventail devant vous à l'aide d'un lance-flammes.
+Ne fonctionne pas sur les plantes à pollen toxique de grande taille et les plantes agressives."
 42253,""
-42254,""
-42255,""
-42256,""
-42257,""
+42254,"Arrose de formule de croissance spéciale les épis de maïs sirène dans une zone en éventail devant vous pour leur insuffler de l'énergie et stimuler leur sublimation."
+42255,"Après ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment, diffuse la formule de croissance spéciale sur les épis de maïs sirène dans une zone en éventail devant vous pour leur insuffler de l'énergie et stimuler leur sublimation.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Rempli de formule<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+42256,"Après ra<SoftHyphen/>vi<SoftHyphen/>tail<SoftHyphen/>le<SoftHyphen/>ment, diffuse la formule de croissance spéciale sur les petits épis de maïs sirène dans une zone en éventail devant vous pour leur insuffler de l'énergie et stimuler leur sublimation.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cartouche de formule<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Ne fonctionne pas sur les grands épis de maïs sirène."
+42257,"À l'aide d'un appareil inspiré du cosmoaspirateur, arrose de formule de croissance spéciale les petits épis de maïs sirène dans une zone en éventail devant vous pour leur insuffler de l'énergie et stimuler leur sublimation.
+Ne fonctionne pas sur les grands épis de maïs sirène."
 42258,"Brûle les excroissances fongiques dans une zone en éventail devant vous à l'aide d'un lance-flammes.
 Ne fonctionne pas sur les grosses excroissances fongiques."
 42259,""
@@ -61232,7 +61239,7 @@ En outre, vous octroie une barrière absorbant environ 76 500 points de dégâts
 49901,""
 49902,""
 49903,""
-49904,""
+49904,"Arrose de formule de croissance spéciale la plante ciblée pour lui insuffler de l'énergie."
 49905,""
 49906,""
 49907,""
@@ -62060,7 +62067,8 @@ En outre, vous octroie une barrière absorbant environ 76 500 points de dégâts
 50729,""
 50730,""
 50731,""
-50732,""
+50732,"Creuse un trou dans le sol.
+* Effet spécial. N'inflige aucun dégât."
 50733,""
 50734,""
 50735,""
