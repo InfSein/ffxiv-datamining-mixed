@@ -7215,7 +7215,7 @@ Stein geißelt<Indent/>... ",0
 7100,0,False,False,False,5,0,0,0,1,False,False,4,25,"Will der sich in die Luft sprengen? Nicht mit mir!",0
 7101,0,False,False,False,5,0,0,0,1,False,False,4,25,"Er meint es ernst. Er will sich sprengen!",0
 7102,0,False,False,False,5,0,0,0,1,False,False,4,25,"Bevor hier alles in die Luft fliegt, werde ich ...",0
-7103,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+7103,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ah, das rüttelt einen wach!",0
 7104,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 7105,0,False,False,False,5,0,0,0,1,False,False,3,25,"Uuuh, ich rieche Blut ...
 Süßes Blut! Gib es mir!",0
@@ -9740,10 +9740,10 @@ Ich halt nicht mehr lang durch!",0
 9594,0,False,False,False,2,0,0,0,3,False,False,1,25,"Für unsere Königin!",0
 9595,0,False,False,False,2,0,0,0,5,False,False,1,25,"Ich muss leider enttäuschen: Luftige Höhen sind meine Spezialität!",0
 9596,0,False,False,False,2,0,0,0,5,False,False,1,25,"Urks, was für ein ... Duft.",0
-9597,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9598,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9599,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-9600,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+9597,0,False,False,True,3,0,0,0,3,False,False,1,25,"Verdammt ... Wie ist das passiert?",0
+9598,0,False,False,False,3,0,0,0,4,False,False,1,25,"Aua, der hat gesessen!",0
+9599,0,False,False,False,3,0,0,0,4,False,False,1,25,"Igitt, was für ein Gestank!",0
+9600,0,False,False,False,3,0,0,0,4,False,False,1,25,"Uaaahaa!",0
 9601,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 9602,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 9603,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -11484,7 +11484,7 @@ Die Amalj'aa werden es nicht vergessen.",0
 Ehre den Drachenfreunden!",0
 11292,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ich diene Euch, Basch van Gabranth.",0
 11293,0,False,False,False,2,0,0,0,4,False,False,1,25,"Rasch weiter!",0
-11294,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11294,0,False,False,False,3,0,0,0,4,False,False,1,25,"Jetzt geht der Spaß erst richtig los.",0
 11295,0,False,False,False,2,0,0,0,4,False,False,1,25,"Buuuh, Krieg! Fürchterliches Gemetzel!",0
 11296,0,False,False,False,2,0,0,0,4,False,False,1,25,"Hilfe in rechtes Moment!
 Achtung! Kobolde machen Weg frei!",0
@@ -11511,7 +11511,7 @@ Ihr solltet Euch etwas schonen.",0
 11316,0,False,False,False,2,0,0,0,4,False,False,1,25,"Lasst Euch nicht aufhalten. Wir kümmern uns schon um die Verwundeten.",0
 11317,0,False,False,False,2,0,0,0,4,False,False,1,25,"Es ist vorbei. Der Feind zieht sich zurück ...",0
 11318,0,False,False,False,2,0,0,0,4,False,False,1,25,"Halte durch. Die Heiler sind unterwegs ...",0
-11319,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11319,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mir ist etwas schwindelig<Indent/>...",0
 11320,0,False,False,False,2,0,0,0,4,False,False,1,25,"Wut, Zort, Donnergroll!
 Wir geben uns nicht geschlagen!",0
 11321,0,False,False,False,2,0,0,0,4,False,False,1,25,"Amalj'aa, vorwärts!
@@ -11579,14 +11579,14 @@ Das vorerst letzte Fête beginnt: Bote der Glückseligkeit!",0
 11373,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Damit wären alle Fêtes beendet!
 Aber vor dem Fête ist nach dem Fête! Wir hoffen dich schon bald wieder begrüßen zu dürfen!  ",0
 11374,0,False,False,False,2,0,0,0,4,False,False,1,25,"Die Materialien kommen hierher ...",0
-11375,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11376,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11375,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das sieht man nicht alle Tage.",0
+11376,0,False,False,False,3,0,0,0,4,False,False,1,25,"Was geht hier vor sich?!",0
 11377,0,False,False,False,2,0,0,0,4,False,False,1,25,"Danke für die rege Teilnahme!",0
 11378,0,False,False,False,2,0,0,0,4,False,False,1,25,"Wir bereiten gerade alles vor ...
 Bitte warte noch einen Moment. Es geht gleich los, kupo!",0
 11379,0,False,False,False,2,0,0,0,4,False,False,1,25,"Ich sollte mir vielleicht auch sowas wie ein „Kupo“ ausdenken ...",0
-11380,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-11381,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11380,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich bin gegen jede Form von Gewalt. <Emphasis>Fast</Emphasis> jede.",0
+11381,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die wären erledigt.",0
 11382,0,False,False,False,2,0,0,0,4,False,False,1,25,"Visier: Check. Windstärke: Check. Seitenwind: Check!
 Alles klar, kann losgehen!",0
 11383,10081,False,False,False,4,0,0,0,1,False,False,3,25,"Möge das Fête beginnen!",0
@@ -11614,7 +11614,7 @@ Und immer schön geschmeidig bleiben!",0
 11404,0,False,False,False,2,0,0,0,4,False,False,1,25,"Schau bald wieder vorbei!",0
 11405,0,False,False,False,3,0,0,0,5,True,False,1,25,"Sie greifen an!",0
 11406,0,False,False,False,3,0,0,0,5,True,False,1,25,"Fast geschafft!",0
-11407,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11407,0,False,False,False,3,0,0,0,4,False,False,1,25,"Verdammt, sind das viele!",0
 11408,0,False,False,False,3,0,0,0,5,True,False,1,25,"Vorsicht, das sieht gefährlich aus.",0
 11409,0,False,False,False,3,0,0,0,5,True,False,1,25,"Sieht so aus.",0
 11410,0,False,False,False,3,0,0,0,5,True,False,1,25,"Dieser Aufzug scheint bis ganz nach oben zu fahren, was?",0
@@ -11623,7 +11623,7 @@ Und immer schön geschmeidig bleiben!",0
 11413,0,False,False,False,2,0,0,0,3,False,False,1,25,"Keine ... Gnaaade!",0
 11414,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Höret, höret! Die Fêtes mögen beginnen!",0
 11415,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Halone zum Gruße, Freunde! Und willkommen beim Himmelsfest!",0
-11416,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11416,0,False,False,False,3,0,0,0,4,False,False,1,25,"Hildibrüh! Ich kooomme!",0
 11417,0,False,False,False,3,0,0,0,3,False,False,1,25,"Tsk<Indent/>...",0
 11418,10079,False,False,False,4,0,0,0,1,False,False,10,25,"Wir haben eine Reihe von Fêtes zur Unterhaltung organisiert. Das erste soll uns dazu dienen, unsere freundlichen Maskottchen vorzustellen!",0
 11419,10080,False,False,False,4,0,0,0,1,False,False,10,25,"Muskelmacker-Mogry zu Diensten! Bestaunt meine mächtig starken Muskeln! Doch mein Herz schlägt noch stärker für kuschelige Stofftiere! Kupo!",0
@@ -11843,7 +11843,7 @@ Und immer schön geschmeidig bleiben!",0
 11633,0,False,False,False,2,0,0,0,4,False,False,1,25,"Grrroaaar!",0
 11634,0,False,False,False,5,0,0,0,1,False,False,4,25,"Wenn Lyon Wind von diesem Triumph bekommt, werden ihm Tränen in den Augen stehen und Rotz aus der Nase laufen!",0
 11635,0,False,False,False,3,0,0,0,4,False,False,1,25,"Heute ist echt was los<Indent/>... Macht das mal ohne mich.",0
-11636,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+11636,0,False,False,False,3,0,0,0,6,False,False,1,25,"Aufgepasst!",0
 11637,0,False,False,False,5,0,0,0,1,False,False,4,25,"Sie kämpft zu verbissen. Heute werden wir sie nicht besiegen. Ziehen wir uns zurück!",0
 11638,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 11639,0,False,False,False,2,0,0,0,5,False,False,1,25,"Ich habe noch nie einen Kampf verloren!",0
@@ -19135,7 +19135,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 18850,0,False,False,False,2,0,0,0,3,False,False,1,25,"<ratter> <rumpel>",0
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"Auf Nimmer<SoftHyphen/>wieder<SoftHyphen/>sehen.",0
 18852,0,False,False,False,2,0,0,0,3,False,False,1,25,"Mbuuuh!",0
-18853,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18853,0,False,False,False,2,0,0,0,3,False,False,1,25,"<husch> <wusch>",0
 18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"Krah! Krah!",0
 18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ich werd natürlich bei dir sein!",0
@@ -19584,7 +19584,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19299,0,False,False,False,2,0,0,0,3,False,False,1,25,"Miau, miau<Indent/>...",0
 19300,0,False,False,False,2,0,0,0,3,False,False,1,25,"Wuff, wuff!",0
 19301,0,False,False,False,2,0,0,0,3,False,False,1,25,"Die allseits beliebte, fantastische Yuffie!",0
-19302,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19302,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ruhe in Frieden.",0
 19303,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ich bin Nanaki, der Hüter des Tals!",0
 19304,0,False,False,False,2,0,0,0,3,False,False,1,25,"Partyzeeeiiit!",0
 19305,0,False,False,False,2,0,0,0,3,False,False,1,25,"<krächz> <krächz>",0
@@ -19663,7 +19663,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19378,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unser letztes und <Emphasis>wichtigstes</Emphasis> Projekt hier auf Oizys, will ich meinen. Klotzt rein, ihr Maden!",19492
 19379,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So 'ne Bleibe zaubert sicher dem ganzen Projekt ein Lächeln aufs Gesicht! Komm doch mal vorbei, wenn die Module stehen!",19380
 19380,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Mir reicht ja 'ne Hängematte und 'n Eimer saftige Rüben, um mich wohlzufühlen. Aber ich seh's in euren müden Augen: Ihr freut euch auf 'n richtiges Bettchen, was? Harharhar!",0
-19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'Ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19507
+19381,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19507
 19382,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Ich erwarte höchste Qualität, verstanden?",0
 19383,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Hervorragend, so wünsche ich mir, dass alle Projekte vonstattengehen! Wir werden mehr als genug sauberes Trinkwasser produzieren können!",19384
 19384,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So langsam nimmt die gute Station Form an. Hoppeltastisch! Wer fertig ist, gönnt sich 'ne Pause, verstanden?",0
@@ -19705,8 +19705,8 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19420,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wir sollten uns in Sicherheit bringen, bevor es gleich knallt<Indent/>...",0
 19421,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich hoffe, wir finden einen Schatz, der diesen Namen auch verdient!",0
 19422,0,False,False,False,3,0,0,0,4,False,False,1,25,"Und die Geschichte geht weiter!",0
-19423,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19424,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19423,0,False,False,False,3,0,0,0,4,False,False,1,25,"Halt durch, Halbgarer!",0
+19424,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ha ha, nicht getroffen!",0
 19425,0,False,False,False,2,0,0,0,3,False,False,1,25,"<quietsch> <quiek>!",0
 19426,0,False,False,False,3,0,0,0,4,False,False,1,25,"Dieser Tunnel ist industriell ausgebaut!",0
 19427,0,False,False,False,3,0,0,0,4,False,False,1,25,"Mh ... Diese Grotte ist alles andere als naturbelassen.",0
@@ -19742,13 +19742,13 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19457,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wenn dieses Monstrum auf die Fliehenden losgeht<Indent/>...",0
 19458,0,False,False,False,3,0,0,0,4,False,False,1,25,"Lasst uns dieses Biest aufhalten.",0
 19459,0,False,False,False,3,0,0,0,4,False,False,1,25,"Jetzt muss ich bei jedem Stein zweimal hinsehen<Indent/>...",0
-19460,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19461,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19462,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19463,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19464,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19465,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19466,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19460,0,False,False,False,3,0,0,0,4,False,False,1,25,"Da kommt noch eine Ladung!",0
+19461,0,False,False,False,3,0,0,0,4,False,False,1,25,"Ich wittere ein nonchalantes Beben!",0
+19462,0,False,False,False,3,0,0,0,4,False,False,1,25,"So leicht lasse ich mich nicht durchschütteln!",0
+19463,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wir lösen das auf die gentlehafte Weise!",0
+19464,0,False,False,False,3,0,0,0,4,False,False,1,25,"Halt! Keine Gewalt!",0
+19465,0,False,False,False,3,0,0,0,4,False,False,1,25,"Aber meine Herren! Wir sind doch zivilisierte Leute!",0
+19466,0,False,False,False,3,0,0,0,4,False,False,1,25,"Können wir das nicht wie Erwachsene lösen?",0
 19467,0,False,False,False,3,0,0,0,4,False,False,1,25,"Passt auf die Spannung auf.",0
 19468,0,False,False,False,3,0,0,0,4,False,False,1,25,"Achtet gut auf die Strömungen des Blitzäthers.",0
 19469,0,False,False,False,3,0,0,0,4,False,False,1,25,"Es stößt den gesammelten Äther aus!",0
@@ -19792,41 +19792,41 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19507,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Geht gleich direkt weiter. Habt mal was Geduld, ja!",0
 19508,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Passt aber bloß auf die empfindlichen Ätherleitteile auf. Die sind nämlich äh<Indent/>... empfindlich!",0
 19509,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Pflastern wir, was das Zeug hält. Dann sieht es hier gleich viel galaktastischer aus!",0
-19510,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19511,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19512,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19513,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19514,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19515,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19516,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19517,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19518,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19519,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19520,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19521,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19522,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19523,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19524,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19525,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19526,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19527,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19528,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19529,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19530,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19531,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19532,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19533,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19534,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19535,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19536,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19537,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19538,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19539,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19540,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19541,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19542,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19543,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19544,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19510,0,False,False,False,2,0,0,0,3,False,False,1,25,"IcH wUrDe GeRuFeN?",0
+19511,0,False,False,False,2,0,0,0,3,False,False,1,25,"AuF iN dEn KaMpF!",0
+19512,0,False,False,False,2,0,0,0,3,False,False,1,25,"I-IcH gEbE mEiN bEsTeS<Indent/>...",0
+19513,0,False,False,False,2,0,0,0,3,False,False,1,25,"Zu BeFeHl!",0
+19514,0,False,False,False,2,0,0,0,3,False,False,1,25,"JeTzT bIn IcH dRaN!",0
+19515,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ja Ja, IcH mAcH sChOn<Indent/>...",0
+19516,0,False,False,False,2,0,0,0,3,False,False,1,25,"MiT vErGnÜgEn!",0
+19517,0,False,False,False,2,0,0,0,3,False,False,1,25,"WaS? wIr GrEiFeN aN?",0
+19518,0,False,False,False,2,0,0,0,3,False,False,1,25,"UhHh, So ErScHöPfT<Indent/>...",0
+19519,0,False,False,False,2,0,0,0,3,False,False,1,25,"MiSsIoN aBgEScHlOsSeN! ... oDeR dOcH nIcHt?",0
+19520,0,False,False,False,2,0,0,0,3,False,False,1,25,"DeN rEsT üBeRlAsSe IcH eUcH<Indent/>...",0
+19521,0,False,False,False,2,0,0,0,3,False,False,1,25,"AuSdAuEr Am LiMiT! RüCkZuG!",0
+19522,0,False,False,False,2,0,0,0,3,False,False,1,25,"AuF wIdErSeHeN<Indent/>...",0
+19523,0,False,False,False,2,0,0,0,3,False,False,1,25,"So, DaS wAr GeNuG<Indent/>...",0
+19524,0,False,False,False,2,0,0,0,3,False,False,1,25,"Ab In DiE HeIa!",0
+19525,0,False,False,False,2,0,0,0,3,False,False,1,25,"BiS dAnN<Indent/>...",0
+19526,0,False,False,False,2,0,0,0,3,False,False,1,25,"GeRuFeN? iCh WuRdE gErUfEn?",0
+19527,0,False,False,False,2,0,0,0,3,False,False,1,25,"IcH hElFe AuCh!",0
+19528,0,False,False,False,2,0,0,0,3,False,False,1,25,"MoTiVaTiOn Am AnScHlAg!",0
+19529,0,False,False,False,2,0,0,0,3,False,False,1,25,"KeInE lUsT<Indent/>... nIcHtS zU tUn, MeInE iCh!",0
+19530,0,False,False,False,2,0,0,0,3,False,False,1,25,"VoN<Indent/>... mIr AuS?",0
+19531,0,False,False,False,2,0,0,0,3,False,False,1,25,"VeRsTaNdEn!",0
+19532,0,False,False,False,2,0,0,0,3,False,False,1,25,"Zu BeFeHl!",0
+19533,0,False,False,False,2,0,0,0,3,False,False,1,25,"MuSs DaS sEiN? So AnStReNgEnD<Indent/>...",0
+19534,0,False,False,False,2,0,0,0,3,False,False,1,25,"SoFoRt!",0
+19535,0,False,False,False,3,0,0,0,3,False,False,1,25,"UwAh! WaS tUt IhR dEnN dA?!",0
+19536,0,False,False,False,3,0,0,0,11,False,False,1,27,"Wissensstufe<Indent/>... 5<Indent/>... Tod<Indent/>...",0
+19537,0,False,False,False,3,0,0,0,11,False,False,1,27,"Wissensstufe<Indent/>... 3<Indent/>... Flare<Indent/>...",0
+19538,0,False,False,False,3,0,0,0,11,False,False,1,27,"Wissensstufe<Indent/>... 4<Indent/>... Sanctus<Indent/>...",0
+19539,0,False,False,False,3,0,0,0,11,False,False,1,27,"Wissensstufe<Indent/>... Primzahl<Indent/>... Tod<Indent/>...",0
+19540,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎▼×□△…！",0
+19541,0,False,False,False,3,0,0,0,3,False,False,1,25,"＄◎×■△！",0
+19542,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎▼×◎◎～！",0
+19543,0,False,False,False,3,0,0,0,3,False,False,1,25,"￥▽▲○…！",0
+19544,0,False,False,False,3,0,0,0,3,False,False,1,25,"◎◎×△□！",0
 19545,0,False,False,False,2,0,0,0,2,False,False,1,25,"Ich will niemanden verlieren.",0
 19546,0,False,False,False,2,0,0,0,2,False,False,1,25,"Haltet sie auf!",0
 19547,0,False,False,False,2,0,0,0,2,False,False,1,25,"Wir müssen die Zivilisten retten!",0
@@ -19843,7 +19843,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19558,0,False,False,False,3,0,0,0,3,False,True,1,25,"Vorsicht, die Nachhut steht schon bereit!",0
 19559,0,False,False,False,3,0,0,0,3,False,True,1,25,"Wie viele denn noch?!",0
 19560,0,False,False,False,3,0,0,0,3,False,True,1,25,"Gebt alles, wir haben es fast geschafft!",0
-19561,0,False,False,False,3,0,0,0,3,False,True,1,25,"Eine Gruppe mit Anführer! Das muss der Haupttrupp sein!",0
+19561,0,False,False,False,3,0,0,0,3,False,True,1,25,"Das muss der Haupttrupp sein!",0
 19562,0,False,False,False,3,0,0,0,3,False,True,1,25,"Sehr gut, wir haben den Bastionskampf überstanden.",0
 19563,0,False,False,False,3,0,0,0,3,False,True,1,25,"Wo ist Sareel Ja nur hin<Indent/>...?",0
 19564,0,False,False,False,3,0,0,0,3,False,True,1,25,"I-Ist das etwa<Indent/>...?!",0
@@ -19861,29 +19861,29 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19576,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19577,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19578,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19579,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19580,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19581,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19582,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19583,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19584,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19585,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19586,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19579,0,False,False,False,2,0,0,0,3,False,False,1,25,"He, gebt mir meine Elixiere zurück!",0
+19580,0,False,False,False,2,0,0,0,3,False,False,1,25,"Wo sind sie?",0
+19581,0,False,False,False,2,0,0,0,3,False,False,1,25,"Hier soll es sein? Wo ist das Elixier?",0
+19582,0,False,False,False,2,0,0,0,3,False,False,1,25,"Da war kein einziges Elixier<Indent/>...",0
+19583,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kehehe<Indent/>... Da drüben hab ich eins gesehen!",0
+19584,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kehehe<Indent/>... Dort drüben hab ich eins gesehen!",0
+19585,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kehe, reingelegt! Reingelegt!",0
+19586,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kehe<Indent/>... Kehehehe!",0
 19587,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19588,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19589,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19590,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19591,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19592,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19593,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19594,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19595,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19596,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19588,0,False,False,False,2,0,0,0,3,False,False,1,25,"Keine Elixiere hier<Indent/>...",0
+19589,0,False,False,False,2,0,0,0,3,False,False,1,25,"Idiot! Dummkopf! Weichbirne!",0
+19590,0,False,False,False,2,0,0,0,3,False,False,1,25,"Friss Dreck!",0
+19591,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kehehe<Indent/>... Roter Kopf! Roter Kopf!",0
+19592,0,False,False,False,2,0,0,0,3,False,False,1,25,"Die Elixiere gehören uns!",0
+19593,0,False,False,False,2,0,0,0,3,False,False,1,25,"Misch dich nicht ein!",0
+19594,0,False,False,False,2,0,0,0,3,False,False,1,25,"Feuer und Flamme, alles brennt lichterloh!",0
+19595,0,False,False,False,2,0,0,0,3,False,False,1,25,"Elixiere gehen an mich, oh ja!",0
+19596,0,False,False,False,2,0,0,0,3,False,False,1,25,"Hörst du mir zu!? He! Hallo?!",0
 19597,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19598,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19599,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19600,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19601,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19599,0,False,False,False,2,0,0,0,3,False,False,1,25,"Wuuuusch!",0
+19600,0,False,False,False,2,0,0,0,3,False,False,1,25,"Graaah!",0
+19601,0,False,False,False,2,0,0,0,3,False,False,1,25,"Vrooom!",0
 19602,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19603,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19604,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -19925,21 +19925,21 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19640,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19641,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19642,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19643,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19644,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19645,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19646,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19647,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19648,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19649,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19650,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19651,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19652,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19653,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19654,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19655,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19656,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19657,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19643,0,False,False,False,3,0,0,0,4,False,False,1,25,"O heiliger Speer, teile selbst die Himmel!",0
+19644,0,False,False,False,3,0,0,0,4,False,False,1,25,"Meine Prophezeiungen sind unfehlbar<Indent/>...",0
+19645,0,False,False,False,3,0,0,0,4,False,False,1,25,"Zu mir, Vertraute des Wissens!",0
+19646,0,False,False,False,3,0,0,0,4,False,False,1,25,"Spürt die Macht des Allwissens!",0
+19647,0,False,False,False,3,0,0,0,4,False,False,1,25,"Das Wissen kennt keine Rast!",0
+19648,0,False,False,False,3,0,0,0,4,False,False,1,25,"O petrifizierender Äther, werde eins mit meiner Klinge<Indent/>...",0
+19649,0,False,False,False,3,0,0,0,4,False,False,1,25,"Nur Allwissen offenbart wahre Kampfkunst!",0
+19650,0,False,False,False,2,0,0,0,3,False,False,1,25,"<zwitscher> <pieps> ",0
+19651,0,False,False,False,2,0,0,0,3,False,False,1,25,"<zwitscher>",0
+19652,0,False,False,False,2,0,0,0,3,False,False,1,25,"Gruu, gruu!",0
+19653,0,False,False,False,2,0,0,0,3,False,False,1,25,"<triller> <gurr>",0
+19654,0,False,False,False,2,0,0,0,3,False,False,1,25,"<quietsch> <quietsch>",0
+19655,0,False,False,False,2,0,0,0,3,False,False,1,25,"<quietsch>",0
+19656,0,False,False,False,2,0,0,0,3,False,False,1,25,"Pruu, pruu!",0
+19657,0,False,False,False,2,0,0,0,3,False,False,1,25,"Kiwitt!",0
 19658,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Da biste ja endlich! Auch hier auf Auxesia werden wir 'ne richtig hoppeltastische Station in den Wald setzen!",19659
 19659,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Fangen wir wie immer mit den Habitationsmodulen an. Wo es sich friedlich schlafen und vor allem duschen lässt, arbeitet man auch gern!",19660
 19660,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Ich erwarte höchste Qualität, verstanden?",0
@@ -19948,7 +19948,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19663,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Unserer Infrastruktur fehlt's noch an Energisierung und Hydrofizierung. Kümmern wir uns drum!",19664
 19664,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wir beginnen mit der Umwandlung des Umgebungsäthers in knisternd-knasternden Strom bester Güteklasse!",19665
 19665,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Besorgt die benötigten Teile und baut sie an der entsprechenden Stelle zusammen. Ich erwarte höchste Qualität, verstanden?",0
-19666,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'Ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19667
+19666,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Nebenan geht's mit den Hydrofizierungswerken direkt weiter. 'ne kurze Lümmelpause gönn ich euch, dann wird aber wieder geklotzt, klaro?",19667
 19667,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Geht gleich direkt weiter. Habt mal was Geduld, ja!",0
 19668,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Weiter geht's mit den Hydrofizierungswerken!",19669
 19669,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"<Switch(PlayerParameter(71))><Case(1)>Rundohren</Case><Case(2)>Spitzohren</Case><Case(3)>Spitzohren</Case><Case(4)>Flauschohren</Case><Case(5)>Rundohren</Case><Case(6)>Spitzhörner</Case><Case(7)>Flauschohren</Case><Case(8)>Langohren</Case></Switch> wie du und andere Nicht-Löffelohren brauchen ja immer so viel von dem kalten Nass zum Überleben. Besorgen wir uns was aus der nächsten Ader und reinigen es!",19670
@@ -19971,7 +19971,7 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19686,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Kosmo-Vollernter nehmen Form an. Nicht mehr lang und dann schreddern sie uns einen Weg zum Turmling durchs Gebüsch<Indent/>- harharhar!",19687
 19687,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Ihr seid bestimmt auch schon so gespannt wie ich, was der Blütenturmling so für uns bereithalten wird.",0
 19688,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Die Datenlecker vom Forschungsteam meinten jedenfalls, dass die Mineralien um den Turm als seine Energiequellen fungieren.",19689
-19689,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So schwach, wie der Turmling wirkt, isses aber wohl schon 'ne ganze Weile her, seit er 'ne Portion schlemmern durfte.",19690
+19689,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So schwach, wie der Turmling wirkt, isses aber wohl schon 'ne ganze Weile her, seit er 'ne Portion schlemmen durfte.",19690
 19690,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Baut doch bitte was von dem Zeugs ab und tragt es dem Turmling zu seinen Energiekonvertern!",0
 19691,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"So langsam scheint der Hunger des Turmlings gestillt zu sein. Jetzt noch etwas Nachtisch und dann is' gut!",19692
 19692,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"Wer fertig ist, macht Pause, klaro? Genießen wir die Revitalisierung des Turmlings bei 'ner leckeren Feierabendkarotte!",0
@@ -20067,8 +20067,8 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19782,0,False,False,False,3,0,0,0,4,False,False,1,25,"Tentakel<Indent/>...?",0
 19783,0,False,False,False,3,0,0,0,4,False,False,1,25,"Wahrlich abstoßend.",0
 19784,0,False,False,False,3,0,0,0,2,False,False,1,25,"Nimm das!",0
-19785,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19786,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19785,0,False,False,False,2,0,0,0,3,False,False,1,25,"<Feg> <Wisch>",0
+19786,0,False,False,False,2,0,0,0,3,False,False,1,25,"<Wisch> <Wusch>",0
 19787,0,False,False,False,3,0,0,0,3,False,False,1,25,"Das werden immer mehr!",0
 19788,0,False,False,False,3,0,0,0,3,False,True,1,25,"Es ist ungewöhnlich ruhig. Was geht hier vor sich<Indent/>...?",0
 19789,0,False,False,False,3,0,0,0,3,False,True,1,25,"Ein Angriff<Indent/>...?!",0
@@ -20107,15 +20107,15 @@ Wetter wird der Vorhersage jetzt angepasst. Viel Spa-haß!",0
 19822,0,False,False,False,2,0,0,0,1,False,False,1,25,"Blub, blub ...",0
 19823,0,False,False,False,2,0,0,0,1,False,False,1,25,"Brrrumm!",0
 19824,0,False,False,False,2,0,0,0,1,False,False,1,25,"Määäh!",0
-19825,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19826,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19827,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19825,0,False,False,False,2,0,0,0,1,False,False,1,25,"Hier geht es weiter<Indent/>...",0
+19826,0,False,False,False,2,0,0,0,1,False,False,1,25,"AlL mEinE kRaFt In MeTeO!",0
+19827,0,False,False,False,2,0,0,0,1,False,False,1,25,"Eines Tages werde ich dich übertreffen!",0
 19828,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19829,0,False,False,False,2,0,0,0,1,False,False,1,25,"Mann, hab ich Kohldampf!",0
-19830,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19830,0,False,False,False,2,0,0,0,1,False,False,1,25,"Miahaha!",0
 19831,0,False,False,False,2,0,0,0,1,False,False,1,25,"Verbinde zum Wurzelnetz<Indent/>...",0
-19832,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19833,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19832,0,False,False,False,2,0,0,0,1,False,False,1,25,"Los, los, looos!",0
+19833,0,False,False,False,2,0,0,0,1,False,False,1,25,"Gruu, gruu!",0
 19834,0,False,False,False,3,0,0,0,4,False,False,1,25,"Achtung, da fällt etwas!",0
 19835,0,False,False,False,3,0,0,0,4,False,False,1,25,"Die Magitek-Einheiten sind noch in Betrieb.",0
 19836,0,False,False,False,3,0,0,0,4,False,False,1,25,"Angreifen!",0

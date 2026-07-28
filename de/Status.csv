@@ -2357,7 +2357,7 @@ Effekt von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gemüt der 
 2334,"Verschollenes Vallum","Erlittener Magieschaden ist verringert.",216677,115,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,35,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 2335,"Verschollene Eile","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist erhöht.",216678,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,0,18,False,0,False,0,False,0,6,0,False,False,False,0
 2336,"Verschollene Coeurl-Pfoten","Kann nicht gesehen werden, aber Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist verringert.",216679,97,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,1,False,0,False,0,True,0,2,0,False,False,False,0
-2337,"Verschollene Reflexion","Magieattacken werden auf den Angreifer zurückgeworfen.",216680,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,0,0,False,0,False,0,False,0,40,0,False,False,False,0
+2337,"Reflexion","Magieattacken werden auf den Angreifer zurückgeworfen.",216680,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,0,0,False,0,False,0,False,0,40,0,False,False,False,0
 2338,"Verschollene Zauberschmiede","Eigene Attacken gelten als magisch.",216696,107,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,50,0,False,False,0,0,False,0,False,0,False,0,37,0,False,False,False,0
 2339,"Verschollener Stahlstachel","Eigene Attacken gelten als physisch.",216681,107,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,50,0,False,False,0,0,False,0,False,0,False,0,37,0,False,False,False,0
 2340,"Verschollenes Verbannga","Erlittener Schaden ist erhöht.",216682,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4613,7 +4613,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4559,"Echo der Dunkelheit","Erleidet schrittweise Schaden. Verfällt in <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Panik<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, wenn der Zähler null erreicht.",214317,89,0,1,2,37,0,False,False,False,False,False,False,False,False,False,False,245,0,False,False,10,0,False,0,False,0,False,0,23,0,False,False,False,0
 4560,"Echo des Lichts","Wird zu <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stein<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, wenn der Zähler null erreicht.",214316,89,0,1,2,36,0,False,False,False,False,False,False,False,False,False,False,245,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 4561,"Seelenharmonie","Kämpft mit der Kraft einer verbundenen Seele weiter.",214296,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4562,"Flammenfessel","Erleidet bei Bewegung Feuerschaden.",214297,0,0,1,2,17,965,False,False,False,False,False,False,False,False,False,False,99,0,False,False,5000,0,False,0,False,0,False,0,23,0,False,False,False,0
+4562,"Joch der Flammen","Erleidet bei Bewegung Feuerschaden.",214297,0,0,1,2,17,965,False,False,False,False,False,False,False,False,False,False,99,0,False,False,5000,0,False,0,False,0,False,0,23,0,False,False,False,0
 4563,"Flammenkette","Ist mit einer Feuerkette verbunden. Erleidet schrittweise Schaden. Wenn die Kette reißt, wird <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Flammenkette<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ausgelöst.",214298,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 4564,"Lichtkette der Warnung: Heilung","Löst bei Einsatz von Heilkommandos <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lichtketten der Strafe<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in der Nähe aus.",214299,0,0,1,2,17,950,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4565,"Lichtkette der Warnung: Kampf","Löst bei Einsatz von Talenten <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Lichtketten der Strafe<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in der Nähe aus.",214300,0,0,1,2,17,951,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4857,8 +4857,8 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4803,"Phantom-Paladin","Kämpft mit dem Wissen der alten Paladine und hat Zugriff auf bestimmte Phantom-Kommandos.",216884,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4804,"Phantom-Gladiator","Kämpft mit dem Wissen der alten Gladiatoren und hat Zugriff auf bestimmte Phantom-Kommandos.",216885,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4805,"Phantom-Tänzer","Kämpft mit dem Wissen der alten Tänzer und hat Zugriff auf bestimmte Phantom-Kommandos.",216886,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4806,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4807,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4806,"","",0,89,0,1,1,16,1029,False,False,False,False,False,False,False,False,False,False,200,0,True,False,0,0,True,0,False,0,False,0,0,0,False,True,False,0
+4807,"","",0,89,0,1,1,16,1030,False,False,False,False,False,False,False,False,False,False,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False,True,False,0
 4808,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4809,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4810,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4884,9 +4884,9 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4830,"Hydro-Äther","Wird durch Indigowelles Äther geschützt.",214379,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 4831,"Unter Feinden","Infiltriert das Startgebiet eines gegnerischen Teams. Erleidet schrittweise Schaden.",214767,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,10,0,False,True,30000,0,True,0,False,0,False,0,0,0,False,False,False,0
 4832,"Beflügelter Limitrausch","Füllt schrittweise den Limitrausch-Balken.",214768,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,5,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4833,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4834,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4835,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4833,"Hart aber schmerzlich","Ermöglicht einen schmerzhaften Angriff mit der blitz-geladenen Pistole.",214356,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4834,"Blitzgewitter des Chevaliers","Entlädt den angesammelten Blitzäther auf das Gentlehaftigste.",214358,0,0,1,1,16,1055,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4835,"Hartgesotten","Isst ein hartgekochtes Ei und verringert erlittenen Schaden.",214357,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4836,"Pikto-Schmetterling","Konzentriert sich auf die Aufrechterhaltung des Pikto-Schmetterlings.",216413,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,True,0,False,0,False,0,24,0,False,False,False,0
 4837,"Magnetschwebe","Schwebt durch den Einfluss eines Magnetfeldes in der Luft.",215037,0,0,1,1,16,912,False,False,False,False,False,False,False,False,True,True,1,0,False,False,0,12,True,0,False,0,False,0,49,0,False,False,False,0
 4838,"Magnetanziehung","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist durch den Einfluss eines Magnetfeldes verringert.",215002,150,0,1,2,4,6,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4924,9 +4924,9 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4870,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4871,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4872,"","",0,89,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
-4873,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4873,"Doppelgänger","Die meisten erlittenen physischen Angriffe sind wirkungslos.",218957,0,3,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,27,False,0,False,0,False,0,0,0,False,False,False,0
 4874,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4875,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4875,"Unverwundbar","Erleidet keinen Schaden. ",215024,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 4876,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214401,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4877,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214402,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4878,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214403,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5065,11 +5065,11 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5011,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5012,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5013,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5014,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5015,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5016,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5017,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5018,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5014,"Übermalt +1","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe wird 1 Stufe dazugerechnet.",219426,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
+5015,"Übermalt +2","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 2 Stufen dazugerechnet.",219427,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
+5016,"Übermalt +3","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 3 Stufen dazugerechnet.",219428,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
+5017,"Übermalt +4","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 4 Stufen dazugerechnet.",219429,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
+5018,"Übermalt +5","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 5 Stufen dazugerechnet.",219430,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
 5019,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5020,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5021,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5099,18 +5099,18 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5045,"Feuerresistenz - (stark)","Resistenz gegen Feuer ist stark verringert.",215595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5046,"Dunkelresistenz - (stark)","Resistenz gegen Dunkelheit ist stark verringert.",215485,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5047,"Blasenkerker","In magischen Blasen eingekerkert, die jegliche Handlung verhindern.",215301,0,0,1,2,17,0,False,True,True,True,False,True,False,False,False,False,200,0,False,False,0,12,True,0,False,0,False,0,0,0,False,False,False,0
-5048,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5048,"Elektrisch geladen","Erhält Blitzenergie von Hildibrand und kann unbegrenzt mit mandervillescher Macht angreifen.",214396,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5049,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5050,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5051,"Blutpatronen","Die Maximalanzahl an Erda-Patronen ist kurzzeitig erhöht.",213623,0,0,149,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5052,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5053,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5054,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5055,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5056,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5057,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5052,"Grüner Resonanzfluch: Ostwind","Wird von einer Windböe aus Osten getroffen, wenn der grüne Kopf einen Angriff ausführt.",229993,0,0,1,2,17,1124,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5053,"Grüner Resonanzfluch: Westwind","Wird von einer Windböe aus Westen getroffen, wenn der grüne Kopf einen Angriff ausführt.",229994,0,0,1,2,17,1125,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5054,"Blauer Resonanzfluch: Ostwind","Wird von einer Windböe aus Osten getroffen, wenn der blaue Kopf einen Angriff ausführt.",229995,0,0,1,2,17,1126,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5055,"Blauer Resonanzfluch: Westwind","Wird von einer Windböe aus Westen getroffen, wenn der blaue Kopf einen Angriff ausführt.",229996,0,0,1,2,17,1127,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5056,"Befristeter Fluch: Nordwind","Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Norden getroffen.",229997,0,0,1,2,17,1097,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5057,"Befristeter Fluch: Südwind","Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Süden getroffen.",229998,0,0,1,2,17,1098,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5058,"Steinfluch","Versteinert. Erlittener Schaden führt zu Kampfunfähigkeit.",215586,85,0,1,2,6,1,True,False,True,False,False,True,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,32,0,False,False,False,0
-5059,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5059,"Zombifikation","Verwandelt sich nach und nach in einen Zombie. Werden 2 Stapel erhalten, ist die Ver<SoftHyphen/>wand<SoftHyphen/>lung abgeschlossen.",215728,64,2,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5060,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5061,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5062,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5157,10 +5157,10 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5103,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5104,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5105,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5106,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5107,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5108,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5109,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5106,"","",0,89,1,1,1,0,113,False,False,False,False,False,False,False,False,True,True,0,0,True,False,120,26,False,0,False,0,False,0,0,0,False,False,False,0
+5107,"","",0,0,3,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5108,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5109,"","",0,89,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5110,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,False,True,0,0,True,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5111,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5112,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5186,15 +5186,15 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5132,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5133,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5134,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5135,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5136,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5137,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5138,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5135,"Dreifaches Grab","Führt eine bestimmte Handlung 3 Mal in Folge aus.",214388,0,0,0,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5136,"Terrorsaat","Von Terrorsaat betroffen. Nimmt großen Schaden, wenn derselbe Angriff erneut erlitten wird.",214389,89,0,0,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5137,"Paniksaat","Von Paniksaat betroffen. Nimmt großen Schaden, wenn derselbe Angriff erneut erlitten wird.",214390,89,0,0,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5138,"Zombie-Antikörper","Kann zeitweise nicht von „Zombifikation“ betroffen werden.",229999,0,0,1,1,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5139,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5140,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5141,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5142,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5143,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5142,"Geistlenkung vorwärts","Ist bei Ende des Effekts gezwungen, geradeaus weiterzugehen.",215774,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5143,"Geistlenkung rückwärts","Ist bei Ende des Effekts gezwungen, in die umgekehrte Richtung zu marschieren.",215775,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5144,"_rsv_5144_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5144_-1_2_1_0_S74CFC3B0_E74CFC3B0",214407,0,0,1,2,17,0,False,False,False,True,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5145,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5146,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5204,7 +5204,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5150,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5151,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5152,"Schwer beladen","Schwer beladen. Wird nach einer gewissen Zeit müde und lässt das Getragene fallen.",216246,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
-5153,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5153,"Elementarmangel","Zur Aufrechterhaltung des Körpers notwendige Elemente wurden entzogen. Nimmt schweren Schaden durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Elementarfusion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Stapelanzahl sinkt, wenn bestimmte elementare Angriffe erlitten werden. Sinkt die Stapelanzahl auf 0, wird der Status entfernt.",218947,0,3,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5154,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5155,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5156,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5239,16 +5239,16 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5185,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,393,False,False,False,False,False,False,True,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5186,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5187,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5188,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5189,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5190,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5188,"Pacem","Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten können nicht eingesetzt werden.",215017,0,0,1,2,14,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
+5189,"Astralkörper","Nur noch halb der physischen Welt verhaftet.",229992,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5190,"Astralsicht","Mit einer speziellen Magie belegt, die es erlaubt, Existenzen auf anderen Astralebenen wahrzunehmen",229991,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5191,"Bewegungssensor","Ist von einem Bewegungssensor erfasst.",214387,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5192,"Geistlenkung vorwärts","Ist bei Ende des Effekts gezwungen, geradeaus weiterzugehen.",215774,0,0,1,2,17,629,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5193,"Geistlenkung rückwärts","Ist bei Ende des Effekts gezwungen, in die umgekehrte Richtung zu marschieren.",215775,0,0,1,2,17,630,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5194,"Geistlenkung links","Ist bei Ende des Effekts gezwungen, nach links zu marschieren.",215776,0,0,1,2,17,631,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5195,"Geistlenkung rechts","Ist bei Ende des Effekts gezwungen, nach rechts zu marschieren.",215777,0,0,1,2,17,632,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5196,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5197,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5196,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5197,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5198,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5199,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5200,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5365,47 +5365,47 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5311,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5312,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5313,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5314,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5315,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5316,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5317,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5318,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5319,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5320,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5321,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5322,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5323,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5324,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5325,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5326,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5327,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5328,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5329,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5330,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5331,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5332,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5333,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5334,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5335,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5314,"Blitzgescheit","Lädt eine Blitzpatrone ins Magazin der Pistole. Bei 2 Stapeln ändert sich der Status zu <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hart aber schmerzlich<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",217378,0,2,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5315,"Erstschlag","Auto-Attacke-Intervall und (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verkürzt.",229977,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
+5316,"Kreszentes Blink","Einmalig immun gegen fast allen magischen Schaden.",229978,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5317,"Kreszenter Frosch","In einen Frosch verwandelt. Kommandos können nicht ausgeführt werden.",215580,69,0,1,2,0,0,False,False,False,False,True,False,False,False,False,False,100,0,False,False,-99,2,False,0,False,0,False,0,0,0,False,False,False,0
+5318,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",229979,0,0,1,1,16,0,True,False,True,False,False,False,False,False,False,False,0,0,False,False,-60,0,False,0,False,0,False,0,0,0,False,False,False,0
+5319,"Lanzenschutz","Erlittener Schaden ist um einen bestimmten Betrag verringert.",229980,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
+5320,"Irdener Wall","Erlittener Schaden ist um einen bestimmten Betrag verringert.",229981,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
+5321,"Kreszente Totalabwehr","Erlittener Schaden ist verringert.",229982,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5322,"Offenbarte Feuerschwäche","Der eigene elementare Schwachpunkt wurde durchschaut. Nimmt erhöhten Schaden durch feuerbasierte Phantomkommandos.",229983,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5323,"Offenbarte Eisschwäche","Der eigene elementare Schwachpunkt wurde durchschaut. Nimmt erhöhten Schaden durch eisbasierte Phantomkommandos.",229984,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5324,"Offenbarte Blitzschwäche","Der eigene elementare Schwachpunkt wurde durchschaut. Nimmt erhöhten Schaden durch blitzbasierte Phantomkommandos.",229985,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5325,"Offenbarte Windschwäche","Der eigene elementare Schwachpunkt wurde durchschaut. Nimmt erhöhten Schaden durch windbasierte Phantomkommandos.",229986,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5326,"Saugtatscher","Die meisten Attacken verringern die LP auf nicht weniger als 1.",229987,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,31,0,False,False,False,0
+5327,"Rauchbombe","Ausweichrate ist erhöht.",229988,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5328,"Phantom-Ninja","Kämpft mit dem Wissen der alten Ninja und hat Zugriff auf bestimmte Phantom-Kommandos.",216887,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5329,"Phantom-Weißmagier","Kämpft mit dem Wissen der alten Weißmagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216888,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5330,"Phantom-Schwarzmagier","Kämpft mit dem Wissen der alten Schwarzmagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216889,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5331,"Phantom-Dragoon","Kämpft mit dem Wissen der alten Dragoons und hat Zugriff auf bestimmte Phantom-Kommandos.",216890,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5332,"Phantom-Beschwörer","Kämpft mit dem Wissen der alten Beschwörer und hat Zugriff auf bestimmte Phantom-Kommandos.",216891,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5333,"Phantom-Blaumagier","Kämpft mit dem Wissen der alten Blaumagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216892,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5334,"Phantom-Rotmagier","Kämpft mit dem Wissen der alten Rotmagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216893,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5335,"Phantom-Nekromant","Kämpft mit dem Wissen der alten Nekromanten und hat Zugriff auf bestimmte Phantom-Kommandos.",216894,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5336,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5337,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5338,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5339,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5340,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5341,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5342,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5342,"Tipp-Parade","",0,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,False,0
 5343,"Leitendes Licht","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist erhöht und schrittweiser LP-Verlust ist aufgehoben.",214414,0,0,1,1,16,1156,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,18,True,0,False,0,False,0,6,0,False,False,False,0
-5344,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5345,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5346,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5347,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5348,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5349,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5344,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,-100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5345,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
+5346,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5347,"Schreibblockade","",0,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
+5348,"Anzeigefehler","",0,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
+5349,"Gefesselt","Ist handlungsunfähig.",215545,0,0,1,2,17,0,False,False,True,True,False,False,False,False,True,False,100,0,False,False,0,4,False,0,False,0,False,1,0,0,False,False,False,0
 5350,"_rsv_5350_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5350_-1_2_1_0_S74CFC3B0_E74CFC3B0",214408,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5351,"_rsv_5351_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5351_-1_2_1_0_S74CFC3B0_E74CFC3B0",214409,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5352,"Mantel der Dämmerung (Licht)","Von Lichtäther umgeben. Erhöht erlittenen Dunkelschaden.",214392,89,0,1,2,17,1106,False,False,False,False,False,False,False,False,False,False,255,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5353,"Mantel der Dämmerung (Dunkel)","Von Dunkeläther umgeben. Erhöht erlittenen Lichtschaden.",214393,89,0,1,2,17,1107,False,False,False,False,False,False,False,False,False,False,255,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5354,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5354,"","",0,0,99,1,2,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5355,"Lebensglyphe","LP werden schrittweise regeneriert.",215119,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,2,0,False,False,-20,0,True,0,False,0,False,0,1,0,False,False,False,0
 5356,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5357,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5424,14 +5424,14 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5370,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als dich sind wirkungslos.",214400,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5371,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als dich sind wirkungslos.",214400,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5372,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als dich sind wirkungslos.",214400,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5373,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5374,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5375,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5373,"","",0,0,0,1,1,0,0,True,False,False,False,False,False,False,False,True,True,0,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
+5374,"Windga-Erinnerung","Mit einer Ansammlung an Windäther erfüllt.",229989,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5375,"Steinga-Erinnerung","Mit einer Ansammlung an Erdäther erfüllt.",229990,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5376,"Perfekte Abwehr","Alle Attacken werden abgewehrt und mit Schaden gekontert.",214391,0,0,1,1,16,1132,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 5377,"Perfekte Abwehr","Alle Attacken werden abgewehrt und mit Schaden gekontert.",214391,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
-5378,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5379,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5380,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5378,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
+5379,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
+5380,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 5381,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5382,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5383,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5451,18 +5451,18 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5397,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5398,"Siegel des Ostwinds","Markiert mit dem Siegel des Ostwinds. Erleidet nach Ablauf einen starken Windstoß aus dem Osten.",214394,0,0,1,2,17,1151,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 5399,"Siegel des Westwinds","Markiert mit dem Siegel des Westwinds. Erleidet nach Ablauf einen starken Windstoß aus dem Westen.",214395,0,0,1,2,17,1152,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
-5400,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5401,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5400,"Ent<SoftHyphen/>schei<SoftHyphen/>dungs<SoftHyphen/>schlacht α","Eine Ent<SoftHyphen/>schei<SoftHyphen/>dungs<SoftHyphen/>schlacht muss bestritten werden. Angriffe auf andere Ziele als „α“ sind wirkungslos.",214252,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5401,"Ent<SoftHyphen/>schei<SoftHyphen/>dungs<SoftHyphen/>schlacht β","Eine Ent<SoftHyphen/>schei<SoftHyphen/>dungs<SoftHyphen/>schlacht muss bestritten werden. Angriffe auf andere Ziele als „β“ sind wirkungslos.",214253,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5402,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5403,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5404,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5403,"Befristeter Fluch: Ostwind","Mit einem zeitlich befristeten Fluch belegt. Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Osten getroffen.",229993,0,0,1,2,17,1139,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5404,"Befristeter Fluch: Westwind","Mit einem zeitlich befristeten Fluch belegt. Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Westen getroffen.",229994,0,0,1,2,17,1138,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5405,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5406,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5407,"Aufgehängt","Wird zu einer Marionette und greift Verbündeten an.",214410,64,0,1,2,17,1130,False,False,False,True,False,True,False,False,False,False,100,0,False,False,1051,0,False,0,False,0,False,0,0,0,False,False,False,0
-5408,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5408,"Entkräftung","Ist so entkräftet, dass keine Handlung möglich ist.",215405,0,0,1,2,0,72,True,False,True,False,False,False,False,False,True,False,0,0,False,False,0,4,False,0,False,0,False,0,0,0,False,False,False,0
 5409,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5410,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5411,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5411,"Betäubung","Ist handlungsunfähig.",215004,0,0,1,2,3,2,True,False,True,False,False,False,True,False,False,False,100,0,False,False,0,4,False,0,False,0,False,0,0,0,False,False,False,0
 5412,"Auffüllmittel","Füllt an einer Nachfüllstation Wachstumsmittel auf und kann infolgedessen ein besonderes Extrakommando ausführen.",217690,0,10,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5413,"Vitalauffüller","Füllt Wachstumsmittel auf und kann infolgedessen ein besonderes Extrakommando ausführen.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5414,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5476,7 +5476,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5422,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5423,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5424,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5425,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5425,"Gift","Erleidet schrittweise Schaden durch Gift.",215007,0,0,1,2,1,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5426,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5427,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5428,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5488,8 +5488,8 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5434,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5435,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5436,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5437,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5438,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5437,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5438,"Doppelzauber","Nächster Zauber kann sofort gewirkt werden.",213406,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5439,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5440,"ライトクローク","光属性のエーテルを纏った状態。闇属性のエーテルを纏った者以外から受けるダメージを無効化する",214411,89,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5441,"ダーククローク","闇属性のエーテルを纏った状態。光属性のエーテルを纏った者以外から受けるダメージを無効化する",214412,89,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5519,11 +5519,11 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5465,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5466,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5467,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",215021,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
-5468,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5469,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5468,"アクション実行不可","アクションが実行できなくなった状態。",215045,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
+5469,"Gift","Erleidet schrittweise Schaden durch Gift.",215007,0,0,1,2,1,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5470,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5471,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5472,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5472,"Anzeigefehler","",0,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
 5473,"Verhängnis","Wird kampfunfähig, sobald der Timer des Fluchs auf 0 sinkt. Der Effekt endet, sobald die LP vollständig geheilt sind.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,25,0,False,False,False,0
 5474,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5475,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5583,10 +5583,10 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5529,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5530,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5531,"Bergsprenger","Erlittener Schaden ist verringert.",212698,0,0,28,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,-15,0,True,0,False,0,False,0,0,0,False,False,False,0
-5532,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5533,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5534,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5535,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5532,"Siegelwaffe: Glocke","Bereitet einen Angriff mit einer versiegelten Glocke vor.",214415,89,0,1,1,0,1027,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5533,"Siegelwaffe: Schwert","Bereitet einen Angriff mit einem versiegelten Schwert vor.",214416,89,0,1,1,0,1026,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5534,"Siegelwaffe: Bogen","Bereitet einen Angriff mit einem versiegelten Bogen vor.",214417,89,0,1,1,0,1025,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5535,"Siegelwaffe: Harfe","Bereitet einen Angriff mit einer versiegelten Harfe vor.",214418,89,0,1,1,0,1028,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5536,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5537,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5538,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0

@@ -56,7 +56,7 @@ int32,uint16,byte,byte,byte,uint16,int16,Image,uint16,str,sbyte,str,sbyte,sbyte,
 52,4735,9,0,2,0,55,8051,302,"Señor-Otto-Rucksack",4,"Señor-Otto-Rucksäcke",2,0,1,0,0
 53,4816,1,1,1,2,50,8052,36,"Corvarischer Sonnenschirm",4,"Corvarische Sonnenschirme",2,0,1,0,0
 54,4817,1,1,1,2,51,8053,37,"Spriggan-Sonnenschirm",4,"Spriggan-Sonnenschirme",2,0,1,0,0
-55,0,0,0,0,0,0,0,0,"",0,"",0,0,0,0,0
+55,4919,11,2,3,4,52,8054,700,"Avalanche-Gatling-Gewehr",4,"Avalanche-Gatling-Gewehre",2,0,1,2,0
 56,0,0,0,0,0,0,0,0,"",0,"",0,0,0,0,0
 57,4936,14,2,1,6,54,8056,601,"Spaten",4,"Spaten",1,0,1,0,0
-58,0,0,0,0,0,0,0,0,"",0,"",0,0,0,0,0
+58,4937,12,2,0,7,56,8057,401,"Antike Laterne",3,"Antike Laternen",1,0,1,1,0

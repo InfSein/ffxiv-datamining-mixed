@@ -313,6 +313,7 @@ Ruft das Menü „Momentanes Aussehen deiner Familiare“ auf.","/familiarprojek
 34,3,2,7,2,0,"/petsize","","/familiargröße, /petsize
 VERWENDUNG: /familiargröße [Familiarname] [Größe]
 → Ändert deine Anzeigeeinstellung für das nächste gerufene Familiar. Keine Auswirkungen auf die Anzeige für andere Spieler. Bei PvP unwirksam.
+※Die Größe von Begleitern des Bestienbändigers kann mit /bestiengröße geändert werden.
 >>Familiarname:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Demi-Bahamut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Demi-Phönix<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1127,7 +1128,7 @@ VERWENDUNG:
 /sgr [Klasse/Job]
 → Setzt deinen Online-Status für die spezifizierte Klasse (Job) auf „Sucht Gruppe“.
 >>Klassen/Jobs (mehrere möglich):
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Paladin (PLD), Gladiator (GLA), Krieger (KRG), Marodeur (MAR), Dunkelritter (DKR), Revolver<SoftHyphen/>klinge (REV), Weißmagier (WMA), Druide (DRU), Gelehrter (GLT), Astrologe (AST), Weiser (WEI), Mönch (MÖN), Faustkämpfer (FST), Dragoon (DRG), Pikenier (PIK), Ninja (NIN), Schurke (SCH), Samurai (SAM), Schnitter (SNT), Viper (VPR), Barde (BRD), Waldläufer (WDL), Maschinist (MCH), Tänzer (TÄN), Schwarzmagier (SMA), Thaumaturg (THM), Beschwörer (BSW), Hermetiker (HRT), Rotmagier (RMA), Piktomant (PKT), Blaumagier (BMA), Zimmerer (ZIM), Grobschmied (GRS), Plattner (PLA), Goldschmied (GLD), Gerber (GER), Weber (WEB), Alchemist (ALC), Gourmet (GRM), Minenarbeiter (MIN), Gärtner (GÄR), Fischer (FIS)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Paladin (PLD), Gladiator (GLA), Krieger (KRG), Marodeur (MAR), Dunkelritter (DKR), Revolver<SoftHyphen/>klinge (REV), Weißmagier (WMA), Druide (DRU), Gelehrter (GLT), Astrologe (AST), Weiser (WEI), Mönch (MÖN), Faustkämpfer (FST), Dragoon (DRG), Pikenier (PIK), Ninja (NIN), Schurke (SCH), Samurai (SAM), Schnitter (SNT), Viper (VPR), Bestienbändiger (BST), Barde (BRD), Waldläufer (WDL), Maschinist (MCH), Tänzer (TÄN), Schwarzmagier (SMA), Thaumaturg (THM), Beschwörer (BSW), Hermetiker (HRT), Rotmagier (RMA), Piktomant (PKT), Blaumagier (BMA), Zimmerer (ZIM), Grobschmied (GRS), Plattner (PLA), Goldschmied (GLD), Gerber (GER), Weber (WEB), Alchemist (ALC), Gourmet (GRM), Minenarbeiter (MIN), Gärtner (GÄR), Fischer (FIS)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Bei fehlender Klasse wird die momentane gewählt.
 >>Unterbefehle:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>ein<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>on<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Setzt den Status auf „Sucht Gruppe“.
@@ -3683,8 +3684,18 @@ VERWENDUNG:
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/anschwofgrün","/schwofgrün",293,0
 726,0,0,0,0,0,"","","","","",0,0
-727,0,0,0,0,0,"","","","","",0,0
-728,0,0,0,0,0,"","","","","",0,0
+727,2,1,2,0,0,"/navigate","/checkmap","/kartelesen, /navigate, /checkmap
+VERWENDUNG:
+/kartelesen [Unterbefehl]
+→ Du liest eine Karte.
+>>Unterbefehl:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/kartelesen","",293,0
+728,2,1,2,0,0,"/magitype","","/magitipp, /magitype
+VERWENDUNG:
+/magitipp [Unterbefehl]
+→ Eine Magitipp-Tastatur erscheint und du hämmerst drauf los.
+>>Unterbefehl:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/magitipp","",293,0
 729,2,1,2,0,0,"/cackle","","/spitz, /cackle
 VERWENDUNG:
 /spitz [Unterbefehl]
@@ -3697,7 +3708,7 @@ VERWENDUNG:
 → Du gibst begeistert den Takt an.
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/dirigieren","",293,0
-731,2,1,2,0,0,"/eattaco","/taco","/tacoessen, /eattaco
+731,2,1,2,0,0,"/eattaco","/taco","/tacoessen, /taco, /eattaco
 VERWENDUNG:
 /tacoessen [Unterbefehl]
 → Du isst genüsslich einen Taco.
@@ -3709,5 +3720,10 @@ VERWENDUNG:
 → Du mampfst unaufhörlich einen Taco.
 >>Unterbefehl:
   <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/tacomampfen","",293,0
-733,0,0,0,0,0,"","","","","",0,0
+733,2,1,2,0,0,"/lookback","","/zurückblicken, /lookback
+VERWENDUNG:
+/zurückblicken [Unterbefehl]
+→ Du blickst zurück.
+>>Unterbefehl:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bw<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>motion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)  Führt nur die Bewegung aus. Bei fehlendem Unterbefehl wird sowohl die Bewegung ausgeführt als auch der Text angezeigt. ","/zurückblicken","",293,0
 734,0,0,0,0,0,"","","","","",0,0

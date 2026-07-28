@@ -16,10 +16,21 @@ Dauer: 15 Sekunden"
 10,12,6,82212,"Schlüsselmeister","Erlaubt dir das Öffnen von verschlossenen Türen in Dungeons."
 11,9,5,82211,"Verbessertes Bombardieren","Gewährt eine Chance von 5<Indent/>% auf den sofortigen Tod fast aller Gegner."
 12,7,5,82210,"Verbessertes Läuten","Erhöht den Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kampfesglocke<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 5<Indent/>% und die Heilwirkung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ruheglocke<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 3.000."
-13,0,0,0,"",""
-14,0,0,0,"",""
-15,0,0,0,"",""
-16,0,0,0,"",""
-17,0,0,0,"",""
-18,0,0,0,"",""
-19,0,0,0,"",""
+13,16,5,82213,"Erstschlag","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Erstschlag<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bei Kampfeintritt.
+Effekt von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Erstschlag<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Auto-Attacke-Intervall und
+(Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verkürzt.
+Dauer: 25 Sekunden"
+14,19,4,82214,"Verbesserter Kreszenter Sprung","Erhöht den Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszenter Sprung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> auf 500 und die Verringerung des erlittenen Schadens auf 90<Indent/>%."
+15,21,1,82215,"Kreszentes Erlernen I","Erlaubt es, <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszente Rakete<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszenter Aqua-Atem<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu erlernen.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszente Rakete<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Fügt den meisten Gegnern mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 35<Indent/>% Schaden in Höhe von 75<Indent/>% der aktuellen LP zu.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszenter Aqua-Atem<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Du führst eine elementneutrale magische Attacke auf das Ziel und die Gegner in seiner Nähe aus."
+16,21,2,82216,"Kreszentes Erlernen II","Erlaubt es, <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszentes Windra<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszente Totalabwehr<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu erlernen.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszentes Windra<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Du führst eine windbasierte magische Attacke aus.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszente Totalabwehr<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Verringert zeitweise den eigenen sowie den erlittenen Schaden von Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern um 20<Indent/>%."
+17,21,3,82217,"Kreszentes Erlernen III","Erlaubt es, <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszenter Weißer Wind<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu erlernen.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszenter Weißer Wind<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Du regenerierst eigene LP und die von umstehenden Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>gliedern um die Höhe deiner aktuellen LP.
+Erlaubt darüber hinaus, <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszentes Windga<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zu erlernen, wenn <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszentes Windra<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bereits erlernt wurde.
+Effekt von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Kreszentes Windga<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Du führst eine windbasierte magische Attacke auf das Ziel und die Gegner in seiner Nähe aus."
+18,22,6,82218,"Doppelzauber","Gewährt <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Doppelzauber<UIGlow>01</UIGlow><UIForeground>01</UIForeground> beim Ausführen von Zaubern mit einer Ausführungszeit. Durch den Status entfällt die Ausführungszeit des nächsten Zaubers. Die Wirkung wird durch Kommandos (außer Auto-Attacke und Talenten) unterbrochen.
+Dauer: 15 Sekunden"
+19,0,24,82219,"Flexibilität","Erlaubt es dir, auch dann deinen Phantom-Job zu wechseln, wenn dies eigentlich nicht möglich wäre oder du dich im Kampf befindest."

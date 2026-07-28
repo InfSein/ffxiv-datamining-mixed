@@ -823,7 +823,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 819,"",0,"",0,0,0,0,0
 820,"Valefor",3,"NONE",1,0,0,0,1
 821,"Mampfer",4,"Mampfer",2,0,1,0,0
-822,"Erzdämon",4,"Erzdämonen",1,0,1,0,0
+822,"höher[a] Dämon",4,"höher[a] Dämonen",1,0,1,0,0
 823,"Chuchuto",3,"Chuchuto",1,0,0,1,1
 824,"Solkwyb",3,"Solkwyb",1,0,0,1,1
 825,"gehäutet[a] Megalokrabbe",3,"gehäutet[a] Megalokrabbe",2,0,1,1,0
@@ -1569,7 +1569,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 1565,"Nym-Soldat",6,"Nym-Soldaten",1,0,1,0,0
 1566,"Schatzsucher",4,"Schatz<SoftHyphen/>sucher",2,0,1,0,0
 1567,"Teratotaurus",3,"Teratotauren",1,0,1,0,0
-1568,"Dungwespe",3,"Dungwespen",1,0,1,1,0
+1568,"Dung-Vespula",3,"Dung-Vespula",1,0,1,1,0
 1569,"Tempelwächter",4,"Tempelwächter",2,0,1,0,0
 1570,"Azeyma-Richter",4,"Azeyma-Richter",2,0,1,0,0
 1571,"Azeyma-Geschworener",4,"Azeyma-Geschworener",2,0,1,0,0
@@ -2499,7 +2499,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 2495,"hinterhältig[a] Eufel",4,"hinterhältig[a] Eufel",2,0,1,0,0
 2496,"hinterhältig[a] Thanatos",3,"hinterhältig[a] Thanatos",1,0,1,0,0
 2497,"hinterhältig[a] Gargoyle",4,"hinterhältig[a] Gargoyles",1,0,1,0,0
-2498,"Alpha-Coeurl",4,"Alpha-Coeurl",1,0,1,0,0
+2498,"Alpha-Coeurl",3,"Alpha-Coeurl",1,0,1,0,0
 2499,"hinterhältig[a] Sandwurm",4,"hinterhältig[a] Sandwürmer",2,0,1,0,0
 2500,"Alpha-Morbol",4,"Alpha-Morbol",1,0,1,0,0
 2501,"hinterhältig[a] Morbol",4,"hinterhältig[a] Morbol",1,0,1,0,0
@@ -2593,7 +2593,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 2589,"Helfermarionette[p] Nr. 022S",3,"Helfermarionetten[p] Nr. 022S",1,0,1,1,0
 2590,"Bewunderermarionette[p] Nr. 022A",3,"Bewunderermarionetten[p] Nr. 022A",1,0,1,1,0
 2591,"Souffleur-Marionette[p] Nr. 022H",3,"Souffleur-Marionetten[p] Nr. 022H",1,0,1,1,0
-2592,"Gruben-Coeurl",4,"Gruben-Coeurl",1,0,1,0,0
+2592,"Gruben-Coeurl",3,"Gruben-Coeurl",1,0,1,0,0
 2593,"Goldbär",6,"Goldbären",1,0,1,0,0
 2594,"meisterlich[a] Gladiator",4,"meisterlich[a] Gladiatoren",1,0,1,0,0
 2595,"versiert[a] Pikenier",4,"versiert[a] Pikeniere",2,0,1,0,0
@@ -2839,7 +2839,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 2835,"Tam-Tara-Terrormilbe",3,"Tam-Tara-Terrormilben",1,0,1,1,0
 2836,"Tam-Tara-Schaudermilbe",3,"Tam-Tara-Schaudermilben",1,0,1,1,0
 2837,"dämonisch[a] Schlächter",4,"dämonisch[a] Schlächter",2,0,1,0,0
-2838,"gehörnt[a] Dämon",4,"gehörnt[a] Dämonen",1,0,1,0,0
+2838,"Erzdämon",4,"Erzdämonen",1,0,1,0,0
 2839,"Pisco-Dämon",4,"Pisco-Dämonen",1,0,1,0,0
 2840,"ungenutzt[a] Wille",5,"ungenutzt[a] Willen",1,0,1,0,0
 2841,"ungenutzt[a] Seele",3,"ungenutzt[a] Seelen",1,0,1,1,0
@@ -8135,7 +8135,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 8131,"Hydatos-Elementar",4,"Hydatos-Elementare",2,0,1,2,0
 8132,"Mahlstrom",3,"NONE",1,0,0,0,1
 8133,"Falsch[a] Heiligtum",4,"Falsch[a] Heiligtümer",2,0,1,2,0
-8134,"Killer-Vespula",3,"Killer-Vespulas",1,0,1,1,0
+8134,"Killer-Vespula",3,"Killer-Vespula",1,0,1,1,0
 8135,"Rutschbomber",4,"Rutschbomber",2,0,1,0,0
 8136,"Kicherkröte",3,"Kicherkröten",1,0,1,1,0
 8137,"Sabotender-Tänzer",4,"Sabotender-Tänzer",2,0,1,0,0
@@ -14309,7 +14309,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14305,"[t] Tyrann",6,"NONE",1,0,0,0,1
 14306,"Komet",6,"Kometen",1,0,1,0,0
 14307,"Mahlstrom",4,"Mahlströme",2,0,1,0,0
-14308,"",0,"",0,0,0,0,0
+14308,"Hildibrüh",3,"Hildibrüh",1,0,0,0,1
 14309,"Nebeltrift-Kriecher",4,"Nebeltrift-Kriecher",2,0,1,0,0
 14310,"Nebeltrift-Steinmull",4,"Nebeltrift-Steinmulle",2,0,1,0,0
 14311,"Nebeltrift-Fledermaus",3,"Nebeltrift-Fledermäuse",2,0,1,1,0
@@ -14319,7 +14319,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14315,"Nebeltrift-Plasma",4,"Nebeltrift-Plasmas",1,0,1,2,0
 14316,"Nebeltrift-Holzgolem",4,"Nebeltrift-Holzgolems",1,0,1,0,0
 14317,"Nebeltrift-Donnerseele",3,"Nebeltrift-Donnerseelen",1,0,1,1,0
-14318,"Nebeltrift-Coeurl",4,"Nebeltrift-Coeurls",1,0,1,0,0
+14318,"Nebeltrift-Coeurl",3,"Nebeltrift-Coeurls",1,0,1,0,0
 14319,"Nebeltrift-Brabbelback",4,"Nebeltrift-Brabbelbacks",1,0,1,0,0
 14320,"Donnergeist",2,"Donnergeister",2,0,1,0,0
 14321,"Milalla[p] aus Treno",4,"Milalla[p] aus Treno",1,0,1,0,0
@@ -14465,7 +14465,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14461,"La Noscea-Kurzhaar[p]",4,"La Noscea-Kurzhaare[p]",2,0,1,2,0
 14462,"brav[a] Schäferhund",4,"brav[a] Schäferhunde",2,0,1,0,0
 14463,"Aufzieh-Yuffie",3,"Aufzieh-Yuffie",1,0,1,1,0
-14464,"",0,"",0,0,0,0,0
+14464,"Aufzieh-Vincent",3,"Aufzieh-Vincent",1,0,1,0,0
 14465,"Aufzieh-Red XIII",3,"Aufzieh-Red XIII",1,0,1,0,0
 14466,"Hüpfis Khan",3,"Hüpfis Khans",1,0,0,0,1
 14467,"Nebelkondor",4,"Nebelkondore",2,0,1,0,0
@@ -14479,57 +14479,57 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14475,"Dandan",3,"NONE",1,0,0,0,1
 14476,"Wasserblase",3,"Wasserblasen",1,0,1,1,0
 14477,"defekt[a] Einheit[p] R9",3,"defekt[a] Einheiten[p] R9",1,0,1,1,0
-14478,"",0,"",0,0,0,0,0
-14479,"",0,"",0,0,0,0,0
-14480,"",0,"",0,0,0,0,0
-14481,"",0,"",0,0,0,0,0
-14482,"",0,"",0,0,0,0,0
+14478,"Carnelian",3,"NONE",1,0,0,0,1
+14479,"verrottet[a] Versuchsobjekt",4,"verrottet[a] Versuchsobjekte",2,0,1,2,0
+14480,"Verbrecher-Aerostat",6,"Verbrecher-Aerostaten",1,0,1,0,0
+14481,"Verbrecher-Geschützdrohne",3,"Verbrecher-Geschützdrohnen",1,0,1,1,0
+14482,"Hildibrand",3,"NONE",1,0,0,0,1
 14483,"entspannend[a] Meeresbestie",3,"entspannend[a] Meeresbestien",1,0,1,1,0
 14484,"lästig[a] Falle",3,"lästig[a] Fallen",1,0,1,1,0
 14485,"ungewöhnlich[a] Falle",3,"ungewöhnlich[a] Fallen",1,0,1,1,0
 14486,"Señor Otto",3,"NONE",1,0,0,0,1
 14487,"herabgestürzt[a] Stein",4,"herabgestürzt[a] Steine",2,0,1,0,0
 14488,"Bandit",6,"Banditen",1,0,1,0,0
-14489,"",0,"",0,0,0,0,0
-14490,"",0,"",0,0,0,0,0
-14491,"",0,"",0,0,0,0,0
-14492,"",0,"",0,0,0,0,0
-14493,"",0,"",0,0,0,0,0
-14494,"",0,"",0,0,0,0,0
-14495,"",0,"",0,0,0,0,0
-14496,"",0,"",0,0,0,0,0
-14497,"",0,"",0,0,0,0,0
-14498,"",0,"",0,0,0,0,0
+14489,"zweiköpfig[a] Avis",3,"zweiköpfig[a] Avis",1,0,1,0,0
+14490,"grün[a] Kopf",4,"grün[a] Köpfe",2,0,1,0,0
+14491,"blau[a] Kopf",4,"blau[a] Köpfe",2,0,1,0,0
+14492,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14493,"Eissphäre",3,"Eissphären",1,0,1,1,0
+14494,"leitend[a] Elektrosphäre",3,"leitend[a] Elektrosphären",1,0,1,1,0
+14495,"leitend[a] Eissphäre",3,"leitend[a] Eissphären",1,0,1,1,0
+14496,"Lichtsphäre",3,"Lichtsphären",1,0,1,1,0
+14497,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
+14498,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
 14499,"fatal[a] Säge",3,"fatal[a] Sägen",1,0,1,1,0
 14500,"fatal[a] Chakram",4,"fatal[a] Chakrams",1,0,1,2,0
 14501,"fatal[a] Fledermaus",3,"fatal[a] Fledermäuse",2,0,1,1,0
 14502,"Gewitterwolke",3,"Gewitterwolken",1,0,1,1,0
-14503,"",0,"",0,0,0,0,0
-14504,"",0,"",0,0,0,0,0
-14505,"",0,"",0,0,0,0,0
-14506,"",0,"",0,0,0,0,0
-14507,"",0,"",0,0,0,0,0
-14508,"",0,"",0,0,0,0,0
-14509,"",0,"",0,0,0,0,0
-14510,"",0,"",0,0,0,0,0
-14511,"",0,"",0,0,0,0,0
-14512,"",0,"",0,0,0,0,0
-14513,"",0,"",0,0,0,0,0
-14514,"",0,"",0,0,0,0,0
-14515,"",0,"",0,0,0,0,0
+14503,"Nekrophobia",3,"NONE",1,0,0,0,1
+14504,"Barrierenkopf",4,"Barrierenköpfe",2,0,1,0,0
+14505,"Abduktor",3,"NONE",1,0,0,0,1
+14506,"Bö",3,"Böen",1,0,1,1,0
+14507,"Abduktor-Feder",3,"Abduktor-Federn",1,0,1,1,0
+14508,"Elm-Gigas",3,"Elm-Gigas",1,0,1,0,0
+14509,"Alabaster-Klinge",3,"Alabaster-Klingen",1,0,1,1,0
+14510,"Alabaster-Golem",4,"Alabaster-Golems",1,0,1,0,0
+14511,"Lichtäther",4,"Lichtäther",2,0,1,0,0
+14512,"kreszent[a] Nekromant",6,"kreszent[a] Nekromanten",1,0,1,0,0
+14513,"alt[a] Matrosengeist",4,"alt[a] Matrosengeister",2,0,1,0,0
+14514,"alt[a] Piratengeist",4,"alt[a] Piratengeister",2,0,1,0,0
+14515,"alt[a] Entdeckergeist",4,"alt[a] Entdeckergeister",2,0,1,0,0
 14516,"Bote[p] der Meerjungfrau",8,"Boten[p] der Meerjungfrau",1,0,1,0,0
-14517,"",0,"",0,0,0,0,0
-14518,"",0,"",0,0,0,0,0
-14519,"",0,"",0,0,0,0,0
-14520,"",0,"",0,0,0,0,0
-14521,"",0,"",0,0,0,0,0
-14522,"",0,"",0,0,0,0,0
-14523,"",0,"",0,0,0,0,0
-14524,"",0,"",0,0,0,0,0
-14525,"",0,"",0,0,0,0,0
-14526,"",0,"",0,0,0,0,0
-14527,"",0,"",0,0,0,0,0
-14528,"",0,"",0,0,0,0,0
+14517,"Calofisteri-Doppelgängerin",3,"Calofisteri-Doppelgängerinnen",1,0,1,1,0
+14518,"Verfilzung",3,"Verfilzungen",1,0,1,1,0
+14519,"Locke",3,"Locken",1,0,1,1,0
+14520,"Arbatel",3,"NONE",1,0,0,0,1
+14521,"Seite[p] 16",3,"Seiten[p] 16",1,0,1,1,0
+14522,"Seite[p] 8",3,"Seiten[p] 8",1,0,1,1,0
+14523,"kreszent[a] Hydra",3,"kreszent[a] Hydras",1,0,1,1,0
+14524,"Lichtsphäre",3,"Lichtsphären",1,0,1,1,0
+14525,"Feuersphäre",3,"Feuersphären",1,0,1,1,0
+14526,"Eissphäre",3,"Eissphären",1,0,1,1,0
+14527,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14528,"Seite[p] 512",3,"Seiten[p] 512",1,0,1,1,0
 14529,"Alexander [t] Wiedererweckt[a]",3,"NONE",1,0,0,0,1
 14530,"Gordeus-System",4,"Gordeus-Systeme",2,0,1,2,0
 14531,"",0,"",0,0,0,0,0
@@ -14715,32 +14715,32 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14711,"Besucher-Höllenhund",4,"Besucher-Höllenhunde",2,0,1,0,0
 14712,"Besucher-Troubadour",4,"Besucher-Troubadoure",2,0,1,0,0
 14713,"Besucher-Sukkubus",2,"Besucher-Sukkuben",1,0,1,0,0
-14714,"",0,"",0,0,0,0,0
-14715,"",0,"",0,0,0,0,0
+14714,"bleich[a] Magia",4,"bleich[a] Magias",1,0,1,0,0
+14715,"Fluchwächter",4,"Fluchwächter",2,0,1,0,0
 14716,"Panzerauge",4,"Panzeraugen",1,0,1,2,0
-14717,"",0,"",0,0,0,0,0
-14718,"",0,"",0,0,0,0,0
-14719,"",0,"",0,0,0,0,0
-14720,"",0,"",0,0,0,0,0
-14721,"",0,"",0,0,0,0,0
-14722,"",0,"",0,0,0,0,0
-14723,"",0,"",0,0,0,0,0
-14724,"",0,"",0,0,0,0,0
-14725,"",0,"",0,0,0,0,0
-14726,"",0,"",0,0,0,0,0
-14727,"",0,"",0,0,0,0,0
-14728,"",0,"",0,0,0,0,0
+14717,"Index",2,"Indizes",1,0,1,0,0
+14718,"Index-Phantom",4,"Index-Phantome",2,0,1,2,0
+14719,"gerufen[a] Bombe",3,"gerufen[a] Bomben",1,0,1,1,0
+14720,"gerufen[a] Vogel",4,"gerufen[a] Vögel",2,0,1,0,0
+14721,"heilig[a] Lanze",3,"heilig[a] Lanzen",1,0,1,1,0
+14722,"düster[a] Prophezeiung",3,"düster[a] Prophezeiungen",1,0,1,1,0
+14723,"Eissphäre",3,"Eissphären",1,0,1,1,0
+14724,"Feuersphäre",3,"Feuersphären",1,0,1,1,0
+14725,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14726,"Schreckensseher",4,"Schreckensseher",1,0,1,0,0
+14727,"verflucht[a] Augapfel",4,"verflucht[a] Augäpfel",2,0,1,0,0
+14728,"Erz-Kelpie",4,"Erz-Kelpies",1,0,1,2,0
 14729,"Shinryu",3,"NONE",1,0,0,0,1
 14730,"Hülle[p] des Königs",3,"Hüllen[p] des Königs",1,0,1,1,0
 14731,"leer[a] Kristall",4,"leer[a] Kristalle",2,0,1,0,0
 14732,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
 14733,"Prishe",3,"NONE",1,0,0,1,1
 14734,"Chort",3,"NONE",1,0,0,0,1
-14735,"",0,"",0,0,0,0,0
-14736,"",0,"",0,0,0,0,0
-14737,"",0,"",0,0,0,0,0
-14738,"",0,"",0,0,0,0,0
-14739,"",0,"",0,0,0,0,0
+14735,"Minotaurus-Machia",3,"Minotaurus-Machias",1,0,1,1,0
+14736,"Demi-Medusa",3,"Demi-Medusen",1,0,1,1,0
+14737,"defekt[a] Lamia",3,"defekt[a] Lamias",1,0,1,1,0
+14738,"sinnlich[a] Sandy",3,"NONE",1,0,1,1,0
+14739,"toxisch[a] Kugel",3,"toxisch[a] Kugeln",1,0,1,1,0
 14740,"",0,"",0,0,0,0,0
 14741,"",0,"",0,0,0,0,0
 14742,"",0,"",0,0,0,0,0
@@ -14748,7 +14748,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14744,"",0,"",0,0,0,0,0
 14745,"",0,"",0,0,0,0,0
 14746,"",0,"",0,0,0,0,0
-14747,"",0,"",0,0,0,0,0
+14747,"Pelekos",3,"NONE",1,0,0,0,1
 14748,"",0,"",0,0,0,0,0
 14749,"Enuo",3,"NONE",1,0,0,0,1
 14750,"groß[a] Nichtswirbel",4,"groß[a] Nichtswirbel",2,0,1,0,0
@@ -14763,22 +14763,22 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14759,"Schrott-Gargoyle",4,"Schrott-Gargoyles",1,0,1,0,0
 14760,"Schrott-Byblos",3,"Schrott-Byblos",1,0,1,0,0
 14761,"Schrottgeist",2,"Schrottgeister",2,0,1,0,0
-14762,"",0,"",0,0,0,0,0
-14763,"",0,"",0,0,0,0,0
-14764,"",0,"",0,0,0,0,0
-14765,"",0,"",0,0,0,0,0
-14766,"",0,"",0,0,0,0,0
-14767,"",0,"",0,0,0,0,0
-14768,"",0,"",0,0,0,0,0
-14769,"",0,"",0,0,0,0,0
-14770,"",0,"",0,0,0,0,0
-14771,"",0,"",0,0,0,0,0
-14772,"",0,"",0,0,0,0,0
-14773,"",0,"",0,0,0,0,0
-14774,"",0,"",0,0,0,0,0
-14775,"",0,"",0,0,0,0,0
-14776,"",0,"",0,0,0,0,0
-14777,"",0,"",0,0,0,0,0
+14762,"Ruinen-Bluthund",4,"Ruinen-Bluthunde",2,0,1,0,0
+14763,"Eissäule",3,"Eissäulen",1,0,1,1,0
+14764,"geduldig[a] Kuribu",3,"geduldig[a] Kuribu",1,0,1,1,0
+14765,"Iambe",3,"NONE",1,0,0,1,1
+14766,"Iambe-Samen",4,"Iambe-Samen",1,0,1,0,0
+14767,"Herrscher-Chimäre",3,"Herrscher-Chimären",1,0,1,1,0
+14768,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14769,"Eissphäre",3,"Eissphären",1,0,1,1,0
+14770,"Wunderpott",4,"Wunderpotts",1,0,1,0,0
+14771,"Kreszentia-Gremlin",4,"Kreszentia-Gremlins",1,0,1,0,0
+14772,"Purpur-Gremlin",4,"Purpur-Gremlins",1,0,1,0,0
+14773,"Wunderpott",4,"Wunderpotts",1,0,1,0,0
+14774,"Kreszentia-Ventilator",4,"Kreszentia-Ventilatoren",1,0,1,0,0
+14775,"groß[a] Ventilator",4,"groß[a] Ventilatoren",1,0,1,0,0
+14776,"Sturmbeschwörer",4,"Sturmbeschwörer",2,0,1,0,0
+14777,"Bö",3,"Böen",1,0,1,1,0
 14778,"Shantotto [t] Schwarz[a] Teufel[p]",4,"Shantotto [t] Schwarz[a] Teufel[p]",2,0,0,0,1
 14779,"Promathia",3,"NONE",1,0,0,0,1
 14780,"Promathias Lichtring[p]",4,"Promathias Lichtringe[p]",2,0,1,0,0
@@ -14786,47 +14786,47 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14782,"leer[a] Wanderer",4,"leer[a] Wanderer",2,0,1,0,0
 14783,"leer[a] Weeper",4,"leer[a] Weeper",1,0,1,0,0
 14784,"leer[a] Denker",4,"leer[a] Denker",2,0,1,0,0
-14785,"",0,"",0,0,0,0,0
-14786,"",0,"",0,0,0,0,0
-14787,"",0,"",0,0,0,0,0
-14788,"",0,"",0,0,0,0,0
-14789,"",0,"",0,0,0,0,0
-14790,"",0,"",0,0,0,0,0
-14791,"",0,"",0,0,0,0,0
-14792,"",0,"",0,0,0,0,0
-14793,"",0,"",0,0,0,0,0
+14785,"Kreszentia-Königin",3,"Kreszentia-Königinnen",1,0,1,1,0
+14786,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14787,"Rubrum-Drache",8,"Rubrum-Drachen",1,0,1,0,0
+14788,"Zombiegas-Wolke",3,"Zombiegas-Wolken",1,0,1,1,0
+14789,"Barriere",3,"Barrieren",1,0,1,1,0
+14790,"Algol",3,"NONE",1,0,0,0,1
+14791,"Atlas-Karfunkel",4,"Atlas-Karfunkel",2,0,1,2,0
+14792,"Topasstein",4,"Topassteine",2,0,1,0,0
+14793,"●イミテーション",0,"",0,0,1,0,0
 14794,"",0,"",0,0,0,0,0
-14795,"",0,"",0,0,0,0,0
-14796,"",0,"",0,0,0,0,0
-14797,"",0,"",0,0,0,0,0
-14798,"",0,"",0,0,0,0,0
-14799,"",0,"",0,0,0,0,0
-14800,"",0,"",0,0,0,0,0
-14801,"",0,"",0,0,0,0,0
-14802,"",0,"",0,0,0,0,0
-14803,"",0,"",0,0,0,0,0
-14804,"",0,"",0,0,0,0,0
-14805,"",0,"",0,0,0,0,0
-14806,"",0,"",0,0,0,0,0
-14807,"",0,"",0,0,0,0,0
-14808,"",0,"",0,0,0,0,0
-14809,"",0,"",0,0,0,0,0
-14810,"",0,"",0,0,0,0,0
-14811,"",0,"",0,0,0,0,0
-14812,"",0,"",0,0,0,0,0
-14813,"",0,"",0,0,0,0,0
-14814,"",0,"",0,0,0,0,0
-14815,"",0,"",0,0,0,0,0
-14816,"",0,"",0,0,0,0,0
-14817,"",0,"",0,0,0,0,0
-14818,"",0,"",0,0,0,0,0
-14819,"",0,"",0,0,0,0,0
-14820,"",0,"",0,0,0,0,0
-14821,"",0,"",0,0,0,0,0
-14822,"",0,"",0,0,0,0,0
-14823,"",0,"",0,0,0,0,0
-14824,"",0,"",0,0,0,0,0
-14825,"",0,"",0,0,0,0,0
+14795,"winzig[a] Magier",4,"winzig[a] Magier",2,0,1,0,0
+14796,"winzig[a] Lehrling",4,"winzig[a] Lehrlinge",2,0,1,0,0
+14797,"Flaresphäre",3,"Flaresphären",1,0,1,1,0
+14798,"Sanctussphäre",3,"Sanctussphären",1,0,1,1,0
+14799,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
+14800,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
+14801,"Metamorpha",3,"NONE",1,0,0,0,1
+14802,"Magie-Kampfmaschine",3,"Magie-Kampf<SoftHyphen/>maschinen",1,0,1,1,0
+14803,"Magie-Düsterritter",4,"Magie-Düsterritter",2,0,1,0,0
+14804,"Magie-Barmu",4,"Magie-Barmus",1,0,1,0,0
+14805,"Magie-Mantis",3,"Magie-Mantis",1,0,1,1,0
+14806,"Magie-Manatotem",4,"Magie-Manatotems",1,0,1,2,0
+14807,"Magie-Yarzon",4,"Magie-Yarzons",1,0,1,0,0
+14808,"Magie-Ochu",4,"Magie-Ochus",1,0,1,0,0
+14809,"Magie-Manatopf",4,"Magie-Manatöpfe",2,0,1,0,0
+14810,"Magie-Purbol",4,"Magie-Purbols",1,0,1,2,0
+14811,"Magie-Purbolhüfte",3,"Magie-Purbolhüften",1,0,1,1,0
+14812,"Magie-Plasma",4,"Magie-Plasmas",1,0,1,2,0
+14813,"Magie-Holzgolem",4,"Magie-Holzgolems",1,0,1,0,0
+14814,"Donnermacher",4,"Donnermacher",2,0,1,0,0
+14815,"Schmetterer",4,"Schmetterer",2,0,1,0,0
+14816,"Magie-Schleim",4,"Magie-Schleime",2,0,1,0,0
+14817,"Magie-Uhrgeist",4,"Magie-Uhrgeister",2,0,1,0,0
+14818,"Kreszentia-Tomate",3,"Kreszentia-Tomaten",1,0,1,1,0
+14819,"Kreszentia-Zwiebel",3,"Kreszentia-Zwiebeln",1,0,1,1,0
+14820,"Schwerttänzer",4,"Schwerttänzer",2,0,1,0,0
+14821,"tanzend[a] Schwert",2,"tanzend[a] Schwerter",2,0,1,2,0
+14822,"tanzend[a] Schwert",2,"tanzend[a] Schwerter",2,0,1,2,0
+14823,"tanzend[a] Schwert",2,"tanzend[a] Schwerter",2,0,1,2,0
+14824,"tanzend[a] Schwert",2,"tanzend[a] Schwerter",2,0,1,2,0
+14825,"tanzend[a] Schwert",2,"tanzend[a] Schwerter",2,0,1,2,0
 14826,"Jullus pyr Norbanus",3,"Jullus pyr Norbanus",1,0,0,0,1
 14827,"Laquearius[p] der I. Legion",3,"Laquearii[p] der I. Legion",1,0,1,0,0
 14828,"Medusa-Schwarmsängerin",3,"NONE",1,0,1,1,0
@@ -14841,105 +14841,105 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14837,"Wächter[p] Salaheems",4,"Wächter[p] Salaheems",2,0,1,0,0
 14838,"Aw'aern",3,"NONE",1,0,0,0,1
 14839,"Aw'zdei",3,"NONE",1,0,0,0,1
-14840,"",0,"",0,0,0,0,0
-14841,"",0,"",0,0,0,0,0
+14840,"Kreszentia-Arachne",3,"Kreszentia-Arachnen",1,0,1,1,0
+14841,"Arachne-Tochter",3,"Arachne-Töchter",2,0,1,1,0
 14842,"Besucher-Narr",6,"Besucher-Narren",1,0,1,0,0
 14843,"blau[a] Wikinger-Marionette",3,"blau[a] Wikinger-Marionetten",1,0,1,1,0
 14844,"rot[a] Wikinger-Marionette",3,"rot[a] Wikinger-Marionetten",1,0,1,1,0
 14845,"Jinbei[p] Jr.",3,"Jinbei[p] Jr.",1,0,0,0,1
 14846,"Sternchenebner",4,"Sternchenebner",2,0,1,0,0
 14847,"Caprino",3,"Caprino",1,0,0,0,1
-14848,"",0,"",0,0,0,0,0
-14849,"",0,"",0,0,0,0,0
-14850,"",0,"",0,0,0,0,0
+14848,"Register[p] [t] Belesen[a]",3,"NONE",1,0,0,0,1
+14849,"mickrig[a] Magier",3,"mickrig[a] Magier",2,0,1,0,0
+14850,"Wuk Lamat-Puppe",3,"Wuk Lamat-Puppen",1,0,1,1,0
 14851,"",0,"",0,0,0,0,0
 14852,"Prishe-Puppe",3,"Prishe-Puppen",1,0,1,1,0
-14853,"",0,"",0,0,0,0,0
+14853,"Köttr-Puppe",3,"Köttr-Puppen",1,0,1,1,0
 14854,"Nagy",3,"NONE",1,0,0,0,1
-14855,"",0,"",0,0,0,0,0
-14856,"",0,"",0,0,0,0,0
-14857,"",0,"",0,0,0,0,0
-14858,"",0,"",0,0,0,0,0
-14859,"",0,"",0,0,0,0,0
-14860,"",0,"",0,0,0,0,0
-14861,"",0,"",0,0,0,0,0
-14862,"",0,"",0,0,0,0,0
-14863,"",0,"",0,0,0,0,0
-14864,"",0,"",0,0,0,0,0
-14865,"",0,"",0,0,0,0,0
-14866,"",0,"",0,0,0,0,0
-14867,"",0,"",0,0,0,0,0
-14868,"",0,"",0,0,0,0,0
-14869,"",0,"",0,0,0,0,0
-14870,"",0,"",0,0,0,0,0
-14871,"",0,"",0,0,0,0,0
-14872,"",0,"",0,0,0,0,0
-14873,"",0,"",0,0,0,0,0
-14874,"",0,"",0,0,0,0,0
-14875,"",0,"",0,0,0,0,0
-14876,"",0,"",0,0,0,0,0
-14877,"",0,"",0,0,0,0,0
-14878,"",0,"",0,0,0,0,0
-14879,"",0,"",0,0,0,0,0
-14880,"",0,"",0,0,0,0,0
-14881,"",0,"",0,0,0,0,0
-14882,"",0,"",0,0,0,0,0
-14883,"",0,"",0,0,0,0,0
-14884,"",0,"",0,0,0,0,0
-14885,"",0,"",0,0,0,0,0
-14886,"",0,"",0,0,0,0,0
-14887,"",0,"",0,0,0,0,0
-14888,"",0,"",0,0,0,0,0
-14889,"",0,"",0,0,0,0,0
-14890,"",0,"",0,0,0,0,0
-14891,"",0,"",0,0,0,0,0
-14892,"",0,"",0,0,0,0,0
-14893,"",0,"",0,0,0,0,0
-14894,"",0,"",0,0,0,0,0
-14895,"",0,"",0,0,0,0,0
-14896,"",0,"",0,0,0,0,0
-14897,"",0,"",0,0,0,0,0
-14898,"",0,"",0,0,0,0,0
-14899,"",0,"",0,0,0,0,0
-14900,"",0,"",0,0,0,0,0
-14901,"",0,"",0,0,0,0,0
-14902,"",0,"",0,0,0,0,0
-14903,"",0,"",0,0,0,0,0
-14904,"",0,"",0,0,0,0,0
-14905,"",0,"",0,0,0,0,0
-14906,"",0,"",0,0,0,0,0
-14907,"",0,"",0,0,0,0,0
-14908,"",0,"",0,0,0,0,0
-14909,"",0,"",0,0,0,0,0
-14910,"",0,"",0,0,0,0,0
-14911,"",0,"",0,0,0,0,0
-14912,"",0,"",0,0,0,0,0
-14913,"",0,"",0,0,0,0,0
-14914,"",0,"",0,0,0,0,0
-14915,"",0,"",0,0,0,0,0
-14916,"",0,"",0,0,0,0,0
-14917,"",0,"",0,0,0,0,0
-14918,"",0,"",0,0,0,0,0
-14919,"",0,"",0,0,0,0,0
-14920,"",0,"",0,0,0,0,0
-14921,"",0,"",0,0,0,0,0
-14922,"",0,"",0,0,0,0,0
-14923,"",0,"",0,0,0,0,0
+14855,"Aufzieh-Barret",4,"Aufzieh-Barrets",1,0,1,0,0
+14856,"Nym-Uolosapa",3,"Nym-Uolosapa",1,0,1,0,0
+14857,"Kreszentia-Gratgleiter",4,"Kreszentia-Gratgleiter",2,0,1,0,0
+14858,"Kreszentia-Urolith",6,"Kreszentia-Urolithen",1,0,1,0,0
+14859,"Kreszentia-Dhara",3,"Kreszentia-Dharas",1,0,1,0,0
+14860,"Kreszentia-Bibliotaph",6,"Kreszentia-Bibliotaphen",1,0,1,0,0
+14861,"Kreszentia-Waffe",3,"Kreszentia-Waffen",1,0,1,1,0
+14862,"Kreszentia-Gürteltier",4,"Kreszentia-Gürteltiere",2,0,1,2,0
+14863,"Kreszentia-Wurm",4,"Kreszentia-Würmer",2,0,1,0,0
+14864,"Kreszentia-Montisaurus",2,"Kreszentia-Montisauren",1,0,1,0,0
+14865,"Kreszentia-Tomate",3,"Kreszentia-Tomaten",1,0,1,1,0
+14866,"Kreszentia-Zwiebel",3,"Kreszentia-Zwiebeln",1,0,1,1,0
+14867,"Kreszentia-Geißelskorpion",4,"Kreszentia-Geißelskorpione",2,0,1,0,0
+14868,"Kreszentia-Opken",3,"Kreszentia-Opken",1,0,1,0,0
+14869,"Kreszentia-Belladonna",3,"Kreszentia-Belladonnas",1,0,1,1,0
+14870,"Kreszentia-Sapria",3,"Kreszentia-Saprias",1,0,1,1,0
+14871,"Kreszentia-Meliade",3,"Kreszentia-Meliaden",1,0,1,1,0
+14872,"Kreszentia-Loreley",3,"Kreszentia-Loreleys",1,0,1,1,0
+14873,"Kreszentia-Geist",4,"Kreszentia-Geister",2,0,1,0,0
+14874,"Kreszentia-Salzschwalbe",3,"Kreszentia-Salzschwalben",1,0,1,1,0
+14875,"Kreszentia-Sobalos",3,"Kreszentia-Sobalosse",2,0,1,0,0
+14876,"Kreszentia-Huwasi",3,"Kreszentia-Huwasi",1,0,1,0,0
+14877,"Kreszentia-Galle",3,"Kreszentia-Gallen",1,0,1,1,0
+14878,"Kreszentia-Medusa",3,"Kreszentia-Medusen",1,0,1,1,0
+14879,"Kreszentia-Elfenkröte",3,"Kreszentia-Elfenkröten",1,0,1,1,0
+14880,"Kreszentia-Kargas",3,"Kreszentia-Kargas",1,0,1,0,0
+14881,"Kreszentia-Sandschlange",3,"Kreszentia-Sandschlangen",1,0,1,1,0
+14882,"Kreszentia-Coeurl",3,"Kreszentia-Coeurl",1,0,1,0,0
+14883,"Kreszentia-Gazellenfalke",8,"Kreszentia-Gazellenfalken",1,0,1,0,0
+14884,"Kreszentia-Harpeia",3,"Kreszentia-Harpeias",1,0,1,1,0
+14885,"Kreszentia-Kaluk",4,"Kreszentia-Kaluks",1,0,1,0,0
+14886,"Kreszentia-Wollrücken",4,"Kreszentia-Wollrücken",1,0,1,0,0
+14887,"Kreszentia-Großhorn",4,"Kreszentia-Großhörner",2,0,1,2,0
+14888,"Kreszentia-Ratel",4,"Kreszentia-Ratel",1,0,1,0,0
+14889,"Kreszentia-Adaman-Taimai",4,"Kreszentia-Adaman-Taimai",2,0,1,0,0
+14890,"Kreszentia-Regolith",6,"Kreszentia-Regolithen",1,0,1,0,0
+14891,"Kreszentia-Stein",4,"Kreszentia-Steine",2,0,1,0,0
+14892,"Kreszentia-Gremlin",4,"Kreszentia-Gremlins",1,0,1,0,0
+14893,"Kreszentia-Fäulauge",4,"Kreszentia-Fäulaugen",1,0,1,2,0
+14894,"Kreszentia-Moosfungus",3,"Kreszentia-Moosfungi",1,0,1,0,0
+14895,"Kreszentia-Terrormilbe",3,"Kreszentia-Terrormilben",1,0,1,1,0
+14896,"Kreszentia-Düsterwächter",4,"Kreszentia-Düsterwächter",2,0,1,0,0
+14897,"Kreszentia-Höllenhund",4,"Kreszentia-Höllenhunde",2,0,1,0,0
+14898,"Kreszentia-Parthenope",3,"Kreszentia-Parthenopen",1,0,1,1,0
+14899,"Kreszentia-Gargoyle",4,"Kreszentia-Gargoyles",1,0,1,0,0
+14900,"Kreszentia-Kraklaw",4,"Kreszentia-Kraklaws",1,0,1,0,0
+14901,"Kreszentia-Spuk",4,"Kreszentia-Spuke",2,0,1,0,0
+14902,"Kreszentia-Nanka",3,"Kreszentia-Nankas",1,0,1,0,0
+14903,"Kreszentia-Fluchträger",4,"Kreszentia-Fluchträger",2,0,1,0,0
+14904,"Kreszentia-Vogel",4,"Kreszentia-Vögel",2,0,1,0,0
+14905,"Kreszentia-Anila",3,"Kreszentia-Anilas",1,0,1,0,0
+14906,"Kreszentia-Zirnitra",3,"Kreszentia-Zirnitras",1,0,1,2,0
+14907,"Kreszentia-Arioch",3,"Kreszentia-Ariochs",1,0,1,0,0
+14908,"Kreszentia-Wamoura",3,"Kreszentia-Wamouras",1,0,1,1,0
+14909,"Kreszentia-Träger",4,"Kreszentia-Träger",2,0,1,0,0
+14910,"Kreszentia-Leierschwanz",2,"Kreszentia-Leierschwänze",2,0,1,0,0
+14911,"Kreszentia-Gaukler",4,"Kreszentia-Gaukler",2,0,1,0,0
+14912,"Kreszentia-Sukkubus",3,"Kreszentia-Sukkuben",1,0,1,1,0
+14913,"Kreszentia-Gusion",3,"Kreszentia-Gusions",1,0,1,0,0
+14914,"Kreszentia-Bombadeel",3,"Kreszentia-Bombadeel",1,0,1,0,0
+14915,"Kreszentia-Fäulhund",2,"Kreszentia-Fäulhunde",2,0,1,0,0
+14916,"Kreszentia-Skatene",3,"Kreszentia-Skatenen",1,0,1,1,0
+14917,"Kreszentia-Gespenst",4,"Kreszentia-Gespenster",2,0,1,2,0
+14918,"Kreszentia-Nekrodium",4,"Kreszentia-Nekrodien",1,0,1,2,0
+14919,"Kreszentia-Doppelkopf",2,"Kreszentia-Doppelköpfe",2,0,1,0,0
+14920,"Kreszentia-Ankou",4,"Kreszentia-Ankous",1,0,1,2,0
+14921,"Kreszentia-Schlemmerschemen",4,"Kreszentia-Schlemmerschemen",1,0,1,0,0
+14922,"Kreszentia-Steinschale",3,"Kreszentia-Steinschalen",1,0,1,1,0
+14923,"weiß[a] Kreszentia-Flamme",3,"weiß[a] Kreszentia-Flammen",1,0,1,1,0
 14924,"Besucher-Bomber",4,"Besucher-Bomber",2,0,1,0,0
 14925,"Besucher-Übelauge",4,"Besucher-Übelaugen",1,0,1,2,0
 14926,"Besucher-Imp",4,"Besucher-Imps",1,0,1,0,0
 14927,"",0,"",0,0,0,0,0
 14928,"",0,"",0,0,0,0,0
-14929,"",0,"",0,0,0,0,0
-14930,"",0,"",0,0,0,0,0
-14931,"",0,"",0,0,0,0,0
-14932,"",0,"",0,0,0,0,0
-14933,"",0,"",0,0,0,0,0
+14929,"Magie-Catblepus",3,"Magie-Catblepus",1,0,1,1,0
+14930,"Magie-Einhänder",4,"Magie-Einhänder",2,0,1,0,0
+14931,"Magie-Skatene",3,"Kreszentia-Skatenen",1,0,1,1,0
+14932,"Magie-Hunbaba",3,"Magie-Hunbaba",1,0,1,0,0
+14933,"Airbuster",4,"Airbuster",2,0,1,0,0
 14934,"alarmiert[a] Stimme",3,"alarmiert[a] Stimmen",1,0,1,1,0
 14935,"Stimme[p] von Sareel Ja",3,"Stimmen[p] von Sareel Ja",1,0,1,1,0
 14936,"",0,"",0,0,0,0,0
 14937,"",0,"",0,0,0,0,0
-14938,"",0,"",0,0,0,0,0
+14938,"magisch[a] Einsiedler",4,"magisch[a] Einsiedler",2,0,1,0,0
 14939,"Orchester-Alpaka-Cria",4,"Orchester-Alpaka-Crias",1,0,1,2,0
 14940,"Naschkatze",3,"Naschkatzen",1,0,1,1,0
 14941,"Gespenst",2,"Gespenster",2,0,1,2,0

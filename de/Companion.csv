@@ -560,7 +560,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 556,"blau[a] Aufzieh-Gobmaschine",3,"blau[a] Aufzieh-Gobmaschinen",1,0,1,1,0,4631,100,10,0,0,0,1,0,0,0,8,544,False,True,False,True,False,0,False,True,4959,11038,True,0,25,550,1,30,20,1,604,4
 557,"Eald'narche-Puppe",3,"Eald'narche-Puppen",1,0,1,1,0,4632,100,10,0,0,0,1,0,0,0,8,545,False,True,False,True,False,0,False,True,4960,2112,True,0,15,380,36,360,30,1,634,2
 558,"Rroneek-Kälbchen",4,"Rroneek-Kälbchen",1,0,1,2,0,4633,100,10,0,0,0,2,0,0,0,8,546,True,False,True,False,True,0,False,True,4961,1117,True,0,30,800,11,360,20,1,617,1
-559,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+559,"Schabe",3,"Schaben",1,0,1,1,0,4634,100,10,0,0,0,2,0,0,0,8,547,True,False,True,False,True,0,False,True,4962,9511,False,0,10,350,15,0,20,1,620,1
 560,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
 561,"Mini-Krähe",3,"Mini-Krähen",1,0,1,1,0,4636,100,10,0,0,0,2,2,0,0,8,548,True,False,True,False,True,0,False,True,4964,5015,True,0,25,560,38,120,20,1,609,1
 562,"Feo Ul",3,"Feo Ul",1,0,1,1,0,4637,100,10,0,0,0,1,0,0,0,8,400,False,True,False,True,False,0,False,True,4965,7016,True,0,15,400,35,360,30,1,634,3
@@ -575,7 +575,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 571,"La Noscea-Kurzhaar[p]",4,"La Noscea-Kurzhaare[p]",2,0,1,2,0,4809,100,10,0,0,0,2,0,0,0,8,555,True,False,True,False,True,0,False,True,4972,3046,False,0,20,540,20,120,20,1,605,1
 572,"brav[a] Schäferhund",4,"brav[a] Schäferhunde",2,0,1,0,0,4810,100,10,0,0,0,2,0,0,0,8,556,True,False,True,False,True,0,False,True,4973,3047,False,0,25,520,9,0,20,1,620,1
 573,"Aufzieh-Yuffie",3,"Aufzieh-Yuffies",1,0,1,1,0,4811,100,10,0,0,0,1,0,0,0,8,371,False,True,False,True,False,0,False,True,4974,12074,False,0,20,500,49,0,30,1,620,3
-574,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+574,"Aufzieh-Vincent",3,"Aufzieh-Vincents",1,0,1,0,0,4812,100,10,0,0,0,1,0,0,0,8,371,False,True,False,True,False,0,False,True,4975,12075,False,0,30,700,2,30,20,1,603,3
 575,"Aufzieh-Red XIII[p]",3,"Aufzieh-Red XIIIs[p]",1,0,1,0,0,4813,100,10,0,0,0,1,0,0,0,8,371,False,True,False,True,False,0,False,True,4976,12076,False,0,25,550,4,120,20,1,605,3
 576,"Hüpfis Khan",3,"Hüpfis Khans",1,0,0,0,1,4814,100,10,10,0,0,1,0,0,0,8,557,False,True,False,True,False,0,False,True,4977,2013,False,0,30,580,46,0,20,2,620,3
 577,"Nebelkondor",4,"Nebelkondore",2,0,1,0,0,4815,100,10,0,0,0,2,2,0,0,8,558,True,False,True,False,True,0,False,True,4978,5016,False,0,10,320,31,0,30,1,620,1
@@ -586,15 +586,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 582,"Jinbei Jr.",3,"Jinbei Jr.",1,0,0,0,1,4951,100,10,0,0,0,2,5,0,0,8,560,True,False,True,False,True,0,False,True,4983,4018,False,0,15,410,32,0,40,1,620,1
 583,"Sternchenebner",4,"Sternchenebner",2,0,1,0,0,4952,100,10,0,0,0,1,0,0,0,8,540,False,True,False,True,False,0,False,True,4984,11040,False,0,20,380,5,360,30,1,619,4
 584,"Caprino",3,"Caprinos",1,0,0,0,1,4953,100,10,0,0,0,2,0,0,0,8,561,True,False,True,False,True,0,False,True,4985,3048,False,0,15,420,2,30,20,1,620,1
-585,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-586,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-587,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+585,"Register[p] [t] Belesen[a]",3,"Register[p] [t] Belesen[a]",1,0,0,0,1,4954,100,10,0,0,0,1,0,0,0,8,562,False,True,False,True,False,0,False,True,4986,1121,False,0,25,540,35,360,30,1,634,2
+586,"mickrig[a] Magier",4,"mickrig[a] Magier",2,0,1,0,0,4955,100,10,0,0,0,1,0,0,0,8,563,False,True,False,True,False,0,False,True,4987,10032,False,0,10,280,29,360,20,1,623,3
+587,"Wuk Lamat-Puppe",3,"Wuk Lamat-Puppen",1,0,1,1,0,4956,100,10,0,0,0,1,0,0,0,8,524,False,True,False,True,False,0,False,True,4988,9053,False,0,10,430,42,0,20,1,620,3
 588,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
 589,"Prishe-Puppe",3,"Prishe-Puppen",1,0,1,1,0,4958,100,10,0,0,0,1,0,0,0,8,358,False,True,False,True,False,0,False,True,4990,12112,False,0,25,520,17,0,30,1,620,3
-590,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-591,"Nagy",3,"Nagy",1,0,0,0,1,4960,100,10,0,0,0,2,0,0,0,8,566,True,False,True,False,True,0,False,True,4992,9512,False,0,30,590,41,0,20,1,620,1
-592,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-593,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+590,"Köttr-Puppe",3,"Köttr-Puppen",1,0,1,1,0,4959,100,10,0,0,0,1,0,0,0,8,565,False,True,False,True,False,0,False,True,4991,7018,False,0,10,320,35,360,30,1,634,3
+591,"Nagy",3,"Nagy",1,0,0,0,1,4960,100,10,0,0,0,2,0,0,0,8,566,True,False,True,False,True,0,False,True,4992,9512,False,0,30,600,41,0,20,1,620,1
+592,"Aufzieh-Barret",4,"Aufzieh-Barrets",1,0,1,0,0,4961,100,10,0,0,0,1,0,0,0,8,371,False,True,False,True,False,0,False,True,4993,12077,False,0,10,410,37,0,20,1,620,3
+593,"Nym-Uolosapa",3,"Nym-Uolosapa",1,0,1,0,0,4962,100,10,0,0,0,2,2,0,0,8,90,True,False,True,False,True,0,False,True,4994,5012,False,0,10,390,11,360,20,1,618,1
 594,"Orchester-Alpaka-Cria",4,"Orchester-Alpaka-Crias",1,0,1,2,0,5007,100,10,0,0,0,2,0,0,0,8,508,True,False,True,False,True,0,False,True,4995,3036,False,0,30,590,25,360,20,1,625,1
 595,"Naschkatze",3,"Naschkatzen",1,0,1,1,0,1213,100,10,0,0,0,1,0,0,0,8,61,True,False,False,False,True,0,False,True,4940,3005,False,0,20,510,4,120,30,1,608,1
 596,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

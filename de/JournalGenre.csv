@@ -79,7 +79,7 @@ int32,Image,JournalCategory,bit&01,str
 75,61411,53,True,"Freundesvölker (Heavensward)"
 76,61411,53,True,"Freundesvölker (Stormblood)"
 77,61411,53,True,"Freundesvölker (Endwalker)"
-78,0,0,False,""
+78,61411,35,True,"Freundesvölker (Dawntrail)"
 79,61411,54,True,"Drachenkrieg (Epilog)"
 80,61411,54,True,"Die Heimkehr der Exegeten (Epilog)"
 81,61411,54,True,"Neu entdecktes Abenteuer (Epilog)"
