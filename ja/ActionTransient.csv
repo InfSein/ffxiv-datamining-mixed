@@ -35159,7 +35159,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブレード・オブ・フェイス実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「リミットゲージ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>最大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蓄積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蓄積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135秒
 このアクションを実行するとブレード・オブ・フェイスに変化する。"
 29070,"対象とその周囲の敵に範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のＨＰを回復する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000
@@ -35287,7 +35287,7 @@ int32,str
 効果時間中に対象が倒されると、自身のＨＰとＭＰを最大ＨＰおよびＭＰの15％分回復し、プランジカットのリキャストタイムが解消される。
 バインド中は実行不可。"
 29093,"自身または対象のパーティメンバーに一定量のダメージを防ぐバリアを張る。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力8000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力10000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒
 バリアがダメージを完全に吸収して消滅すると、暗黒騎士自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークアーツ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ダークアーツ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＨＰの代わりにダークアーツを消費して<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「シャドウブリンガー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を発動できる。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
@@ -35634,7 +35634,7 @@ int32,str
 29226,"対象とその周囲の敵に範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12000
 この魔法は固有のリキャストタイマーを持つ。"
 29227,"自身またはパーティメンバーひとりを対象として、一定量のダメージを防ぐバリアを張る。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力8000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>回復力10000相当　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に付与されている、浄化で解除可能な状態異常を1つ解除する。
 状態異常の解除に成功すると、バリア量が2倍になる。"
 29228,"敵単体を対象とし、カッパもしくはポーキーに変身させる。
@@ -36065,7 +36065,7 @@ int32,str
 このウェポンスキルは固有のリキャストタイマーを持つ。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-29404,"対象に向かって前方扇範囲物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000
+29404,"対象に向かって前方扇範囲物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10000
 対象が1体の場合は2回命中する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を10mノックバックする。
 このウェポンスキルは固有のリキャストタイマーを持つ。"
@@ -36123,12 +36123,12 @@ int32,str
 29411,""
 29412,"指定した地面にオートタレット・ビショップを設置する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>稼働時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-設置されたオートタレット・ビショップは、継続的に周囲の敵に範囲魔法攻撃を実行する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7500
+設置されたオートタレット・ビショップは、継続的に周囲の敵に範囲魔法攻撃を実行する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>周囲のパーティメンバーに一定量のダメージを防ぐバリアを張る。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
-29413,"自身の周囲の敵に範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
+29413,"自身の周囲の敵に範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>周囲のパーティメンバーに一定量のダメージを防ぐバリアを張る。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>バリア量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29414,"次に実行するドリル、バイオブラスト、エアアンカー、回転のこぎりに追加効果を発生させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
@@ -36463,7 +36463,7 @@ int32,str
 29497,"上空に高く飛び上がり、ターゲットをされない状態になる。
 ヘヴィ、バインドを受けている場合、それらを解除しつつ実行する。
 また、効果中は移動することができ、移動速度が50％上昇する。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
 効果時間が経過するか、効果時間中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スカイシャッター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行すると、周囲の敵に範囲物理攻撃を実行する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>16000
 対象との距離が5ｍ以内の場合は、威力が2倍になる。
@@ -36540,7 +36540,7 @@ int32,str
 29511,"自身に5スタックの<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「分身の術」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>分身の術効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身がウェポンスキルを実行すると、分身が出現して追撃を行う。
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5000
 風魔手裏剣、是生滅法は威力が半減する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「残影」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>残影効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一定量のダメージを防ぐバリアを張る。
@@ -48279,7 +48279,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の周囲30m以内にいるパーティメンバーのＨＰを回復する。
 この追加効果は遮蔽物を越えて効果を発揮する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>16000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の周囲30m以内にいるパーティメンバーの与ダメージを15％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の周囲30m以内にいるパーティメンバーの与ダメージを10％上昇させる。
 この追加効果は遮蔽物を越えて効果を発揮する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 
@@ -50629,7 +50629,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 効果中は「コンボ：旋風刃」が是生滅法に変化する。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「三印自在」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中は劫火滅却の術に変化する。"
-41452,"対象に4回連続物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+41452,"対象に4回連続物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「是生滅法実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -51086,7 +51086,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
 41603,"対象をスタンさせる。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
-41604,"自身が受ける物理攻撃を一度だけ無効化する。
+41604,"自身が受ける一部の物理攻撃を一度だけ無効化する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒"
 41605,"対象に向かって前方扇範囲物理攻撃。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),5))>500<Else/>300</If>（アイテムレベル依存威力）
@@ -56098,14 +56098,19 @@ int32,str
 46403,""
 46404,""
 46405,""
-46406,""
-46407,""
-46408,""
-46409,""
-46410,""
-46411,""
-46412,""
-46413,""
+46406,"対象にハードな物理攻撃。"
+46407,"対象にハードな物理攻撃。"
+46408,"対象にハードな物理攻撃。"
+46409,"対象とその周囲の敵にハードでスペシャルな範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ハードスパーク実行可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+46410,"自身の左方向に回避しつつ攻撃を行うハードなアクション。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
+46411,"ナイトスタリオンに騎乗し、自身の前方に向かって直線範囲攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600"
+46412,"自身のHPを回復し、一定時間、被ダメージを60％軽減させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒"
+46413,"ハードボイルドなリミットブレイクを発動する。"
 46414,""
 46415,""
 46416,""
@@ -58859,47 +58864,174 @@ int32,str
 49059,""
 49060,""
 49061,""
-49062,""
-49063,""
-49064,""
-49065,""
-49066,""
-49067,""
-49068,""
-49069,""
-49070,""
-49071,""
-49072,""
-49073,""
-49074,""
-49075,""
-49076,""
-49077,""
-49078,""
-49079,""
-49080,""
-49081,""
-49082,""
-49083,""
-49084,""
-49085,""
-49086,""
-49087,""
-49088,""
-49089,""
-49090,""
-49091,""
-49092,""
-49093,""
-49094,""
-49095,""
-49096,""
-49097,""
-49098,""
-49099,""
-49100,""
-49101,""
-49102,""
+49062,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>230（アイテムレベル依存威力）"
+49063,"一定時間、自身の回避率を20％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90秒"
+49064,"対象とその周囲の敵に雷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が雷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>195（アイテムレベル依存威力）"
+49065,"対象とその周囲の敵に火属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が火属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>195（アイテムレベル依存威力）"
+49066,"自身に3スタックの<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ぶんしん」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ぶんしん効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一部を除く物理攻撃を無効化する。"
+49067,"対象のＨＰを回復する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40000"
+49068,"自身またはパーティメンバーひとりを対象とする。
+対象とその周囲のパーティメンバーのＨＰを回復する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30000"
+49069,"対象が受ける一部の魔法攻撃を一度だけ無効化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+49070,"対象を衰弱状態で蘇生する。
+蘇生制限中の対象にも実行可能。"
+49071,"対象とその周囲の敵に無属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500（アイテムレベル依存威力）
+アンデッド系モンスターに対しては威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>アンデッド系モンスターへの威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750（アイテムレベル依存威力）"
+49072,"対象とその周囲の敵に火属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が火属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）<If(GreaterThanOrEqualTo(PlayerParameter(108),2))>
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ブリザガ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),3))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・サンダガ」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。<Else/></If>"
+49073,"対象とその周囲の敵に氷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が氷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ファイガ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),3))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・サンダガ」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49074,"対象とその周囲の敵に雷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が雷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ファイガ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ブリザガ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49075,"対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・トード」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>マギ・トード効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与ダメージが99％減少し、オートアタック以外の行動が制限される。"
+49076,"対象とその周囲の敵に無属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500（アイテムレベル依存威力）"
+49077,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),4))>500<Else/>400</If>（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一定時間、自身の被ダメージを<If(GreaterThanOrEqualTo(PlayerParameter(108),4))>90％<Else/>60％</If>軽減させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒"
+49078,"入力した方向に10m素早く移動する。"
+49079,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージの一部をＨＰとして吸収する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>吸収したＨＰのうち最大ＨＰを超えた分について、ダメージを防ぐバリアとして付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒"
+49080,"対象とその周囲の敵に火属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が火属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780（アイテムレベル依存威力）
+この魔法のキャストタイム、リキャストタイムは固定となり、装備やステータスなどによって変化しない。<If(GreaterThanOrEqualTo(PlayerParameter(108),2))>
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さばきのいかづち」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),4))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サンダーストーム」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。<Else/></If>"
+49081,"対象とその周囲の敵に雷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が雷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780（アイテムレベル依存威力）
+この魔法のキャストタイム、リキャストタイムは固定となり、装備やステータスなどによって変化しない。
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「じごくのかえん」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),4))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サンダーストーム」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49082,"自身と周囲のパーティメンバーに、一定量のダメージを防ぐバリアを張る。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+この魔法のキャストタイム、リキャストタイムは固定となり、装備やステータスなどによって変化しない。"
+49083,"対象に向かって前方扇範囲風属性魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が風属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780（アイテムレベル依存威力）
+この魔法のキャストタイム、リキャストタイムは固定となり、装備やステータスなどによって変化しない。
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「じごくのかえん」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さばきのいかづち」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49084,"対象とその周囲の敵に無属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000（アイテムレベル依存威力）
+この魔法のキャストタイム、リキャストタイムは固定となり、装備やステータスなどによって変化しない。"
+49085,"対象に風属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が風属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>195（アイテムレベル依存威力）"
+49086,"一部の対象に35％の確率で現在ＨＰの75％分のダメージを与える。"
+49087,"対象とその周囲の敵に無属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）"
+49088,"一定時間、自身と周囲のパーティメンバーの被ダメージを20％軽減させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
+49089,"対象に風属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が風属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260（アイテムレベル依存威力）"
+49090,"自身と周囲のパーティメンバーのＨＰを、自身の現在ＨＰ分だけ回復する。"
+49091,"対象とその周囲の敵に風属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が風属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>325（アイテムレベル依存威力）"
+49092,"対象とその周囲の敵に火属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が火属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）<If(GreaterThanOrEqualTo(PlayerParameter(108),4))>
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ブリザラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),5))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・サンダラ」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。<Else/></If>"
+49093,"対象のＨＰを回復する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>回復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40000"
+49094,"対象の弱点属性を看破し、弱点属性で攻撃を行った際の威力上昇を強化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120秒"
+49095,"対象とその周囲の敵に氷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が氷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ファイラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),5))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・サンダラ」<Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49096,"対象とその周囲の敵に雷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が雷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ファイラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マギ・ブリザラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49097,"対象に無属性魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージの一部をＨＰとして吸収する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ドレインタッチ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一部を除くすべての攻撃に対してＨＰが1より減ることがなくなる。<If(GreaterThanOrEqualTo(PlayerParameter(108),2))>またサポートネクロマンサーのアクションの威力が上昇する。<Else/></If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
+49098,"対象に向かって前方直線氷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が氷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）
+実行時に最大ＨＰの10％分を消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性かつドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の時間を停止する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+この死の宣告はＨＰが全回復すると解除される。<If(GreaterThanOrEqualTo(PlayerParameter(108),3))>
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ヘルウィンド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),4))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「カオスドライブ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>と共有する。<Else/></If>"
+49099,"対象に向かって前方直線風属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が風属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）
+実行時に最大ＨＰの10％分を消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性かつドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10％の確率で一部の対象を石化させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>石化効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻撃を受けると戦闘不能になる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+この死の宣告はＨＰが全回復すると解除される。
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディープフリーズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(108),4))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「カオスドライブ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>と共有する。"
+49100,"対象に向かって前方直線雷属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の弱点属性が雷属性だった場合、威力が上昇する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390（アイテムレベル依存威力）
+実行時に最大ＨＰの10％分を消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>弱点属性かつドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に麻痺を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>18秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+この死の宣告はＨＰが全回復すると解除される。
+リキャストタイマーを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ディープフリーズ」「ヘルウィンド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>と共有する。"
+49101,"対象に向かって前方直線無属性範囲魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350（アイテムレベル依存威力）
+実行時に最大ＨＰの10％分を消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500（アイテムレベル依存威力）
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にかかっている一部を除く強化系ステータスを1つ消す。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ドレインタッチ時追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+この死の宣告はＨＰが全回復すると解除される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
+49102,"一部を除くすべてのクラス・ジョブアビリティのリキャストタイムをリセットする。"
 49103,""
 49104,""
 49105,""
@@ -59880,7 +60012,8 @@ int32,str
 50080,""
 50081,""
 50082,""
-50083,""
+50083,"右手に装着したアバランチ・ガトリングガンを撃つ
+※演出用アクション。特に効果は発生しない。"
 50084,""
 50085,""
 50086,""
@@ -60823,7 +60956,8 @@ int32,str
 51023,""
 51024,""
 51025,""
-51026,""
+51026,"火のついたランタンを掲げる
+※演出用アクション。特に効果は発生しない。"
 51027,""
 51028,""
 51029,""
