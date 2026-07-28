@@ -67,7 +67,7 @@ int32,str,sbyte,Action,Action,Action,Action,uint16,uint16,uint16,bit&01
 63,"Combo Coup de queue du br'aax",0,37120,37121,37122,0,0,0,0,True
 64,"Combo Rudesse du Tural",0,37127,37128,37126,0,0,0,0,True
 65,"Combo Posture des crochets",0,39157,39159,39161,39158,39160,39163,0,True
-66,"",0,0,0,0,0,0,0,0,False
+66,"Combo dur à cuire",0,46406,46407,46408,0,0,0,0,True
 67,"Combo Eau en bleu",0,46756,46757,46758,0,0,0,0,True
 68,"Combo Extra Eau en bleu",1,46759,46760,46761,0,0,0,0,True
 69,"",0,0,0,0,0,0,0,0,False

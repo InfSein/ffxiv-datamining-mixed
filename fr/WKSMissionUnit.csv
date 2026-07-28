@@ -1384,7 +1384,7 @@ int32,str,uint16,uint16,uint16,byte,bit&01,bit&02,uint16,byte,uint16,uint16,uint
 1380," Approvisionnement stratégique en matériaux pour la recon<SoftHyphen/>struc<SoftHyphen/>tion",334,9,0,3,False,False,100,3,0,1380,2700,3000,1475,0,0,0,0,0,1155,1,1028,0,0
 1381," Amélioration des matériaux pour le transport",339,9,0,3,False,False,100,3,0,1381,1000,1500,1476,0,0,0,0,0,1156,1,1029,0,0
 1382," Matériaux d'exploration résistants aux intempéries",337,9,0,0,False,False,100,3,0,1382,1600,2100,1477,0,0,0,0,0,1157,1,1030,0,0
-1383,"Cordages innovants",332,9,0,0,False,False,100,4,0,1383,1000,1600,1478,0,0,0,0,0,1158,0,1031,0,0
+1383,"Cordages innovants additionnels",332,9,0,0,False,False,100,4,0,1383,1000,1600,1478,0,0,0,0,0,1158,0,1031,0,0
 1384,"Reproduction et traitement de matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion renforcés",333,9,0,0,False,False,100,4,0,1384,1000,1600,1479,0,0,0,0,0,1159,0,1032,0,0
 1385,"Composés alchimiques à usage localisé",334,9,0,3,False,False,100,4,0,1385,1400,2000,1480,0,0,0,0,0,1160,0,1033,0,0
 1386,"Matériaux pour jardinage",335,9,0,3,False,False,100,4,0,1386,1400,2000,1481,0,0,0,0,0,1161,0,1034,0,0
@@ -1496,7 +1496,7 @@ int32,str,uint16,uint16,uint16,byte,bit&01,bit&02,uint16,byte,uint16,uint16,uint
 1492," Approvisionnement stratégique en matériaux pour la recon<SoftHyphen/>struc<SoftHyphen/>tion",334,13,0,3,False,False,100,3,0,1492,2700,3000,1611,0,0,0,0,0,1267,1,1140,0,0
 1493," Amélioration des matériaux pour le transport",339,13,0,3,False,False,100,3,0,1493,1000,1500,1612,0,0,0,0,0,1268,1,1141,0,0
 1494," Matériaux d'exploration résistants aux intempéries",337,13,0,0,False,False,100,3,0,1494,1600,2100,1613,0,0,0,0,0,1269,1,1142,0,0
-1495,"Cordages innovants",332,13,0,0,False,False,100,4,0,1495,1000,1600,1614,0,0,0,0,0,1270,0,1143,0,0
+1495,"Cordages innovants additionnels",332,13,0,0,False,False,100,4,0,1495,1000,1600,1614,0,0,0,0,0,1270,0,1143,0,0
 1496,"Reproduction et traitement de matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion renforcés",333,13,0,0,False,False,100,4,0,1496,1000,1600,1615,0,0,0,0,0,1271,0,1144,0,0
 1497,"Composés alchimiques à usage localisé",334,13,0,3,False,False,100,4,0,1497,1400,2000,1616,0,0,0,0,0,1272,0,1145,0,0
 1498,"Matériaux pour jardinage",335,13,0,3,False,False,100,4,0,1498,1400,2000,1617,0,0,0,0,0,1273,0,1146,0,0
@@ -1524,7 +1524,7 @@ int32,str,uint16,uint16,uint16,byte,bit&01,bit&02,uint16,byte,uint16,uint16,uint
 1520," Approvisionnement stratégique en matériaux pour la recon<SoftHyphen/>struc<SoftHyphen/>tion",334,14,0,3,False,False,100,3,0,1520,2700,3000,1645,0,0,0,0,0,1295,1,1168,0,0
 1521," Amélioration des matériaux pour le transport",339,14,0,3,False,False,100,3,0,1521,1000,1500,1646,0,0,0,0,0,1296,1,1169,0,0
 1522," Matériaux d'exploration résistants aux intempéries",337,14,0,0,False,False,100,3,0,1522,1600,2100,1647,0,0,0,0,0,1297,1,1170,0,0
-1523,"Cordages innovants",332,14,0,0,False,False,100,4,0,1523,1000,1600,1648,0,0,0,0,0,1298,0,1171,0,0
+1523,"Cordages innovants additionnels",332,14,0,0,False,False,100,4,0,1523,1000,1600,1648,0,0,0,0,0,1298,0,1171,0,0
 1524,"Reproduction et traitement de matériaux de con<SoftHyphen/>struc<SoftHyphen/>tion renforcés",333,14,0,0,False,False,100,4,0,1524,1000,1600,1649,0,0,0,0,0,1299,0,1172,0,0
 1525,"Composés alchimiques à usage localisé",334,14,0,3,False,False,100,4,0,1525,1400,2000,1650,0,0,0,0,0,1300,0,1173,0,0
 1526,"Matériaux pour jardinage",335,14,0,3,False,False,100,4,0,1526,1400,2000,1651,0,0,0,0,0,1301,0,1174,0,0

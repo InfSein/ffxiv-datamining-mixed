@@ -1,4 +1,4 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
+0,"TEXT_CTSETCKTGENTRANCE_00986_KTGGUIDE00986_000_000","Soyez <If(PlayerParameter(4))>la<Else/>le</If> bienvenu<If(PlayerParameter(4))>e<Else/></If> au square des clavistes<Indent/>! Si vous souhaitez découvrir notre attraction phare, veuillez vous adresser d'abord au responsable à côté de moi."

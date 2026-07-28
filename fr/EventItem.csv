@@ -3817,10 +3817,10 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003813,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003814,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003815,"tasse de kinderpunsch chaud",0,"tasses de kinderpunsch chaud",0,0,1,1,0,False,"Kinderpunsch chaud",53492,0,3,1,71001,0,0,0
-2003816,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003817,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003816,"lettre de Liplu",0,"lettres de Liplu",0,0,1,1,0,False,"Lettre de Liplu",25918,0,2,1,70998,0,0,0
+2003817,"panier-repas de Wawkesa",0,"paniers-repas de Wawkesa",0,0,1,0,0,False,"Panier-repas de Wawkesa",23001,0,1,1,70999,0,0,0
 2003818,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003819,"見破りカボチャ玉",0,"",0,0,1,0,0,False,"",24153,1276,1,1,71004,1,0,4
+2003819,"courge révélatrice",0,"courges révélatrices",0,0,1,1,0,False,"Courge révélatrice",24153,1276,1,1,71004,1,0,4
 2003820,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003821,"set de tacos pour livraison",0,"sets de tacos pour livraison",0,0,1,0,0,False,"Tacos pour livraison",26130,0,3,1,70997,0,0,0
 2003822,"sachet de pirojki",0,"sachets de pirojki",0,0,1,0,0,False,"Sachet de pirojki",53302,0,1,1,71008,0,0,0
@@ -3828,8 +3828,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003824,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003825,"sifflet ailes blanches et dorées",0,"sifflets ailes blanches et dorées",0,0,1,0,0,False,"Sifflet ailes blanches et dorées",26039,1,1,1,71005,3,0,1
 2003826,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003827,"formule de croissance",0,"formules de croissance",0,0,1,1,0,False,"Formule de croissance",23569,0,3,1,0,0,0,0
-2003828,"formule de croissance",0,"formules de croissance",0,0,1,1,0,False,"Formule de croissance",23569,0,3,1,0,0,0,0
+2003827,"cartouche de formule de croissance",0,"cartouches de formule de croissance",0,0,1,1,0,False,"Cartouche de formule de croissance",23569,0,3,1,0,0,0,0
+2003828,"cartouche de formule de croissance",0,"cartouches de formule de croissance",0,0,1,1,0,False,"Cartouche de formule de croissance",23569,0,3,1,0,0,0,0
 2003829,"pièce de rechange",0,"pièces de rechange",0,0,1,1,0,False,"Pièce de rechange",23553,0,3,1,0,0,0,0
 2003830,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003831,"tenue connectée",0,"tenues connectées",0,0,1,1,0,False,"Tenue connectée",23541,0,1,1,71023,0,0,0
@@ -3837,9 +3837,9 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003833,"autoportrait du Loporrite furtif",0,"autoportraits du Loporrite furtif",0,1,1,0,0,False,"Autoportrait du Loporrite furtif",25999,3140,1,1,71024,0,0,0
 2003834,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003835,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003836,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003836,"cristal de savoir",0,"cristaux de savoir",0,0,1,0,0,False,"Cristal de savoir",26087,1,1,8,71041,0,0,0
 2003837,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003838,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003838,"corne du Ravisseur",0,"cornes du Ravisseur",0,0,1,1,0,False,"Corne du Ravisseur",22204,0,1,1,71051,0,0,0
 2003839,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003840,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003841,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

@@ -31,5 +31,5 @@ int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604507,0,0,"Se renseigner sur l'île de Lunule méridionale","Guide de l'île de Lunule","",True,35
 3604508,0,0,"Se renseigner sur le désherbage de printemps","Guide du désherbage de printemps","",True,39
 3604509,0,0,"Se renseigner sur les commandes spéciales","Commandes spéciales","",True,41
-3604510,0,0,"","","",False,0
+3604510,0,0,"Se renseigner sur Frappe fatale","Frappe fatale","",True,42
 3604511,0,0,"","","",False,0

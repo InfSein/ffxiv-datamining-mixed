@@ -79,7 +79,7 @@ int32,Image,JournalCategory,bit&01,str
 75,61411,53,True,"Quêtes des peuples alliés (Heavensward)"
 76,61411,53,True,"Quêtes des peuples alliés (Stormblood)"
 77,61411,53,True,"Quêtes des peuples alliés (Endwalker)"
-78,0,0,False,""
+78,61411,35,True,"Quêtes des peuples alliés (Dawntrail)"
 79,61411,54,True,"Guerre du chant des dragons - Réminiscences"
 80,61411,54,True,"Sur le chemin du retour des Héritiers"
 81,61411,54,True,"Sur la route d'une nouvelle aventure"
