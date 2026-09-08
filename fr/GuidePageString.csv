@@ -222,15 +222,31 @@ Utilisez alternativement <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGl
 156,""
 157,"L'action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cartouche de sang<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie l'effet du même nom, qui augmente le nombre maximum de cartouches d'éther à quatre.
 Après l'obtention du trait <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Chargement de cartouches amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (nv 88), vous pouvez même avoir jusqu'à six cartouches d'éther en réserve."
-158,""
-159,""
-160,""
-161,""
-162,""
-163,""
-164,""
-165,""
-166,""
+158,"Jauge de PT"
+159,"Table des types"
+160,"L'obtention du trait <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> fait apparaître à l'écran la <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Jauge de PT<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, qui se remplit à mesure que vous réussissez des combos (hors combos instinctifs).
+Une fois que vous aurez cumulé au moins 100 PT, vous pourrez tous les consommer pour exécuter une technique d'arme, dont la puissance augmentera en fonction du nombre de PT consommés.
+Les techniques d'armes nécessitant des PT sont appelées <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>techniques instinctives<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+161,"La <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Table des types<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous guide dans la réalisation des <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combos instinctifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, qui sont des enchaînements de techniques instinctives à effectuer en duo avec votre bête.
+Les techniques instinctives des dresseurs ainsi que des bêtes possèdent chacune un type parmi les quatre suivants<Indent/>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Chaque fois que vous en utiliserez une, vous recevrez l'effet lié à son type, et l'icone correspondant se mettra à clignoter.
+Enchaînez deux techniques instinctives, l'une du dresseur, l'autre de la bête, dans l'ordre de votre choix et dans un délai de 7 secondes pour déclencher un <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combo instinctif<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, et infliger des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à l'ennemi.
+Le numéro sous la <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Table des types<UIGlow>01</UIGlow><UIForeground>01</UIForeground> indique le nombre de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combos instinctifs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réussis à la suite. Plus ce nombre est élevé, plus les dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés sont importants."
+162,"Les <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combos instinctifs II<UIGlow>01</UIGlow><UIForeground>01</UIForeground> sont des combos instinctifs avancés. Ils s'exécutent en enchaînant les techniques instinctives dans des ordres de types spécifiques<Indent/>:
+Aérien → Féroce / Robuste → Arcanique pour <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assaut vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Féroce → Robuste / Arcanique → Aérien pour <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Suivez le sens des aiguilles d'une montre sur la <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Table des types<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour reconnaître facilement ces enchaînements.
+Chaque fois que vous réaliserez un <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combo instinctif II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, vous recevrez l'effet lié à son type, et le demi-cercle correspondant se mettra à clignoter."
+163,"L'obtention du trait <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct de bête II<UIGlow>01</UIGlow><UIForeground>01</UIForeground> fait apparaître à l'écran la <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Jauge de PT de la bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, qui se remplit à mesure que votre bête effectue des attaques automatiques, ou lorsque vous utilisez <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Une fois que vous aurez cumulé au moins 100 PT dans cette jauge, vous pourrez tous les consommer pour utiliser <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et ordonner à votre bête d'exécuter une technique instinctive."
+164,"L'obtention du trait <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct de bête III<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous permet de cumuler des degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Vous obtenez un degré d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground> chaque fois que vous terminez un <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combo instinctif<UIGlow>01</UIGlow><UIForeground>01</UIForeground> par une technique du dresseur.
+L'action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Poussée d'énergie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> consomme tous vos degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, et vous octroie instantanément une quantité importante de PT, laquelle dépend du nombre de degrés consommés."
+165,"L'obtention du trait <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct de bête IV<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous permet de cumuler des degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct compagnon<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Vous obtenez un degré d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct compagnon<UIGlow>01</UIGlow><UIForeground>01</UIForeground> chaque fois que vous terminez un <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>combo instinctif<UIGlow>01</UIGlow><UIForeground>01</UIForeground> par une technique de la bête.
+L'action <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Encouragements<UIGlow>01</UIGlow><UIForeground>01</UIForeground> consomme tous vos degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct compagnon<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, et octroie instantanément à votre bête une quantité importante de PT, laquelle dépend du nombre de degrés consommés."
+166,"Jauge de PT et Instinct de bête"
 167,""
 168,""
 169,""

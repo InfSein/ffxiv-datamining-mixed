@@ -60,18 +60,72 @@ Lorsqu'un personnage qui vous accompagne vous perd de vue ou qu'il encaisse une 
 Essayez donc de vous débarrasser au plus vite des ennemis afin de pouvoir emmener votre cible jusqu'à bon port."
 28,86918,"Si vous n'êtes plus accompagné<If(PlayerParameter(4))>e<Else/></If>...","Votre mission se soldera par un échec si les PV du personnage que vous escortez tombent à 0, si vous vous retrouvez trop éloigné<If(PlayerParameter(4))>e<Else/></If>, ou encore si vous quittez la zone.
 Le cas échéant, vous pouvez retourner au point de départ et réessayer."
-29,0,"",""
-30,0,"",""
-31,0,"",""
-32,0,"",""
-33,0,"",""
-34,0,"",""
-35,0,"",""
-36,0,"",""
-37,0,"",""
-38,0,"",""
-39,0,"",""
-40,0,"",""
-41,0,"",""
-42,0,"",""
-43,0,"",""
+29,86919,"Cumuler 100 PT","Voici comment réaliser un exemple de combo instinctif avec votre cu sith.
+
+Tout d'abord, vous et votre cu sith devez cumuler chacun au moins 100 PT. Le dresseur cumule des PT en réalisant des combos de techniques d'arme (hors combos instinctifs). Les bêtes cumulent des PT en effectuant des attaques automatiques."
+30,86920,"Enchaîner les techniques instinctives","Une fois que vous et votre cu sith disposez chacun d'au moins 100 PT, utilisez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre cu sith.
+Utilisez ensuite <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hache avalanche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans un délai de 7 secondes.
+
+Cela aura pour conséquence de déclencher <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo instinctif I - Féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+31,86920,"À retenir","Un combo instinctif est un enchaînement réalisé con<SoftHyphen/>join<SoftHyphen/>te<SoftHyphen/>ment par le dresseur et sa bête.
+
+L'un et l'autre dépensent leurs PT pour effectuer des techniques instinctives, ce qui déclenche le combo et inflige des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à l'ennemi.
+
+Ceci est valable peu importe la technique utilisée en premier (celle du dresseur ou celle de la bête), du moment que la suivante est utilisée dans un délai de 7 secondes."
+32,86920,"Réinitialiser l'inimitié d'un mannequin","Pour réinitialiser l'inimitié d'un mannequin d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment, ciblez-le, ouvrez le sous-menu de l'élément d'ATH “Cible” et choisissez “Réinitialiser l'inimitié du mannequin”."
+33,86919,"Cumuler 100 PT","Voici comment réaliser un exemple de combo instinctif II avec votre cu sith.
+
+Comme pour un combo instinctif I, vous et votre cu sith devez d'abord cumuler chacun au moins 100 PT."
+34,86921,"Réaliser un assaut létal","Une fois que vous et votre cu sith disposez chacun d'au moins 100 PT, utilisez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre cu sith.
+Utilisez ensuite <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hache mistral<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans un délai de 7 secondes.
+
+Cela aura pour conséquence de déclencher <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo instinctif II - Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+35,86924,"Connaître les types","Les techniques instinctives des dresseurs ainsi que des bêtes possèdent chacune un type parmi les quatre suivants<Indent/>: aérien, féroce, robuste, arcanique.
+
+Les types jouent un rôle central dans la réalisation des combos instinctifs avancés, et il est donc important de les connaître.
+
+Le type d'une technique instinctive peut être deviné à la couleur de son icone, ou vérifié dans sa description."
+36,86922,"Jouer avec les types","Il existe deux formes de combo instinctif II<Indent/>: <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Pour réaliser <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, enchaînez les techniques instinctives dans l'un des ordres de types suivants<Indent/>:
+Féroce → Robuste
+Arcanique → Aérien
+
+Par exemple, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre cu sith (féroce), suivi de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hache mistral<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (robuste)."
+37,86923,"Jouer avec les types (suite)","Pour réaliser <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, enchaînez les techniques instinctives dans l'un des ordres de types suivants<Indent/>:
+Aérien → Féroce
+Robuste → Arcanique
+
+Ceci est valable peu importe la technique utilisée en premier (celle du dresseur ou celle de la bête), du moment que l'ordre de types est respecté.
+
+Par exemple, vous pouvez utiliser <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hache rafale<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (aérien), suivie d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre cu sith (féroce)."
+38,86925,"Cumuler des degrés d'Instinct maître","Voici comment réaliser un exemple de combo instinctif III avec votre cu sith.
+
+La première étape est de cumuler 3 degrés d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+L'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente le potentiel de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Poussée d'énergie<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Avec 3 degrés, l'utilisation de cette action amènera vos PT à 250.
+
+Pour cumuler des degrés d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, enchaînez les techniques instinctives en respectant l'ordre suivant<Indent/>:
+technique du cu sith → technique du dresseur.
+Vous pourrez réaliser au passage des combos instinctifs I et II."
+39,86921,"Réaliser un assaut létal","Une fois que vous aurez cumulé 3 degrés d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, vous pourrez passer à la seconde étape<Indent/>: réaliser un assaut létal.
+
+Utilisez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre cu sith, suivi de <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hache mistral<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour déclencher <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo instinctif II - Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+À partir de là, vous aurez 7 secondes pour accomplir toutes les étapes restantes."
+40,86926,"Utiliser Poussée d'énergie","Avec 3 degrés d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, utilisez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Poussée d'énergie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour amener vos PT à 250.
+
+Lorsque les PT du dresseur sont à 250, ses quatre techniques instinctives sont remplacées par des techniques de type vital ou létal."
+41,86927,"Terminer le combo","La dernière étape consiste à utiliser une technique instinctive de type contraire à l'assaut létal précédemment réalisé.
+
+Utilisez une de vos nouvelles actions de type vital, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rage brutale<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ou <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Montée-descente<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, pour déclencher <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo instinctif III - Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Souvenez-vous que cette dernière étape devra être accomplie dans un délai de 7 secondes à partir du déclenchement de l'assaut létal."
+42,86927,"Pour résumer","1. Cumulez trois degrés d'<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+2. Réalisez un combo instinctif II.
+3. Utilisez <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Poussée d'énergie<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour amener vos PT à 250, et avoir accès aux techniques vitales et létales.
+4. Utilisez une technique instinctive de type contraire au combo instinctif II.
+
+Prêtez attention aux icones pour vous faciliter la tâche."
+43,86927,"À retenir","Les combos instinctifs III sont les enchaînements les plus avancés qui soient, car ils exigent de jongler habilement entre les types vital et létal.
+
+Le jeu en vaut la chandelle, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> étant la technique de dresseur qui inflige le plus de dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res. Essayez donc de l'utiliser contre les ennemis les plus coriaces."

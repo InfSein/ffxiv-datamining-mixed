@@ -394,9 +394,23 @@ désactivé (off) Masque les oreilles sous l'équipement de tête.
 Ouvre la fenêtre d'accès rapide.","/accesrapide","/accrap",32,0
 51,1,0,0,0,0,"/strategyboard","","/tableauxstrategiques, /tabstrat
 Ouvre la fenêtre des tableaux stratégiques.","/tableauxstrategiques","/tabstrat",32,0
-52,0,0,0,0,0,"","","","","",0,0
+52,3,2,7,2,0,"/beastsize","/beastpetsize","/taillebête, /tbête, /beastsize
+Utilisation<Indent/>: /taillebête ""[nom de la bête]"" ""[taille]""
+Change la taille d'affichage de la bête spécifiée.
+Sans effet sur l'affichage des autres joueurs.
+>> Tailles<Indent/>:
+grand (large)  Change la taille d'affichage en ""grand"".
+moyen (medium)  Change la taille d'affichage en ""moyen"".
+petit (small)  Change la taille d'affichage en ""petit"".
+* Si aucune taille n'est spécifiée, change la taille dans l'ordre petit/moyen/grand. Renvoie une erreur si l'argument “tous” est utilisé.
+>>Exemple<Indent/>:
+/taillebête ""cu sith"" moyen
+  Change la taille d'affichage du cu sith en ""moyen"".
+/taillebête tous petit
+  Change la taille de toutes les bêtes en ""petit"".","/taillebête","/tbête",36,0
 53,0,0,0,0,0,"","","","","",0,0
-54,0,0,0,0,0,"","","","","",0,0
+54,1,0,0,0,0,"/bestiary","/bstbook","/bestiairedresseur, /bstdre, /bestiary
+Ouvre le bestiaire de dresseur.","/bestiairedresseur","/bstdre",32,0
 55,0,0,0,0,0,"","","","","",0,0
 56,0,0,0,0,0,"","","","","",0,0
 57,0,0,0,0,0,"","","","","",0,0

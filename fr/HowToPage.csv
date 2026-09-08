@@ -2773,11 +2773,13 @@ Vous aurez ainsi plus de chances de survivre si les joueurs capables de ranimer 
 
 Le cas échéant, la mention <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“Utilisation de queues de phénix impossible”<UIGlow>01</UIGlow><UIForeground>01</UIForeground> figure dans la section <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Informations<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de l'outil de mission.","",""
 2592,1,0,150914,0,"Les queues de phénix peuvent être obtenues, entre autres, en récompenses de quêtes ou en les achetant directement auprès des herboristes et des quincailliers.","",""
-2593,0,0,0,0,"","",""
-2594,0,0,0,0,"","",""
-2595,0,0,0,0,"","",""
-2596,0,0,0,0,"","",""
-2597,0,0,0,0,"","",""
-2598,0,0,0,0,"","",""
+2593,1,0,150781,0,"Les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>dresseurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> se battent aux côtés de leurs bêtes. Pour obtenir de nouveaux compagnons de combat, il faut d'abord les <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>capturer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à l'aide de l'action du même nom. Lancer cette action après avoir affaibli la cible permet d'augmenter ses chances de réussite.
+L'action <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Jaugeage<UIGlow>01</UIGlow><UIForeground>01</UIForeground> permet de savoir si une bête peut être ajoutée à votre bestiaire et si la capture sera plus ou moins aisée.","",""
+2594,1,0,150782,0,"Une fois capturée, la bête sera ajoutée dans le <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bestiaire de dresseur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, accessible depuis l'option Personnage du menu principal.","",""
+2595,1,0,150784,0,"Pour appeler une de vos bêtes afin de vous épauler en combat, vous devez d'abord l'assigner à une <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Corne d'appel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dans votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bestiaire de dresseur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Vous pourrez ensuite utiliser l'action du même nom pour invoquer votre compagnon. À noter qu'il est impossible de modifier les cornes d'appel pendant un combat.","",""
+2596,1,0,150785,0,"À mesure que vous progresserez, vos bêtes auront accès à de nouvelles <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>techniques d'armes<UIGlow>01</UIGlow><UIForeground>01</UIForeground> et <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>aptitudes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Consultez votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bestiaire de dresseur<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour découvrir les spécificités de chacune. Une bonne con<SoftHyphen/>nais<SoftHyphen/>san<SoftHyphen/>ce de l'arsenal à votre disposition sera la clef pour remporter les combats les plus ardus.","",""
+2597,1,0,150786,0,"Pour savoir où trouver de nouvelles bêtes, veuillez consulter la section <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Zone d'apparition<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bestiaire de dresseur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Explorez les diverses régions du monde à la recherche de nouveaux compagnons<Indent/>!","",""
+2598,1,0,150783,0,"Les bêtes capturées sont ajoutées dans le <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>bestiaire de dresseur<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, accessible depuis l'option Personnage du menu principal.","",""
 2599,0,0,0,0,"","",""
 2600,0,0,0,0,"","",""

@@ -3705,8 +3705,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003701,"sac de déchets de Vraie-vision",0,"sacs de déchets de Vraie-vision",0,0,1,0,0,False,"Sac de déchets de Vraie-vision",26110,0,3,1,70701,0,0,0
 2003702,"fiole de décoction mystérieuse",0,"fioles de décoction mystérieuse",0,0,1,1,0,False,"Décoction mystérieuse",20625,0,1,1,70723,0,0,0
 2003703,"bourse pleine de gils",0,"bourses pleines de gils",0,0,1,1,0,False,"Bourse pleine de gils",25919,0,1,1,70723,0,0,0
-2003704,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003705,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003704,"carte au trésor inhabituelle V",0,"cartes au trésor inhabituelles V",0,0,1,1,0,False,"Carte au trésor inhabituelle V",26151,1,1,2,0,0,0,0
+2003705,"carte de portail magique inhabituelle V",0,"cartes de portail magique inhabituelles V",0,0,1,1,0,False,"Carte de portail magique inhabituelle V",26151,1,1,2,0,0,0,0
 2003706,"invitation pour l'audition des Affranchis",0,"invitations pour l'audition des Affranchis",0,1,1,1,0,False,"Invitation pour l'audition des Affranchis",26151,0,1,1,70724,0,0,0
 2003707,"coupure de journal",0,"coupures de journaux",0,0,1,1,0,False,"Coupure de journal",26151,3140,1,1,70728,0,0,0
 2003708,"botte de roseaux verdoyants",0,"bottes de roseaux verdoyants",0,0,1,1,0,False,"Roseaux verdoyants",25035,0,5,1,70731,0,0,0
@@ -3825,13 +3825,13 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003821,"set de tacos pour livraison",0,"sets de tacos pour livraison",0,0,1,0,0,False,"Tacos pour livraison",26130,0,3,1,70997,0,0,0
 2003822,"sachet de pirojki",0,"sachets de pirojki",0,0,1,0,0,False,"Sachet de pirojki",53302,0,1,1,71008,0,0,0
 2003823,"transmetteur d'éther",0,"transmetteurs d'éther",0,0,1,0,0,False,"Transmetteur d'éther",26086,1,1,1,71009,0,0,1
-2003824,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003824,"cristal de feu impur",0,"cristaux de feu impurs",0,0,1,0,0,False,"Cristal de feu impur",20007,1,4,1,71013,0,0,1
 2003825,"sifflet ailes blanches et dorées",0,"sifflets ailes blanches et dorées",0,0,1,0,0,False,"Sifflet ailes blanches et dorées",26039,1,1,1,71005,3,0,1
 2003826,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003827,"cartouche de formule de croissance",0,"cartouches de formule de croissance",0,0,1,1,0,False,"Cartouche de formule de croissance",23569,0,3,1,0,0,0,0
 2003828,"cartouche de formule de croissance",0,"cartouches de formule de croissance",0,0,1,1,0,False,"Cartouche de formule de croissance",23569,0,3,1,0,0,0,0
 2003829,"pièce de rechange",0,"pièces de rechange",0,0,1,1,0,False,"Pièce de rechange",23553,0,3,1,0,0,0,0
-2003830,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003830,"jambonneau",0,"jambonneaux",0,0,1,0,0,False,"Jambonneau",25159,0,1,1,71026,0,0,0
 2003831,"tenue connectée",0,"tenues connectées",0,0,1,1,0,False,"Tenue connectée",23541,0,1,1,71023,0,0,0
 2003832,"autoportrait du Loporrite discret",0,"autoportraits du Loporrite discret",0,1,1,0,0,False,"Autoportrait du Loporrite discret",25999,3140,1,1,71024,0,0,0
 2003833,"autoportrait du Loporrite furtif",0,"autoportraits du Loporrite furtif",0,1,1,0,0,False,"Autoportrait du Loporrite furtif",25999,3140,1,1,71024,0,0,0

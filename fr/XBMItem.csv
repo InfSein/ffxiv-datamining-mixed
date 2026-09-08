@@ -1,209 +1,723 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,,,,,,,,,,,,,,
 int32,byte,uint32,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str
-0,0,0,0,"",0,"",0,0,0,0,0,"","",""
-1,0,0,0,"",0,"",0,0,0,0,0,"","",""
-2,0,0,0,"",0,"",0,0,0,0,0,"","",""
-3,0,0,0,"",0,"",0,0,0,0,0,"","",""
-4,0,0,0,"",0,"",0,0,0,0,0,"","",""
-5,0,0,0,"",0,"",0,0,0,0,0,"","",""
-6,0,0,0,"",0,"",0,0,0,0,0,"","",""
-7,0,0,0,"",0,"",0,0,0,0,0,"","",""
-8,0,0,0,"",0,"",0,0,0,0,0,"","",""
-9,0,0,0,"",0,"",0,0,0,0,0,"","",""
-10,0,0,0,"",0,"",0,0,0,0,0,"","",""
-11,0,0,0,"",0,"",0,0,0,0,0,"","",""
-12,0,0,0,"",0,"",0,0,0,0,0,"","",""
-13,0,0,0,"",0,"",0,0,0,0,0,"","",""
-14,0,0,0,"",0,"",0,0,0,0,0,"","",""
-15,0,0,0,"",0,"",0,0,0,0,0,"","",""
-16,0,0,0,"",0,"",0,0,0,0,0,"","",""
-17,0,0,0,"",0,"",0,0,0,0,0,"","",""
-18,0,0,0,"",0,"",0,0,0,0,0,"","",""
-19,0,0,0,"",0,"",0,0,0,0,0,"","",""
-20,0,0,0,"",0,"",0,0,0,0,0,"","",""
-21,0,0,0,"",0,"",0,0,0,0,0,"","",""
-22,0,0,0,"",0,"",0,0,0,0,0,"","",""
-23,0,0,0,"",0,"",0,0,0,0,0,"","",""
-24,0,0,0,"",0,"",0,0,0,0,0,"","",""
-25,0,0,0,"",0,"",0,0,0,0,0,"","",""
-26,0,0,0,"",0,"",0,0,0,0,0,"","",""
-27,0,0,0,"",0,"",0,0,0,0,0,"","",""
-28,0,0,0,"",0,"",0,0,0,0,0,"","",""
-29,0,0,0,"",0,"",0,0,0,0,0,"","",""
-30,0,0,0,"",0,"",0,0,0,0,0,"","",""
-31,0,0,0,"",0,"",0,0,0,0,0,"","",""
-32,0,0,0,"",0,"",0,0,0,0,0,"","",""
-33,0,0,0,"",0,"",0,0,0,0,0,"","",""
-34,0,0,0,"",0,"",0,0,0,0,0,"","",""
-35,0,0,0,"",0,"",0,0,0,0,0,"","",""
-36,0,0,0,"",0,"",0,0,0,0,0,"","",""
-37,0,0,0,"",0,"",0,0,0,0,0,"","",""
-38,0,0,0,"",0,"",0,0,0,0,0,"","",""
-39,0,0,0,"",0,"",0,0,0,0,0,"","",""
-40,0,0,0,"",0,"",0,0,0,0,0,"","",""
-41,0,0,0,"",0,"",0,0,0,0,0,"","",""
-42,0,0,0,"",0,"",0,0,0,0,0,"","",""
-43,0,0,0,"",0,"",0,0,0,0,0,"","",""
-44,0,0,0,"",0,"",0,0,0,0,0,"","",""
-45,0,0,0,"",0,"",0,0,0,0,0,"","",""
-46,0,0,0,"",0,"",0,0,0,0,0,"","",""
-47,0,0,0,"",0,"",0,0,0,0,0,"","",""
-48,0,0,0,"",0,"",0,0,0,0,0,"","",""
-49,0,0,0,"",0,"",0,0,0,0,0,"","",""
-50,0,0,0,"",0,"",0,0,0,0,0,"","",""
-51,0,0,0,"",0,"",0,0,0,0,0,"","",""
-52,0,0,0,"",0,"",0,0,0,0,0,"","",""
-53,0,0,0,"",0,"",0,0,0,0,0,"","",""
-54,0,0,0,"",0,"",0,0,0,0,0,"","",""
-55,0,0,0,"",0,"",0,0,0,0,0,"","",""
-56,0,0,0,"",0,"",0,0,0,0,0,"","",""
-57,0,0,0,"",0,"",0,0,0,0,0,"","",""
-58,0,0,0,"",0,"",0,0,0,0,0,"","",""
-59,0,0,0,"",0,"",0,0,0,0,0,"","",""
-60,0,0,0,"",0,"",0,0,0,0,0,"","",""
-61,0,0,0,"",0,"",0,0,0,0,0,"","",""
-62,0,0,0,"",0,"",0,0,0,0,0,"","",""
-63,0,0,0,"",0,"",0,0,0,0,0,"","",""
-64,0,0,0,"",0,"",0,0,0,0,0,"","",""
-65,0,0,0,"",0,"",0,0,0,0,0,"","",""
-66,0,0,0,"",0,"",0,0,0,0,0,"","",""
-67,0,0,0,"",0,"",0,0,0,0,0,"","",""
-68,0,0,0,"",0,"",0,0,0,0,0,"","",""
-69,0,0,0,"",0,"",0,0,0,0,0,"","",""
-70,0,0,0,"",0,"",0,0,0,0,0,"","",""
-71,0,0,0,"",0,"",0,0,0,0,0,"","",""
-72,0,0,0,"",0,"",0,0,0,0,0,"","",""
-73,0,0,0,"",0,"",0,0,0,0,0,"","",""
-74,0,0,0,"",0,"",0,0,0,0,0,"","",""
-75,0,0,0,"",0,"",0,0,0,0,0,"","",""
-76,0,0,0,"",0,"",0,0,0,0,0,"","",""
-77,0,0,0,"",0,"",0,0,0,0,0,"","",""
-78,0,0,0,"",0,"",0,0,0,0,0,"","",""
-79,0,0,0,"",0,"",0,0,0,0,0,"","",""
-80,0,0,0,"",0,"",0,0,0,0,0,"","",""
-81,0,0,0,"",0,"",0,0,0,0,0,"","",""
-82,0,0,0,"",0,"",0,0,0,0,0,"","",""
-83,0,0,0,"",0,"",0,0,0,0,0,"","",""
-84,0,0,0,"",0,"",0,0,0,0,0,"","",""
-85,0,0,0,"",0,"",0,0,0,0,0,"","",""
-86,0,0,0,"",0,"",0,0,0,0,0,"","",""
-87,0,0,0,"",0,"",0,0,0,0,0,"","",""
-88,0,0,0,"",0,"",0,0,0,0,0,"","",""
-89,0,0,0,"",0,"",0,0,0,0,0,"","",""
-90,0,0,0,"",0,"",0,0,0,0,0,"","",""
-91,0,0,0,"",0,"",0,0,0,0,0,"","",""
-92,0,0,0,"",0,"",0,0,0,0,0,"","",""
-93,0,0,0,"",0,"",0,0,0,0,0,"","",""
-94,0,0,0,"",0,"",0,0,0,0,0,"","",""
-95,0,0,0,"",0,"",0,0,0,0,0,"","",""
-96,0,0,0,"",0,"",0,0,0,0,0,"","",""
-97,0,0,0,"",0,"",0,0,0,0,0,"","",""
-98,0,0,0,"",0,"",0,0,0,0,0,"","",""
-99,0,0,0,"",0,"",0,0,0,0,0,"","",""
-100,0,0,0,"",0,"",0,0,0,0,0,"","",""
-101,0,0,0,"",0,"",0,0,0,0,0,"","",""
-102,0,0,0,"",0,"",0,0,0,0,0,"","",""
-103,0,0,0,"",0,"",0,0,0,0,0,"","",""
-104,0,0,0,"",0,"",0,0,0,0,0,"","",""
-105,0,0,0,"",0,"",0,0,0,0,0,"","",""
-106,0,0,0,"",0,"",0,0,0,0,0,"","",""
-107,0,0,0,"",0,"",0,0,0,0,0,"","",""
-108,0,0,0,"",0,"",0,0,0,0,0,"","",""
-109,0,0,0,"",0,"",0,0,0,0,0,"","",""
-110,0,0,0,"",0,"",0,0,0,0,0,"","",""
-111,0,0,0,"",0,"",0,0,0,0,0,"","",""
-112,0,0,0,"",0,"",0,0,0,0,0,"","",""
-113,0,0,0,"",0,"",0,0,0,0,0,"","",""
-114,0,0,0,"",0,"",0,0,0,0,0,"","",""
-115,0,0,0,"",0,"",0,0,0,0,0,"","",""
-116,0,0,0,"",0,"",0,0,0,0,0,"","",""
-117,0,0,0,"",0,"",0,0,0,0,0,"","",""
-118,0,0,0,"",0,"",0,0,0,0,0,"","",""
-119,0,0,0,"",0,"",0,0,0,0,0,"","",""
-120,0,0,0,"",0,"",0,0,0,0,0,"","",""
-121,0,0,0,"",0,"",0,0,0,0,0,"","",""
-122,0,0,0,"",0,"",0,0,0,0,0,"","",""
-123,0,0,0,"",0,"",0,0,0,0,0,"","",""
-124,0,0,0,"",0,"",0,0,0,0,0,"","",""
-125,0,0,0,"",0,"",0,0,0,0,0,"","",""
-126,0,0,0,"",0,"",0,0,0,0,0,"","",""
-127,0,0,0,"",0,"",0,0,0,0,0,"","",""
-128,0,0,0,"",0,"",0,0,0,0,0,"","",""
-129,0,0,0,"",0,"",0,0,0,0,0,"","",""
-130,0,0,0,"",0,"",0,0,0,0,0,"","",""
-131,0,0,0,"",0,"",0,0,0,0,0,"","",""
-132,0,0,0,"",0,"",0,0,0,0,0,"","",""
-133,0,0,0,"",0,"",0,0,0,0,0,"","",""
-134,0,0,0,"",0,"",0,0,0,0,0,"","",""
-135,0,0,0,"",0,"",0,0,0,0,0,"","",""
-136,0,0,0,"",0,"",0,0,0,0,0,"","",""
-137,0,0,0,"",0,"",0,0,0,0,0,"","",""
-138,0,0,0,"",0,"",0,0,0,0,0,"","",""
-139,0,0,0,"",0,"",0,0,0,0,0,"","",""
-140,0,0,0,"",0,"",0,0,0,0,0,"","",""
-141,0,0,0,"",0,"",0,0,0,0,0,"","",""
-142,0,0,0,"",0,"",0,0,0,0,0,"","",""
-143,0,0,0,"",0,"",0,0,0,0,0,"","",""
-144,0,0,0,"",0,"",0,0,0,0,0,"","",""
-145,0,0,0,"",0,"",0,0,0,0,0,"","",""
-146,0,0,0,"",0,"",0,0,0,0,0,"","",""
-147,0,0,0,"",0,"",0,0,0,0,0,"","",""
-148,0,0,0,"",0,"",0,0,0,0,0,"","",""
-149,0,0,0,"",0,"",0,0,0,0,0,"","",""
-150,0,0,0,"",0,"",0,0,0,0,0,"","",""
-151,0,0,0,"",0,"",0,0,0,0,0,"","",""
-152,0,0,0,"",0,"",0,0,0,0,0,"","",""
-153,0,0,0,"",0,"",0,0,0,0,0,"","",""
-154,0,0,0,"",0,"",0,0,0,0,0,"","",""
-155,0,0,0,"",0,"",0,0,0,0,0,"","",""
-156,0,0,0,"",0,"",0,0,0,0,0,"","",""
-157,0,0,0,"",0,"",0,0,0,0,0,"","",""
-158,0,0,0,"",0,"",0,0,0,0,0,"","",""
-159,0,0,0,"",0,"",0,0,0,0,0,"","",""
-160,0,0,0,"",0,"",0,0,0,0,0,"","",""
-161,0,0,0,"",0,"",0,0,0,0,0,"","",""
-162,0,0,0,"",0,"",0,0,0,0,0,"","",""
-163,0,0,0,"",0,"",0,0,0,0,0,"","",""
-164,0,0,0,"",0,"",0,0,0,0,0,"","",""
-165,0,0,0,"",0,"",0,0,0,0,0,"","",""
-166,0,0,0,"",0,"",0,0,0,0,0,"","",""
-167,0,0,0,"",0,"",0,0,0,0,0,"","",""
-168,0,0,0,"",0,"",0,0,0,0,0,"","",""
-169,0,0,0,"",0,"",0,0,0,0,0,"","",""
-170,0,0,0,"",0,"",0,0,0,0,0,"","",""
-171,0,0,0,"",0,"",0,0,0,0,0,"","",""
-172,0,0,0,"",0,"",0,0,0,0,0,"","",""
-173,0,0,0,"",0,"",0,0,0,0,0,"","",""
-174,0,0,0,"",0,"",0,0,0,0,0,"","",""
-175,0,0,0,"",0,"",0,0,0,0,0,"","",""
-176,0,0,0,"",0,"",0,0,0,0,0,"","",""
-177,0,0,0,"",0,"",0,0,0,0,0,"","",""
-178,0,0,0,"",0,"",0,0,0,0,0,"","",""
-179,0,0,0,"",0,"",0,0,0,0,0,"","",""
-180,0,0,0,"",0,"",0,0,0,0,0,"","",""
-181,0,0,0,"",0,"",0,0,0,0,0,"","",""
-182,0,0,0,"",0,"",0,0,0,0,0,"","",""
-183,0,0,0,"",0,"",0,0,0,0,0,"","",""
-184,0,0,0,"",0,"",0,0,0,0,0,"","",""
-185,0,0,0,"",0,"",0,0,0,0,0,"","",""
-186,0,0,0,"",0,"",0,0,0,0,0,"","",""
-187,0,0,0,"",0,"",0,0,0,0,0,"","",""
-188,0,0,0,"",0,"",0,0,0,0,0,"","",""
-189,0,0,0,"",0,"",0,0,0,0,0,"","",""
-190,0,0,0,"",0,"",0,0,0,0,0,"","",""
-191,0,0,0,"",0,"",0,0,0,0,0,"","",""
-192,0,0,0,"",0,"",0,0,0,0,0,"","",""
-193,0,0,0,"",0,"",0,0,0,0,0,"","",""
-194,0,0,0,"",0,"",0,0,0,0,0,"","",""
-195,0,0,0,"",0,"",0,0,0,0,0,"","",""
-196,0,0,0,"",0,"",0,0,0,0,0,"","",""
-197,0,0,0,"",0,"",0,0,0,0,0,"","",""
-198,0,0,0,"",0,"",0,0,0,0,0,"","",""
-199,0,0,0,"",0,"",0,0,0,0,0,"","",""
-200,0,0,0,"",0,"",0,0,0,0,0,"","",""
-201,0,0,0,"",0,"",0,0,0,0,0,"","",""
-202,0,0,0,"",0,"",0,0,0,0,0,"","",""
-203,0,0,0,"",0,"",0,0,0,0,0,"","",""
-204,0,0,0,"",0,"",0,0,0,0,0,"","",""
-205,0,0,0,"",0,"",0,0,0,0,0,"","",""
+0,0,0,0,"",0,"",0,0,1,0,0,"","",""
+1,1,243001,98,"ceinture de force",0,"ceintures de force",0,0,1,1,0,"Ceinture de force","PV maximums +20%","Bonus de PV"
+2,1,243002,35,"anneau de substitution",0,"anneaux de substitution",0,1,1,0,0,"Anneau de substitution","Effet spécial<Indent/>: la bête est sacrifiée pour réanimer le joueur en cas de K.O.
+Sans effet si aucune bête n'est appelée.","Résurrection par sacrifice en cas de K.O."
+3,1,243003,175,"bague revigorante",0,"bagues revigorantes",0,0,1,1,0,"Bague revigorante","Effet spécial<Indent/>: restaure 25% des PV du joueur à la fin des combats.","PV restaurés en fin de combat"
+4,1,243004,35,"sac d'alchimiste",0,"sacs d'alchimiste",0,0,1,0,0,"Sac d'alchimiste","Effet spécial<Indent/>: octroie une Potion de bête au hasard en sortant de la tente.","Potion de bête obtenue en sortant de la tente"
+5,1,243005,56,"chapeau de rituel",0,"chapeaux de rituel",0,0,1,0,0,"Chapeau de rituel","Dégâts magiques subis -10%","Vulnérabilité magique diminuée"
+6,1,243006,63,"armure en acier",0,"armures en acier",0,1,1,1,0,"Armure en acier","Dégâts physiques subis -15%","Vulnérabilité physique diminuée"
+7,1,243007,190,"couronne sauvage",0,"couronnes sauvages",0,0,1,1,0,"Couronne sauvage","Dégâts physiques infligés +10%
+Chances de critiques +3%
+Effet spécial<Indent/>: les propriétés de cette pièce d'équipement de dressage s'appliquent également à la bête appelée.","Bonus de dégâts physiques, chances de critiques améliorées (bête incluse)"
+8,1,243008,190,"bâton de sagesse",0,"bâtons de sagesse",0,0,1,0,0,"Bâton de sagesse","Dégâts magiques infligés +20%
+Effet spécial<Indent/>: les propriétés de cette pièce d'équipement de dressage s'appliquent également à la bête appelée.","Bonus de dégâts magiques (bête incluse)"
+9,1,243009,174,"poignet de force",0,"poignets de force",0,0,1,0,0,"Poignet de force","Dégâts physiques infligés +12%
+Esquive +3%","Bonus de dégâts physiques, esquive augmentée"
+10,1,243010,84,"hachimaki noué",0,"hachimaki noués",0,0,1,0,0,"Hachimaki noué","Dégâts physiques infligés +5%
+Dégâts physiques subis -5%","Bonus de dégâts physiques, vulnérabilité physique diminuée"
+11,1,243011,174,"béret vert",0,"bérets verts",0,0,1,0,0,"Béret vert","Puissance des attaques critiques +35
+Dégâts infligés +3%
+PV maximums +7%","Bonus de critiques, bonus de dégâts, bonus de PV"
+12,1,243012,91,"paire de bottes mystiques",0,"paires de bottes mystiques",0,0,1,1,0,"Bottes mystiques","Esquive +8%
+Vitesse de déplacement +50%
+Effet spécial<Indent/>: augmente de 15% les effets curatifs des actions et des objets du Dédale que vous utilisez.","Esquive augmentée, vitesse de déplacement augmentée, effets curatifs améliorés"
+13,1,243013,104,"bague de préservation",0,"bagues de préservation",0,0,1,1,0,"Bague de préservation","Dégâts subis -10%
+PV maximums +7%","Réduction des dégâts subis, bonus de PV"
+14,1,243014,140,"bouclier de glace",0,"boucliers de glace",0,0,1,0,0,"Bouclier de glace","Dégâts subis -30%
+Lenteur +10%
+Effet spécial<Indent/>: 30% de chances d'annuler les dégâts de glace et de les absorber.","Élément glace absorbé, réduction des dégâts subis, Lenteur"
+15,1,243015,266,"bouclier de terre",0,"boucliers de terre",0,0,1,0,0,"Bouclier de terre","Effet spécial<Indent/>: 30% de chances d'annuler les dégâts de terre et de les absorber.
+Effet spécial<Indent/>: 10% de chances de se voir octroyer Cuirasse en bloquant une action avec le bouclier.
+Cuirasse<Indent/>: diminue les dégâts subis pour un total de 15% des PV maximums.
+Durée<Indent/>: 60s","Élément terre absorbé, Cuirasse en bloquant avec le bouclier"
+16,1,243016,214,"bouclier d'eau",0,"boucliers d'eau",0,0,1,0,0,"Bouclier d'eau","Force de blocage +50%
+Effet spécial<Indent/>: 30% de chances d'annuler les dégâts d'eau et de les absorber.
+Effet spécial<Indent/>: 10% de chances de se voir octroyer Miroir en bloquant une action avec le bouclier.
+Miroir<Indent/>: renvoie la plupart des attaques magiques.
+Durée<Indent/>: 60s","Élément eau absorbé, force de blocage augmentée, Miroir en bloquant avec le bouclier"
+17,1,243017,82,"bouclier de force",0,"boucliers de force",0,0,1,0,0,"Bouclier de force","Force de blocage +75%
+Dégâts magiques subis -10%","Force de blocage augmentée, vulnérabilité magique diminuée"
+18,1,243018,84,"ruban écarlate",0,"rubans écarlates",0,0,1,0,0,"Ruban écarlate","Résistance à Pétrification +100%
+Résistance à Cécité +100%
+Résistance à Paralysie +100%","Résistance à Pétrification, à Cécité et à Paralysie"
+19,1,243019,238,"paire de gantelets Genji",0,"paires de gantelets Genji",0,0,1,1,0,"Gantelets Genji","Dégâts infligés +12%
+Résistance à Paralysie +100%
+Effet spécial<Indent/>: 10% de chances de récupérer une partie des PT utilisés si vous réussissez un combo instinctif au déclenchement de votre technique d'arme.","Bonus de dégâts, résistance à Paralysie, récupération de PT si combo instinctif réussi"
+20,1,243020,94,"bouclier Genji",0,"boucliers Genji",0,0,1,0,0,"Bouclier Genji","Force de blocage +30%
+Esquive +10%","Force de blocage augmentée, esquive augmentée"
+21,1,243021,226,"armure Genji",0,"armures Genji",0,1,1,1,0,"Armure Genji","Vitesse de déplacement -20%
+Dégâts subis -20%
+PV maximums +30%","Vitesse de déplacement réduite, réduction des dégâts subis, bonus de PV"
+22,1,243022,112,"paire de lunettes argentées",0,"paires de lunettes argentées",0,0,1,1,0,"Lunettes argentées","Chances de critiques +15%
+Résistance à Cécité +100%","Chances de critiques améliorées, résistance à Cécité"
+23,1,243023,189,"aube d'ange",0,"aubes d'ange",0,1,1,1,0,"Aube d'ange","Dégâts subis -7%
+Résistance à Poison +100%
+Effet spécial<Indent/>: 5% de chances de se voir octroyer un degré de Recouvrement en subissant des dégâts. Cumulable jusqu'au 8e degré.
+Recouvrement<Indent/>: restaure périodiquement 3% de vos PV maximums.
+Durée<Indent/>: 12s","Réduction des dégâts subis, résistance à Poison, récupération de PV en subissant des dégâts"
+24,1,243024,390,"bouclier de dresseur",0,"boucliers de dresseur",0,0,1,0,0,"Bouclier de dresseur","Force de blocage +125%
+Dégâts subis -25%
+PV maximums +35%","Force de blocage augmentée, réduction des dégâts subis, bonus de PV"
+25,1,243025,220,"voile mystique",0,"voiles mystiques",0,0,1,0,0,"Voile mystique","Dégâts magiques infligés +18%
+Dégâts magiques subis -15%
+Effet spécial<Indent/>: augmente de 15% les effets curatifs des actions et des objets du Dédale que vous utilisez.","Bonus de dégâts magiques, vulnérabilité magique diminuée, effets curatifs améliorés"
+26,1,243026,122,"zukin noir",0,"zukin noirs",0,0,1,0,0,"Zukin noir","PV maximums +6%
+Esquive +8%
+Résistance à Sommeil +100%","Bonus de PV, esquive augmentée, résistance à Sommeil"
+27,1,243027,420,"couronne héroïque",0,"couronnes héroïques",0,0,1,1,0,"Couronne héroïque","PV maximums +30%
+Dégâts infligés +18%
+Effet spécial<Indent/>: vous octroie Excellence si vous réussissez un combo instinctif au déclenchement de votre technique d'arme.
+Excellence<Indent/>: annule la plupart des attaques et augmente de 10% les dégâts infligés.
+Durée<Indent/>: 9s","Bonus de PV, bonus de dégâts, Excellence si combo instinctif réussi"
+28,1,243028,150,"gilet mirage",0,"gilets mirages",0,0,1,0,0,"Gilet mirage","Effet spécial<Indent/>: 20% de chances de se voir octroyer un degré de Leurre en subissant des dégâts.
+Leurre<Indent/>: bloque la plupart des attaques physiques. Consomme un degré par attaque bloquée.
+Durée<Indent/>: 120s","Leurre en subissant des dégâts"
+29,1,243029,99,"armure de la Mort",0,"armures de la Mort",0,1,1,1,0,"Armure de la Mort","PV maximums +10%
+Dégâts subis -5%
+Résistance à Glas +100%","Bonus de PV, réduction des dégâts subis, résistance à Glas"
+30,1,243030,168,"armure de ronces",0,"armures de ronces",0,1,1,1,0,"Armure de ronces","Effet spécial<Indent/>: inflige une riposte aux dégâts magiques neutres à l'attaquant lorsque vous subissez des attaques physiques. Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts infligés par la riposte.
+Puissance<Indent/>: 360","Riposte en cas de dégâts physiques subis"
+31,1,243031,90,"couteau de poltron",0,"couteaux de poltron",0,0,1,0,0,"Couteau de poltron","Dégâts infligés +1%
+Effet spécial<Indent/>: 35% de chances de pouvoir fuir une rencontre avec un ennemi. Aucune récompense n'est obtenue en cas de fuite, mais le combat est évité.
+Fuite impossible face aux boss et aux cibles d'élite.
+Effet additionnel<Indent/>: vous octroie un degré de Tape & trace en cas de fuite.
+Tape & trace<Indent/>: dégâts infligés +18%, Esquive +4%
+Durée<Indent/>: infinie","Bonus de dégâts, fuite en rencontrant un ennemi"
+32,1,243032,167,"gilet ombral",0,"gilets ombraux",0,0,1,0,0,"Gilet ombral","PV maximums +12%
+Effet spécial<Indent/>: 25% de chances de récupérer une partie des PT utilisés si vous réussissez un combo instinctif au déclenchement de votre technique d'arme.","Bonus de PV, récupération de PT si combo instinctif réussi"
+33,1,243033,81,"bague ombrale",0,"bagues ombrales",0,0,1,1,0,"Bague ombrale","Dégâts physiques subis -9%
+Effet spécial<Indent/>: 10% de chances de récupérer une partie des PT utilisés si vous réussissez un combo instinctif au déclenchement de votre technique d'arme.","Vulnérabilité physique diminuée, récupération de PT si combo instinctif réussi"
+34,1,243034,112,"bracelet ombral",0,"bracelets ombraux",0,0,1,0,0,"Bracelet ombral","Dégâts magiques subis -15%
+PV maximums +5%
+Résistance à Étourdissement +100%","Vulnérabilité magique diminuée, bonus de PV, résistance à Étourdissement"
+35,1,243035,190,"gilet astral",0,"gilets astraux",0,0,1,0,0,"Gilet astral","Recharge rapide +25%
+Dégâts subis -7%
+PV maximums +15%","Recharge rapide, réduction des dégâts subis, bonus de PV"
+36,1,243036,74,"bague astrale",0,"bagues astrales",0,0,1,1,0,"Bague astrale","Recharge rapide +15%
+Dégâts physiques subis -8%","Recharge rapide, vulnérabilité physique diminuée"
+37,1,243037,86,"bracelet astral",0,"bracelets astraux",0,0,1,0,0,"Bracelet astral","Recharge rapide +15%
+Dégâts magiques subis -8%","Recharge rapide, vulnérabilité magique diminuée"
+38,1,243038,168,"hache imprégnée de flammes",0,"haches imprégnées de flammes",0,0,1,1,0,"Hache imprégnée de flammes","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res de feu à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires de feu pour l'attaque automatique"
+39,1,243039,168,"hache imprégnée de glace",0,"haches imprégnées de glace",0,0,1,1,0,"Hache imprégnée de glace","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res de glace à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires de glace pour l'attaque automatique"
+40,1,243040,168,"hache imprégnée de foudre",0,"haches imprégnées de foudre",0,0,1,1,0,"Hache imprégnée de foudre","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res de foudre à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires de foudre pour l'attaque automatique"
+41,1,243041,168,"hache imprégnée de terre",0,"haches imprégnées de terre",0,0,1,1,0,"Hache imprégnée de terre","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res de terre à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires de terre pour l'attaque automatique"
+42,1,243042,168,"hache imprégnée d'eau",0,"haches imprégnées d'eau",0,0,1,1,0,"Hache imprégnée d'eau","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res d'eau à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires d'eau pour l'attaque automatique"
+43,1,243043,168,"hache imprégnée de vent",0,"haches imprégnées de vent",0,0,1,1,0,"Hache imprégnée de vent","Effet spécial<Indent/>: ajoute des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res de vent à vos attaques automatiques.
+Les améliorations de dégâts magiques apportées par les pièces d'équipement de dressage et leurs aptitudes s'appliquent aux dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res infligés.
+Puissance des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res<Indent/>: 240
+Si vous possédez plusieurs pièces d'équipement de dressage ajoutant des effets à l'attaque automatique, seuls les effets de l'une d'elle s'appliqueront.","Dégâts supplémentaires de vent pour l'attaque automatique"
+44,1,243044,175,"tenue de furtivité",0,"tenues de furtivité",0,0,1,1,0,"Tenue de furtivité","PV maximums +17%
+Esquive +8%
+Effet spécial<Indent/>: vous octroie un degré de Hâte lorsque vous esquivez une attaque. Cumulable jusqu'au 5e degré.
+Hâte<Indent/>: réduit de 2% le délai des attaques automatiques et les temps de lancement et de recharge des techniques d'arme et des sorts de magie.
+Durée<Indent/>: 60s","Bonus de PV, esquive augmentée, Hâte en cas d'esquive"
+45,1,243045,63,"paire de gantelets de furtivité",0,"paires de gantelets de furtivité",0,0,1,1,0,"Gantelets de furtivité","Hâte +2%
+Dégâts physiques infligés +3%","Hâte, bonus de dégâts physiques"
+46,1,243046,91,"cache-œil de furtivité",0,"cache-œils de furtivité",0,0,1,0,0,"Cache-œil de furtivité","Hâte +5%
+Chances de critiques +5%","Hâte, chances de critiques améliorées"
+47,1,243047,224,"bouclier de vent",0,"boucliers de vent",0,0,1,0,0,"Bouclier de vent","Effet spécial<Indent/>: 30% de chances d'annuler les dégâts de vent et de les absorber.
+Effet spécial<Indent/>: 50% de chances de se voir octroyer un degré de Leurre en bloquant une action avec le bouclier.
+Leurre<Indent/>: bloque la plupart des attaques physiques. Consomme un degré par attaque bloquée.
+Durée<Indent/>: 120s","Élément vent absorbé, Leurre en bloquant avec le bouclier"
+48,1,243048,154,"masque de vent",0,"masques de vent",0,0,1,0,0,"Masque de vent","Dégâts magiques subis -10%
+Effet spécial<Indent/>: augmente de 15% les effets curatifs des actions et des objets du Dédale que vous utilisez.
+Effet spécial<Indent/>: vous octroie Double tranchant lorsque vous esquivez une attaque.
+Double tranchant<Indent/>: les dégâts infligés augment de 30%, mais vous subissez des dégâts périodiques.
+Durée<Indent/>: 21s","Vulnérabilité magique diminuée, effets curatifs améliorés, Double tranchant en cas d'esquive"
+49,1,243049,264,"armure de vent",0,"armures de vent",0,1,1,1,0,"Armure de vent","Dégâts subis -15%
+Dégâts magiques infligés +20%
+Effet spécial<Indent/>: augmente de 30% les effets curatifs des actions et des objets du Dédale que vous utilisez.","Réduction des dégâts subis, bonus de dégâts magiques, effets curatifs améliorés"
+50,1,243050,268,"hache lourde",0,"haches lourdes",0,0,1,1,0,"Hache lourde","Dégâts infligés +25%
+Vitesse de déplacement -20%","Bonus de dégâts, vitesse de déplacement réduite"
+51,1,243051,172,"armure de mithril",0,"armures de mithril",0,1,1,1,0,"Armure de mithril","Dégâts subis -15%
+PV maximums +15%","Réduction des dégâts subis, bonus de PV"
+52,1,243052,113,"paire de gantelets de mithril",0,"paires de gantelets de mithril",0,0,1,1,0,"Gantelets de mithril","Dégâts subis -5%
+Dégâts physiques infligés +5%
+PV maximums +5%","Réduction des dégâts subis, bonus de dégâts physiques, bonus de PV"
+53,1,243053,85,"paire de genouillères de mithril",0,"paires de genouillères de mithril",0,0,1,1,0,"Genouillères de mithril","Dégâts subis -10%
+PV maximums +5%","Réduction des dégâts subis, bonus de PV"
+54,1,243054,126,"masque de fauve",0,"masques de fauve",0,0,1,0,0,"Masque de fauve","Dégâts physiques subis -10%
+Chances de critiques +15%","Vulnérabilité physique diminuée, chances de critiques améliorées"
+55,1,243055,87,"dague de fauve",0,"dagues de fauve",0,0,1,1,0,"Dague de fauve","Chances de critiques +8%
+Effet spécial<Indent/>: 25% de chances de se voir octroyer un degré de Bonus de dégâts en cas d'attaque critique. Cumulable jusqu'au 8e degré.
+Bonus de dégâts<Indent/>: augmente de 3% les dégâts infligés.
+Durée<Indent/>: 30s","Chances de critiques améliorées, bonus de dégâts en cas de critique"
+56,1,243056,84,"boucle d'oreille de fauve",0,"boucles d'oreille de fauve",0,0,1,1,0,"Boucle d'oreille de fauve","Chances de critiques +15%
+PV maximums +2%","Chances de critiques améliorées, bonus de PV"
+57,1,243057,200,"dague de voleur",0,"dagues de voleur",0,0,1,1,0,"Dague de voleur","Hâte +1%
+Effet spécial<Indent/>: permet de sélectionner deux objets en trouvant un coffre au trésor.","Hâte, 2 objets par coffre"
+58,1,243058,172,"gilet de voleur",0,"gilets de voleur",0,0,1,0,0,"Gilet de voleur","Taux d'obtention de butin +80%
+Dégâts subis -8%
+PV maximums +18%","Bonus d'obtention de butin, réduction des dégâts subis, bonus de PV"
+59,1,243059,50,"paire de gants de voleur",0,"paires de gants de voleur",0,0,1,1,0,"Gants de voleur","Taux d'obtention de butin +70%
+Hâte +2%","Bonus d'obtention de butin, Hâte"
+60,1,243060,30,"paire de bottes de voleur",0,"paires de bottes de voleur",0,0,1,1,0,"Bottes de voleur","Taux d'obtention de butin +40%
+Esquive +2%","Bonus d'obtention de butin, esquive augmentée"
+61,1,243061,315,"hache de foudre",0,"haches de foudre",0,0,1,1,0,"Hache de foudre","Dégâts infligés +30%
+Effet spécial<Indent/>: 5% de chances de subir Étourdissement lorsque vous subissez des dégâts.
+Durée d'Étourdissement<Indent/>: 3s","Bonus de dégâts, Étourdissement en cas de dégâts subis"
+62,1,243062,161,"armure de foudre",0,"armures de foudre",0,1,1,1,0,"Armure de foudre","Effet spécial<Indent/>: 30% de chances d'annuler les dégâts de foudre et de les absorber.
+Effet spécial<Indent/>: 5% de chances de se voir octroyer un degré d'Excitation en cas d'attaque critique. Cumulable jusqu'au 4e degré.
+Excitation<Indent/>: dégâts infligés +10%, dégâts subis -5%
+Durée<Indent/>: 180s","Élément foudre absorbé, Excitation en cas de critique"
+63,1,243063,84,"bouclier repousse-démons",0,"boucliers repousse-démons",0,0,1,0,0,"Bouclier repousse-démons","Effet spécial<Indent/>: octroie un degré de Vulnérabilité magique diminuée en bloquant une action avec le bouclier. Cumulable jusqu'au 8e degré.
+Vulnérabilité magique diminuée<Indent/>: réduit de 5% les dégâts magiques subis.
+Durée<Indent/>: 60s","Vulnérabilité magique diminuée en bloquant avec le bouclier"
+64,1,243064,113,"épingle à cheveux dorée",0,"épingles à cheveux dorée",0,1,1,1,0,"Épingle à cheveux dorée","Recharge rapide +10%
+Effet spécial<Indent/>: 25% de chances de récupérer une partie des PT utilisés si vous réussissez un combo instinctif au déclenchement de votre technique d'arme.","Recharge rapide, récupération de PT si combo instinctif réussi"
+65,1,243065,262,"couteau ignescent",0,"couteaux ignescents",0,0,1,0,0,"Couteau ignescent","Dégâts infligés +25%
+Hâte +5%
+Effet spécial<Indent/>: 10% de chances de subir Chaînes de flammes en cas d'attaque critique.
+Chaînes de flammes<Indent/>: inflige des dégâts magiques en cas de déplacement.
+Durée<Indent/>: 9s","Bonus de dégâts, Hâte, Chaînes de flammes en cas de critique"
+66,1,243066,116,"bouclier ignescent",0,"boucliers ignescents",0,0,1,0,0,"Bouclier ignescent","Force de blocage +50%
+Dégâts infligés +3%
+Effet spécial<Indent/>: 30% de chances d'annuler les dégâts de feu et de les absorber.","Élément feu absorbé, force de blocage augmentée, bonus de dégâts"
+67,1,243067,24,"bonnet de commerçant",0,"bonnets de commerçant",0,0,1,0,0,"Bonnet de commerçant","Augmente de 25% les jetons bestiaux reçus.
+Chances de critiques -10%
+Dégâts physiques infligés +5%","Jetons bestiaux supplémentaires, chances de critique diminuées, bonus de dégâts"
+68,1,243068,52,"gilet de commerçant",0,"gilets de commerçant",0,0,1,0,0,"Gilet de commerçant","Augmente de 25% les jetons bestiaux reçus.
+Dégâts physiques subis -10%","Jetons bestiaux supplémentaires, vulnérabilité physique diminuée"
+69,1,243069,101,"paire de chaussures de commerçant",0,"paires de chaussures de commerçant",0,0,1,1,0,"Chaussures de commerçant","Augmente de 25% les jetons bestiaux reçus.
+Esquive +4%
+PV maximums +12%","Jetons bestiaux supplémentaires, esquive augmentée, bonus de PV"
+70,1,243070,113,"bague de soulagement",0,"bagues de soulagement",0,0,1,1,0,"Bague de soulagement","PV maximums +3%
+Effet spécial<Indent/>: augmente de 25% l'accumulation de PT.","Accumulation des PT augmentée"
+71,1,243071,264,"casque diabolique",0,"casques diaboliques",0,0,1,0,0,"Casque diabolique","Dégâts infligés +20%
+Effet spécial<Indent/>: 1% de chances de subir Glas lorsque vous subissez des dégâts.
+Durée de Glas<Indent/>: 2s
+Effet spécial<Indent/>: augmente de 20% l'accumulation de PT.","Bonus de dégâts, Glas en cas de dégâts subis, accumulation des PT augmentée"
+72,1,243072,170,"armure diabolique",0,"armures diaboliques",0,1,1,1,0,"Armure diabolique","PV maximums +5%
+Effet spécial<Indent/>: augmente de 5% l'accumulation de PT.
+Effet spécial<Indent/>: vous octroie un degré d'Excitation lorsque vous éliminez un ennemi. Cumulable jusqu'au 4e degré.
+Excitation<Indent/>: dégâts infligés +10%, dégâts subis -5%
+Durée<Indent/>: 180s","Bonus de PV, accumulation des PT augmentée, Excitation en éliminant un ennemi"
+73,1,243073,129,"épingle à cheveux de l'Impératrice ",0,"épingles à cheveux de l'Impératrice ",0,1,1,1,0,"Épingle à cheveux de l'Impératrice ","Esquive +10%
+PV maximums -8%
+Effet spécial<Indent/>: 2% de chances de se voir octroyer un degré de Recouvrement en cas d'attaque critique. Cumulable jusqu'au 8e degré.
+Recouvrement<Indent/>: restaure périodiquement 3% de vos PV maximums.
+Durée<Indent/>: 12s","Esquive augmentée, malus de PV, récupération de PV en cas de critique"
+74,1,243074,76,"ceinture de hâte",0,"ceintures de hâte",0,0,1,1,0,"Ceinture de hâte","Hâte +6%","Hâte"
+75,1,243075,64,"hoplon de guerrier",0,"hoplons de guerrier",0,0,1,0,0,"Hoplon de guerrier","Force de blocage +100%
+Dégâts physiques subis -5%
+PV maximums +2%","Force de blocage augmentée, vulnérabilité physique diminuée, bonus de PV"
+76,2,243136,32,"potion de bête I",0,"potions de bête I",0,0,1,1,0,"Potion de bête I","Restaure 10% des PV du dresseur ou d'une bête.",""
+77,2,243137,72,"potion de bête II",0,"potions de bête II",0,0,1,1,0,"Potion de bête II","Restaure 23% des PV du dresseur ou d'une bête.",""
+78,2,243138,113,"potion de bête III",0,"potions de bête III",0,0,1,1,0,"Potion de bête III","Restaure 36% des PV du dresseur ou d'une bête.",""
+79,2,243139,158,"potion de bête IV",0,"potions de bête IV",0,0,1,1,0,"Potion de bête IV","Restaure 50% des PV du dresseur ou d'une bête.",""
+80,2,243140,63,"poignée de poudre pour bête I",0,"poignées de poudre pour bête I",0,0,1,1,0,"Poudre pour bête I","Restaure vos PV et ceux des alliés alentour de 10%.",""
+81,2,243141,158,"poignée de poudre pour bête II",0,"poignées de poudre pour bête II",0,0,1,1,0,"Poudre pour bête II","Restaure vos PV et ceux des alliés alentour de 25%.",""
+82,2,243142,252,"poignée de poudre pour bête III",0,"poignées de poudre pour bête III",0,0,1,1,0,"Poudre pour bête III","Restaure vos PV et ceux des alliés alentour de 40%.",""
+83,2,243143,32,"antidote de bête",0,"antidotes de bête",0,1,1,0,0,"Antidote de bête","Soigne instantanément la plupart des cas d'empoisonnement affectant le dresseur ou l'une de ses bêtes, et restaure 25% des PV maximums en cas de réussite.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+84,2,243144,32,"aiguille de bête",0,"aiguilles de bête",0,1,1,1,0,"Aiguille de bête","Soigne instantanément la plupart des cas de pétrification affectant une bête, restaure 50% de ses PV maximums en cas de réussite, et lui octroie Cuirasse.
+Cuirasse<Indent/>: protége des dégâts pour un total de 50% de ses PV maximums.
+Durée<Indent/>: 60s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+85,2,243145,32,"fiole de collyre de bête",0,"fioles de collyre de bête",0,0,1,1,0,"Fiole de collyre de bête","Soigne instantanément la plupart des cas de cécité affectant le dresseur ou l'une de ses bêtes, et restaure 25% des PV maximums en cas de réussite.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+86,2,243146,32,"fiole de sérum anti-poison de bête I",0,"fioles de sérum anti-poison de bête I",0,0,1,1,0,"Sérum anti-poison de bête I","Augmente la résistance à Poison de 100% pour le dresseur ou l'une de ses bêtes.
+Durée d'effet<Indent/>: 180s
+Effet additionnel<Indent/>: restaure 50% des PV maximums de la cible si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+87,2,243147,50,"fiole de sérum anti-poison de bête II",0,"fioles de sérum anti-poison de bête II",0,0,1,1,0,"Sérum anti-poison de bête II","Augmente la résistance à Poison de 100% pour vous et les alliés alentour.
+Durée d'effet<Indent/>: 300s
+Effet additionnel<Indent/>: restaure 50% des PV maximums si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+88,2,243148,32,"fiole de sérum anti-paralysie de bête I",0,"fioles de sérum anti-paralysie de bête I",0,0,1,1,0,"Sérum anti-paralysie de bête I","Augmente la résistance à Paralysie de 100% pour le dresseur ou l'une de ses bêtes.
+Durée d'effet<Indent/>: 180s
+Effet additionnel<Indent/>: restaure 50% des PV maximums de la cible si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+89,2,243149,50,"fiole de sérum anti-paralysie de bête II",0,"fioles de sérum anti-paralysie de bête II",0,0,1,1,0,"Sérum anti-paralysie de bête II","Augmente la résistance à Paralysie de 100% pour vous et les alliés alentour.
+Durée d'effet<Indent/>: 300s
+Effet additionnel<Indent/>: restaure 50% des PV maximums si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+90,2,243150,32,"fiole de sérum anti-cécité de bête I",0,"fiole de sérum anti-cécité de bête I",0,0,1,1,0,"Sérum anti-cécité de bête I","Augmente la résistance à Cécité de 100% pour le dresseur ou l'une de ses bêtes.
+Durée d'effet<Indent/>: 180s
+Effet additionnel<Indent/>: restaure 50% des PV maximums de la cible si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+91,2,243151,50,"fiole de sérum anti-cécité de bête II",0,"fiole de sérum anti-cécité de bête II",0,0,1,1,0,"Sérum anti-cécité de bête II","Augmente la résistance à Cécité de 100% pour vous et les alliés alentour.
+Durée d'effet<Indent/>: 300s
+Effet additionnel<Indent/>: restaure 50% des PV maximums si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+92,2,243152,32,"fiole de sérum anti-pétrification de bête I",0,"fioles de sérum anti-pétrification de bête I",0,0,1,1,0,"Sérum anti-pétrification de bête I","Augmente la résistance à Pétrification de 100% pour le dresseur ou l'une de se bêtes.
+Durée d'effet<Indent/>: 180s
+Effet additionnel<Indent/>: restaure 50% des PV maximums de la cible si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+93,2,243153,50,"fiole de sérum anti-pétrification de bête II",0,"fioles de sérum anti-pétrification de bête II",0,0,1,1,0,"Sérum anti-pétrification de bête II","Augmente la résistance à Pétrification de 100% pour vous et les alliés alentour.
+Durée d'effet<Indent/>: 300s
+Effet additionnel<Indent/>: restaure 50% des PV maximums si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+94,2,243154,32,"fiole de sérum anti-sommeil de bête I",0,"fioles de sérum anti-sommeil de bête I",0,0,1,1,0,"Sérum anti-sommeil de bête I","Augmente la résistance à Sommeil de 100% pour le dresseur ou l'une de ses bêtes.
+Durée d'effet<Indent/>: 180s
+Effet additionnel<Indent/>: restaure 50% des PV maximums de la cible si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+95,2,243155,50,"fiole de sérum anti-sommeil de bête II",0,"fioles de sérum anti-sommeil de bête II",0,0,1,1,0,"Sérum anti-sommeil de bête II","Augmente la résistance à Sommeil de 100% pour vous et les alliés alentour.
+Durée d'effet<Indent/>: 300s
+Effet additionnel<Indent/>: restaure 50% des PV maximums si vous possédez un ruban écarlate.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+96,2,243156,135,"sifflet de résurrection",0,"sifflets de résurrection",0,0,1,0,0,"Sifflet de résurrection","Ranime une bête hors de combat.
+Cet objet ne peut être utilisé que sur le plateau de jeu.",""
+97,2,243157,85,"bombe fumigène de bête",0,"bombes fumigènes de bête",0,0,1,1,0,"Bombe fumigène de bête","Permet d'éviter un af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment, mais ne fonctionne pas contre les cibles d'élite ou les gardiens du plateau.
+Vous pouvez choisir de l'utiliser juste avant le début d'un af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment.",""
+98,2,243158,221,"auréole de bête I",0,"auréoles de bête I",0,1,1,1,0,"Auréole de bête I","Vous octroie l'effet Auréole.
+Auréole<Indent/>: offre 70% de chances de ressusciter au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment en cas de K.O.",""
+99,2,243159,299,"auréole de bête II",0,"auréoles de bête II",0,1,1,1,0,"Auréole de bête II","Vous octroie l'effet Auréole.
+Auréole<Indent/>: offre 95% de chances de ressusciter au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment en cas de K.O.",""
+100,2,243160,32,"œil de voleur",0,"yeux de voleur",0,1,1,0,0,"Œil de voleur","Vous octroie l'effet Chances de butin augmentées.
+Chances de butin augmentées<Indent/>: multiplie par 3 le taux d'objets lâchés par les adversaires au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment.
+Durée<Indent/>: 30m
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+101,2,243161,23,"œil de marchand",0,"yeux de marchand",0,1,1,0,0,"Œil de marchand","Vous octroie l'effet Jetons bestiaux augmentés.
+Jetons bestiaux augmentés<Indent/>: multiplie par 2 le nombre de jetons bestiaux lâchés par les adversaires au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment.
+Durée<Indent/>: 30m
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+102,2,243162,47,"potion solidifiante de bête",0,"potions solidifiantes de bête",0,0,1,1,0,"Potion solidifiante de bête","Octroie l'effet Solidification au dresseur ou à une bête.
+Solidification<Indent/>: réduit de 20% des dégâts subis.
+Durée<Indent/>: 60s
+Effet additionnel<Indent/>: la durée de l'effet passe à 90s si vous possédez un bouclier de glace.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+103,2,243163,43,"potion abrégeante de bête",0,"potions abrégeantes de bête",0,0,1,1,0,"Potion abrégeante de bête","Octroie l'effet Rapidité au dresseur ou à une bête.
+Rapidité<Indent/>: réduit de 15% le délai des attaques automatiques et les temps de lancement et de recharge des techniques d'arme et des sorts de magie.
+Durée<Indent/>: 60s
+Effet additionnel<Indent/>: la durée de l'effet passe à 90s si vous possédez des gants de voleur.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+104,2,243164,36,"potion renforçante de bête",0,"potions renforçantes de bête",0,0,1,1,0,"Potion renforçante de bête","Octroie l'effet Force accrue au dresseur ou à une bête.
+Force accrue<Indent/>: augmente de 30% les dégâts physiques infligés.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+105,2,243165,88,"potion de force brutale de bête",0,"potions de force brutale de bête",0,0,1,1,0,"Potion de force brutale de bête","Inflige Étourdissement au dresseur ou à une bête, mais octroie l'effet Force accrue.
+Durée d'Étourdissement<Indent/>: 15s
+Force accrue<Indent/>: augmente de 45% les dégâts physiques infligés.
+Durée de Force accrue<Indent/>: 30s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+106,2,243166,23,"potion stimulante de bête",0,"potions stimulantes de bête",0,0,1,1,0,"Potion stimulante de bête","Octroie l'effet Magie accrue au dresseur ou à une bête.
+Magie accrue<Indent/>: augmente de 30% les dégâts magiques infligés.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+107,2,243167,50,"potion de magie brutale de bête",0,"potions de magie brutale de bête",0,0,1,1,0,"Potion de magie brutale de bête","Inflige Cauchemar au dresseur ou à une bête, mais octroie l'effet Magie accrue.
+Durée de Cauchemar<Indent/>: 30s
+Magie accrue<Indent/>: augmente de 50% les dégâts magiques infligés.
+Durée de Magie accrue<Indent/>: 30s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+108,2,243168,20,"potion focalisante de bête",0,"potions focalisantes de bête",0,0,1,1,0,"Potion focalisante de bête","Octroie l'effet Précision accrue au dresseur ou à une bête.
+Précision accrue<Indent/>: augmente de 30% les chances de critiques.
+Durée<Indent/>: 30s
+Effet additionnel<Indent/>: la durée de l'effet passe à 60s si vous possédez des lunettes argentées.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+109,2,243169,36,"potion de précision brutale de bête",0,"potions de précision brutale de bête",0,0,1,1,0,"Potion de précision brutale de bête","Inflige Pétrification au dresseur ou à une bête, mais octroie l'effet Précision accrue.
+Durée de Pétrification<Indent/>: 15s
+Précision accrue<Indent/>: augmente de 50% les chances de critique.
+Durée de Précision accrue<Indent/>: 30s
+Effet additionnel<Indent/>: la durée de l'effet passe à 60s si vous possédez des lunettes argentées.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+110,2,243170,21,"potion évitante de bête",0,"potions évitantes de bête",0,0,1,1,0,"Potion évitante de bête","Octroie l'effet Esquive accrue au dresseur ou à une bête.
+Esquive accrue<Indent/>: augmente de 25% l'esquive.
+Durée<Indent/>: 30s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+111,2,243171,36,"potion d'esquive brutale de bête",0,"potions d'esquive brutale de bête",0,0,1,1,0,"Potion d'esquive brutale de bête","Inflige Cécité au dresseur ou à une bête, mais octroie l'effet Esquive accrue.
+Durée de Cécité<Indent/>: 30s
+Esquive accrue<Indent/>: augmente de 25% l'esquive.
+Durée d'Esquive accrue<Indent/>: 60s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+112,2,243172,95,"potion énergisante de bête",0,"potions énergisantes de bête",0,0,1,1,0,"Potion énergisante de bête","Octroie l'effet Endurance accrue au dresseur ou à une bête et restaure 10% des PV.
+Endurance accrue<Indent/>: augmente de 20% les PV maximums.
+Durée<Indent/>: se termine à la fin du combat.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+113,2,243173,140,"potion d'endurance brutale de bête",0,"potions d'endurance brutale de bête",0,0,1,1,0,"Potion d'endurance brutale de bête","Inflige Poison violent au dresseur ou à une bête, mais octroie l'effet Endurance accrue et restaure 10% des PV.
+Durée de Poison violent<Indent/>: 180s
+Endurance accrue<Indent/>: augmente de 30% les PV maximums.
+Durée d'Endurance accrue<Indent/>: se termine à la fin du combat.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+114,2,243174,225,"potion de vélocité de bête",0,"potions de vélocité de bête",0,0,1,1,0,"Potion de vélocité de bête","Vous octroie l'effet Breuvage de voleur.
+Breuvage de voleur<Indent/>: augmente de 20% votre vitesse de déplacement, de 5% votre esquive, et de 100% votre résistance à Poison.
+Durée<Indent/>: se termine à la fin du combat.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+115,2,243175,43,"plume de bête",0,"plumes de bête",0,0,1,1,0,"Plume de bête","Augmente de 100 les PT du dresseur ou d'une bête.
+Effet additionnel<Indent/>: augmente de 250 les PT si vous possédez une bague de soulagement.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+116,2,243176,47,"remède anti-feu de bête I",0,"remèdes anti-feu de bête I",0,0,1,0,0,"Remède anti-feu de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Ignifuge.
+Ignifuge<Indent/>: 50% de chances d'annuler les dégâts de feu et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+117,2,243177,95,"remède anti-feu de bête II",0,"remèdes anti-feu de bête II",0,0,1,0,0,"Remède anti-feu de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Ignifuge.
+Ignifuge<Indent/>: 70% de chances d'annuler les dégâts de feu et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+118,2,243178,47,"remède anti-eau de bête I",0,"remèdes anti-eau de bête I",0,0,1,0,0,"Remède anti-eau de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Imperméabilité.
+Imperméabilité<Indent/>: 50% de chances d'annuler les dégâts d'eau et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+119,2,243179,95,"remède anti-eau de bête II",0,"remèdes anti-eau de bête II",0,0,1,0,0,"Remède anti-eau de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Imperméabilité.
+Imperméabilité<Indent/>: 70% de chances d'annuler les dégâts d'eau et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+120,2,243180,47,"remède anti-terre de bête I",0,"remèdes anti-terre de bête I",0,0,1,0,0,"Remède anti-terre de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Géofuge.
+Géofuge<Indent/>: 50% de chances d'annuler les dégâts de terre et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+121,2,243181,95,"remède anti-terre de bête II",0,"remèdes anti-terre de bête II",0,0,1,0,0,"Remède anti-terre de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Géofuge.
+Géofuge<Indent/>: 70% de chances d'annuler les dégâts de terre et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+122,2,243182,47,"remède anti-foudre de bête I",0,"remèdes anti-foudre de bête I",0,0,1,0,0,"Remède anti-foudre de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Paratonnerre.
+Paratonnerre<Indent/>: 50% de chances d'annuler les dégâts de foudre et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+123,2,243183,95,"remède anti-foudre de bête II",0,"remèdes anti-foudre de bête II",0,0,1,0,0,"Remède anti-foudre de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Paratonnerre.
+Paratonnerre<Indent/>: 70% de chances d'annuler les dégâts de foudre et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+124,2,243184,47,"remède anti-vent de bête I",0,"remèdes anti-vent de bête I",0,0,1,0,0,"Remède anti-vent de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Coupe-vent.
+Coupe-vent<Indent/>: 50% de chances d'annuler les dégâts de vent et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+125,2,243185,95,"remède anti-vent de bête II",0,"remèdes anti-vent de bête II",0,0,1,0,0,"Remède anti-vent de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Coupe-vent.
+Coupe-vent<Indent/>: 70% de chances d'annuler les dégâts de vent et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+126,2,243186,47,"remède anti-glace de bête I",0,"remèdes anti-glace de bête I",0,0,1,0,0,"Remède anti-glace de bête I","Vous octroie ainsi qu'aux alliés alentour l'effet Gélifuge.
+Gélifuge<Indent/>: 50% de chances d'annuler les dégâts de glace et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+127,2,243187,95,"remède anti-glace de bête II",0,"remèdes anti-glace de bête II",0,0,1,0,0,"Remède anti-glace de bête II","Vous octroie ainsi qu'aux alliés alentour l'effet Gélifuge.
+Gélifuge<Indent/>: 70% de chances d'annuler les dégâts de glace et de les absorber.
+Durée<Indent/>: 15s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+128,2,243188,45,"croc de feu",0,"crocs de feu",0,0,1,0,0,"Croc de feu","Effectue une attaque magique de feu sur la cible et les ennemis autour dans un rayon de 12 yalms. 
+Puissance<Indent/>: 2500
+Effet additionnel<Indent/>: inflige des dégâts additionnels de 1000 si la cible est sous l'effet Congélation.
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+129,2,243189,45,"croc de glace",0,"crocs de glace",0,0,1,0,0,"Croc de glace","Effectue une attaque magique de glace sur la cible et les ennemis autour dans un rayon de 12 yalms.
+Puissance<Indent/>: 2000
+Effet additionnel<Indent/>: inflige Congélation à la cible.
+Durée de Congélation<Indent/>: 20s
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+130,2,243190,45,"croc d'eau",0,"crocs d'eau",0,0,1,0,0,"Croc d'eau","Effectue une attaque magique d'eau sur la cible et les ennemis autour dans un rayon de 12 yalms.
+Puissance<Indent/>: 2000
+Effet additionnel<Indent/>: dissipe un effet bénéfique de la cible, augmentant au passage les PT de 100.
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+131,2,243191,45,"croc de foudre",0,"crocs de foudre",0,0,1,0,0,"Croc de foudre","Effectue une attaque magique de foudre sur la cible et les ennemis autour dans un rayon de 12 yalms.
+Puissance<Indent/>: 2000
+Effet additionnel<Indent/>: inflige Paralysie à la cible.
+Durée de Paralysie<Indent/>: 30s
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+132,2,243192,45,"croc de terre",0,"crocs de terre",0,0,1,0,0,"Croc de terre","Effectue une attaque magique de terre sur la cible et les ennemis autour dans un rayon de 12 yalms.
+Puissance<Indent/>: 2000
+Effet additionnel<Indent/>: inflige Pesanteur à la cible.
+Durée de Pesanteur<Indent/>: 60s
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+133,2,243193,45,"croc de vent",0,"crocs de vent",0,0,1,0,0,"Croc de vent","Effectue une attaque magique de vent sur la cible et les ennemis autour dans un rayon de 12 yalms.
+Puissance<Indent/>: 2000
+Effet additionnel<Indent/>: projette la cible 15 yalms en arrière.
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+134,2,243194,68,"croc vampire",0,"crocs vampires",0,0,1,0,0,"Croc vampire","Effectue une attaque physique perforante sur la cible et les ennemis autour dans un rayon de 12 yalms, et absorbe en PV une partie des dégâts infligés.
+Puissance<Indent/>: de 1500 à 3300
+La puissance augmente d'autant plus que vos PV maximums sont élevés.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+135,2,243195,378,"potion vampirique de bête",0,"potions vampiriques de bête",0,0,1,1,0,"Potion vampirique de bête","Octroie l'effet Absorption des PV au dresseur ou à une bête.
+Absorption des PV<Indent/>: absorbe en PV 10% des dégâts infligés.
+Durée<Indent/>: 60s
+Effet additionnel<Indent/>: la durée de l'effet passe à 90s si vous possédez une armure diabolique.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+136,2,243196,81,"tome de réflexion",0,"tomes de réflexion",0,0,1,0,0,"Tome de réflexion","Octroie l'effet Miroir au dresseur ou à une bête.
+Miroir<Indent/>: renvoie la plupart des attaque magiques.
+Durée<Indent/>: 30s
+Effet additionnel<Indent/>: la durée de l'effet passe à 60s si vous possédez un chapeau de rituel.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+137,2,243197,63,"tome d'invulnérabilité",0,"tomes d'invulnérabilité",0,0,1,0,0,"Tome d'invulnérabilité","Octroie 5 degrés de l'effet Leurre au dresseur ou à une bête.
+Leurre<Indent/>: bloque la plupart des attaques physiques. Consomme un degré par attaque bloquée.
+Durée<Indent/>: 120s
+Effet additionnel<Indent/>: octroie 3 degrés sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res sous l'effet Breuvage de voleur.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+138,2,243198,315,"sable temporel",0,"sables temporels",0,0,1,0,0,"Sable temporel","Vous octroie l'effet Retournement de sablier.
+Retournement de sablier<Indent/>: en cas de défaite, vous pourrez reprendre juste avant le début du combat.
+Cet objet ne peut pas être utilisé en combat.",""
+139,2,243199,72,"sable astral",0,"sables astraux",0,0,1,0,0,"Sable astral","Lance une Tempête d'étoiles infligeant des dégâts magiques de feu à la cible et aux ennemis autour dans un rayon de 18 yalms.
+Puissance<Indent/>: 3000
+Effet additionnel<Indent/>: augmente vos PT de 50 par ennemi touché.
+Effet additionnel<Indent/>: réduit de 20% la résistance au feu de la cible.
+Durée<Indent/>: 60s
+Les dégâts varient selon les bonus aux dégâts magiques conférés par d'autres pièces d'équipement de dressage, objets ou aptitudes.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+140,2,243200,189,"kit de potion de bête",0,"kits de potion de bête",0,0,1,0,0,"Kit de potion de bête","Vous octroie Auto-potion.
+Auto-potion<Indent/>: restaure au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment vos PV de 40% s'ils tombent en dessous de 50%.
+Cet effet a 50% de chances de prendre fin chaque fois qu'il se déclenche, mais ces chances sont réduites à 10% sous l'effet Breuvage de voleur.
+Durée<Indent/>: 150s
+Effet additionnel<Indent/>: la durée de l'effet passe à 240s si vous possédez un gilet de voleur.
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+141,2,243201,32,"kit médical de bête",0,"kits médicaux de bête",0,0,1,0,0,"Kit médical de bête","Vous octroie Auto-remède.
+Auto-remède<Indent/>: bloque la prochaine altération d'état.
+Durée<Indent/>: 240s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+142,2,243202,63,"tome de forgesort",0,"tomes de forgesort",0,0,1,0,0,"Tome de forgesort","Vous octroie Forgesort.
+Forgesort<Indent/>: toutes vos attaques infligent des dégâts magiques.
+Cet effet est également octroyé à vos bêtes.
+Durée<Indent/>: 180s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+143,2,243203,63,"tome de morsure de l'acier",0,"tomes de morsure de l'acier",0,0,1,0,0,"Tome de morsure de l'acier","Vous octroie Morsure de l'acier.
+Morsure de l'acier<Indent/>: toutes vos attaques infligent des dégâts physiques.
+Cet effet est également octroyé à vos bêtes.
+Durée<Indent/>: 180s
+Cet objet ne peut être utilisé que dans l'arène de combat.",""
+144,3,243076,0,"pichet de nutriment optimal G1",0,"pichets de nutriment optimal G1",0,0,1,0,0,"Nutriment optimal G1","PV maximums +15%
+Dégâts infligés +5%
+Effet spécial<Indent/>: augmente de 25% l'EXP de la bête à la fin du Dédale.
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 10% des PV de la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+145,3,243077,0,"pichet de nutriment optimal G2",0,"pichets de nutriment optimal G2",0,0,1,0,0,"Nutriment optimal G2","PV maximums +30%
+Dégâts infligés +10%
+Effet spécial<Indent/>: augmente de 50% l'EXP de la bête à la fin du Dédale.
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+146,3,243078,0,"morceau de simili-viande",0,"morceaux de simili-viande",0,0,1,0,0,"Simili-viande","Dégâts physiques infligés +20%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+147,3,243079,0,"bouteille de simili-eau",0,"bouteilles de simili-eau",0,0,1,1,0,"Simili-eau","Puissance d'Explosion éthérée +35%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+148,3,243080,0,"pot de simili-miel",0,"pots de simili-miel",0,0,1,0,0,"Simili-miel","Dégâts physiques subis -25%
+Puissance d'Explosion éthérée +10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+149,3,243081,0,"simili-boulette de poisson",0,"simili-boulettes de poisson",0,0,1,1,0,"Simili-boulette de poisson","Chances de critiques +35%
+Dégâts magiques subis -30%
+PV maximums +10%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 7% des PV de la bête.
+[Utilisable sur<Indent/>: Animides]",""
+150,3,243082,0,"main de simili-bananes",0,"mains de simili-bananes",0,0,1,1,0,"Simili-bananes","Puissance d'Explosion éthérée +10%
+Effet spécial<Indent/>: octroie un degré de Bonus de dégâts physiques à la bête quand elle fait une attaque critique. Cumulable jusqu'au 5e degré.
+Bonus de dégâts physiques<Indent/>: dégâts physiques infligés +10%
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+151,3,243083,0,"simili-fraise",0,"simili-fraises",0,0,1,1,0,"Simili-fraise","Puissance des attaques critiques +60
+Puissance d'Explosion éthérée +10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+152,3,243084,0,"simili-œuf",0,"simili-œufs",0,0,1,0,0,"Simili-œuf","Hâte +5%
+Dégâts physiques infligés +25%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Hydrides, Cuirassiens]",""
+153,3,243085,0,"simili-œuf jaune",0,"simili-œufs jaunes",0,0,1,0,0,"Simili-œuf jaune","Hâte +15%
+Dégâts infligés +5%
+PV maximums +35%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 20% des PV de la bête.
+[Utilisable sur<Indent/>: Floréens]",""
+154,3,243086,0,"simili-tomate",0,"simili-tomates",0,0,1,1,0,"Simili-tomate","Esquive +10%
+Dégâts physiques infligés +10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Nécroïdes]",""
+155,3,243087,0,"bouteille de simili-lait",0,"bouteilles de simili-lait",0,0,1,1,0,"Simili-lait","Hâte +5%
+PV maximums +50%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 26% des PV de la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Hydrides, Cuirassiens]",""
+156,3,243088,0,"bol de simili-fromage aux baies",0,"bols de simili-fromage aux baies",0,0,1,0,0,"Simili-fromage aux baies","Hâte +5%
+Puissance d'Explosion éthérée +25%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Hydrides, Cuirassiens]",""
+157,3,243089,0,"simili-bolet",0,"simili-bolets",0,0,1,0,0,"Simili-bolet","Résistance à Poison +100%
+Dégâts subis -10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+158,3,243090,0,"simili-morille",0,"simili-morilles",0,0,1,1,0,"Simili-morille","Résistance à Paralysie +100%
+Dégâts subis -10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+159,3,243091,0,"simili-truffe noire",0,"simili-truffes noires",0,0,1,1,0,"Simili-truffe noire","Résistance à Cécité +100%
+Dégâts subis -10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+160,3,243092,0,"simili-truffe blanche",0,"simili-truffes blanches",0,0,1,1,0,"Simili-truffe blanche","Résistance à Pétrification +100%
+Dégâts subis -10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+161,3,243093,0,"simili-vesse-de-loup",0,"simili-vesses-de-loup",0,0,1,1,0,"Simili-vesse-de-loup","Résistance à Sommeil +100%
+Dégâts subis -10%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+162,3,243094,0,"simili-sole",0,"simili-soles",0,0,1,1,0,"Simili-sole","Dégâts physiques infligés +20%
+Effet spécial<Indent/>: augmente de 50% l'accumulation de PT.
+[Utilisable sur<Indent/>: Ptériens]",""
+163,3,243095,0,"fiole de simili-eau bénite",0,"fioles de simili-eau bénite",0,0,1,1,0,"Simili-eau bénite","PV maximums +30%
+Dégâts infligés +15%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+Effet spécial<Indent/>: octroie un degré de Recouvrement à la bête quand elle vainc un ennemi. Cumulable jusqu'au 8e degré.
+Recouvrement<Indent/>: restaure périodiquement 3% des PV.
+Durée<Indent/>: 6s
+[Utilisable sur<Indent/>: Hydrides]",""
+164,3,243096,0,"fiole de simili-sang",0,"fioles de simili-sang",0,0,1,1,0,"Simili-sang","Chances de critiques +50%
+Dégâts infligés +35%
+Effet spécial<Indent/>: inflige des dégâts périodiques à la bête.
+[Utilisable sur<Indent/>: Insectoïdes]",""
+165,3,243097,0,"fiole de simili-sang noble",0,"fioles de simili-sang noble",0,0,1,1,0,"Simili-sang noble","PV maximums +20%
+Chances de critiques +15%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 13% des PV de la bête.
+Effet spécial<Indent/>: 5% de chances d'octroyer un degré de Recouvrement à la bête quand elle fait une attaque critique. Cumulable jusqu'au 8e degré.
+Recouvrement<Indent/>: restaure périodiquement 3% des PV.
+Durée<Indent/>: 6s
+[Utilisable sur<Indent/>: Hydrides]",""
+166,3,243098,0,"botte de simili-lys",0,"bottes de simili-lys",0,0,1,1,0,"Simili-lys","Dégâts infligés +10%
+Dégâts subis -10%
+Effet spécial<Indent/>: permet de conserver l'effet des aliments quand vous vous reposez dans une tente.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+167,3,243099,0,"simili-flet",0,"simili-flets",0,0,1,0,0,"Simili-flet","Dégâts physiques infligés +10%
+Effet spécial<Indent/>: 30% de chances de récupérer une partie des PT utilisés en cas de combo instinctif réussi au déclenchement de la technique de la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+168,3,243100,0,"simili-scorpion blanc",0,"simili-scorpions blancs",0,0,1,0,0,"Simili-scorpion blanc","Effet spécial<Indent/>: octroie Miroir à la bête quand elle est appelée.
+Miroir<Indent/>: renvoie la plupart des attaques magiques.
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Cuirassiens]",""
+169,3,243101,0,"simili-scorpion noir",0,"simili-scorpions noirs",0,0,1,0,0,"Simili-scorpion noir","Dégâts infligés +15%
+Dégâts subis -35%
+Effet spécial<Indent/>: 3% de chances d'infliger Poison à la bête quand elle subit des dégâts.
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Cuirassiens]",""
+170,3,243102,0,"simili-hareng",0,"simili-harengs",0,0,1,0,0,"Simili-hareng","Puissance d'Explosion éthérée +25%
+Effet spécial<Indent/>: 35% de chances de récupérer une partie des PT utilisés en cas de combo instinctif réussi au déclenchement de la technique de la bête.
+[Utilisable sur<Indent/>: Ptériens]",""
+171,3,243103,0,"simili-poisson-ange",0,"simili-poissons-anges",0,0,1,0,0,"Simili-poisson-ange","Dégâts subis -10%
+Effet spécial<Indent/>: augmente de 30% l'accumulation de PT.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Floréens, Hydrides, Nécroïdes]",""
+172,3,243104,0,"grappe de simili-raisin",0,"grappes de simili-raisin",0,0,1,1,0,"Simili-raisin","Chances de critiques +35%
+Dégâts physiques infligés +15%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+173,3,243105,0,"simili-orange",0,"simili-oranges",0,0,1,1,0,"Simili-orange","Chances de critiques +25%
+Puissance d'Explosion éthérée +20%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+174,3,243106,0,"simili-ver de vase",0,"simili-vers de vase",0,0,1,0,0,"Simili-ver de vase","PV maximums +30%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+Effet spécial<Indent/>: octroie un degré de Vulnérabilité magique diminuée à la bête quand elle subit des dégâts. Cumulable jusqu'au 8e degré.
+Vulnérabilité magique diminuée<Indent/>: dégâts magiques subis -5%
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Animides]",""
+175,3,243107,0,"bouteille de simili-tonic",0,"bouteilles de simili-tonic",0,0,1,1,0,"Simili-tonic","Effet spécial<Indent/>: octroie un degré d'Excitation à la bête quand elle vainc un ennemi. Cumulable jusqu'au 4e degré.
+Excitation<Indent/>: dégâts infligés +15%, dégâts subis -8%
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+176,3,243108,0,"simili-carotte",0,"simili-carottes",0,0,1,1,0,"Simili-carotte","Esquive +10%
+Puissance d'Explosion éthérée +5%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Nécroïdes]",""
+177,3,243109,0,"simili-oignon",0,"simili-oignons",0,0,1,0,0,"Simili-oignon","Esquive +15%
+Dégâts subis -5%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Nécroïdes]",""
+178,3,243110,0,"simili-laitue",0,"simili-laitues",0,0,1,1,0,"Simili-laitue","Esquive +5%
+Effet spécial<Indent/>: octroie un degré d'Excitation à la bête quand elle esquive une attaque. Cumulable jusqu'au 4e degré.
+Excitation<Indent/>: dégâts infligés +15%, dégâts subis -8%
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Nécroïdes]",""
+179,3,243111,0,"simili-citron",0,"simili-citrons",0,0,1,0,0,"Simili-citron","Puissance d'Explosion éthérée +10%
+Effet spécial<Indent/>: octroie un degré de Leurre à la bête quand elle fait une attaque critique. Cumulable jusqu'au 5e degré.
+Leurre<Indent/>: bloque la plupart des attaques physiques. Consomme un degré par attaque bloquée.
+Durée<Indent/>: 120s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+180,3,243112,0,"cruche de simili-huile tonique",0,"cruches de simili-huile tonique",0,0,1,1,0,"Simili-huile tonique","Hâte +20%
+Effet spécial<Indent/>: octroie un degré d'Excitation en cas de combo instinctif réussi au déclenchement de la technique de la bête. Cumulable jusqu'au 4e degré.
+Excitation<Indent/>: dégâts infligés +15%, dégâts subis -8%
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Animides]",""
+181,3,243113,0,"pot de simili-mucus",0,"pots de simili-mucus",0,0,1,0,0,"Simili-mucus","Dégâts infligés +30%
+Dégâts subis -30%
+Effet spécial<Indent/>: inflige Cauchemar à la bête quand elle fait une attaque critique.
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+182,3,243114,0,"récipient de simili-sève",0,"récipients de simili-sève",0,0,1,0,0,"Simili-sève","Dégâts physiques subis -40%
+Puissance d'Explosion éthérée +20%
+[Utilisable sur<Indent/>: Cuirassiens]",""
+183,3,243115,0,"bloc de simili-sel",0,"blocs de simili-sel",0,0,1,0,0,"Simili-sel","Esquive +25%
+Effet spécial<Indent/>: 15% de chances d'octroyer Cuirasse à la bête quand elle esquive une attaque.
+Cuirasse<Indent/>: protège d'un total de dégâts égal à 12% des PV maximums.
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Animides]",""
+184,3,243116,0,"pot de simili-sirop",0,"pots de simili-sirop",0,0,1,0,0,"Simili-sirop","Dégâts infligés +30%
+Dégâts physiques subis -30%
+Effet spécial<Indent/>: 3% de chances d'infliger Paralysie à la bête quand elle subit des dégâts.
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Insectoïdes]",""
+185,3,243117,0,"morceau de simili-fromage à la crème",0,"morceaux de simili-fromage à la crème",0,0,1,0,0,"Simili-fromage à la crème","PV maximums +50%
+Dégâts subis -20%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 26% des PV de la bête.
+Effet spécial<Indent/>: 50% de chances d'octroyer un degré de Hâte à la bête quand elle subit des dégâts. Cumulable jusqu'au 5e degré.
+Hâte<Indent/>: réduit de 3% le délai des attaques automatiques et les temps de lancement et de recharge des techniques d'arme et des sorts de magie.
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Floréens]",""
+186,3,243118,0,"simili-œuf rouge",0,"simili-œufs rouges",0,0,1,0,0,"Simili-œuf rouge","Hâte +15%
+Dégâts infligés +30%
+Effet spécial<Indent/>: inflige des dégâts périodiques à la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Hydrides, Cuirassiens]",""
+187,3,243119,0,"simili-toast",0,"simili-toasts",0,0,1,0,0,"Simili-toast","Dégâts magiques subis -30%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+188,3,243120,0,"morceau de simili-pain de maïs",0,"morceaux de simili-pain de maïs",0,0,1,0,0,"Simili-pain de maïs","Dégâts magiques subis -40%
+Puissance d'Explosion éthérée +10%
+PV maximums +15%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 10% des PV de la bête.
+[Utilisable sur<Indent/>: Insectoïdes]",""
+189,3,243121,0,"racine de simili-mandragore",0,"racines de simili-mandragore",0,0,1,1,0,"Simili-mandragore","Dégâts physiques infligés +40%
+Effet spécial<Indent/>: inflige Cécité à la bête quand elle fait une attaque critique.
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+190,3,243122,0,"simili-tarentule",0,"simili-tarentules",0,0,1,1,0,"Simili-tarentule","Chances de critiques +25%
+Effet spécial<Indent/>: octroie un degré de Bonus de dégâts à la bête quand elle fait une attaque critique. Cumulable jusqu'au 5e degré.
+Bonus de dégâts<Indent/>: dégâts infligés +10%
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Animides]",""
+191,3,243123,0,"brin de simili-belladone",0,"brins de simili-belladone",0,0,1,0,0,"Simili-belladone","Dégâts subis -30%
+PV maximums +30%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+Effet spécial<Indent/>: 3% de chances d'infliger Pétrification à la bête quand elle subit des dégâts.
+Durée<Indent/>: 30s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Animides, Nécroïdes]",""
+192,3,243124,0,"simili-steak",0,"simili-steaks",0,0,1,0,0,"Simili-steak","Effet spécial<Indent/>: permet d'effectuer une contre-attaque physique contondante à chaque attaque physique subie. Les dégâts sont modifiés par la Force de la bête et les bonus de dégâts physiques des autres aliments et objets du Dédale.
+Puissance<Indent/>: 350
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Cuirassiens, Nécroïdes]",""
+193,3,243125,0,"portion de simili-œufs de poisson",0,"portions de simili-œufs de poisson",0,0,1,1,0,"Simili-œufs de poisson","Puissance d'Explosion éthérée +10%
+Effet spécial<Indent/>: 30% de chances de récupérer une partie des PT utilisés en cas de combo instinctif réussi au déclenchement de la technique de la bête.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+194,3,243126,0,"verre de simili-tisane",0,"verres de simili-tisane",0,0,1,0,0,"Simili-tisane","Effet spécial<Indent/>: octroie Cuirasse à la bête quand elle est appelée.
+Cuirasse<Indent/>: protège d'un total de dégâts égal à 24% des PV maximums.
+Durée<Indent/>: 60s
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+195,3,243127,0,"simili-rayon de miel",0,"simili-rayons de miel",0,0,1,0,0,"Simili-rayon de miel","Dégâts physiques subis -30%
+Dégâts infligés +10%
+Effet spécial<Indent/>: 30% de chances de récupérer une partie des PT utilisés en cas de combo instinctif réussi au déclenchement de la technique de la bête.
+[Utilisable sur<Indent/>: Animides]",""
+196,3,243128,0,"pichet de simili-jus d'orange",0,"pichets de simili-jus d'orange",0,0,1,0,0,"Simili-jus d'orange","Dégâts magiques infligés +30%
+Puissance d'Explosion éthérée +15%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+197,3,243129,0,"pichet de simili-jus de raisin",0,"pichets de simili-jus de raisin",0,0,1,0,0,"Simili-jus de raisin","Dégâts physiques infligés +30%
+Puissance d'Explosion éthérée +50%
+PV maximums -80%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+198,3,243130,0,"simili-brochette",0,"simili-brochettes",0,0,1,1,0,"Simili-brochette","Lenteur +200%
+Dégâts physiques infligés +50%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+199,3,243131,0,"pichet de simili-jus d'ananas",0,"pichets de simili-jus d'ananas",0,0,1,0,0,"Simili-jus d'ananas","Lenteur +200%
+Dégâts magiques infligés +50%
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens, Nécroïdes]",""
+200,3,243132,0,"simili-huître",0,"simili-huîtres",0,0,1,1,0,"Simili-huître","Effet spécial<Indent/>: octroie 100 PT à la bête au début des combats ou quand elle est appelée durant un combat.
+[Utilisable sur<Indent/>: Ptériens]",""
+201,3,243133,0,"morceau de simili-fromage bleu",0,"morceaux de simili-fromage bleu",0,0,1,0,0,"Simili-fromage bleu","Effet spécial<Indent/>: permet d'effectuer une contre-attaque magique neutre à chaque attaque magique subie. Les dégâts sont modifiés par l'Intelligence de la bête et les bonus de dégâts magiques des autres aliments et objets du Dédale.
+Puissance<Indent/>: 350
+[Utilisable sur<Indent/>: Floréens, Hydrides]",""
+202,3,243134,0,"bol de simili-fromage blanc",0,"bols de simili-fromage blanc",0,0,1,0,0,"Simili-fromage blanc","PV maximums +30%
+Hâte +15%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+Effet spécial<Indent/>: 30% de chances de récupérer une partie des PT utilisés en cas de combo instinctif réussi au déclenchement de la technique de la bête.
+[Utilisable sur<Indent/>: Insectoïdes]",""
+203,3,243135,0,"outre de simili-lassi",0,"outres de simili-lassi",0,1,1,1,0,"Simili-lassi","PV maximums +30%
+Effet spécial<Indent/>: restaure im<SoftHyphen/>mé<SoftHyphen/>dia<SoftHyphen/>te<SoftHyphen/>ment 18% des PV de la bête.
+Effet spécial<Indent/>: permet de restaurer tous les PV quand vous vous reposez dans une tente.
+[Utilisable sur<Indent/>: Thériens, Insectoïdes, Ptériens, Floréens, Hydrides, Cuirassiens]",""
+204,0,0,0,"",0,"",0,0,1,0,0,"","",""
+205,0,0,0,"",0,"",0,0,1,0,0,"","",""

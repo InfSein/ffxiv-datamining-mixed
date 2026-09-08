@@ -26,4 +26,4 @@ int32,int32,byte,byte,byte,byte,int32,str,str,str,bit&01,bit&02,bit&04,bit&08,st
 22,5,10,30,3,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"Duel d'armes","Appuyez de façon répétée pour repousser l'arme<Indent/>!"
 23,2,22,17,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"Délivrance","Appuyez de façon répétée pour sauver Kuiyki<Indent/>!"
 24,2,20,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"Ténacité","Appuyez de façon répétée pour résister à l'attaque !"
-25,0,0,0,0,0,0,"","","",False,False,False,False,"",""
+25,2,20,30,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"Échappée","Appuyez de façon répétée pour vous libérer<Indent/>!"

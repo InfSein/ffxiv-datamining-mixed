@@ -3969,7 +3969,7 @@ d'argent ou supérieur.",43,30,10,625,0,255,255,0,821,1,1,990,1,0,0,0,0,0,0,0,10
 3940,35,"Notre porte vous sera toujours ouverte","Accomplir la quête “Promesses lointaines”.",0,0,10,0,0,255,255,0,26002,1,6,71016,0,0,0,0,0,0,0,0,904,1,0
 3941,35,"Dur, mais gentilhomme avant tout","Accomplir la quête “Les deux durs à cuire”.",0,0,10,0,0,255,255,0,26002,1,6,71018,0,0,0,0,0,0,0,0,657,1,0
 3942,76,"Le chemin vers le lointain","Accomplir la quête “Le chemin vers le lointain”.",43,100,20,856,0,255,255,0,26002,1,6,71010,0,0,0,0,0,0,0,0,97,1,0
-3943,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3943,76,"Portés par le vent","Accomplir la quête “Portés par le vent”.",43,100,20,857,0,255,255,0,26002,1,6,71014,0,0,0,0,0,0,0,0,98,1,0
 3944,19,"Blanches et dorées","Obtenir les ailes de l'héritage.",43,100,20,858,0,255,255,0,26039,1,6,71005,0,0,0,0,0,0,0,0,1300,1,0
 3945,38,"Cimetière des oursons","Accomplir la quête “Cache-cache monstrueux”.",0,0,10,0,0,255,255,0,56959,1,6,71004,0,0,0,0,0,0,0,0,158,1,0
 3946,38,"Traîneau et grelots","Accomplir la quête “Le tintement des étoiles”.",0,0,10,0,0,255,255,0,26104,1,6,71001,0,0,0,0,0,0,0,0,159,1,0
@@ -4049,58 +4049,58 @@ d'argent ou supérieur.",43,30,10,625,0,255,255,0,821,1,1,990,1,0,0,0,0,0,0,0,10
 4020,71,"Despote des pots","Ouvrir 2 000 coffres de pot persistant sur l'île de Lunule.",43,100,20,875,0,255,255,0,115,1,1,1165,2000,0,0,0,0,0,0,0,1675,1,0
 4021,71,"Carotteur en série","Ouvrir 2 000 coffres de lapin du bonheur sur l'île de Lunule.",43,100,20,876,0,255,255,0,115,1,1,1166,2000,0,0,0,0,0,0,0,1685,1,0
 4022,71,"Incollable insulaire","Apprendre toutes les actions de magie bleue du mage bleu fantôme.",0,0,10,0,0,255,255,0,62969,1,25,70,6,0,0,0,0,0,0,0,1690,1,0
-4023,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4024,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4025,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4026,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4027,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4028,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4029,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4030,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4031,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4032,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4033,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4034,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4035,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4036,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4037,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4038,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4039,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4040,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4041,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4042,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4043,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4044,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4045,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4046,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4047,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4048,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4049,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4050,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4051,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4052,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4053,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4054,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4055,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4056,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4057,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4058,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4059,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4060,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4061,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4062,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4063,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4064,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4065,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4066,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4067,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4068,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4023,13,"Apprenti dresseur","Atteindre le niveau 10 avec le job dresseur.",0,0,5,0,0,255,255,0,39932,1,3,43,10,0,0,0,0,0,0,0,261,1,0
+4024,13,"Dresseur novice","Atteindre le niveau 20 avec le job dresseur.",0,0,5,0,0,255,255,0,39932,1,3,43,20,0,0,0,0,0,0,0,262,1,0
+4025,13,"Dresseur intermédiaire","Atteindre le niveau 30 avec le job dresseur.",0,0,5,0,0,255,255,0,39932,1,3,43,30,0,0,0,0,0,0,0,263,1,0
+4026,13,"Dresseur confirmé","Atteindre le niveau 40 avec le job dresseur.",0,0,5,0,0,255,255,0,39932,1,3,43,40,0,0,0,0,0,0,0,264,1,0
+4027,13,"Dresseur vétéran","Atteindre le niveau 50 avec le job dresseur.",0,0,5,0,0,255,255,0,39932,1,3,43,50,0,0,0,0,0,0,0,265,1,0
+4028,1,"Adepte des bêtes I","Obtenir 10 bêtes dans le bestiaire de dresseur.",0,0,5,0,0,255,255,0,3905,1,32,69,10,0,0,0,0,0,0,0,1601,1,0
+4029,1,"Adepte des bêtes II","Obtenir 20 bêtes dans le bestiaire de dresseur.",0,0,5,0,0,255,255,0,3905,1,32,69,20,0,0,0,0,0,0,0,1602,1,0
+4030,1,"Adepte des bêtes III","Obtenir 30 bêtes dans le bestiaire de dresseur.",0,0,5,0,0,255,255,0,3905,1,32,69,30,0,0,0,0,0,0,0,1603,1,0
+4031,1,"Adepte des bêtes IV","Obtenir 40 bêtes dans le bestiaire de dresseur.",0,0,5,0,0,255,255,0,3905,1,32,69,40,0,0,0,0,0,0,0,1604,1,0
+4032,1,"Adepte des bêtes V","Obtenir 50 bêtes dans le bestiaire de dresseur.",0,0,5,0,0,255,255,0,3905,1,32,69,50,0,0,0,0,0,0,0,1605,1,0
+4033,1,"Échec et mat I","Finir le Dédale bestial - 1er plateau.",0,0,5,0,0,255,255,0,3901,1,14,56001,0,0,0,0,0,0,0,0,1620,1,0
+4034,1,"Échec et mat II","Finir le Dédale bestial - 2e plateau.",0,0,5,0,0,255,255,0,3901,1,14,56002,0,0,0,0,0,0,0,0,1621,1,0
+4035,1,"Échec et mat III","Finir le Dédale bestial - 3e plateau.",0,0,5,0,0,255,255,0,3901,1,14,56003,0,0,0,0,0,0,0,0,1622,1,0
+4036,1,"Expert et mat I","Finir le Dédale bestial - 1er plateau expert.",0,0,5,0,0,255,255,0,3901,1,14,56004,0,0,0,0,0,0,0,0,1623,1,0
+4037,1,"Expert et mat II","Finir le Dédale bestial - 2e plateau expert.",0,0,5,0,0,255,255,0,3901,1,14,56005,0,0,0,0,0,0,0,0,1624,1,0
+4038,1,"Arpenteur du sentier I","Finir le Dédale bestial - 1er plateau dans le mode de jeu “Sentier bestial III”.",0,0,10,0,0,255,255,0,3929,1,1,1424,1,0,0,0,0,0,0,0,1625,1,0
+4039,1,"Arpenteur du sentier II","Finir le Dédale bestial - 2e plateau dans le mode de jeu “Sentier bestial III”.",0,0,10,0,0,255,255,0,3929,1,1,1425,1,0,0,0,0,0,0,0,1626,1,0
+4040,1,"Arpenteur du sentier III","Finir le Dédale bestial - 3e plateau dans le mode de jeu “Sentier bestial III”.",0,0,10,0,0,255,255,0,3929,1,1,1426,1,0,0,0,0,0,0,0,1627,1,0
+4041,1,"Expert du sentier I","Finir le Dédale bestial - 1er plateau expert dans le mode de jeu “Sentier bestial III”.",0,0,10,0,0,255,255,0,3929,1,1,1427,1,0,0,0,0,0,0,0,1628,1,0
+4042,1,"Expert du sentier II","Finir le Dédale bestial - 2e plateau expert dans le mode de jeu “Sentier bestial III”.",0,0,10,0,0,255,255,0,3929,1,1,1428,1,0,0,0,0,0,0,0,1629,1,0
+4043,1,"Traversée éclatante I","Finir le Dédale bestial - 1er plateau en obtenant le rang “dresseur d'exception” ou supérieur.",0,0,5,0,0,255,255,0,3923,1,1,1429,1,0,0,0,0,0,0,0,1630,1,0
+4044,1,"Traversée exceptionnelle I","Finir le Dédale bestial - 1er plateau en obtenant le rang “dresseur légendaire” ou supérieur.",0,0,10,0,0,255,255,0,3923,1,1,1430,1,0,0,0,0,0,0,0,1631,1,0
+4045,1,"Traversée éclatante II","Finir le Dédale bestial - 2e plateau en obtenant le rang “dresseur d'exception” ou supérieur.",0,0,5,0,0,255,255,0,3923,1,1,1431,1,0,0,0,0,0,0,0,1632,1,0
+4046,1,"Traversée exceptionnelle II","Finir le Dédale bestial - 2e plateau en obtenant le rang “dresseur légendaire” ou supérieur.",0,0,10,0,0,255,255,0,3923,1,1,1432,1,0,0,0,0,0,0,0,1633,1,0
+4047,1,"Traversée éclatante III","Finir le Dédale bestial - 3e plateau en obtenant le rang “dresseur d'exception” ou supérieur.",0,0,5,0,0,255,255,0,3923,1,1,1433,1,0,0,0,0,0,0,0,1634,1,0
+4048,1,"Traversée exceptionnelle III","Finir le Dédale bestial - 3e plateau en obtenant le rang “dresseur légendaire” ou supérieur.",0,0,10,0,0,255,255,0,3923,1,1,1434,1,0,0,0,0,0,0,0,1635,1,0
+4049,1,"Périple resplendissant I","Finir le Dédale bestial - 1er plateau expert en obtenant le rang “dresseur d'exception” ou supérieur.",0,0,5,0,0,255,255,0,3923,1,1,1435,1,0,0,0,0,0,0,0,1636,1,0
+4050,1,"Périple glorieux I","Finir le Dédale bestial - 1er plateau expert en obtenant le rang “dresseur légendaire” ou supérieur.",0,0,10,0,0,255,255,0,3923,1,1,1436,1,0,0,0,0,0,0,0,1637,1,0
+4051,1,"Périple resplendissant II","Finir le Dédale bestial - 2e plateau expert en obtenant le rang “dresseur d'exception” ou supérieur.",0,0,5,0,0,255,255,0,3923,1,1,1437,1,0,0,0,0,0,0,0,1638,1,0
+4052,1,"Périple glorieux II","Finir le Dédale bestial - 2e plateau expert en obtenant le rang “dresseur légendaire” ou supérieur.",0,0,10,0,0,255,255,0,3923,1,1,1438,1,0,0,0,0,0,0,0,1639,1,0
+4053,1,"Expert du Dédale","Obtenir le rang “dresseur d'exception” ou supérieur aux 1er, 2e et 3e plateaux ainsi qu'aux 1er et 2e plateaux experts du Dédale bestial.",64,50,5,877,0,255,255,0,3924,1,26,71,5,0,0,0,0,0,0,0,1640,1,0
+4054,1,"Maître du Dédale","Obtenir le rang “dresseur légendaire” ou supérieur aux 1er, 2e et 3e plateaux ainsi qu'aux 1er et 2e plateaux experts du Dédale bestial.",64,50,10,891,0,255,255,0,3924,1,26,72,5,0,0,0,0,0,0,0,1641,1,0
+4055,1,"Grand maître du Dédale","Terminer les 1er, 2e et 3e plateaux ainsi que les 1er et 2e plateaux experts du Dédale bestial dans le mode de jeu “Sentier bestial III”.",64,50,20,892,0,255,255,0,3927,1,26,73,5,0,0,0,0,0,0,0,1642,1,0
+4056,1,"Entraînement bestial I","Atteindre le rang 25 ou spérieur avec 10 bêtes.",0,0,5,0,0,255,255,0,3906,1,1,1447,10,0,0,0,0,0,0,0,1661,1,0
+4057,1,"Entraînement bestial II","Atteindre le rang 25 ou spérieur avec 20 bêtes.",0,0,5,0,0,255,255,0,3906,1,1,1447,20,0,0,0,0,0,0,0,1662,1,0
+4058,1,"Entraînement bestial III","Atteindre le rang 25 ou spérieur avec 30 bêtes.",0,0,5,0,0,255,255,0,3906,1,1,1447,30,0,0,0,0,0,0,0,1663,1,0
+4059,1,"Entraînement bestial IV","Atteindre le rang 25 ou spérieur avec 40 bêtes.",0,0,5,0,0,255,255,0,3906,1,1,1447,40,0,0,0,0,0,0,0,1664,1,0
+4060,1,"Entraînement bestial V","Atteindre le rang 25 ou spérieur avec 50 bêtes.",0,0,10,0,0,255,255,0,3906,1,1,1447,50,0,0,0,0,0,0,0,1665,1,0
+4061,1,"Ami des thériens","Obtenir le bonus “maîtrise des thériens” dans le Dédale bestial - 2e plateau expert.",64,50,10,878,0,255,255,0,3915,1,1,1439,1,0,0,0,0,0,0,0,1643,1,0
+4062,1,"Ami des insectoïdes","Obtenir le bonus “maîtrise des insectoïdes” dans le Dédale bestial - 2e plateau expert.",64,50,10,879,0,255,255,0,3916,1,1,1440,1,0,0,0,0,0,0,0,1644,1,0
+4063,1,"Ami des ptériens","Obtenir le bonus “maîtrise des ptériens” dans le Dédale bestial - 2e plateau expert.",64,50,10,880,0,255,255,0,3917,1,1,1441,1,0,0,0,0,0,0,0,1645,1,0
+4064,1,"Ami des floréens","Obtenir le bonus “maîtrise des floréens” dans le Dédale bestial - 2e plateau expert.",64,50,10,881,0,255,255,0,3918,1,1,1442,1,0,0,0,0,0,0,0,1646,1,0
+4065,1,"Ami des hydrides","Obtenir le bonus “maîtrise des hydrides” dans le Dédale bestial - 2e plateau expert.",64,50,10,882,0,255,255,0,3919,1,1,1443,1,0,0,0,0,0,0,0,1647,1,0
+4066,1,"Ami des cuirassiens","Obtenir le bonus “maîtrise des cuirassiens” dans le Dédale bestial - 2e plateau expert.",64,50,10,883,0,255,255,0,3920,1,1,1444,1,0,0,0,0,0,0,0,1648,1,0
+4067,1,"Ami des animides","Obtenir le bonus “maîtrise des animides” dans le Dédale bestial - 2e plateau expert.",64,50,10,884,0,255,255,0,3921,1,1,1445,1,0,0,0,0,0,0,0,1649,1,0
+4068,1,"Ami des nécroïdes","Obtenir le bonus “maîtrise des nécroïdes” dans le Dédale bestial - 2e plateau expert.",64,50,10,885,0,255,255,0,3922,1,1,1446,1,0,0,0,0,0,0,0,1650,1,0
 4069,4,"Triompher de la démence","Survivre à la dernière note de la partition du bouffon.",43,100,10,886,0,255,255,0,317,1,14,30162,0,0,0,0,0,0,0,0,0,1,0
-4070,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4071,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4072,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4073,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4070,18,"Prodige du pianotage I","Réussir 1 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,1,0,0,0,0,0,0,0,1320,1,0
+4071,18,"Prodige du pianotage II","Réussir 10 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,10,0,0,0,0,0,0,0,1321,1,0
+4072,18,"Prodige du pianotage III","Réussir 50 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,50,0,0,0,0,0,0,0,1322,1,0
+4073,18,"Prodige du pianotage IV","Réussir 100 fois Frappe fatale.",47,15,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
 4074,49,"Cartographe du continent : Île de Lunule septentrionale","Découvrir toute la carte de l'île de Lunule septentrionale.",0,0,10,0,0,255,255,0,1001,1,8,1135,0,0,0,0,0,0,0,0,2401,1,0
-4075,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4076,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4077,0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4075,1,"Roi du Dédale","Terminer le Dédale bestial à la 1re place du classement.",64,50,20,888,0,255,255,0,3945,0,1,1419,1,0,0,0,0,0,0,0,1691,1,1
+4076,1,"Prince du Dédale","Terminer le Dédale bestial dans les premières places du classement.",64,50,20,889,0,255,255,0,3945,0,1,1420,1,0,0,0,0,0,0,0,1692,1,1
+4077,1,"As du Dédale","Obtenir une place au classement du Dédale bestial.",64,50,20,0,52639,255,197,1,3945,0,1,1421,1,0,0,0,0,0,0,0,1693,1,1

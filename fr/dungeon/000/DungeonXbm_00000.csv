@@ -1,6 +1,6 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
+0,"TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000","Pshhh<Indent/>! Loosefrox est l'aînée, elle est la plus forte<Indent/>! Et elle va le prouver avec l'aide de Patatoune<Indent/>!"
+1,"TEXT_DUNGEONXBM_00000_GUTTLER_000_100","Misérable <If(PlayerParameter(4))>dresseuse<Else/>dresseur</If>... Je vais te réduire en lambeaux et dévorer ton âme<Indent/>!"
+2,"TEXT_DUNGEONXBM_00000_GUTTLER_000_200","Mon cœur et celui de Lauda battent désormais à l'unisson... Approche, <If(PlayerParameter(4))>dresseuse<Else/>dresseur</If>, tu vas découvrir notre véritable puissance<Indent/>!"

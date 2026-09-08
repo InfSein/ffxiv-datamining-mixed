@@ -91,11 +91,11 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 86,14,61824,3,1,14,8,0,0,0,0,70942,"Sanctuaire des pèlerins : progression III","Conquérir la 50e zone du Sanctuaire des pèlerins.",0
 87,14,61824,4,1,15,3,0,0,0,0,70942,"Sanctuaire des pèlerins : progression IV","Conquérir la 70e zone du Sanctuaire des pèlerins.",0
 88,14,61824,5,1,14,10,0,0,0,0,70942,"Sanctuaire des pèlerins : progression V","Conquérir la 100e zone du Sanctuaire des pèlerins.",0
-89,0,0,0,0,0,0,0,0,0,0,0,"","",0
-90,0,0,0,0,0,0,0,0,0,0,0,"","",0
-91,0,0,0,0,0,0,0,0,0,0,0,"","",0
-92,0,0,0,0,0,0,0,0,0,0,0,"","",0
-93,0,0,0,0,0,0,0,0,0,0,0,"","",0
+89,11,61854,1,1,16,50,0,0,0,0,71030,"Dédale parcouru I","Finir le Dédale bestial - 1er plateau.",0
+90,11,61854,2,1,16,50,0,0,0,0,71032,"Dédale parcouru II","Finir le Dédale bestial - 2e plateau.",0
+91,11,61854,3,1,17,30,0,0,0,0,71034,"Dédale parcouru III","Finir le Dédale bestial - 3e plateau.",0
+92,11,61854,4,1,17,30,0,0,0,0,71036,"Dédale maîtrisé I","Finir le Dédale bestial - 1er plateau expert.",0
+93,11,61854,5,1,17,30,0,0,0,0,71037,"Dédale maîtrisé II","Finir le Dédale bestial - 2e plateau expert.",0
 94,0,0,0,0,0,0,0,0,0,0,0,"","",0
 95,0,0,0,0,0,0,0,0,0,0,0,"","",0
 96,0,0,0,0,0,0,0,0,0,0,0,"","",0

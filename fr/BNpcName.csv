@@ -14408,56 +14408,56 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14404,"momonga bretteur",0,"momonga bretteurs",0,0,1,0,0
 14405,"lamantin paisible",0,"lamantins paisibles",0,0,1,0,0
 14406,"double de Glasya-Labolas",0,"doubles de Glasya-Labolas",0,0,1,0,0
-14407,"",0,"",0,0,0,0,0
-14408,"",0,"",0,0,0,0,0
-14409,"",0,"",0,0,0,0,0
-14410,"",0,"",0,0,0,0,0
-14411,"",0,"",0,0,0,0,0
-14412,"",0,"",0,0,0,0,0
-14413,"",0,"",0,0,0,0,0
-14414,"",0,"",0,0,0,0,0
-14415,"",0,"",0,0,0,0,0
-14416,"",0,"",0,0,0,0,0
-14417,"",0,"",0,0,0,0,0
-14418,"",0,"",0,0,0,0,0
-14419,"",0,"",0,0,0,0,0
-14420,"",0,"",0,0,0,0,0
-14421,"",0,"",0,0,0,0,0
-14422,"",0,"",0,0,0,0,0
-14423,"",0,"",0,0,0,0,0
-14424,"",0,"",0,0,0,0,0
-14425,"",0,"",0,0,0,0,0
-14426,"",0,"",0,0,0,0,0
-14427,"",0,"",0,0,0,0,0
-14428,"",0,"",0,0,0,0,0
-14429,"",0,"",0,0,0,0,0
-14430,"",0,"",0,0,0,0,0
-14431,"",0,"",0,0,0,0,0
-14432,"",0,"",0,0,0,0,0
-14433,"",0,"",0,0,0,0,0
-14434,"",0,"",0,0,0,0,0
-14435,"",0,"",0,0,0,0,0
-14436,"",0,"",0,0,0,0,0
-14437,"",0,"",0,0,0,0,0
-14438,"",0,"",0,0,0,0,0
-14439,"",0,"",0,0,0,0,0
-14440,"",0,"",0,0,0,0,0
-14441,"",0,"",0,0,0,0,0
-14442,"",0,"",0,0,0,0,0
-14443,"",0,"",0,0,0,0,0
-14444,"",0,"",0,0,0,0,0
-14445,"",0,"",0,0,0,0,0
-14446,"",0,"",0,0,0,0,0
-14447,"",0,"",0,0,0,0,0
-14448,"",0,"",0,0,0,0,0
-14449,"",0,"",0,0,0,0,0
-14450,"",0,"",0,0,0,0,0
-14451,"",0,"",0,0,0,0,0
-14452,"",0,"",0,0,0,0,0
-14453,"",0,"",0,0,0,0,0
-14454,"",0,"",0,0,0,0,0
-14455,"",0,"",0,0,0,0,0
-14456,"",0,"",0,0,0,0,0
+14407,"cu sith",0,"cu sith",0,0,1,0,0
+14408,"écureuil",0,"écureuils",0,1,1,0,0
+14409,"mouton",0,"moutons",0,0,1,0,0
+14410,"pugil",0,"pugils",0,0,1,0,0
+14411,"opo-opo",0,"opo-opo",0,1,1,0,0
+14412,"dodo",0,"dodos",0,0,1,0,0
+14413,"coblyn",0,"coblyns",0,0,1,0,0
+14414,"acarus",0,"acari",0,1,1,0,0
+14415,"mégalocrabe",0,"mégalocrabes",0,0,1,0,0
+14416,"frelon",0,"frelons",0,0,1,0,0
+14417,"vautour",0,"vautours",0,0,1,0,0
+14418,"mandragore",0,"mandragores",0,0,1,1,0
+14419,"gespenst",0,"gespensts",0,0,1,0,0
+14420,"puk",0,"puks",0,0,1,0,0
+14421,"crabe",0,"crabes",0,0,1,0,0
+14422,"mante",0,"mantes",0,0,1,1,0
+14423,"gluant",0,"gluants",0,0,1,0,0
+14424,"dullahan",0,"dullahans",0,0,1,0,0
+14425,"chauve-souris",0,"chauves-souris",0,0,1,1,0
+14426,"piège-volant",0,"pièges-volants",0,0,1,0,0
+14427,"ziz",0,"ziz",0,0,1,0,0
+14428,"pampa",0,"pampas",0,0,1,0,0
+14429,"golem",0,"golems",0,0,1,0,0
+14430,"apkallu",0,"apkallus",0,1,1,0,0
+14431,"adamankhélone",0,"adamankhélones",0,1,1,1,0
+14432,"buffle",0,"buffles",0,0,1,0,0
+14433,"uragnite",0,"uragnites",0,1,1,1,0
+14434,"ver géant",0,"ver géant",0,0,1,0,0
+14435,"spriggan",0,"spriggans",0,0,1,0,0
+14436,"goobbue",0,"goobbues",0,0,1,0,0
+14437,"crapaud géant",0,"crapauds géants",0,0,1,0,0
+14438,"colibri",0,"colibris",0,0,1,0,0
+14439,"coeurl",0,"coeurls",0,0,1,0,0
+14440,"raptor",0,"raptors",0,0,1,0,0
+14441,"draconide",0,"draconides",0,0,1,0,0
+14442,"tréant",0,"tréants",0,0,1,0,0
+14443,"fourmi",0,"fourmis",0,0,1,1,0
+14444,"chimère",0,"chimères",0,0,1,1,0
+14445,"morbol",0,"morbols",0,0,1,0,0
+14446,"fantôme",0,"fantômes",0,0,1,0,0
+14447,"salamandre",0,"salamandres",0,0,1,1,0
+14448,"cobra",0,"cobras",0,0,1,0,0
+14449,"hydre",0,"hydres",0,1,1,1,0
+14450,"demoiselle",0,"demoiselles",0,0,1,1,0
+14451,"goobbue putrescent",0,"goobbues putrescents",0,0,1,0,0
+14452,"zu",0,"zus",0,0,1,0,0
+14453,"golem de glace",0,"golems de glace",0,0,1,0,0
+14454,"karlabos",0,"karlabos",0,0,1,0,0
+14455,"rafflesia",0,"rafflesias",0,0,1,1,0
+14456,"béhémoth",0,"béhémoths",0,0,1,0,0
 14457,"princesse des sirènes",0,"princesses des sirènes",0,0,1,1,0
 14458,"lampe magique",0,"lampes magiques",0,0,1,1,0
 14459,"Droningway",0,"Droningway",0,0,1,0,1
@@ -14508,7 +14508,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14504,"tête-barrière",0,"têtes-barrières",0,0,1,1,0
 14505,"Ravisseur",0,"Ravisseurs",0,0,1,0,0
 14506,"tornade",0,"tornades",0,0,1,1,0
-14507,"plumes du Ravisseur",0,"plumes du Ravisseur",0,0,2,1,0
+14507,"amas de plumes du Ravisseur",0,"amas de plumes du Ravisseur",0,1,1,0,0
 14508,"gigas d'orme",0,"gigas d'orme",0,0,1,0,0
 14509,"Lame d'albâtre",0,"Lame d'albâtre",0,0,1,1,0
 14510,"golem d'albâtre",0,"golems d'albâtre",0,0,1,0,0
@@ -14532,175 +14532,175 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14528,"page cinq-cent-douze",0,"pages cinq-cent-douze",0,0,1,1,0
 14529,"Alexander Resurrected",0,"Alexander Resurrected",0,1,1,0,1
 14530,"Gordeus System",0,"Gordeus System",0,0,1,0,0
-14531,"",0,"",0,0,0,0,0
-14532,"",0,"",0,0,0,0,0
-14533,"",0,"",0,0,0,0,0
-14534,"",0,"",0,0,0,0,0
-14535,"",0,"",0,0,0,0,0
-14536,"",0,"",0,0,0,0,0
-14537,"",0,"",0,0,0,0,0
-14538,"",0,"",0,0,0,0,0
-14539,"",0,"",0,0,0,0,0
-14540,"",0,"",0,0,0,0,0
-14541,"",0,"",0,0,0,0,0
-14542,"",0,"",0,0,0,0,0
-14543,"",0,"",0,0,0,0,0
-14544,"",0,"",0,0,0,0,0
-14545,"",0,"",0,0,0,0,0
-14546,"",0,"",0,0,0,0,0
-14547,"",0,"",0,0,0,0,0
-14548,"",0,"",0,0,0,0,0
-14549,"",0,"",0,0,0,0,0
-14550,"",0,"",0,0,0,0,0
-14551,"",0,"",0,0,0,0,0
-14552,"",0,"",0,0,0,0,0
-14553,"",0,"",0,0,0,0,0
-14554,"",0,"",0,0,0,0,0
-14555,"",0,"",0,0,0,0,0
-14556,"",0,"",0,0,0,0,0
-14557,"",0,"",0,0,0,0,0
-14558,"",0,"",0,0,0,0,0
-14559,"",0,"",0,0,0,0,0
-14560,"",0,"",0,0,0,0,0
-14561,"",0,"",0,0,0,0,0
-14562,"",0,"",0,0,0,0,0
-14563,"",0,"",0,0,0,0,0
-14564,"",0,"",0,0,0,0,0
-14565,"",0,"",0,0,0,0,0
-14566,"",0,"",0,0,0,0,0
-14567,"",0,"",0,0,0,0,0
-14568,"",0,"",0,0,0,0,0
-14569,"",0,"",0,0,0,0,0
-14570,"",0,"",0,0,0,0,0
-14571,"",0,"",0,0,0,0,0
-14572,"",0,"",0,0,0,0,0
-14573,"",0,"",0,0,0,0,0
-14574,"",0,"",0,0,0,0,0
-14575,"",0,"",0,0,0,0,0
-14576,"",0,"",0,0,0,0,0
-14577,"",0,"",0,0,0,0,0
-14578,"",0,"",0,0,0,0,0
-14579,"",0,"",0,0,0,0,0
-14580,"",0,"",0,0,0,0,0
-14581,"",0,"",0,0,0,0,0
-14582,"",0,"",0,0,0,0,0
-14583,"",0,"",0,0,0,0,0
-14584,"",0,"",0,0,0,0,0
-14585,"",0,"",0,0,0,0,0
-14586,"",0,"",0,0,0,0,0
-14587,"",0,"",0,0,0,0,0
-14588,"",0,"",0,0,0,0,0
-14589,"",0,"",0,0,0,0,0
-14590,"",0,"",0,0,0,0,0
-14591,"",0,"",0,0,0,0,0
-14592,"",0,"",0,0,0,0,0
-14593,"",0,"",0,0,0,0,0
-14594,"",0,"",0,0,0,0,0
-14595,"",0,"",0,0,0,0,0
-14596,"",0,"",0,0,0,0,0
-14597,"",0,"",0,0,0,0,0
-14598,"",0,"",0,0,0,0,0
-14599,"",0,"",0,0,0,0,0
-14600,"",0,"",0,0,0,0,0
-14601,"",0,"",0,0,0,0,0
-14602,"",0,"",0,0,0,0,0
-14603,"",0,"",0,0,0,0,0
-14604,"",0,"",0,0,0,0,0
-14605,"",0,"",0,0,0,0,0
-14606,"",0,"",0,0,0,0,0
-14607,"",0,"",0,0,0,0,0
-14608,"",0,"",0,0,0,0,0
-14609,"",0,"",0,0,0,0,0
-14610,"",0,"",0,0,0,0,0
-14611,"",0,"",0,0,0,0,0
-14612,"",0,"",0,0,0,0,0
-14613,"",0,"",0,0,0,0,0
-14614,"",0,"",0,0,0,0,0
-14615,"",0,"",0,0,0,0,0
-14616,"",0,"",0,0,0,0,0
-14617,"",0,"",0,0,0,0,0
-14618,"",0,"",0,0,0,0,0
-14619,"",0,"",0,0,0,0,0
-14620,"",0,"",0,0,0,0,0
-14621,"",0,"",0,0,0,0,0
-14622,"",0,"",0,0,0,0,0
-14623,"",0,"",0,0,0,0,0
-14624,"",0,"",0,0,0,0,0
-14625,"",0,"",0,0,0,0,0
-14626,"",0,"",0,0,0,0,0
-14627,"",0,"",0,0,0,0,0
-14628,"",0,"",0,0,0,0,0
-14629,"",0,"",0,0,0,0,0
-14630,"",0,"",0,0,0,0,0
-14631,"",0,"",0,0,0,0,0
-14632,"",0,"",0,0,0,0,0
-14633,"",0,"",0,0,0,0,0
-14634,"",0,"",0,0,0,0,0
-14635,"",0,"",0,0,0,0,0
-14636,"",0,"",0,0,0,0,0
-14637,"",0,"",0,0,0,0,0
-14638,"",0,"",0,0,0,0,0
-14639,"",0,"",0,0,0,0,0
-14640,"",0,"",0,0,0,0,0
-14641,"",0,"",0,0,0,0,0
-14642,"",0,"",0,0,0,0,0
-14643,"",0,"",0,0,0,0,0
-14644,"",0,"",0,0,0,0,0
-14645,"",0,"",0,0,0,0,0
-14646,"",0,"",0,0,0,0,0
-14647,"",0,"",0,0,0,0,0
-14648,"",0,"",0,0,0,0,0
-14649,"",0,"",0,0,0,0,0
-14650,"",0,"",0,0,0,0,0
-14651,"",0,"",0,0,0,0,0
-14652,"",0,"",0,0,0,0,0
-14653,"",0,"",0,0,0,0,0
-14654,"",0,"",0,0,0,0,0
-14655,"",0,"",0,0,0,0,0
-14656,"",0,"",0,0,0,0,0
-14657,"",0,"",0,0,0,0,0
-14658,"",0,"",0,0,0,0,0
-14659,"",0,"",0,0,0,0,0
-14660,"",0,"",0,0,0,0,0
-14661,"",0,"",0,0,0,0,0
-14662,"",0,"",0,0,0,0,0
-14663,"",0,"",0,0,0,0,0
-14664,"",0,"",0,0,0,0,0
-14665,"",0,"",0,0,0,0,0
-14666,"",0,"",0,0,0,0,0
-14667,"",0,"",0,0,0,0,0
-14668,"",0,"",0,0,0,0,0
-14669,"",0,"",0,0,0,0,0
-14670,"",0,"",0,0,0,0,0
-14671,"",0,"",0,0,0,0,0
-14672,"",0,"",0,0,0,0,0
-14673,"",0,"",0,0,0,0,0
-14674,"",0,"",0,0,0,0,0
-14675,"",0,"",0,0,0,0,0
-14676,"",0,"",0,0,0,0,0
-14677,"",0,"",0,0,0,0,0
-14678,"",0,"",0,0,0,0,0
-14679,"",0,"",0,0,0,0,0
-14680,"",0,"",0,0,0,0,0
-14681,"",0,"",0,0,0,0,0
-14682,"",0,"",0,0,0,0,0
-14683,"",0,"",0,0,0,0,0
-14684,"",0,"",0,0,0,0,0
-14685,"",0,"",0,0,0,0,0
-14686,"",0,"",0,0,0,0,0
-14687,"",0,"",0,0,0,0,0
-14688,"",0,"",0,0,0,0,0
-14689,"",0,"",0,0,0,0,0
-14690,"",0,"",0,0,0,0,0
-14691,"",0,"",0,0,0,0,0
-14692,"",0,"",0,0,0,0,0
-14693,"",0,"",0,0,0,0,0
-14694,"",0,"",0,0,0,0,0
-14695,"",0,"",0,0,0,0,0
-14696,"",0,"",0,0,0,0,0
-14697,"",0,"",0,0,0,0,0
-14698,"",0,"",0,0,0,0,0
-14699,"",0,"",0,0,0,0,0
+14531,"chevalier du plateau",0,"chevaliers du plateau",0,0,1,0,0
+14532,"évêque du plateau",0,"évêques du plateau",0,1,1,0,0
+14533,"archidémon du plateau",0,"archidémons du plateau",0,1,1,0,0
+14534,"lance abyssale",0,"lances abyssales",0,0,1,1,0
+14535,"piscodémon du plateau",0,"piscodémons du plateau",0,0,1,0,0
+14536,"sarcopte du plateau",0,"sarcoptes du plateau",0,0,1,0,0
+14537,"petit acarus du plateau",0,"petits acari du plateau",0,0,1,0,0
+14538,"ogre du plateau",0,"ogres du plateau",0,1,1,0,0
+14539,"feu follet du plateau",0,"feux follets du plateau",0,0,1,0,0
+14540,"orbe de feu",0,"orbe de feu",0,1,1,0,0
+14541,"Pas de Seul",0,"Pas de Seul",0,0,1,1,1
+14542,"succube mage du plateau",0,"succubes mages du plateau",0,0,1,1,0
+14543,"succube épéiste du plateau",0,"succubes épéistes du plateau",0,0,1,1,0
+14544,"phéromone",0,"phéromones",0,0,1,1,0
+14545,"manticore du plateau",0,"manticores du plateau",0,0,1,1,0
+14546,"taurus du plateau",0,"tauri du plateau",0,0,1,0,0
+14547,"globe magique",0,"globes magiques",0,0,1,0,0
+14548,"ahriman du plateau",0,"ahrimans du plateau",0,1,1,0,0
+14549,"wyverne du plateau",0,"wyvernes du plateau",0,0,1,1,0
+14550,"tornade",0,"tornades",0,0,1,1,0
+14551,"élémentaire de vent",0,"élémentaires de vent",0,1,1,0,0
+14552,"nihilomancien",0,"nihilomanciens",0,0,1,0,0
+14553,"zombi du plateau",0,"zombis du plateau",0,0,1,0,0
+14554,"pestilence",0,"pestilences",0,0,1,1,0
+14555,"taureau aîné",0,"taureaux aînés",0,0,1,0,0
+14556,"taureau cadet",0,"taureaux cadets",0,0,1,0,0
+14557,"démon du plateau",0,"démons du plateau",0,0,1,0,0
+14558,"arme maligne du plateau",0,"armes malignes du plateau",0,1,1,1,0
+14559,"diablotin du plateau",0,"diablotins du plateau",0,0,1,0,0
+14560,"globe magique",0,"globes magiques",0,0,1,0,0
+14561,"Loosefrox",0,"Loosefrox",0,0,1,1,1
+14562,"Patatoune",0,"Patatoune",0,0,1,1,1
+14563,"gobgobombe",0,"gobgobombes",0,0,1,1,0
+14564,"cavalier du plateau",0,"cavaliers du plateau",0,0,1,0,0
+14565,"double de cavalier du plateau",0,"doubles de cavalier du plateau",0,0,1,0,0
+14566,"chevalier du plateau",0,"chevaliers du plateau",0,0,1,0,0
+14567,"évêque du plateau",0,"évêques du plateau",0,1,1,0,0
+14568,"fragment d'âme",0,"fragments d'âme",0,0,1,0,0
+14569,"bulot du plateau",0,"bulots du plateau",0,0,1,0,0
+14570,"coquille de bulot du plateau",0,"coquilles de bulot du plateau",0,0,1,1,0
+14571,"Sahuagin du plateau",0,"Sahuagins du plateau",0,0,1,0,0
+14572,"zu du plateau",0,"zus du plateau",0,0,1,0,0
+14573,"coquelet du plateau",0,"coquelets du plateau",0,0,1,0,0
+14574,"poulette du plateau",0,"poulettes du plateau",0,0,1,1,0
+14575,"œuf de zu",0,"œufs de zu",0,1,1,0,0
+14576,"œuf de zu",0,"œufs de zu",0,1,1,0,0
+14577,"catoblépas du plateau",0,"catoblépas du plateau",0,0,1,0,0
+14578,"œil maléfique",0,"yeux maléfiques",0,1,1,0,0
+14579,"œil maléfique",0,"yeux maléfiques",0,1,1,0,0
+14580,"Lakhamu du plateau",0,"Lakhamu du plateau",0,0,1,1,1
+14581,"golem du plateau",0,"golems du plateau",0,0,1,0,0
+14582,"sphère de sable",0,"sphères de sable",0,0,1,1,0
+14583,"sirène du plateau",0,"sirènes du plateau",0,0,1,1,0
+14584,"bulle musicale",0,"bulles musicales",0,0,1,1,0
+14585,"pagaille du plateau",0,"pagailles du plateau",0,0,1,1,0
+14586,"rampant du plateau",0,"rampants du plateau",0,0,1,0,0
+14587,"pampa champion du plateau",0,"pampas champions du plateau",0,0,1,0,0
+14588,"pampa du plateau",0,"pampas du plateau",0,0,1,0,0
+14589,"pampa à fleurs du plateau",0,"pampas à fleurs du plateau",0,0,1,0,0
+14590,"pampa soldat du plateau",0,"pampas soldats du plateau",0,0,1,0,0
+14591,"pampa garde du plateau",0,"pampas gardes du plateau",0,0,1,0,0
+14592,"Dévoreuse",0,"Dévoreuse",0,0,1,1,1
+14593,"monstrolame de mise à feu",0,"monstrolames de mise à feu",0,0,1,1,0
+14594,"monstrolame de fournaise",0,"monstrolames de fournaise",0,0,1,1,0
+14595,"thanatos du plateau",0,"thanatos du plateau",0,0,1,0,0
+14596,"strix du plateau",0,"strix du plateau",0,0,1,0,0
+14597,"grimoire du plateau",0,"grimoires du plateau",0,0,1,0,0
+14598,"plume de strix",0,"plumes de strix",0,0,1,1,0
+14599,"morbol du plateau",0,"morbols du plateau",0,0,1,0,0
+14600,"pousse du plateau",0,"pousses du plateau",0,0,1,1,0
+14601,"otyugh du plateau",0,"otyughs du plateau",0,1,1,0,0
+14602,"bouillon avarié",0,"bouillons avariés",0,0,1,0,0
+14603,"fleur-dépouille du plateau",0,"fleurs-dépouilles du plateau",0,0,1,1,0
+14604,"surgeon du plateau",0,"surgeons du plateau",0,0,1,0,0
+14605,"reine des guêpes du plateau",0,"reines des guêpes du plateau",0,0,1,1,0
+14606,"dragon de glace du plateau",0,"dragons de glace du plateau",0,0,1,0,0
+14607,"élémentaire de glace",0,"élémentaires de glace",0,1,1,0,0
+14608,"gargouille du plateau",0,"gargouilles du plateau",0,0,1,1,0
+14609,"pestilence",0,"pestilences",0,0,1,1,0
+14610,"administrateur du plateau",0,"administrateurs du plateau",0,1,1,0,0
+14611,"insecte du plateau",0,"insectes du plateau",0,1,1,0,0
+14612,"fantassin du plateau",0,"fantassins du plateau",0,0,1,0,0
+14613,"cuirassé Dreadnaught du plateau",0,"cuirassés Dreadnaught du plateau",0,0,1,0,0
+14614,"drone du plateau",0,"drones du plateau",0,0,1,0,0
+14615,"chevalier miroir du plateau",0,"chevaliers miroir du plateau",0,0,1,0,0
+14616,"cobra du plateau",0,"cobras du plateau",0,0,1,0,0
+14617,"golem du plateau",0,"golems du plateau",0,0,1,0,0
+14618,"tréant du plateau",0,"tréants du plateau",0,0,1,0,0
+14619,"limace du plateau",0,"limaces du plateau",0,0,1,1,0
+14620,"surgeon du plateau",0,"surgeons du plateau",0,0,1,0,0
+14621,"acarus du plateau",0,"acari du plateau",0,1,1,0,0
+14622,"biloko du plateau",0,"bilokos du plateau",0,0,1,0,0
+14623,"maman bombo du plateau",0,"mamans bombos du plateau",0,0,1,1,0
+14624,"grenado du plateau",0,"grenados du plateau",0,0,1,0,0
+14625,"bombo du plateau",0,"bombos du plateau",0,0,1,0,0
+14626,"snoll du plateau",0,"snolls du plateau",0,0,1,0,0
+14627,"pyrobolos du plateau",0,"pyrobolos du plateau",0,0,1,0,0
+14628,"Borgny l'empoisonneuse",0,"Borgny l'empoisonneuse",0,0,1,1,1
+14629,"masse toxique",0,"masses toxiques",0,0,1,1,0
+14630,"boule de poison",0,"boules de poison",0,0,1,1,0
+14631,"flauros du plateau",0,"flauros du plateau",0,0,1,0,0
+14632,"élémentaire de foudre",0,"élémentaires de foudre",0,1,1,0,0
+14633,"flagelleur mental du plateau",0,"flagelleurs mentaux du plateau",0,0,1,0,0
+14634,"myconide du plateau",0,"myconides du plateau",0,0,1,0,0
+14635,"colonie fongique",0,"colonies fongiques",0,0,1,1,0
+14636,"spore",0,"spores",0,0,1,1,0
+14637,"sphère arcanique",0,"sphères arcaniques",0,0,1,1,0
+14638,"croque-mitaine du plateau",0,"croque-mitaines du plateau",0,0,1,0,0
+14639,"oculus du plateau",0,"oculi du plateau",0,1,1,0,0
+14640,"bombo du plateau",0,"bombos du plateau",0,0,1,0,0
+14641,"élémentaire de lumière",0,"élémentaires de lumière",0,1,1,0,0
+14642,"atomos du plateau",0,"atomos du plateau",0,1,1,0,0
+14643,"gremlin rouge du plateau",0,"gremlins rouges du plateau",0,0,1,0,0
+14644,"gremlin du plateau",0,"gremlins du plateau",0,0,1,0,0
+14645,"pudding du plateau",0,"puddings du plateau",0,0,1,0,0
+14646,"bavarois du plateau",0,"bavarois du plateau",0,0,1,0,0
+14647,"flan du plateau",0,"flans du plateau",0,0,1,0,0
+14648,"vodoriga du plateau",0,"vodorigas du plateau",0,0,1,1,0
+14649,"dahaka menaçant du plateau",0,"dahakas menaçants du plateau",0,0,1,0,0
+14650,"globe magique",0,"globes magiques",0,0,1,0,0
+14651,"draconide du plateau",0,"draconides du plateau",0,0,1,0,0
+14652,"orbe de feu",0,"orbes de feu",0,1,1,0,0
+14653,"taupe-à-pics du plateau",0,"taupes-à-pics du plateau",0,0,1,1,0
+14654,"vortex enflammé",0,"vortex enflammés",0,0,1,0,0
+14655,"abaddon du plateau",0,"abaddons du plateau",0,1,1,0,0
+14656,"morpho du plateau",0,"morpho du plateau",0,0,1,0,0
+14657,"dourgâ du plateau",0,"dourgâ du plateau",0,0,1,1,0
+14658,"missile",0,"missiles",0,0,1,0,0
+14659,"drone-drille du plateau",0,"drones-drilles du plateau",0,0,1,0,0
+14660,"médusa du plateau",0,"médusa du plateau",0,0,1,1,0
+14661,"lamia du plateau",0,"lamiae du plateau",0,0,1,1,0
+14662,"cyclope du plateau",0,"cyclopes du plateau",0,0,1,0,0
+14663,"chimère du plateau",0,"chimères du plateau",0,0,1,1,0
+14664,"orbe de foudre",0,"orbes de foudre",0,1,1,0,0
+14665,"sphinx du plateau",0,"sphinx du plateau",0,0,1,0,0
+14666,"dodo du plateau",0,"dodos du plateau",0,0,1,0,0
+14667,"pugil du plateau",0,"pugils du plateau",0,0,1,0,0
+14668,"opo-opo du plateau",0,"opo-opo du plateau",0,1,1,0,0
+14669,"puk du plateau",0,"puks du plateau",0,0,1,0,0
+14670,"gigantis du plateau",0,"gigantis du plateau",0,0,1,0,0
+14671,"cyclope du plateau",0,"cyclopes du plateau",0,0,1,0,0
+14672,"gel électrisant",0,"gels électrisants",0,0,1,0,0
+14673,"gel inflammable",0,"gels inflammables",0,0,1,0,0
+14674,"épéiste mog du plateau",0,"épéistes mog du plateau",0,1,1,1,0
+14675,"broyeur mog du plateau",0,"broyeurs mog du plateau",0,0,1,0,0
+14676,"soigneur mog royal",0,"soigneurs mog royaux",0,0,1,0,0
+14677,"incantateur mog royal",0,"incantateurs mog royaux",0,1,1,0,0
+14678,"soigneur mog du plateau",0,"soigneurs mog du plateau",0,0,1,0,0
+14679,"incantateur mog du plateau",0,"incantateurs mog du plateau",0,1,1,0,0
+14680,"épéiste mog royal",0,"épéistes mog royaux",0,1,1,0,0
+14681,"mélomane mog du plateau",0,"mélomanes mog du plateau",0,0,1,0,0
+14682,"orbe de son",0,"orbes de son",0,1,1,0,0
+14683,"agresseur mog du plateau",0,"agresseurs mog du plateau",0,1,1,0,0
+14684,"béhémoth du plateau",0,"béhémoths du plateau",0,0,1,0,0
+14685,"géant du plateau",0,"géants du plateau",0,0,1,0,0
+14686,"élémentaire de foudre",0,"élémentaires de foudre",0,1,1,0,0
+14687,"comète",0,"comètes",0,0,1,1,0
+14688,"roi ahriman du plateau",0,"rois ahriman du plateau",0,0,1,0,0
+14689,"sablier de la mort",0,"sabliers de la mort",0,0,1,0,0
+14690,"grande faucheuse du plateau",0,"grandes faucheuses du plateau",0,0,1,1,0
+14691,"hapalit du plateau",0,"hapalits du plateau",0,1,1,0,0
+14692,"œil souillé du plateau",0,"yeux souillés du plateau",0,1,1,0,0
+14693,"Lauda la hache habitée",0,"Lauda la hache habitée",0,0,1,1,1
+14694,"monstrolame de mise à feu",0,"monstrolames de mise à feu",0,0,1,1,0
+14695,"monstrolame de fournaise",0,"monstrolames de fournaise",0,0,1,1,0
+14696,"monstrolame dissimulée",0,"monstrolames dissimulées",0,0,1,1,0
+14697,"monstrolame renforcée",0,"monstrolames renforcées",0,0,1,1,0
+14698,"rangée de monstrolames de contrôle",0,"rangées de monstrolames de contrôle",0,0,1,1,0
+14699,"thanatos du plateau",0,"thanatos du plateau",0,0,1,0,0
 14700,"longs-doigts visiteur",0,"longs-doigts visiteurs",0,0,1,0,0
 14701,"persona visiteuse",0,"personae visiteuses",0,0,1,1,0
 14702,"taurus visiteur",0,"tauri visiteurs",0,0,1,0,0
@@ -14741,15 +14741,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14737,"lamia déficiente",0,"lamiae déficientes",0,0,1,1,0
 14738,"Sandy la sulfureuse",0,"Sandy la sulfureuse",0,0,1,1,1
 14739,"amas de gaz toxique",0,"amas de gaz toxique",0,1,1,0,0
-14740,"",0,"",0,0,0,0,0
-14741,"",0,"",0,0,0,0,0
-14742,"",0,"",0,0,0,0,0
-14743,"",0,"",0,0,0,0,0
-14744,"",0,"",0,0,0,0,0
-14745,"",0,"",0,0,0,0,0
-14746,"",0,"",0,0,0,0,0
+14740,"jeune Miqo'te",0,"jeunes Miqo'tes",0,0,1,1,0
+14741,"Estinien",0,"Estinien",0,1,1,0,1
+14742,"Alphinaud",0,"Alphinaud",0,1,1,0,1
+14743,"thræll subjugueur",0,"thræll subjugueurs",0,0,1,0,0
+14744,"thræll ravisseur",0,"thræll ravisseurs",0,0,1,0,0
+14745,"thræll empaleur",0,"thræll empaleurs",0,0,1,0,0
+14746,"noyau magique",0,"noyaux magiques",0,0,1,0,0
 14747,"Pélekus",0,"Pélekus",0,0,1,0,1
-14748,"",0,"",0,0,0,0,0
+14748,"grand feu follet du plateau",0,"grands feux follets du plateau",0,0,1,0,0
 14749,"Énuo",0,"Énuo",0,1,1,0,1
 14750,"grand vortex de néant",0,"grands vortex de néant",0,0,1,0,0
 14751,"vortex de néant",0,"vortex de néant",0,0,1,0,0
@@ -14795,7 +14795,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14791,"Carbuncle atlas",0,"Carbuncle atlas",0,0,1,0,0
 14792,"topaze",0,"topazes",0,0,1,0,0
 14793,"●イミテーション",0,"",0,0,1,0,0
-14794,"",0,"",0,0,0,0,0
+14794,"frères Taureaux",0,"frères Taureaux",0,0,2,0,0
 14795,"petit mage",0,"petits mages",0,0,1,0,0
 14796,"petit apprenti",0,"petits apprentis",0,0,1,0,0
 14797,"sphère de Brasier",0,"sphères de Brasier",0,0,1,1,0
@@ -14852,9 +14852,9 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14848,"Naindex",0,"Naindex",0,0,1,0,1
 14849,"p'tit mage",0,"p'tits mages",0,0,1,0,0
 14850,"Wuk Lamat miniature",0,"Wuk Lamat miniatures",0,0,1,1,0
-14851,"",0,"",0,0,0,0,0
+14851,"Laudouble",0,"Laudoubles",0,0,1,0,1
 14852,"Prishe miniature",0,"Prishe miniatures",0,0,1,1,0
-14853,"köttr miniature",0,"köttr miniatures",0,0,1,0,0
+14853,"Köttr miniature",0,"Köttr miniatures",0,0,1,0,0
 14854,"Germylvi",0,"Germylvi",0,0,1,1,1
 14855,"Barret miniature",0,"Barret miniatures",0,0,1,0,0
 14856,"uolosapa de Nym",0,"uolosapas de Nym",0,1,1,0,0
@@ -14928,8 +14928,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14924,"bombo visiteur",0,"bombos visiteurs",0,0,1,0,0
 14925,"œil maléfique visiteur",0,"yeux maléfiques visiteurs",0,1,1,0,0
 14926,"imp visiteur",0,"imps visiteurs",0,1,1,0,0
-14927,"",0,"",0,0,0,0,0
-14928,"",0,"",0,0,0,0,0
+14927,"serpent captif",0,"serpents captifs",0,0,1,0,0
+14928,"Moutardonne",0,"Moutardonne",0,0,1,1,1
 14929,"catoblépas de la Tour",0,"catoblépas de la Tour",0,0,1,0,0
 14930,"einhänder de la Tour",0,"einhänder de la Tour",0,1,1,0,0
 14931,"skate'ne de la Tour",0,"skate'ne de la Tour",0,0,1,0,0
@@ -14937,8 +14937,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14933,"Aérodestructeur",0,"Aérodestructeur",0,1,1,0,1
 14934,"voix paniquée",0,"voix paniquées",0,0,1,1,0
 14935,"voix de Sareel Ja",0,"voix de Sareel Ja",0,0,1,1,0
-14936,"",0,"",0,0,0,0,0
-14937,"",0,"",0,0,0,0,0
+14936,"Dévoreuse et Lauda",0,"Dévoreuse et Lauda",0,0,1,1,1
+14937,"monstrolame enchantée",0,"monstrolames enchantées",0,0,1,1,0
 14938,"ermite de la Magie",0,"ermites de la Magie",0,1,1,0,0
 14939,"cria alpaga d'orchestre",0,"crias alpagas d'orchestre",0,0,1,0,0
 14940,"minou sucré",0,"minous sucrés",0,0,1,0,0

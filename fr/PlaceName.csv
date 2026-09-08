@@ -5035,7 +5035,7 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 4960,"Autel des Flocons",0,"Autel des Flocons",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'Autel des Flocons</Case><Case(2)>à l'Autel des Flocons</Case><Case(3)>de l'Autel des Flocons</Case></Switch>",0,0,0
 4961,"Relais des Cimes",0,"Relais des Cimes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le relais des Cimes</Case><Case(2)>au relais des Cimes</Case><Case(3)>du relais des Cimes</Case></Switch>",0,0,0
 4962,"Square des clavistes",0,"Square des clavistes",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le square des clavistes</Case><Case(2)>au square des clavistes</Case><Case(3)>du square des clavistes</Case></Switch>",0,0,0
-4963,"",0,"",0,0,0,0,0,"",0,0,0
+4963,"Île flottante sans nom",0,"Île flottante sans nom",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'île flottante sans nom</Case><Case(2)>sur l'île flottante sans nom</Case><Case(3)>de l'île flottante sans nom</Case></Switch>",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
 4966,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5394,7 +5394,7 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5319,"Plateau de graphite",0,"Plateau de graphite",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le plateau de graphite</Case><Case(2)>au plateau de graphite</Case><Case(3)>du plateau de graphite</Case></Switch>",0,0,0
 5320,"Voyages spatiaux",0,"Voyages spatiaux",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le guichet des voyages spatiaux</Case><Case(2)>au guichet des voyages spatiaux</Case><Case(3)>du guichet des voyages spatiaux</Case></Switch>",0,0,0
 5321,"Transports d'urgence",0,"Transports d'urgence",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le guichet des transports d'urgence</Case><Case(2)>au guichet des transports d'urgence</Case><Case(3)>du guichet des transports d'urgence</Case></Switch>",0,0,0
-5322,"",0,"",0,0,0,0,0,"",0,0,0
+5322,"Dresseur",0,"Dresseur",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le dresseur</Case><Case(2)>au dresseur</Case><Case(3)>du dresseur</Case></Switch>",0,0,0
 5323,"",0,"",0,0,0,0,0,"",0,0,0
 5324,"",0,"",0,0,0,0,0,"",0,0,0
 5325,"",0,"",0,0,0,0,0,"",0,0,0
@@ -5668,19 +5668,19 @@ Guilde des surineurs",0,0,1,0,0,"",0,0,0
 5593,"Spélonque perdue",0,"Spélonque perdue",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Spélonque perdue</Case><Case(2)>à la Spélonque perdue</Case><Case(3)>de la Spélonque perdue</Case></Switch>",0,0,0
 5594,"Collection oubliée",0,"Collection oubliée",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la Collection oubliée</Case><Case(2)>à la Collection oubliée</Case><Case(3)>de la Collection oubliée</Case></Switch>",0,0,0
 5595,"Camp de base nord",0,"Camp de base nord",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le camp de base nord</Case><Case(2)>au camp de base nord</Case><Case(3)>du camp de base nord</Case></Switch>",0,0,0
-5596,"",0,"",0,0,0,0,0,"",0,0,0
-5597,"",0,"",0,0,0,0,0,"",0,0,0
-5598,"",0,"",0,0,0,0,0,"",0,0,0
-5599,"",0,"",0,0,0,0,0,"",0,0,0
-5600,"",0,"",0,0,0,0,0,"",0,0,0
-5601,"",0,"",0,0,0,0,0,"",0,0,0
-5602,"",0,"",0,0,0,0,0,"",0,0,0
-5603,"",0,"",0,0,0,0,0,"",0,0,0
-5604,"",0,"",0,0,0,0,0,"",0,0,0
-5605,"",0,"",0,0,0,0,0,"",0,0,0
-5606,"",0,"",0,0,0,0,0,"",0,0,0
-5607,"",0,"",0,0,0,0,0,"",0,0,0
-5608,"",0,"",0,0,0,0,0,"",0,0,0
+5596,"Dédale bestial",0,"Dédale bestial",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le Dédale bestial</Case><Case(2)>au Dédale bestial</Case><Case(3)>du Dédale bestial</Case></Switch>",0,0,0
+5597,"1er plateau",0,"1er plateau",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le 1er plateau</Case><Case(2)>au 1er plateau</Case><Case(3)>du 1er plateau</Case></Switch>",0,0,0
+5598,"2e plateau",0,"2e plateau",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le 2e plateau</Case><Case(2)>au 2e plateau</Case><Case(3)>du 2e plateau</Case></Switch>",0,0,0
+5599,"3e plateau",0,"3e plateau",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le 3e plateau</Case><Case(2)>au 3e plateau</Case><Case(3)>du 3e plateau</Case></Switch>",0,0,0
+5600,"1er plateau expert",0,"1er plateau expert",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le 1er plateau expert</Case><Case(2)>au 1er plateau expert</Case><Case(3)>du 1er plateau expert</Case></Switch>",0,0,0
+5601,"2e plateau expert",0,"2e plateau expert",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le 2e plateau expert</Case><Case(2)>au 2e plateau expert</Case><Case(3)>du 2e plateau expert</Case></Switch>",0,0,0
+5602,"Campement",0,"Campement",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le campement</Case><Case(2)>au campement</Case><Case(3)>du campement</Case></Switch>",0,0,0
+5603,"Marchand",0,"Marchand",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le marchand</Case><Case(2)>au marchand</Case><Case(3)>du marchand</Case></Switch>",0,0,0
+5604,"Coffre au trésor",0,"Coffre au trésor",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le coffre au trésor</Case><Case(2)>au coffre au trésor</Case><Case(3)>du coffre au trésor</Case></Switch>",0,0,0
+5605,"Carte chance",0,"Carte chance",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la carte chance</Case><Case(2)>à la carte chance</Case><Case(3)>de la carte chance</Case></Switch>",0,0,0
+5606,"Affrontement",0,"Affrontement",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>l'af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment</Case><Case(2)>à l'af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment</Case><Case(3)>de l'af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment</Case></Switch>",0,0,0
+5607,"Cible d'élite",0,"Cible d'élite",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>la cible d'élite</Case><Case(2)>à la cible d'élite</Case><Case(3)>de la cible d'élite</Case></Switch>",0,0,0
+5608,"Gardien du plateau",0,"Gardien du plateau",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>le gardien du plateau</Case><Case(2)>au gardien du plateau</Case><Case(3)>du gardien du plateau</Case></Switch>",0,0,0
 5609,"",0,"",0,0,1,0,0,"",0,0,0
 5610,"",0,"",0,0,1,0,0,"",0,0,0
 5611,"",0,"",0,0,1,0,0,"",0,0,0

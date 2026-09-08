@@ -56083,33 +56083,183 @@ Dure indéfiniment."
 44876,""
 44877,""
 44878,""
-44879,""
-44880,""
-44881,""
-44882,""
-44883,""
-44884,""
-44885,""
-44886,""
-44887,""
-44888,""
-44889,""
-44890,""
-44891,""
-44892,""
-44893,""
-44894,""
-44895,""
-44896,""
-44897,""
-44898,""
-44899,""
-44900,""
-44901,""
-44902,""
-44903,""
-44904,""
-44905,""
+44879,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),38))>160<Else/>100</If><Else/>100</If>"
+44880,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100
+Cette attaque ne peut pas achever la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> marque la cible pour capture.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 120s
+Le résultat de la tentative de capture est donné une fois la cible vaincue. En cas de succès, la bête est répertoriée dans le bestiaire de dresseur et peut être appelée à tout moment.
+Moins la cible possède de PV au moment du marquage, plus ses chances de capture augmentent. Plus votre niveau dépasse celui de la cible, plus ses chances de capture augmentent. Vous ne pouvez pas capturer de bêtes dont le niveau est supérieur au vôtre."
+44881,"Appelle <If(GreaterThan(PlayerParameter(110),0))>votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Pet,<Sheet(XBMPet,PlayerParameter(110),0)/>,0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>,<Else/>la</If> première bête assignée à votre corne d'appel.
+Le temps de recharge de cette action commence lorsque la bête est renvoyée. Il ne se déclenche pas si vous êtes hors combat.<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Salve<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If>"
+44882,"Évalue vos chances de capturer la cible.
+Cette action peut être utilisée à dos de monture (au sol uniquement)."
+44883,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 260
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Fracas
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance du combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 500 <If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),4))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bonus du combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente vos PT de 13.<Else/></If><Else/></If>"
+44884,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 400 à 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100 PT disponibles.
+Consomme tous les PT. La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct féroce<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif II - Assaut vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Les techniques instinctives ont un temps de recharge indépendant."
+44885,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 280
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Fer mordant
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance du combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 600
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bonus du combo<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente vos PT de 15."
+44886,"Devient une autre action selon votre <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de thérien<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action diminuant la vulnérabilité physique.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation d'insectoïde<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action augmentant le taux de blocage.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de ptérien<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action influençant les déplacements.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de floréen<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action affaiblissante et infligeant des dégâts de poison.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation d'hydride<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action d'attaque magique à distance sur cible unique.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de cuirassien<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action déployant une barrière magique.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation d'animide<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action d'attaque sur cible unique avec interruption.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de nécroïde<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> action soignant une altération d'état de la cible."
+44887,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 400 à 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100 PT disponibles.
+Consomme tous les PT. La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct robuste<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif II - Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Les techniques instinctives ont un temps de recharge indépendant."
+44888,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 400 à 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100 PT disponibles.
+Consomme tous les PT. La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct arcanique<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif II - Assaut vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Les techniques instinctives ont un temps de recharge indépendant."
+44889,"Effectue une attaque physique sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 400 à 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100 PT disponibles.
+Consomme tous les PT. La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct aérien<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif II - Assaut létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Les techniques instinctives ont un temps de recharge indépendant."
+44890,"Ordonne à la bête d'exécuter sa technique de salve.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44891,"Ordonne à la bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Explosion éthérée<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1000
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance avec Va-tout amélioré<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1500
+<Else/></If><Else/></If>La bête est renvoyée après avoir effectué l'attaque.
+Met fin à l'effet <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),8))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente les PT de la bête de 24.
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée."
+44892,"Appelle <If(GreaterThan(PlayerParameter(111),0))>votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Pet,<Sheet(XBMPet,PlayerParameter(111),0)/>,0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>,<Else/>la</If> deuxième bête assignée à votre corne d'appel.
+Le temps de recharge de cette action commence lorsque la bête est renvoyée. Il ne se déclenche pas si vous êtes hors combat.<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Salve<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If>"
+44893,"Fonce vers la cible et effectue une attaque physique sur elle et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),38))>300<Else/>220</If><Else/>220</If>
+Ne peut pas être utilisé sous l'effet Entrave.<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),36))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Maximum de charges<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 3<Else/></If><Else/></If>"
+44894,"Appelle <If(GreaterThan(PlayerParameter(112),0))>votre <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Pet,<Sheet(XBMPet,PlayerParameter(112),0)/>,0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>,<Else/>la</If> troisième bête assignée à votre corne d'appel.
+Le temps de recharge de cette action commence lorsque la bête est renvoyée. Il ne se déclenche pas si vous êtes hors combat.<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge de <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Salve<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réinitialise le temps de recharge d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.<Else/></If><Else/></If>"
+44895,"Emprunte temporairement certaines facultés de la bête, vous octroyant un effet dépendant de sa classe<Indent/>:
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Thériens<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de thérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Insectoïdes<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'insectoïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ptériens<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de ptérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Floréens<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de floréen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hydrides<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'hydride<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cuirassiens<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de cuirassien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Animides<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'animide<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Nécroïdes<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de nécroïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Assimilation de (classe)<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient une action dépendant de la classe de la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44896,"Réduit de 25% les dégâts physiques subis et augmente de 5% vos chances de critiques.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de thérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44897,"Vous immunise contre la plupart des projections et des attractions, et augmente à 100% votre taux de blocage.
+Augmente vos PT de 12 à chaque blocage.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'insectoïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44898,"Vous déplace rapidement dans la direction de votre choix, et augmente de 5% votre esquive.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de ptérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44899,"Inflige des dégâts périodiques de poison aux ennemis alentour, et réduit de 10% leurs dégâts infligés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 25 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de floréen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44900,"Effectue une attaque magique d'eau sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 350
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente vos PT de 10.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dissipe un effet bénéfique de la cible. Augmente vos PT de 50 lors de cette dissipation.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'hydride<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44901,"Crée une barrière sur vous, absorbant les dégâts magiques subis pour un montant égal à 8% de vos PV maximums.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+Quand la barrière a absorbé son montant de dégâts, vos PT sont augmentés de 85.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de cuirassien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44902,"Effectue une attaque physique de corps-à-corps sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 300
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> interrompt le lancement d'une action par la cible. En cas de succès, l'attaque gagne en puissance et vos PT sont augmentés de 100.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance en cas d'interruption<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'animide<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44903,"Soigne une altération d'état sur vous ou l'équipier ciblé.
+En cas de succès, augmente vos PT de 100, et restaure 10% des PV maximums de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de nécroïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Technique de bête<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44904,"Augmente les PT de la bête.
+Consomme tous vos degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct compagnon<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Plus des degrés sont consommés, plus l'augmentation de PT est importante.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Augmentation de PT de base<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Augmentation de PT par degré d'Instinct compagnon<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 70
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée."
+44905,"Augmente vos PT.
+Consomme tous vos degrés d'<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct maître<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Plus des degrés sont consommés, plus l'augmentation de PT est importante.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Augmentation de PT de base<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Augmentation de PT par degré d'Instinct maître<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 70
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat."
 44906,""
 44907,""
 44908,""
@@ -56139,111 +56289,910 @@ Ne fonctionne pas sur les amas de verre."
 44927,""
 44928,""
 44929,""
-44930,""
-44931,""
-44932,""
-44933,""
+44930,"Fonce vers la cible et effectue une attaque physique sur elle et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250 PT disponibles.
+Consomme tous les PT.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct vital<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif III - Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Ne peut pas être utilisé sous l'effet Entrave.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hache avalanche<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44931,"Fonce vers la cible et effectue une attaque physique sur elle et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250 PT disponibles.
+Consomme tous les PT.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct létal<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif III - Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Ne peut pas être utilisé sous l'effet Entrave.
+
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hache mistral<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44932,"Effectue une attaque magique sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250 PT disponibles.
+Consomme tous les PT.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct vital<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif III - Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hache tournoyante<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44933,"Effectue une attaque magique en ligne droite sur les ennemis devant vous.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1200
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 250 PT disponibles.
+Consomme tous les PT.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct létal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instinct létal<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les techniques instinctives déclenchent un combo instinctif infligeant des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res à la cible, calculés en fonction des dégâts infligés par la dernière technique utilisée.
+Avec <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct vital<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, déclenche <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Combo instinctif III - Marche de l'univers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>* Cette action ne peut pas être ajoutée aux barres de raccourcis.
+Remplace <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hache rafale<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lorsque les conditions sont réunies.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 44934,""
-44935,""
-44936,""
-44937,""
-44938,""
-44939,""
-44940,""
-44941,""
-44942,""
-44943,""
-44944,""
-44945,""
-44946,""
-44947,""
-44948,""
-44949,""
-44950,""
-44951,""
-44952,""
-44953,""
-44954,""
-44955,""
-44956,""
-44957,""
-44958,""
-44959,""
-44960,""
-44961,""
-44962,""
-44963,""
-44964,""
-44965,""
-44966,""
-44967,""
-44968,""
-44969,""
-44970,""
-44971,""
-44972,""
-44973,""
-44974,""
-44975,""
-44976,""
-44977,""
-44978,""
-44979,""
-44980,""
-44981,""
-44982,""
-44983,""
-44984,""
-44985,""
-44986,""
-44987,""
-44988,""
-44989,""
-44990,""
-44991,""
-44992,""
-44993,""
-44994,""
-44995,""
-44996,""
-44997,""
-44998,""
-44999,""
-45000,""
-45001,""
-45002,""
-45003,""
-45004,""
-45005,""
-45006,""
-45007,""
-45008,""
-45009,""
-45010,""
-45011,""
-45012,""
-45013,""
-45014,""
-45015,""
-45016,""
-45017,""
-45018,""
-45019,""
-45020,""
-45021,""
-45022,""
-45023,""
-45024,""
-45025,""
-45026,""
-45027,""
-45028,""
-45029,""
-45030,""
-45031,""
-45032,""
-45033,""
-45034,""
+44935,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Griffure<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique tranchante dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44936,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Griffures multiples<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue six attaques physiques tranchantes à la chaîne sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 150
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44937,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pirouette tranchante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu en ligne droite vers l'avant et l'arrière.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44938,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Trottinement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Augmente la vitesse des attaques automatiques et réduit les temps de lancement et de recharge des sorts et des techniques d'arme des équipiers alentour de 15%.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44939,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Derrière laineux<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante en ligne droite vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44940,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Berceuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Inflige Sommeil aux ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la résistance au sommeil et réduit de 80% la durée des altérations d'état liées au sommeil pour les équipiers dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44941,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tournevis<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44942,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mur hydraulique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 20% les dégâts magiques subis par les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 48s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la résistance à la paralysie et réduit de 80% la durée des altérations d'état liées à la paralysie pour les équipiers dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44943,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Lapidation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44944,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Fourmillements<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Paralysie à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 45s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44945,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Odeur nauséabonde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Cécité à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44946,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Rengorgement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 15% les dégâts magiques de terre subis par les équipiers alentour, et annule parfois les dégâts de terre.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la résistance à la cécité et réduit de 80% la durée des altérations d'état liées à la cécité pour les équipiers dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 90s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44947,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tonnerre bestial<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44948,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Vulcanisation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 20% les dégâts physiques subis par les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 48s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la résistance au poison et réduit de 80% la durée des altérations d'état liées au poison pour les équipiers dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44949,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Transpercement mortel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de poison à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 75 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44950,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Écran de soie<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre en ligne droite vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Entrave + à la cible tout en la projetant 15 yalms en arrière. L'entrave ne se dissipe pas en subissant des dégâts.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44951,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle aqueux<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44952,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Averse de bulles<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance à l'eau de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44953,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Dard aiguisé<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de poison à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 75 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44954,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Dard final<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 2000 à 3000
+La puissance est proportionnelle aux PV restants de la cible.
+Le familier s'en va après utilisation.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44955,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Aile tranchante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44956,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Croassement glaçant<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> dissipe un effet bénéfique de la cible.
+Le familier gagne 100 PT lors de cette dissipation.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44957,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Coup de tête<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44958,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cri légumier<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentours.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Pesanteur à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44959,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Foudre ténébreuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44960,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Haam<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Absorption des PV<UIGlow>01</UIGlow><UIForeground>01</UIForeground> aux équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Absorption des PV<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> convertit une partie des dégâts infligés en PV.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44961,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Boule de feu<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44962,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Chasse-queue<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique tranchante sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> projette la cible 15 yalms en arrière.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44963,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Averse de bulles<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44964,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cent poings<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 75% le délai des attaques automatiques de la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 6s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44965,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Échine verticale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique tranchante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44966,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Onde lugubre<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente de 10% les dégâts physiques subis par la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44967,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Digestion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> convertit une partie des dégâts infligés en PV pour soigner le dresseur.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44968,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sirop<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 550
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Entrave + à la cible. L'entrave ne se dissipe pas en subissant des dégâts.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44969,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Justice de fer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique tranchante dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44970,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Volonté du roi<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Augmente de 10% les dégâts physiques infligés par les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44971,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Suceur de sang<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> convertit une partie des dégâts infligés en PV pour soigner le dresseur.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44972,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ultrasons<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 10% la précision de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> soigne certaines altérations d'état des équipiers dans l'aire d'effet.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44973,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Murmure amer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> projette la cible 15 yalms en arrière et lui inflige Poison.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 75 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44974,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Nectar acide<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 550
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente de 10% les dégâts magiques subis par la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44975,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle du bélier<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44976,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pétrihaleine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Pétrification à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44977,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Salve d'aiguilles<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante en ligne droite sur les ennemis devant la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44978,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Danse frénétique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Double tranchant<UIGlow>01</UIGlow><UIForeground>01</UIForeground> à tous les équipiers sauf aux bêtes.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Double tranchant<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> les dégâts que vous infligez augmentent de 20%, mais vous subissez des dégâts périodiques.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44979,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Claquement de rochers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44980,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Éboulement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre en ligne droite sur les ennemis devant la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance à la terre de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44981,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sardine volante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44982,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Dégorgement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Lenteur à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 45s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44983,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Extra tonnerre bestial<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44984,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Durcissement de coquille<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 20% les dégâts physiques subis par les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 48s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente la résistance à la pétrification des équipiers et réduit de 80% la durée des altérations d'état liées à la pétrification pour les équipiers dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44985,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Soulèvement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44986,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cri désorientant<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Étourdissement à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44987,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle glacé<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44988,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Conque de gaz<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de poison à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>150 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44989,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle de sable<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Cécité à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44990,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Désert sans fond<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 800
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Pesanteur à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44991,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cabrioles<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44992,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Frénésie furieuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue sept attaques physiques contondantes à la suite sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 125
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44993,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Écrasement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante en ligne droite sur les ennemis devant la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44994,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Éternuement moisi<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Maladie à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Maladie<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 80% la vitesse de déplacement et de 95% l'effet des sorts de restauration des PV.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44995,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Extra blizzard bestial<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44996,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Langue poisseuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique contondante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> attire la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 10% la précision de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 21s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44997,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Looping<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+44998,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Becquetée furieuse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue cinq attaques physiques perforantes successives sur la cible. 
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 200
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+44999,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Électrochoc<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45000,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Poil survolté<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Paralysie à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance à la foudre de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45001,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle glacé<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45002,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Haleine fétide<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance au feu de la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45003,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cyclone brûlant<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45004,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Écailles incandescentes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Réduit de 20% les dégâts magiques et de 15% les dégâts magiques de feu subis par les équipiers alentour, et annule parfois les dégâts de feu.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 48s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45005,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gland explosif<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Cauchemar aux cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45006,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tempête arboricole<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> projette les cibles 15 yalms en arrière.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45007,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Morsure mandibulaire<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45008,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Phéromones formiques<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Inflige Lenteur aux ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 15% les dégâts magiques d'eau, de terre et de glace subis par les équipiers alentour, et annule parfois les dégâts d'eau, de terre et de glace.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45009,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle du lion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res aux cibles qui sont sous l'effet Congélation.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1000
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45010,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Voix du bélier<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Congélation aux cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 20s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance à la glace des cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45011,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sarment empalant<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante en ligne droite sur les ennemis devant la bête.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45012,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Mauvaise haleine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Lenteur, Cécité et Paralysie aux ennemis dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45013,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Vent maudit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> faible chance d'infliger <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Glas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> aux ennemis dans l'aire d'effet (sauf ceux de plus haut niveau que soi).
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 5s
+La victime tombe in<SoftHyphen/>cons<SoftHyphen/>cien<SoftHyphen/>te à la fin de la durée.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45014,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Maléfice<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 300
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>res aux cibles qui sont sous l'effet Maladie.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> faible chance d'infliger <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Glas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> aux ennemis dans l'aire d'effet (sauf ceux de plus haut niveau que soi).
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 5s
+La victime tombe in<SoftHyphen/>cons<SoftHyphen/>cien<SoftHyphen/>te à la fin de la durée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45015,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Pluie saumâtre<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45016,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Lumière sinistre<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> augmente de 10% la vulnérabilité magique des ennemis dans l'aire d'effet.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45017,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Croc empoisonné<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de poison à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 75 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45018,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Regard pétrifiant<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 750
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Pétrification à la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 42s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45019,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Piège principal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45020,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Souffle blanc<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige Maladie aux cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Maladie<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 80% la vitesse de déplacement et de 95% l'effet des sorts de restauration des PV.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45021,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sphère de maléfice<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45022,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Venin<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 300
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> inflige des dégâts périodiques de poison aux cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 150 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45023,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Éternuement sale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de terre sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45024,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Inhalation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 450
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> attire les cibles vers la bête.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45025,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Démence<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Fonce vers la cible et effectue une attaque physique contondante sur elle et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45026,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Aile déferlante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 800
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> réduit de 20% la résistance au vent des cibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45027,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Guillotine de glace<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de glace dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 450 à 1500
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45028,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cœur glacé<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Augmente de 25% les dégâts magiques infligés par les équipiers alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15s
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45029,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Embrochement<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque physique perforante sur la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45030,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Queue forante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique d'eau sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 800
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> faible chance de réduire à un chiffre les PV de la cible (sauf si elle est de niveau plus élevé ou qu'elle est résistante à cet effet).
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45031,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Caresse sanglante<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de vent sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45032,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bouquet mildiousé<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique neutre sur les ennemis alentour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 800
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> faible chance d'infliger <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Glas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> aux ennemis dans l'aire d'effet (sauf ceux de plus haut niveau que soi).
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 5s
+La victime tombe in<SoftHyphen/>cons<SoftHyphen/>cien<SoftHyphen/>te à la fin de la durée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+45033,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Éclair<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de foudre dans une zone en éventail vers la cible.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de 500 à 1250
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Type<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+La puissance augmente en fonction du nombre de PT consommés.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+Combinable aux techniques instinctives du dresseur pour réaliser des combos instinctifs."
+45034,"Ordonne à votre bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Météore<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Effectue une attaque magique de feu sur la cible et les ennemis autour.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Puissance<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1000
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
 45035,""
 45036,""
 45037,""
@@ -58072,8 +59021,15 @@ Ne peut être cumulé avec l'effet <UIForeground>F201F4</UIForeground><UIGlow>F2
 46747,""
 46748,""
 46749,""
-46750,""
-46751,""
+46750,"Provoque la cible en vous plaçant en tête de sa liste d'inimitié et augmente votre génération d'inimitié.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 30s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> si votre bête vous couvre, met fin à sa <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Couverture<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+46751,"Ordonne à la bête d'exécuter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Menace<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+La place en tête de la liste d'inimitié de la cible et augmente sa génération d'inimitié.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> détourne vers la bête les attaques dirigées vers vous.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 45s
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée."
 46752,""
 46753,""
 46754,""
@@ -58430,8 +59386,17 @@ En outre, vous octroie une barrière absorbant environ 76 500 points de dégâts
 47089,""
 47090,""
 47091,""
-47092,""
-47093,""
+47092,"Ordonne à la bête d'exécuter sa technique de salve.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s<Else/></If><Else/></If>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> en combat, bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47093,"Ordonne à la bête d'exécuter sa technique instinctive d'assaut.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée, 100 PT de la bête disponibles.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ou <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Instinct arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 7s
+Les techniques instinctives des bêtes possèdent chacune un type parmi les 4 suivants<Indent/>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>aérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>féroce<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>robuste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>arcanique<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Elles peuvent déclencher des combos instinctifs de la même façon que les techniques instinctives du dresseur."
 47094,""
 47095,""
 47096,""
@@ -58576,14 +59541,54 @@ En outre, vous octroie une barrière absorbant environ 76 500 points de dégâts
 47235,""
 47236,""
 47237,""
-47238,""
-47239,""
-47240,""
-47241,""
-47242,""
-47243,""
-47244,""
-47245,""
+47238,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de thérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête thérienne appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cuir de thérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47239,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'insectoïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête insectoïde appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Carapace d'insectoïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47240,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de ptérien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête ptérienne appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Rase-nuages<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47241,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de floréen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête floréenne appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Plante-graines<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47242,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'hydride<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête hydride appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Vague répressive<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47243,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de cuirassien<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête cuirassienne appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Peau d'écailles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47244,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation d'animide<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête animide appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Sape psychique<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
+47245,"Vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Assimilation de nécroïde<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, empruntant temporairement les facultés de la bête nécroïde appelée.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Cendres purifiantes<UIGlow>01</UIGlow><UIForeground>01</UIForeground> devient utilisable.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> illimitée, ou 90s si la bête a été renvoyée.
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Effet additionnel<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> vous octroie <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Va-tout amélioré<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Durée<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 60s
+<Else/></If><Else/></If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Condition<Indent/>:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bête appelée et <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Connexion animale<UIGlow>01</UIGlow><UIForeground>01</UIForeground>."
 47246,"Fait rebondir sur place la voiture.
 * Effet spécial. N'inflige aucun dégât."
 47247,""
@@ -62187,7 +63192,8 @@ Cet effet disparaît si l'intégralité des PV est restaurée."
 50728,""
 50729,""
 50730,""
-50731,""
+50731,"Travaille la terre avec une fourche.
+* Effet spécial. N'inflige aucun dégât."
 50732,"Creuse un trou dans le sol.
 * Effet spécial. N'inflige aucun dégât."
 50733,""
