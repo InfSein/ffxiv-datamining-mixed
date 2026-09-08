@@ -7507,11 +7507,60 @@ HUD上に表示されたアクションを
 「薬屋」や「よろず屋」などでの
 購入によって入手することができます。
 ","",""
-2593,0,0,0,0,"","",""
-2594,0,0,0,0,"","",""
-2595,0,0,0,0,"","",""
-2596,0,0,0,0,"","",""
-2597,0,0,0,0,"","",""
-2598,0,0,0,0,"","",""
+2593,1,0,150781,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「魔獣使い」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>は、仲間にしたモンスターと
+共に戦うことで強さを発揮します。
+モンスターの仲間は、戦いで力を示して
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「とらえる」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ことで増やせます。
+モンスターを弱らせてから「とらえる」と
+成功率を上げることができるでしょう。
+「とらえる」の成功率を調べるには、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「みやぶる」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使用しましょう。
+
+　　　　　　　　　　　次のページヘ》","",""
+2594,1,0,150782,0,"仲間にしたモンスターは、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「魔獣図鑑」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に記録されます。
+
+魔獣図鑑は、メインコマンドの
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「マイキャラクター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>から「魔獣図鑑」を
+選択することで開くことができます。
+
+
+
+　　　　　　　　　　　次のページヘ》","",""
+2595,1,0,150784,0,"仲間にしたモンスターを呼び出すためには
+魔獣図鑑から呼び出したい対象を選択し
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「呼び笛」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に登録しましょう。
+
+アクション「呼び笛」を使用すると、
+登録したペットを呼び出せます。
+呼び笛への登録は非戦闘時のみ可能です。
+
+
+　　　　　　　　　　　次のページヘ》","",""
+2596,1,0,150785,0,"魔獣使いとしてのレベルが上がると、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ウェポンスキル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>や<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「アビリティ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を、
+ペットが使用できるようになります。
+ウェポンスキルやアビリティには
+ペットごとの個性があり、
+魔獣図鑑で確認できます。
+戦う相手に応じてペットを選ぶと、
+戦いを有利に進められるでしょう。
+
+　　　　　　　　　　　次のページヘ》","",""
+2597,1,0,150786,0,"仲間にできるモンスターを探すには、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「主な出現地域」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を確認しましょう。
+様々な地域を冒険して、
+多くのモンスターを仲間にし、
+魔獣使いとして一人前を目指しましょう！","",""
+2598,1,0,150783,0,"仲間にしたモンスターは、
+「魔獣図鑑」に記録されます。
+
+魔獣図鑑は、メインコマンドの
+「マイキャラクター」から「魔獣図鑑」を
+選択することで開くことができます。
+
+
+
+　　　　　　　　　　　次のページヘ》","",""
 2599,0,0,0,0,"","",""
 2600,0,0,0,0,"","",""

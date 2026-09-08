@@ -54546,33 +54546,191 @@ int32,str
 44876,""
 44877,""
 44878,""
-44879,""
-44880,""
-44881,""
-44882,""
-44883,""
-44884,""
-44885,""
-44886,""
-44887,""
-44888,""
-44889,""
-44890,""
-44891,""
-44892,""
-44893,""
-44894,""
-44895,""
-44896,""
-44897,""
-44898,""
-44899,""
-44900,""
-44901,""
-44902,""
-44903,""
-44904,""
-44905,""
+44879,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),38))>160<Else/>100</If><Else/>100</If>"
+44880,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
+この攻撃によって対象が戦闘不能になることはない。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象のモンスターをとらえるため、対象にマーキングする。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功判定：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象モンスターを倒したときに行われる。
+とらえることに成功すると対象モンスターが<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔獣図鑑」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に記録され、いつでも呼び出せるようになる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功確率：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>マーキング実行時、対象のＨＰが低いほど成功率が上がる。
+対象より自身のレベルが高いほど成功率が上がる。
+自身のレベルよりも対象のレベルが高い場合は成功しない。"
+44881,"壱の呼び笛に設定されたモンスター<If(GreaterThan(PlayerParameter(110),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「<Sheet(Pet,<Sheet(XBMPet,PlayerParameter(110),0)/>,0)/>」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>を召喚する。
+このアクションのリキャストタイムは、ペットが帰還したときに発生する。
+非戦闘中に帰還した場合はリキャストタイムが発生しない。<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>はなつのリキャストタイムをリセットする。<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>かりるのリキャストタイムをリセットする。<Else/></If><Else/></If>"
+44882,"対象モンスターを<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「とらえる」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ことができるか調べる。
+このアクションはマウント騎乗中（地上時のみ）も使用できる。"
+44883,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>スマッシュ　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),4))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>TPが13増加する。<Else/></If><Else/></If>"
+44884,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400～1000
+ＴＰ消費量が多いほど威力が上昇する。
+発動時にＴＰをすべて消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「翔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「猛」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携II・活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージが大きくなる。
+獣心技ウェポンスキルは固有のリキャストタイマーを持つ。"
+44885,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>アクスバイト　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>コンボボーナス：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>TPが15増加する。"
+44886,"自身に付与されている<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔獣本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に応じたアクションを発動する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>百獣本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>被物理ダメージ軽減アビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>百蟲本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ブロック発動率増加アビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>有翼本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移動系アビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>草木本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弱体化特殊毒攻撃アビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>水棲本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>遠隔単体魔法攻撃に変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>甲鱗本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法バリアアビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>呪具本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>詠唱中断付き単体攻撃アビリティに変化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>死屍本能効果中：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>弱体効果治療アビリティに変化する。"
+44887,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400～1000
+ＴＰ消費量が多いほど威力が上昇する。
+発動時にＴＰをすべて消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「猛」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「堅」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携II・滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージが大きくなる。
+獣心技ウェポンスキルは固有のリキャストタイマーを持つ。"
+44888,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400～1000
+ＴＰ消費量が多いほど威力が上昇する。
+発動時にＴＰをすべて消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「堅」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携II・活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージが大きくなる。
+獣心技ウェポンスキルは固有のリキャストタイマーを持つ。"
+44889,"対象に物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400～1000
+ＴＰ消費量が多いほど威力が上昇する。
+発動時にＴＰをすべて消費する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「翔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携II・滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージが大きくなる。
+獣心技ウェポンスキルは固有のリキャストタイマーを持つ。"
+44890,"召喚しているペットにアビリティを実行させる。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44891,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「エーテルバースト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に無属性範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>さいごのいちげき効果アップ時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500
+<Else/></If><Else/></If>実行後にペットが帰還する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),8))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットのＴＰを24増加させる。
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態かつペットが存在する"
+44892,"弐の呼び笛に設定されたモンスター<If(GreaterThan(PlayerParameter(111),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「<Sheet(Pet,<Sheet(XBMPet,PlayerParameter(111),0)/>,0)/>」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>を召喚する。
+このアクションのリキャストタイムは、ペットが帰還したときに発生する。
+非戦闘中に帰還した場合はリキャストタイムが発生しない。<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>はなつのリキャストタイムをリセットする。<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>かりるのリキャストタイムをリセットする。<Else/></If><Else/></If>"
+44893,"対象に急接近して、対象とその周囲の敵に範囲物理攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),38))>300<Else/>220</If><Else/>220</If>
+バインド中は実行不可。<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),36))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大チャージ数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3<Else/></If><Else/></If>"
+44894,"参の呼び笛に設定されたモンスター<If(GreaterThan(PlayerParameter(112),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「<Sheet(Pet,<Sheet(XBMPet,PlayerParameter(112),0)/>,0)/>」<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>を召喚する。
+このアクションのリキャストタイムは、ペットが帰還したときに発生する。
+非戦闘中に帰還した場合はリキャストタイムが発生しない。<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),18))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永続<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),30))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>はなつのリキャストタイムをリセットする。<Else/></If><Else/></If><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),34))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>かりるのリキャストタイムをリセットする。<Else/></If><Else/></If>"
+44895,"一定時間、召喚しているペットから本能を借りて、ペットの博学的分類に応じた<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔獣本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>百獣綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百獣本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>百蟲綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百蟲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>有翼綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「有翼本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>草木綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「草木本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>水棲綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「水棲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>甲鱗綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「甲鱗本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>呪具綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「呪具本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>死屍綱のペット：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死屍本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「魔獣技」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>がペットの博学的分類に応じたアクションに変化する。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44896,"一定時間、自身の被物理ダメージを25％軽減させ、かつクリティカル発動率を5％向上させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百獣本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がビーストスキンに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44897,"一定時間、一部を除くすべてのノックバックと引き寄せを無効化し、かつブロック発動率を100％にする。
+効果中にブロックが発動するたびにＴＰが12増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百蟲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がヴァイルスキンに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44898,"入力した方向に素早く移動し、自身の回避率を5％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「有翼本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+バインド中は実行不可。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がクラウドスキムに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44899,"自身の周囲の敵に毒の継続ダメージを付与し、かつ与ダメージを10％減少させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>25　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「草木本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がシードサワーに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44900,"対象に水属性魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身のＴＰを10増加させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にかかっている強化系ステータスを1つ消す。
+ステータスを消すとさらにＴＰが50増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「水棲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がクェリングウェーブに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44901,"自身に、一定量の魔法ダメージを防ぐバリアを張る。
+このバリアは最大ＨＰの8％分の魔法ダメージを軽減する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+バリアがダメージを完全に吸収して消滅すると、ＴＰが85増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「甲鱗本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がスケイルスキンに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44902,"対象に近接物理攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象のアクション詠唱を中断させる。
+詠唱中断に成功すると威力が上昇し、かつ自身のＴＰが100増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>詠唱中断成功時威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「呪具本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がソウルクラッシュに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44903,"自身またはパーティメンバーひとりを対象とする。
+対象にかかった一部の弱体効果を1つ解除する。
+解除に成功すると、ＴＰが100増加し、さらに対象のＨＰを最大ＨＰの10％分回復する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死屍本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすと魔獣技がアッシュクレンズに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44904,"ペットのＴＰを上昇させる。
+使用時に自身に付与されている<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心［従］」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすべて消費して、ＴＰ上昇量を上乗せする。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>基本ＴＰ上昇量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心［従］1つあたりのＴＰ上昇量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態かつペットが存在する"
+44905,"自身のＴＰを上昇させる。
+使用時に自身に付与されている<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心［主］」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>をすべて消費して、ＴＰ上昇量を上乗せする。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>基本ＴＰ上昇量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心［主］1つあたりのＴＰ上昇量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態"
 44906,""
 44907,""
 44908,""
@@ -54602,111 +54760,598 @@ int32,str
 44927,""
 44928,""
 44929,""
-44930,""
-44931,""
-44932,""
-44933,""
+44930,"対象に急接近して、対象とその周囲の敵に範囲物理攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>活命撃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携III・万象流転」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージがさらに大きくなる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ250
+発動時にＴＰをすべて消費する。
+バインド中は実行不可。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすとアバランチアクスがブルータルレイジに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44931,"対象に急接近して、対象とその周囲の敵に範囲物理攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>滅命撃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携III・万象流転」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージがさらに大きくなる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ250
+発動時にＴＰをすべて消費する。
+バインド中は実行不可。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすとミストラルアクスがホークスパイクに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44932,"対象とその周囲の敵に範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>活命撃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携III・万象流転」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージがさらに大きくなる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ250
+発動時にＴＰをすべて消費する。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすとスピニングアクスがライジングフォールに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44933,"対象に向かって前方直線範囲魔法攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>滅命撃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中に獣心技ウェポンスキルを実行すると、獣心技連携が発生し、対象に追撃ダメージを与える。
+追撃ダメージは獣心技連携のきっかけとなった獣心技ウェポンスキルで与えたダメージの影響を受ける。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「活命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の効果中に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「滅命撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の獣心技ウェポンスキルを実行すると、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技連携III・万象流転」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生し、連携ダメージがさらに大きくなる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ＴＰ250
+発動時にＴＰをすべて消費する。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※このアクションはホットバーに登録することはできない。
+　発動条件を満たすとラファールアクスがカラミティに変化する。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 44934,""
-44935,""
-44936,""
-44937,""
-44938,""
-44939,""
-44940,""
-44941,""
-44942,""
-44943,""
-44944,""
-44945,""
-44946,""
-44947,""
-44948,""
-44949,""
-44950,""
-44951,""
-44952,""
-44953,""
-44954,""
-44955,""
-44956,""
-44957,""
-44958,""
-44959,""
-44960,""
-44961,""
-44962,""
-44963,""
-44964,""
-44965,""
-44966,""
-44967,""
-44968,""
-44969,""
-44970,""
-44971,""
-44972,""
-44973,""
-44974,""
-44975,""
-44976,""
-44977,""
-44978,""
-44979,""
-44980,""
-44981,""
-44982,""
-44983,""
-44984,""
-44985,""
-44986,""
-44987,""
-44988,""
-44989,""
-44990,""
-44991,""
-44992,""
-44993,""
-44994,""
-44995,""
-44996,""
-44997,""
-44998,""
-44999,""
-45000,""
-45001,""
-45002,""
-45003,""
-45004,""
-45005,""
-45006,""
-45007,""
-45008,""
-45009,""
-45010,""
-45011,""
-45012,""
-45013,""
-45014,""
-45015,""
-45016,""
-45017,""
-45018,""
-45019,""
-45020,""
-45021,""
-45022,""
-45023,""
-45024,""
-45025,""
-45026,""
-45027,""
-45028,""
-45029,""
-45030,""
-45031,""
-45032,""
-45033,""
-45034,""
+44935,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ひっかき」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲物理斬属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44936,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「連続ひっかき」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に6回連続物理斬属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44937,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サマーソルトスラッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、前方および後方に直線範囲火属性魔法攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44938,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スキャンパー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーのオートアタックの攻撃間隔と、ウェポンスキルおよび魔法のキャストタイムとリキャストタイムを15％短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44939,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「体当たり」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44940,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ララバイ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に睡眠を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの睡眠耐性を向上させ、睡眠系状態異常の効果時間を80%短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44941,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スクリュードライバー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法水属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44942,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ウォーターウォール」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの被魔法ダメージを20％軽減させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>48秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの麻痺耐性を向上させ、麻痺系状態異常の効果時間を80%短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44943,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「つぶて打ち」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44944,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「痺れ爪」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に麻痺を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44945,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファウルステンチ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法土属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に暗闇を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44946,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ストラット」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの被魔法土属性ダメージを15％軽減させ、時々土属性ダメージを無効化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの暗闇耐性を向上させ、暗闇系状態異常の効果時間を80%短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44947,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビーストサンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に遠隔魔法雷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44948,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「硬質化」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの被物理ダメージを20％軽減させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>48秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの毒耐性を向上させ、毒系状態異常の効果時間を80%短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44949,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「デッドリースラスト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に毒の継続ダメージを付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44950,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「シルクスクリーン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を15mノックバックしつつバインドする。このバインドは被ダメージによって解除されない。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44951,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ウォーターブロウ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法水属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44952,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「バブルシャワー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法水属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の水耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44953,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「シャープスティング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に毒の継続ダメージを付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44954,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファイナルスピア」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000～3000
+対象の残りＨＰが少ないほど威力が上昇する。
+実行後にペットが帰還する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44955,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ウィングカッター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法風属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44956,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「戦慄の叫声」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法風属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にかかっている強化系ステータスを1つ消す。
+ステータスを１つ消すごとにペットのＴＰが100増加する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44957,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ヘッドバッド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44958,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「絶叫」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にヘヴィを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44959,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダークサンダー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法雷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44960,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ハーム」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ＨＰ吸収攻撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>ＨＰ吸収攻撃効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージの一部をＨＰとして吸収する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44961,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファイアボール」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法火属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44962,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テイルチェイス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲物理斬属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を15mノックバックする。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44963,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「バブルシャワー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法水属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44964,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百烈拳」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、ペットのオートアタックの攻撃間隔を75％短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44965,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スタンディングチャイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理斬属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44966,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「怪音波」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被物理ダメージを10％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44967,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「消化」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法無属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージの一部を吸収し、マスターのHPを回復する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44968,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「シロップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>550
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にバインドを付与する。このバインドは被ダメージによって解除されない。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44969,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アイアンジャスティス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲物理斬属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44970,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「キングスウィル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの与物理ダメージを10％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44971,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「吸血」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法無属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与えたダメージの一部を吸収し、マスターのHPを回復する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44972,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「超音波」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の命中率を10％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーにかかった一部の弱体効果を1つ解除する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44973,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サワーサフ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法風属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を15mノックバックし、さらに毒を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44974,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「酸花蜜」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>550
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被魔法ダメージを10％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44975,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「コールドブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法氷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44976,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ペトロブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を石化する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44977,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「針幾本」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44978,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ハッスルダンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、ペットを除く周囲のパーティメンバーに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「諸刃の剣」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>諸刃の剣効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与ダメージを20％上昇させる代わりに、継続ダメージを受け続ける。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44979,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ボルダークラップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法土属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44980,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロックスライド」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲魔法土属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の土耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44981,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フライングサーディン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法水属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44982,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「リガージテート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法水属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にスロウを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44983,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビーストサンダラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法雷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44984,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「甲羅強化」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの被物理ダメージを20％軽減させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>48秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの石化耐性を向上させ、石化系状態異常の効果時間を80%短縮させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44985,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「しゃくり上げ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44986,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「雄叫び」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にスタンを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44987,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フロストブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法氷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44988,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ガスシェル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に毒の継続ダメージを付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44989,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サンドブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法土属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に暗闇を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44990,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「大流砂」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法土属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象にヘヴィを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44991,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ロンプ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法火属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44992,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「熱狂撃」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に7回連続物理打属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>125
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44993,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビートダウン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44994,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「モルディスニーズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に病気を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>病気効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移動速度を80％低下させ、かつ回復魔法によるＨＰ回復効果を95％低下させる。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44995,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビーストブリザラ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法氷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44996,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スティッキータン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に遠隔物理打属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を足元に引き寄せる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の命中率を10％低下させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44997,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ループ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+44998,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ペッキングフラリー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に5回連続物理突属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+44999,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラスター」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法雷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45000,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「チャージドホイスカー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法雷属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に麻痺を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の雷耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45001,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フロストブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法氷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45002,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ファウルブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法火属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の火耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45003,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「バーニングサイクロン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法火属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45004,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「炎の鱗」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの被魔法ダメージを20％軽減させ、かつ被魔法火属性ダメージを15％軽減させ、時々火属性ダメージを無効化する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>48秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45005,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「どんぐり爆弾」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法土属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に悪夢を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45006,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アーボリアルストーム」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法風属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を15mノックバックする。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45007,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「マンディブルバイト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45008,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フォーミックフェロモンズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵にスロウを付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内のパーティメンバーの被魔法水属性ダメージ、被魔法土属性ダメージ、被魔法氷属性ダメージを15％軽減させ、時々水属性、土属性、氷属性ダメージを無効化する。
+　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45009,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フレイムブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法火属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象が氷結状態だった場合は追加ダメージを与える。<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45010,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「氷結の咆哮」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法氷属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に氷結を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の氷耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45011,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「串刺し」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方直線範囲物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45012,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「臭い息」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範囲内の敵に、スロウ、暗闇、麻痺を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45013,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「呪風」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法風属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>低確率で対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
+効果時間が経過すると、対象は戦闘不能になる。
+対象のレベルが自身よりも高い場合は無効化される。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45014,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「呪言」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象が病気状態だった場合は追加ダメージを与える。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>低確率で対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
+効果時間が経過すると、対象は戦闘不能になる。
+対象のレベルが自身よりも高い場合は無効化される。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45015,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラキッシュレイン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法水属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45016,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「不思議な光」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の被魔法ダメージを10％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45017,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ドリッピングファング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に毒の継続ダメージを付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45018,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「石化にらみ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を石化する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>42秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45019,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「メイントラップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45020,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ホワイトブレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に病気を付与する。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>病気効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移動速度を80％低下させ、かつ回復魔法によるＨＰ回復効果を95％低下させる。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45021,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「カースドスフィア」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法風属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45022,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「毒液」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象に毒の継続ダメージを付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45023,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ダーティスニーズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に遠隔魔法土属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45024,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「インヘイル」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象を足元に引き寄せる。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45025,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「狂乱」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に急接近して、対象とその周囲の敵に範囲物理打属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>翔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45026,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブレスウィング」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法風属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>対象の風耐性を20％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45027,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アイスギロチン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法氷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450～1500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45028,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「フローズンハート」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲のパーティメンバーの与魔法ダメージを25％上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45029,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「串刺し」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に物理突属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>堅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45030,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「テールスクリュー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法水属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>低確率で対象のＨＰを1桁にする。
+この効果は、対象のレベルが自身よりも高い場合、または耐性がある場合は無効化される。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45031,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブラッディカレス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法風属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45032,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ブライテッドブーケ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、周囲の敵に範囲魔法無属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>低確率で対象に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死の宣告」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
+効果時間が経過すると、対象は戦闘不能になる。
+対象のレベルが自身よりも高い場合は無効化される。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+45033,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「サンダーボルト」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象に向かって前方扇範囲魔法雷属性攻撃。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>獣心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ＴＰ消費量が多いほど威力が増加する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+ペットが実行する獣心技ウェポンスキルは、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
+45034,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「メテオ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象とその周囲の敵に範囲魔法火属性攻撃。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
 45035,""
 45036,""
 45037,""
@@ -56535,8 +57180,12 @@ int32,str
 46747,""
 46748,""
 46749,""
-46750,""
-46751,""
+46750,"対象を挑発し、自身への敵視を最高位にしたうえで、さらに一定時間自身への敵視を上昇させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが自身をかばっている場合はかばうを解除する。"
+46751,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「威嚇」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象の敵からペットへの敵視を最高位にし、一定時間ペットへの敵視を上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>マスターが受ける攻撃をペットが肩代わりする。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する"
 46752,""
 46753,""
 46754,""
@@ -56892,8 +57541,16 @@ int32,str
 47089,""
 47090,""
 47091,""
-47092,""
-47093,""
+47092,"召喚しているペットにアビリティを実行させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身が戦闘状態、ペットが存在、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒<Else/></If><Else/></If>"
+47093,"召喚しているペットに獣心技ウェポンスキルを実行させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在し、かつペットのＴＰ100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「獣心技属性」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
+ペットが実行する獣心技ウェポンスキルは4つの獣心技属性、
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「猛」「堅」「魔」「翔」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>のいずれかを持ち、マスターの獣心技ウェポンスキルと同じように獣心技連携を発生させることができる。"
 47094,""
 47095,""
 47096,""
@@ -57038,14 +57695,54 @@ int32,str
 47235,""
 47236,""
 47237,""
-47238,""
-47239,""
-47240,""
-47241,""
-47242,""
-47243,""
-47244,""
-47245,""
+47238,"一定時間、召喚している百獣綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百獣本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ビーストスキン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47239,"一定時間、召喚している百蟲綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「百蟲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ヴァイルスキン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47240,"一定時間、召喚している有翼綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「有翼本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クラウドスキム」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47241,"一定時間、召喚している草木綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「草木本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「シードサワー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47242,"一定時間、召喚している水棲綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「水棲本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「クェリングウェーブ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47243,"一定時間、召喚している甲鱗綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「甲鱗本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「スケイルスキン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47244,"一定時間、召喚している呪具綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「呪具本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「ソウルクラッシュ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
+47245,"一定時間、召喚している死屍綱のペットから本能を借りて、<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「死屍本能」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+効果中は<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「アッシュクレンズ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が使用できる。
+効果時間はペットが帰還するまでは永続だが、帰還すると90秒に変化する。
+<If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),46))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「さいごのいちげき効果アップ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を付与する。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する、かつ<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「人獣同調」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>効果中"
 47246,"車体を大きく弾ませる。
 ※演出用アクション。特に効果は発生しない。"
 47247,""
@@ -60661,7 +61358,7 @@ int32,str
 50728,""
 50729,""
 50730,""
-50731,""
+50731,"ピッチフォークで地面を耕す※演出用アクション。特に効果は発生しない。"
 50732,"スコップで地面を掘る※演出用アクション。特に効果は発生しない。"
 50733,""
 50734,""
