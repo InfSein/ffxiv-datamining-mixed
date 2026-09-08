@@ -3705,8 +3705,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003701,"Wahrlee-Müllbeutel",4,"Wahrlee-Müllbeutel",2,0,1,0,0,False,"Wahrlee-Müllbeutel",26110,0,3,1,70701,0,0,0
 2003702,"Phiole[p] mit mysteriöser Tinktur",3,"Phiolen[p] mit mysteriöser Tinktur",1,0,1,1,0,False,"Mysteriöse Tinktur",20625,0,1,1,70723,0,0,0
 2003703,"gefüllt[a] Lederbeutel",4,"gefüllt[a] Lederbeutel",2,0,1,0,0,False,"Gefüllter Lederbeutel",25919,0,1,1,70723,0,0,0
-2003704,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
-2003705,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003704,"Epenleder-Schatzkarte",3,"Epenleder-Schatzkarten",1,0,1,1,0,False,"Epenleder-Schatzkarte",26151,1,1,2,0,0,0,0
+2003705,"exotisch[a] Äthergramm-Karte[p] V",3,"exotisch[a] Äthergramm-Karten[p] V",1,0,1,1,0,False,"Exotische Äthergramm-Karte V",26151,1,1,2,0,0,0,0
 2003706,"Prüfungshandzettel",4,"Prüfungshandzettel",2,0,1,0,0,False,"Prüfungshandzettel",26151,0,1,1,70724,0,0,0
 2003707,"UFO-Zeichnung",3,"UFO-Zeichnungen",1,0,1,1,0,False,"UFO-Zeichnung",26151,3140,1,1,70728,0,0,0
 2003708,"kräftig[a] Schilfpflanze",3,"kräftig[a] Schilfpflanzen",1,0,1,1,0,False,"Kräftige Schilfpflanze",25035,0,5,1,70731,0,0,0
@@ -3825,13 +3825,13 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003821,"Taco-Paket",4,"Taco-Pakete",2,0,1,2,0,False,"Taco-Paket",26130,0,3,1,70997,0,0,0
 2003822,"Piroschki-Paket",4,"Piroschki-Pakete",2,0,1,2,0,False,"Piroschki-Paket",53302,0,1,1,71008,0,0,0
 2003823,"Äthertransmitter",4,"Äthertransmitter",2,0,1,0,0,False,"Äthertransmitter",26086,1,1,1,71009,0,0,1
-2003824,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003824,"minderwertig[a] Feuerkristall",4,"minderwertig[a] Feuerkristalle",2,0,1,0,0,False,"Minderwertiger Feuerkristall",20007,1,4,1,71013,0,0,1
 2003825,"Flöte[p] der Flügel",3,"Flöten[p] der Flügel",1,0,1,1,0,False,"Flöte der Flügel",26039,1,1,1,71005,3,0,1
 2003826,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2003827,"Wachstumspatrone",3,"Wachstumspatronen",1,0,1,1,0,False,"Wachstumspatrone",23569,0,3,1,0,0,0,0
 2003828,"Wachstumspatrone",3,"Wachstumspatronen",1,0,1,1,0,False,"Wachstumspatrone",23569,0,3,1,0,0,0,0
 2003829,"Drohnenteil",4,"Drohnenteile",2,0,1,2,0,False,"Drohnenteil",23553,0,3,1,0,0,0,0
-2003830,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
+2003830,"saftig[a] Fleischstück",4,"saftig[a] Fleischstücke",2,0,1,2,0,False,"Saftiges Fleischstück",25159,0,1,1,71026,0,0,0
 2003831,"Anzug-Prototyp",4,"Anzug-Prototypen",1,0,1,0,0,False,"Anzug-Prototyp",23541,0,1,1,71023,0,0,0
 2003832,"Versteckfoto[p] des Unauffälligen",4,"Versteckfotos[p] des Unauffälligen",1,0,1,2,0,False,"Versteckfoto des Unauffälligen",25999,3140,1,1,71024,0,0,0
 2003833,"Versteckfoto[p] des Schleichlustigen",4,"Versteckfotos[p] des Schleichlustigen",1,0,1,2,0,False,"Versteckfoto des Schleichlustigen",25999,3140,1,1,71024,0,0,0

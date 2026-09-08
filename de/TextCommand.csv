@@ -434,9 +434,24 @@ Bei fehlendem Unterbefehl wird die Einstellung auf den jeweils anderen Wert geä
 → Öffnet die Kommandotafel.","/kommandotafel","/commandpanel",32,0
 51,1,0,0,0,0,"/strategyboard","","/strategyboard, /strategiebrett
 → Öffnet deine Strategiebretter.","/strategiebrett","",32,0
-52,0,0,0,0,0,"","","","","",0,0
+52,3,2,7,2,0,"/beastsize","/beastpetsize","/bestiengröße, /beastsize, /beastpetsize
+VERWENDUNG:
+/bestiengröße „[Bestienname]“ [Größe]
+→ Ändert deine Anzeigeeinstellung für die Begleiter von Bestienbändigern. Keine Auswirkungen auf die Anzeige für andere Spieler. Bei PvP unwirksam.
+>>Größe:
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>groß<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>large<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>mittel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>medium<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)
+  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>klein<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>small<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)
+Bei fehlender Größe wird in der Reihenfolge „klein, mittel, groß“ durchgeschaltet. Bei Bestienname „alle“ wird ein Fehler ausgegeben wenn keine Größenangabe beigefügt wurde.
+
+>>Beispiel:
+/bestiengröße ""Cu Sith"" mittel
+Zeigt die Bestie Cu Sith in mittlerer Größe an.
+/bestiengröße alle klein
+Zeigt alle Bestien in kleiner Größe an.","/bestiengröße","",36,0
 53,0,0,0,0,0,"","","","","",0,0
-54,0,0,0,0,0,"","","","","",0,0
+54,1,0,0,0,0,"/bestiary","/bstbook","/bestienbuch, /bestiary, /bstbook
+→ Öffnet das Bestienbuch.","/bestienbuch","",32,0
 55,0,0,0,0,0,"","","","","",0,0
 56,0,0,0,0,0,"","","","","",0,0
 57,0,0,0,0,0,"","","","","",0,0

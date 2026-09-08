@@ -101,4 +101,4 @@ int32,Image,byte,MainCommandCategory,sbyte,byte,str,str
 97,94,14,6,11,66,"Wortfilter","Zeigt eine Liste aller gefilterten Wörter. Hier können neue Wörter hinzugefügt und bestehende Wörter bearbeitet oder gelöscht werden."
 98,95,5,5,4,79,"Strategiebretter","Erstelle und betrachte Strategiebretter, um auf jeden Inhalt bestens vorbereitet zu sein."
 99,97,10,7,5,0,"Konfigurationsteilung","Speichere zeitweise Kommandomenüs oder ähnliche Konfigurationseinstellungen auf dem Server, von wo aus sie auf einen anderen Charakter übertragen werden können."
-100,0,0,0,0,0,"",""
+100,96,16,1,10,0,"Bestienbuch des Bändigers","Zeigt alle gebändigten Bestien an und ermöglicht die Zuweisung von Kampfhörnern."

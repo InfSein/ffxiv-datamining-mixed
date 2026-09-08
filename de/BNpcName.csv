@@ -14408,56 +14408,56 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14404,"bewaffnet[a] Felsbestie",3,"bewaffnet[a] Felsbestien",1,0,1,1,0
 14405,"friedlich[a] Seekuh",3,"friedlich[a] Seekühe",2,0,1,1,0
 14406,"Doomtrain-Schemen",4,"Doomtrain-Schemen",1,0,1,0,0
-14407,"",0,"",0,0,0,0,0
-14408,"",0,"",0,0,0,0,0
-14409,"",0,"",0,0,0,0,0
-14410,"",0,"",0,0,0,0,0
-14411,"",0,"",0,0,0,0,0
-14412,"",0,"",0,0,0,0,0
-14413,"",0,"",0,0,0,0,0
-14414,"",0,"",0,0,0,0,0
-14415,"",0,"",0,0,0,0,0
-14416,"",0,"",0,0,0,0,0
-14417,"",0,"",0,0,0,0,0
-14418,"",0,"",0,0,0,0,0
-14419,"",0,"",0,0,0,0,0
-14420,"",0,"",0,0,0,0,0
-14421,"",0,"",0,0,0,0,0
-14422,"",0,"",0,0,0,0,0
-14423,"",0,"",0,0,0,0,0
-14424,"",0,"",0,0,0,0,0
-14425,"",0,"",0,0,0,0,0
-14426,"",0,"",0,0,0,0,0
-14427,"",0,"",0,0,0,0,0
-14428,"",0,"",0,0,0,0,0
-14429,"",0,"",0,0,0,0,0
-14430,"",0,"",0,0,0,0,0
-14431,"",0,"",0,0,0,0,0
-14432,"",0,"",0,0,0,0,0
-14433,"",0,"",0,0,0,0,0
-14434,"",0,"",0,0,0,0,0
-14435,"",0,"",0,0,0,0,0
-14436,"",0,"",0,0,0,0,0
-14437,"",0,"",0,0,0,0,0
-14438,"",0,"",0,0,0,0,0
-14439,"",0,"",0,0,0,0,0
-14440,"",0,"",0,0,0,0,0
-14441,"",0,"",0,0,0,0,0
-14442,"",0,"",0,0,0,0,0
-14443,"",0,"",0,0,0,0,0
-14444,"",0,"",0,0,0,0,0
-14445,"",0,"",0,0,0,0,0
-14446,"",0,"",0,0,0,0,0
-14447,"",0,"",0,0,0,0,0
-14448,"",0,"",0,0,0,0,0
-14449,"",0,"",0,0,0,0,0
-14450,"",0,"",0,0,0,0,0
-14451,"",0,"",0,0,0,0,0
-14452,"",0,"",0,0,0,0,0
-14453,"",0,"",0,0,0,0,0
-14454,"",0,"",0,0,0,0,0
-14455,"",0,"",0,0,0,0,0
-14456,"",0,"",0,0,0,0,0
+14407,"Cu Sith",3,"Cu Sith",1,0,1,0,0
+14408,"Baumhörnchen",4,"Baumhörnchen",1,0,1,2,0
+14409,"Schaf",4,"Schafe",2,0,1,2,0
+14410,"Pugil",3,"Pugil",1,0,1,0,0
+14411,"Opo-Opo",4,"Opo-Opos",1,0,1,0,0
+14412,"Dodo",4,"Dodos",1,0,1,0,0
+14413,"Kobalos",3,"Kobalosse",2,0,1,0,0
+14414,"Schaudermilbe",3,"Schaudermilben",1,0,1,1,0
+14415,"Megalokrabbe",3,"Megalokrabben",1,0,1,1,0
+14416,"Vespula",3,"Vespula",1,0,1,1,0
+14417,"Kapgeier",4,"Kapgeier",2,0,1,0,0
+14418,"Mandragora",3,"Mandragoras",1,0,1,1,0
+14419,"Gespenst",4,"Gespenster",2,0,1,2,0
+14420,"Puk",4,"Puks",1,0,1,0,0
+14421,"Krabbe",3,"Krabben",1,0,1,1,0
+14422,"Mantis",3,"Mantis",1,0,1,1,0
+14423,"Schleim",4,"Schleime",2,0,1,0,0
+14424,"Dullahan",4,"Dullahans",1,0,1,0,0
+14425,"Fledermaus",3,"Fledermäuse",1,0,1,1,0
+14426,"Fliegenfalle",3,"Fliegenfallen",1,0,1,1,0
+14427,"Ziz",3,"Ziz",1,0,1,0,0
+14428,"Kaktor",4,"Kaktoren",2,0,1,0,0
+14429,"Golem",4,"Golems",1,0,1,0,0
+14430,"Apkallu",4,"Apkallus",1,0,1,0,0
+14431,"Adaman-Taimai",3,"Adaman-Taimai",1,0,1,1,0
+14432,"Büffel",4,"Büffel",2,0,1,0,0
+14433,"Uragnit",6,"Uragniten",1,0,1,0,0
+14434,"Riesenwurm",4,"Riesenwürmer",2,0,1,0,0
+14435,"Spriggan",4,"Spriggans",1,0,1,0,0
+14436,"Goobbue",3,"Goobbue",1,0,1,1,0
+14437,"Karpfenkröte",3,"Karpfenkröten",1,0,1,1,0
+14438,"Kolibri",4,"Kolibris",2,0,1,0,0
+14439,"Coeurl",3,"Coeurl",1,0,1,0,0
+14440,"Raptor",4,"Raptoren",1,0,1,0,0
+14441,"Drakon",4,"Drakons",1,0,1,0,0
+14442,"Baumschrat",4,"Baumschrate",2,0,1,0,0
+14443,"Treiberameise",3,"Treiberameisen",1,0,1,1,0
+14444,"Chimäre",3,"Chimären",1,0,1,1,0
+14445,"Morbol",3,"Morbol",1,0,1,0,0
+14446,"Geist",2,"Geister",2,0,1,0,0
+14447,"Salamander",4,"Salamander",2,0,1,0,0
+14448,"Kobra",3,"Kobras",1,0,1,1,0
+14449,"Hydra",3,"Hydras",1,0,1,1,0
+14450,"Kleinlibelle",3,"Kleinlibellen",1,0,1,1,0
+14451,"verrottend[a] Goobbue",3,"verrottend[a] Goobbue",1,0,1,1,0
+14452,"Montisaurus",3,"Montisaurus",1,0,1,0,0
+14453,"Eisgolem",4,"Eisgolems",1,0,1,0,0
+14454,"Karlabos",3,"Karlabos",1,0,1,0,0
+14455,"Rafflesia",3,"Rafflesien",1,0,1,1,0
+14456,"Behemoth",3,"Behemoth",1,0,1,0,0
 14457,"klein[a] Meerjungfrau",3,"klein[a] Meerjungfrauen",1,0,1,1,0
 14458,"Wunderlampe",3,"Wunderlampen",1,0,1,1,0
 14459,"Droningway",3,"NONE",1,0,0,0,1
@@ -14532,175 +14532,175 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14528,"Seite[p] 512",3,"Seiten[p] 512",1,0,1,1,0
 14529,"Alexander [t] Wiedererweckt[a]",3,"NONE",1,0,0,0,1
 14530,"Gordeus-System",4,"Gordeus-Systeme",2,0,1,2,0
-14531,"",0,"",0,0,0,0,0
-14532,"",0,"",0,0,0,0,0
-14533,"",0,"",0,0,0,0,0
-14534,"",0,"",0,0,0,0,0
-14535,"",0,"",0,0,0,0,0
-14536,"",0,"",0,0,0,0,0
-14537,"",0,"",0,0,0,0,0
-14538,"",0,"",0,0,0,0,0
-14539,"",0,"",0,0,0,0,0
-14540,"",0,"",0,0,0,0,0
-14541,"",0,"",0,0,0,0,0
-14542,"",0,"",0,0,0,0,0
-14543,"",0,"",0,0,0,0,0
-14544,"",0,"",0,0,0,0,0
-14545,"",0,"",0,0,0,0,0
-14546,"",0,"",0,0,0,0,0
-14547,"",0,"",0,0,0,0,0
-14548,"",0,"",0,0,0,0,0
-14549,"",0,"",0,0,0,0,0
-14550,"",0,"",0,0,0,0,0
-14551,"",0,"",0,0,0,0,0
-14552,"",0,"",0,0,0,0,0
-14553,"",0,"",0,0,0,0,0
-14554,"",0,"",0,0,0,0,0
-14555,"",0,"",0,0,0,0,0
-14556,"",0,"",0,0,0,0,0
-14557,"",0,"",0,0,0,0,0
-14558,"",0,"",0,0,0,0,0
-14559,"",0,"",0,0,0,0,0
-14560,"",0,"",0,0,0,0,0
-14561,"",0,"",0,0,0,0,0
-14562,"",0,"",0,0,0,0,0
-14563,"",0,"",0,0,0,0,0
-14564,"",0,"",0,0,0,0,0
-14565,"",0,"",0,0,0,0,0
-14566,"",0,"",0,0,0,0,0
-14567,"",0,"",0,0,0,0,0
-14568,"",0,"",0,0,0,0,0
-14569,"",0,"",0,0,0,0,0
-14570,"",0,"",0,0,0,0,0
-14571,"",0,"",0,0,0,0,0
-14572,"",0,"",0,0,0,0,0
-14573,"",0,"",0,0,0,0,0
-14574,"",0,"",0,0,0,0,0
-14575,"",0,"",0,0,0,0,0
-14576,"",0,"",0,0,0,0,0
-14577,"",0,"",0,0,0,0,0
-14578,"",0,"",0,0,0,0,0
-14579,"",0,"",0,0,0,0,0
-14580,"",0,"",0,0,0,0,0
-14581,"",0,"",0,0,0,0,0
-14582,"",0,"",0,0,0,0,0
-14583,"",0,"",0,0,0,0,0
-14584,"",0,"",0,0,0,0,0
-14585,"",0,"",0,0,0,0,0
-14586,"",0,"",0,0,0,0,0
-14587,"",0,"",0,0,0,0,0
-14588,"",0,"",0,0,0,0,0
-14589,"",0,"",0,0,0,0,0
-14590,"",0,"",0,0,0,0,0
-14591,"",0,"",0,0,0,0,0
-14592,"",0,"",0,0,0,0,0
-14593,"",0,"",0,0,0,0,0
-14594,"",0,"",0,0,0,0,0
-14595,"",0,"",0,0,0,0,0
-14596,"",0,"",0,0,0,0,0
-14597,"",0,"",0,0,0,0,0
-14598,"",0,"",0,0,0,0,0
-14599,"",0,"",0,0,0,0,0
-14600,"",0,"",0,0,0,0,0
-14601,"",0,"",0,0,0,0,0
-14602,"",0,"",0,0,0,0,0
-14603,"",0,"",0,0,0,0,0
-14604,"",0,"",0,0,0,0,0
-14605,"",0,"",0,0,0,0,0
-14606,"",0,"",0,0,0,0,0
-14607,"",0,"",0,0,0,0,0
-14608,"",0,"",0,0,0,0,0
-14609,"",0,"",0,0,0,0,0
-14610,"",0,"",0,0,0,0,0
-14611,"",0,"",0,0,0,0,0
-14612,"",0,"",0,0,0,0,0
-14613,"",0,"",0,0,0,0,0
-14614,"",0,"",0,0,0,0,0
-14615,"",0,"",0,0,0,0,0
-14616,"",0,"",0,0,0,0,0
-14617,"",0,"",0,0,0,0,0
-14618,"",0,"",0,0,0,0,0
-14619,"",0,"",0,0,0,0,0
-14620,"",0,"",0,0,0,0,0
-14621,"",0,"",0,0,0,0,0
-14622,"",0,"",0,0,0,0,0
-14623,"",0,"",0,0,0,0,0
-14624,"",0,"",0,0,0,0,0
-14625,"",0,"",0,0,0,0,0
-14626,"",0,"",0,0,0,0,0
-14627,"",0,"",0,0,0,0,0
-14628,"",0,"",0,0,0,0,0
-14629,"",0,"",0,0,0,0,0
-14630,"",0,"",0,0,0,0,0
-14631,"",0,"",0,0,0,0,0
-14632,"",0,"",0,0,0,0,0
-14633,"",0,"",0,0,0,0,0
-14634,"",0,"",0,0,0,0,0
-14635,"",0,"",0,0,0,0,0
-14636,"",0,"",0,0,0,0,0
-14637,"",0,"",0,0,0,0,0
-14638,"",0,"",0,0,0,0,0
-14639,"",0,"",0,0,0,0,0
-14640,"",0,"",0,0,0,0,0
-14641,"",0,"",0,0,0,0,0
-14642,"",0,"",0,0,0,0,0
-14643,"",0,"",0,0,0,0,0
-14644,"",0,"",0,0,0,0,0
-14645,"",0,"",0,0,0,0,0
-14646,"",0,"",0,0,0,0,0
-14647,"",0,"",0,0,0,0,0
-14648,"",0,"",0,0,0,0,0
-14649,"",0,"",0,0,0,0,0
-14650,"",0,"",0,0,0,0,0
-14651,"",0,"",0,0,0,0,0
-14652,"",0,"",0,0,0,0,0
-14653,"",0,"",0,0,0,0,0
-14654,"",0,"",0,0,0,0,0
-14655,"",0,"",0,0,0,0,0
-14656,"",0,"",0,0,0,0,0
-14657,"",0,"",0,0,0,0,0
-14658,"",0,"",0,0,0,0,0
-14659,"",0,"",0,0,0,0,0
-14660,"",0,"",0,0,0,0,0
-14661,"",0,"",0,0,0,0,0
-14662,"",0,"",0,0,0,0,0
-14663,"",0,"",0,0,0,0,0
-14664,"",0,"",0,0,0,0,0
-14665,"",0,"",0,0,0,0,0
-14666,"",0,"",0,0,0,0,0
-14667,"",0,"",0,0,0,0,0
-14668,"",0,"",0,0,0,0,0
-14669,"",0,"",0,0,0,0,0
-14670,"",0,"",0,0,0,0,0
-14671,"",0,"",0,0,0,0,0
-14672,"",0,"",0,0,0,0,0
-14673,"",0,"",0,0,0,0,0
-14674,"",0,"",0,0,0,0,0
-14675,"",0,"",0,0,0,0,0
-14676,"",0,"",0,0,0,0,0
-14677,"",0,"",0,0,0,0,0
-14678,"",0,"",0,0,0,0,0
-14679,"",0,"",0,0,0,0,0
-14680,"",0,"",0,0,0,0,0
-14681,"",0,"",0,0,0,0,0
-14682,"",0,"",0,0,0,0,0
-14683,"",0,"",0,0,0,0,0
-14684,"",0,"",0,0,0,0,0
-14685,"",0,"",0,0,0,0,0
-14686,"",0,"",0,0,0,0,0
-14687,"",0,"",0,0,0,0,0
-14688,"",0,"",0,0,0,0,0
-14689,"",0,"",0,0,0,0,0
-14690,"",0,"",0,0,0,0,0
-14691,"",0,"",0,0,0,0,0
-14692,"",0,"",0,0,0,0,0
-14693,"",0,"",0,0,0,0,0
-14694,"",0,"",0,0,0,0,0
-14695,"",0,"",0,0,0,0,0
-14696,"",0,"",0,0,0,0,0
-14697,"",0,"",0,0,0,0,0
-14698,"",0,"",0,0,0,0,0
-14699,"",0,"",0,0,0,0,0
+14531,"Knochen-Ritter",4,"Knochen-Ritter",2,0,1,0,0
+14532,"Knochen-Bischof",4,"Knochen-Bischöfe",2,0,1,0,0
+14533,"Erzdämonen-Ebenbild",4,"Erzdämonen-Ebenbilder",2,0,1,2,0
+14534,"abyssal[a] Lanze",3,"abyssal[a] Lanzen",1,0,1,1,0
+14535,"Pisco-Dämonen-Ebenbild",4,"Pisco-Dämonen-Ebenbilder",2,0,1,2,0
+14536,"Terrormilben-Ebenbild",4,"Terrormilben-Ebenbilder",2,0,1,2,0
+14537,"Schattenmilben-Ebenbild",4,"Schattenmilben-Ebenbilder",2,0,1,2,0
+14538,"Oger-Ebenbild",4,"Oger-Ebenbilder",2,0,1,2,0
+14539,"Irrlicht-Ebenbild",4,"Irrlicht-Ebenbilder",2,0,1,2,0
+14540,"Feuersphäre",3,"Feuersphären",1,0,1,1,0
+14541,"Seelenlos[a]",3,"Seelenlos[a]",1,0,1,1,0
+14542,"Sukkubus-Magierin",3,"Sukkubus-Magierinnen",1,0,1,1,0
+14543,"Sukkubus-Ritterin",3,"Sukkubus-Ritterinnen",1,0,1,1,0
+14544,"Pheromon",4,"Pheromone",2,0,1,2,0
+14545,"Manticore-Ebenbild",4,"Manticore-Ebenbilder",2,0,1,2,0
+14546,"Taurus-Ebenbild",4,"Taurus-Ebenbilder",2,0,1,2,0
+14547,"magisch[a] Sphäre",3,"magisch[a] Sphären",1,0,1,1,0
+14548,"Ahriman-Ebenbild",4,"Ahriman-Ebenbilder",2,0,1,2,0
+14549,"Wyvern-Ebenbild",4,"Wyvern-Ebenbilder",2,0,1,2,0
+14550,"Windwirbel",4,"Windwirbel",2,0,1,0,0
+14551,"Wind-Exergon",4,"Wind-Exergone",2,0,1,2,0
+14552,"Leerenmagus-Ebenbild",4,"Leerenmagus-Ebenbilder",2,0,1,2,0
+14553,"Zombie-Ebenbild",4,"Zombie-Ebenbilder",2,0,1,2,0
+14554,"Pestilenz",3,"Pestilenzen",1,0,1,1,0
+14555,"Älterer Taurus-Ebenbild[p]",4,"Älterer Taurus-Ebenbilder[p]",2,0,1,2,0
+14556,"Jüngerer Taurus-Ebenbild[p]",4,"Jüngerer Taurus-Ebenbilder[p]",2,0,1,2,0
+14557,"Dämonen-Ebenbild",4,"Dämonen-Ebenbilder",2,0,1,2,0
+14558,"Böse Waffen-Ebenbild[p]",4,"Böse Waffen-Ebenbilder[p]",2,0,1,2,0
+14559,"Eufel-Ebenbild",4,"Eufel-Ebenbilder",2,0,1,2,0
+14560,"magisch[a] Sphäre",3,"magisch[a] Sphären",1,0,1,1,0
+14561,"Losfrox Tintenklecks",3,"NONE",1,0,0,1,1
+14562,"Töffelchen",3,"NONE",1,0,0,0,1
+14563,"Ganzstark-Bömbchen",4,"Ganzstark-Bömbchen",1,0,1,2,0
+14564,"Kavaliers-Ebenbild",4,"Kavaliers-Ebenbilder",2,0,1,2,0
+14565,"erloschen[a] Kavaliers-Ebenbild",4,"erloschen[a] Kavaliers-Ebenbilder",2,0,1,2,0
+14566,"Knochen-Ritter",4,"Knochen-Ritter",2,0,1,0,0
+14567,"Knochen-Bischof",4,"Knochen-Bischöfe",2,0,1,0,0
+14568,"Knochen-Fragment",4,"Knochen-Fragmente",2,0,1,2,0
+14569,"Ymir-Ebenbild",4,"Ymir-Ebenbilder",2,0,1,2,0
+14570,"Ymir-Gehäuse",4,"Ymir-Gehäuse",2,0,1,2,0
+14571,"Sahagin-Ebenbild",4,"Sahagin-Ebenbilder",2,0,1,2,0
+14572,"Montisaurus-Ebenbild",4,"Montisaurus-Ebenbilder",2,0,1,2,0
+14573,"Hahn-Ebenbild",4,"Hahn-Ebenbilder",2,0,1,2,0
+14574,"Hennen-Ebenbild",4,"Hennen-Ebenbilder",2,0,1,2,0
+14575,"Montisaurus-Ei",4,"Montisaurus-Eier",2,0,1,2,0
+14576,"Montisaurus-Ei",4,"Montisaurus-Eier",2,0,1,2,0
+14577,"Catblepus-Ebenbild",4,"Catblepus-Ebenbilder",2,0,1,2,0
+14578,"schwarz[a] Auge",4,"schwarz[a] Augen",1,0,1,2,0
+14579,"schwarz[a] Auge",4,"schwarz[a] Augen",1,0,1,2,0
+14580,"Lakhamu-Ebenbild",4,"Lakhamu-Ebenbilder",2,0,1,2,0
+14581,"Golem-Ebenbild",4,"Golem-Ebenbilder",2,0,1,2,0
+14582,"Sandkugel",3,"Sandkugeln",1,0,1,1,0
+14583,"Sirenen-Ebenbild",4,"Sirenen-Ebenbilder",2,0,1,2,0
+14584,"lieblich[a] Melodie",3,"lieblich[a] Melodien",1,0,1,1,0
+14585,"schlurfend[a] Ebenbild",4,"schlurfend[a] Ebenbilder",2,0,1,2,0
+14586,"kriechend[a] Ebenbild",4,"kriechend[a] Ebenbilder",2,0,1,2,0
+14587,"Kämpfer-Ebenbild",4,"Kämpfer-Ebenbilder",2,0,1,2,0
+14588,"Kaktor-Ebenbild",4,"Kaktor-Ebenbilder",2,0,1,2,0
+14589,"Blütenkaktor-Ebenbild",4,"Blütenkaktor-Ebenbilder",2,0,1,2,0
+14590,"Soldat-Ebenbild",4,"Soldat-Ebenbilder",2,0,1,2,0
+14591,"Wächter-Ebenbild",4,"Wächter-Ebenbilder",2,0,1,2,0
+14592,"Guttler [t] Ausweider[p]",4,"Guttler [t] Ausweider[p]",1,0,0,0,1
+14593,"Brennklinge",3,"Brennklingen",1,0,1,1,0
+14594,"Schmelzklinge",3,"Schmelzklingen",1,0,1,1,0
+14595,"Thanatos-Ebenbild",4,"Thanatos-Ebenbilder",2,0,1,2,0
+14596,"Strix-Ebenbild",4,"Strix-Ebenbilder",2,0,1,2,0
+14597,"Wälzer-Ebenbild",4,"Wälzer-Ebenbilder",2,0,1,2,0
+14598,"Strix-Feder",3,"Strix-Federn",1,0,1,1,0
+14599,"Morbol-Ebenbild",4,"Morbol-Ebenbilder",2,0,1,2,0
+14600,"Keimling-Ebenbild",4,"Keimling-Ebenbilder",2,0,1,2,0
+14601,"Ochu-Ebenbild",4,"Ochu-Ebenbilder",2,0,1,2,0
+14602,"Aasbrühe",3,"Aasbrühen",1,0,1,1,0
+14603,"Titanenwurz-Ebenbild",4,"Titanenwurz-Ebenbilder",2,0,1,2,0
+14604,"Schössling-Ebenbild",4,"Schössling-Ebenbilder",2,0,1,2,0
+14605,"Falkenköniginnen-Ebenbild",4,"Falkenköniginnen-Ebenbilder",2,0,1,2,0
+14606,"Frostdrachen-Ebenbild",4,"Frostdrachen-Ebenbilder",2,0,1,2,0
+14607,"Eis-Exergon",4,"Eis-Exergone",2,0,1,2,0
+14608,"Gargoyle-Ebenbild",4,"Gargoyle-Ebenbilder",2,0,1,2,0
+14609,"Pestilenz",3,"Pestilenzen",1,0,1,1,0
+14610,"Administrator-Ebenbild",4,"Administrator-Ebenbilder",2,0,1,2,0
+14611,"Käfer-Ebenbild",4,"Käfer-Ebenbilder",2,0,1,2,0
+14612,"Fußsoldaten-Ebenbild",4,"Fußsoldaten-Ebenbilder",2,0,1,2,0
+14613,"Brummonauten-Ebenbild",4,"Brummonauten-Ebenbilder",2,0,1,2,0
+14614,"Drohnen-Ebenbild",4,"Drohnen-Ebenbilder",2,0,1,2,0
+14615,"Speglidae-Ebenbild",4,"Speglidae-Ebenbilder",2,0,1,2,0
+14616,"Kobra-Ebenbild",4,"Kobra-Ebenbilder",2,0,1,2,0
+14617,"Golem-Ebenbild",4,"Golem-Ebenbilder",2,0,1,2,0
+14618,"Baumschrat-Ebenbild",4,"Baumschrat-Ebenbilder",2,0,1,2,0
+14619,"Schnecken-Ebenbild",4,"Schnecken-Ebenbilder",2,0,1,2,0
+14620,"Schössling-Ebenbild",4,"Schössling-Ebenbilder",2,0,1,2,0
+14621,"Schaudermilben-Ebenbild",4,"Schaudermilben-Ebenbilder",2,0,1,2,0
+14622,"Biloko-Ebenbild",4,"Biloko-Ebenbilder",2,0,1,2,0
+14623,"Progenitrix-Ebenbild",4,"Progenitrix-Ebenbilder",2,0,1,2,0
+14624,"Granaten-Ebenbild",4,"Granaten-Ebenbilder",2,0,1,2,0
+14625,"Bomber-Ebenbild",4,"Bomber-Ebenbilder",2,0,1,2,0
+14626,"Snoll-Ebenbild",4,"Snoll-Ebenbilder",2,0,1,2,0
+14627,"Pyrobolos-Ebenbild",4,"Pyrobolos-Ebenbilder",2,0,1,2,0
+14628,"Borgny [t] Giftschleuder[p]",3,"NONE",1,0,0,1,1
+14629,"vergiftend[a] Substanz",3,"vergiftend[a] Substanzen",1,0,1,1,0
+14630,"toxisch[a] Kugel",3,"toxisch[a] Kugeln",1,0,1,1,0
+14631,"Flauros-Ebenbild",4,"Flauros-Ebenbilder",2,0,1,2,0
+14632,"Blitz-Exergon",4,"Blitz-Exergone",2,0,1,2,0
+14633,"Gedankenschinder-Ebenbild",4,"Gedankenschinder-Ebenbilder",2,0,1,2,0
+14634,"Fliegerpilz-Ebenbild",4,"Fliegerpilz-Ebenbilder",2,0,1,2,0
+14635,"Pilzkolonie",3,"Pilzkolonien",1,0,1,1,0
+14636,"Spore",3,"Sporen",1,0,1,1,0
+14637,"arkan[a] Sphäre",3,"arkan[a] Sphären",1,0,1,1,0
+14638,"Butzemann-Ebenbild",4,"Butzemann-Ebenbilder",2,0,1,2,0
+14639,"Glotzaugen-Ebenbild",4,"Glotzaugen-Ebenbilder",2,0,1,2,0
+14640,"Bomber-Ebenbild",4,"Bomber-Ebenbilder",2,0,1,2,0
+14641,"Licht-Exergon",4,"Licht-Exergone",2,0,1,2,0
+14642,"Atomos-Ebenbild",4,"Atomos-Ebenbilder",2,0,1,2,0
+14643,"Rotgremlin-Ebenbild",4,"Rotgremlin-Ebenbilder",2,0,1,2,0
+14644,"Gremlin-Ebenbild",4,"Gremlin-Ebenbilder",2,0,1,2,0
+14645,"Pudding-Ebenbild",4,"Pudding-Ebenbilder",2,0,1,2,0
+14646,"Creme-Ebenbild",4,"Creme-Ebenbilder",2,0,1,2,0
+14647,"Fran-Ebenbild",4,"Fran-Ebenbilder",2,0,1,2,0
+14648,"Vodoriga-Ebenbild",4,"Vodoriga-Ebenbilder",2,0,1,2,0
+14649,"Bedrohlicher-Dahak-Ebenbild[p]",4,"Bedrohlicher-Dahak-Ebenbilder",2,0,1,2,0
+14650,"magisch[a] Sphäre",3,"magisch[a] Sphären",1,0,1,1,0
+14651,"Drakon-Ebenbild",4,"Drakon-Ebenbilder",2,0,1,2,0
+14652,"Feuersphäre",3,"Feuersphären",1,0,1,1,0
+14653,"Dornmull-Ebenbild",4,"Dornmull-Ebenbilder",2,0,1,2,0
+14654,"Feuersturm",4,"Feuerstürme",2,0,1,0,0
+14655,"Abaddon-Ebenbild",4,"Abaddon-Ebenbilder",2,0,1,2,0
+14656,"Morpho-Ebenbild",4,"Morpho-Ebenbilder",2,0,1,2,0
+14657,"Durga-Ebenbild",4,"Durga-Ebenbilder",2,0,1,2,0
+14658,"Rakete",3,"Raketen",1,0,1,1,0
+14659,"Drehturm-Ebenbild",4,"Drehturm-Ebenbilder",2,0,1,2,0
+14660,"Medusa-Ebenbild",4,"Medusa-Ebenbilder",2,0,1,2,0
+14661,"Lamia-Ebenbild",4,"Lamia-Ebenbilder",2,0,1,2,0
+14662,"Zyklop-Ebenbild",4,"Zyklop-Ebenbilder",2,0,1,2,0
+14663,"Chimära-Ebenbild",4,"Chimära-Ebenbilder",2,0,1,2,0
+14664,"Elektrosphäre",3,"Elektrosphären",1,0,1,1,0
+14665,"Sphinx-Ebenbild",4,"Sphinx-Ebenbilder",2,0,1,2,0
+14666,"Dodo-Ebenbild",4,"Dodo-Ebenbilder",2,0,1,2,0
+14667,"Pugil-Ebenbild",4,"Pugil-Ebenbilder",2,0,1,2,0
+14668,"Opo-Opo-Ebenbild",4,"Opo-Opo-Ebenbilder",2,0,1,2,0
+14669,"Puk-Ebenbild",4,"Puk-Ebenbilder",2,0,1,2,0
+14670,"Gigantis-Ebenbild",4,"Gigantis-Ebenbilder",2,0,1,2,0
+14671,"Zyklop-Ebenbild",4,"Zyklop-Ebenbilder",2,0,1,2,0
+14672,"erstarrt[a] Blitz",2,"erstarrt[a] Blitze",2,0,1,0,0
+14673,"erstarrt[a] Zunder",4,"erstarrt[a] Zunder",2,0,1,0,0
+14674,"Schwertkupo-Ebenbild",4,"Schwertmog-Ebenbilder",2,0,1,2,0
+14675,"Mogbrecher-Ebenbild",4,"Mogbrecher-Ebenbilder",2,0,1,2,0
+14676,"gekrönt[a] Kupoheiler",4,"gekrönt[a] Kupoheiler",2,0,1,0,0
+14677,"gekrönt[a] Kupomagier",4,"gekrönt[a] Kupomagier",2,0,1,0,0
+14678,"Kupoheiler-Ebenbild",4,"Kupoheiler-Ebenbilder",2,0,1,2,0
+14679,"Kupomagier-Ebenbild",4,"Kupomagier-Ebenbilder",2,0,1,2,0
+14680,"gekrönt[a] Schwertkupo",4,"gekrönt[a] Schwertkupos",1,0,1,0,0
+14681,"Melomog-Ebenbild",4,"Melomog-Ebenbilder",2,0,1,2,0
+14682,"Klangsphäre",3,"Klangsphären",1,0,1,1,0
+14683,"Klaukupo-Ebenbild",4,"Klaukupo-Ebenbilder",2,0,1,2,0
+14684,"Behemoth-Ebenbild",4,"Behemoth-Ebenbilder",2,0,1,2,0
+14685,"Riesen-Ebenbild",4,"Riesen-Ebenbilder",2,0,1,2,0
+14686,"Blitz-Exergon",4,"Blitz-Exergone",2,0,1,2,0
+14687,"Komet",4,"Kometen",1,0,1,0,0
+14688,"Königs-Ahriman-Ebenbild",4,"Königs-Ahriman-Ebenbilder",2,0,1,2,0
+14689,"Sanduhr[p] des Todes",3,"Sanduhren[p] des Todes",1,0,1,1,0
+14690,"Sensenmann-Ebenbild",4,"Sensenmann-Ebenbilder",2,0,1,2,0
+14691,"Hapalit-Ebenbild",4,"Hapalit-Ebenbilder",2,0,1,2,0
+14692,"Trübaugen-Ebenbild",4,"Trübaugen-Ebenbilder",2,0,1,2,0
+14693,"Lauda [t] Spruchspalterin[p]",3,"NONE",1,0,0,1,1
+14694,"Brennklinge",3,"Brennklingen",1,0,1,1,0
+14695,"Schmelzklinge",3,"Schmelzklingen",1,0,1,1,0
+14696,"Schemenklinge",3,"Schemenklingen",1,0,1,1,0
+14697,"Brutalklinge",3,"Brutalklingen",1,0,1,1,0
+14698,"Dominanzklinge",3,"Dominanzklingen",1,0,1,1,0
+14699,"Thanatos-Ebenbild",4,"Thanatos-Ebenbilder",2,0,1,2,0
 14700,"Besucher-Langfinger",4,"Besucher-Langfinger",2,0,1,0,0
 14701,"Besucher-Persona",3,"Besucher-Personae",1,0,1,1,0
 14702,"Besucher-Taurus",3,"Besucher-Tauren",1,0,1,0,0
@@ -14741,15 +14741,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14737,"defekt[a] Lamia",3,"defekt[a] Lamias",1,0,1,1,0
 14738,"sinnlich[a] Sandy",3,"NONE",1,0,1,1,0
 14739,"toxisch[a] Kugel",3,"toxisch[a] Kugeln",1,0,1,1,0
-14740,"",0,"",0,0,0,0,0
-14741,"",0,"",0,0,0,0,0
-14742,"",0,"",0,0,0,0,0
-14743,"",0,"",0,0,0,0,0
-14744,"",0,"",0,0,0,0,0
-14745,"",0,"",0,0,0,0,0
-14746,"",0,"",0,0,0,0,0
+14740,"jung[a] Luftschiff-Matrosin",3,"jung[a] Luftschiff-Matrosinnen",1,0,1,1,0
+14741,"Estinien",3,"NONE",1,0,0,0,1
+14742,"Alphinaud",3,"NONE",1,0,0,0,1
+14743,"Thrall-Unterwerfer",4,"Thrall-Unterwerfer",2,0,1,0,0
+14744,"Thrall-Fänger",4,"Thrall-Fänger",2,0,1,0,0
+14745,"Thrall-Pfähler",4,"Thrall-Pfähler",2,0,1,0,0
+14746,"Unterwerfer-Kern",4,"Unterwerfer-Kerne",2,0,1,0,0
 14747,"Pelekos",3,"NONE",1,0,0,0,1
-14748,"",0,"",0,0,0,0,0
+14748,"Riesen-Irrlicht-Ebenbild",4,"Riesen-Irrlicht-Ebenbilder",2,0,1,2,0
 14749,"Enuo",3,"NONE",1,0,0,0,1
 14750,"groß[a] Nichtswirbel",4,"groß[a] Nichtswirbel",2,0,1,0,0
 14751,"Nichtswirbel",4,"Nichtswirbel",2,0,1,0,0
@@ -14795,7 +14795,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14791,"Atlas-Karfunkel",4,"Atlas-Karfunkel",2,0,1,2,0
 14792,"Topasstein",4,"Topassteine",2,0,1,0,0
 14793,"●イミテーション",0,"",0,0,1,0,0
-14794,"",0,"",0,0,0,0,0
+14794,"Taurus-Brüder",3,"Taurus-Brüder",1,0,1,0,0
 14795,"winzig[a] Magier",4,"winzig[a] Magier",2,0,1,0,0
 14796,"winzig[a] Lehrling",4,"winzig[a] Lehrlinge",2,0,1,0,0
 14797,"Flaresphäre",3,"Flaresphären",1,0,1,1,0
@@ -14852,7 +14852,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14848,"Register[p] [t] Belesen[a]",3,"NONE",1,0,0,0,1
 14849,"mickrig[a] Magier",3,"mickrig[a] Magier",2,0,1,0,0
 14850,"Wuk Lamat-Puppe",3,"Wuk Lamat-Puppen",1,0,1,1,0
-14851,"",0,"",0,0,0,0,0
+14851,"Laudoppelgängerin",3,"Laudoppelgängerinnen",1,0,1,1,0
 14852,"Prishe-Puppe",3,"Prishe-Puppen",1,0,1,1,0
 14853,"Köttr-Puppe",3,"Köttr-Puppen",1,0,1,1,0
 14854,"Nagy",3,"NONE",1,0,0,0,1
@@ -14928,8 +14928,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14924,"Besucher-Bomber",4,"Besucher-Bomber",2,0,1,0,0
 14925,"Besucher-Übelauge",4,"Besucher-Übelaugen",1,0,1,2,0
 14926,"Besucher-Imp",4,"Besucher-Imps",1,0,1,0,0
-14927,"",0,"",0,0,0,0,0
-14928,"",0,"",0,0,0,0,0
+14927,"gefangen[a] Schlange",3,"gefangen[a] Schlange",1,0,1,1,0
+14928,"Pfefferchen",4,"Pfefferchen",1,0,1,2,0
 14929,"Magie-Catblepus",3,"Magie-Catblepus",1,0,1,1,0
 14930,"Magie-Einhänder",4,"Magie-Einhänder",2,0,1,0,0
 14931,"Magie-Skatene",3,"Kreszentia-Skatenen",1,0,1,1,0
@@ -14937,8 +14937,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 14933,"Airbuster",4,"Airbuster",2,0,1,0,0
 14934,"alarmiert[a] Stimme",3,"alarmiert[a] Stimmen",1,0,1,1,0
 14935,"Stimme[p] von Sareel Ja",3,"Stimmen[p] von Sareel Ja",1,0,1,1,0
-14936,"",0,"",0,0,0,0,0
-14937,"",0,"",0,0,0,0,0
+14936,"Guttler und Lauda",3,"Guttler und Lauda",1,0,0,0,1
+14937,"Arkanklinge",3,"Arkanklingen",1,0,1,1,0
 14938,"magisch[a] Einsiedler",4,"magisch[a] Einsiedler",2,0,1,0,0
 14939,"Orchester-Alpaka-Cria",4,"Orchester-Alpaka-Crias",1,0,1,2,0
 14940,"Naschkatze",3,"Naschkatzen",1,0,1,1,0

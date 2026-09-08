@@ -90,11 +90,11 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 86,14,61824,3,1,14,8,0,0,0,0,70942,"Pilgers Pfad: Fortschritt III","Ebene 50 von Pilgers Pfad abschließen",0
 87,14,61824,4,1,15,3,0,0,0,0,70942,"Pilgers Pfad: Fortschritt IV","Ebene 70 von Pilgers Pfad abschließen",0
 88,14,61824,5,1,14,10,0,0,0,0,70942,"Pilgers Pfad: Fortschritt V","Ebene 100 von Pilgers Pfad abschließen",0
-89,0,0,0,0,0,0,0,0,0,0,0,"","",0
-90,0,0,0,0,0,0,0,0,0,0,0,"","",0
-91,0,0,0,0,0,0,0,0,0,0,0,"","",0
-92,0,0,0,0,0,0,0,0,0,0,0,"","",0
-93,0,0,0,0,0,0,0,0,0,0,0,"","",0
+89,11,61854,1,1,16,50,0,0,0,0,71030,"Erstes Brett der Bestie","Das Erste Brett der Bestie bewältigen",0
+90,11,61854,2,1,16,50,0,0,0,0,71032,"Zweites Brett der Bestie","Das Zweite Brett der Bestie bewältigen",0
+91,11,61854,3,1,17,30,0,0,0,0,71034,"Drittes Brett der Bestie","Das Dritte Brett der Bestie bewältigen",0
+92,11,61854,4,1,17,30,0,0,0,0,71036,"Erstes Meisterbrett der Bestie","Das Erste Meisterbrett der Bestie bewältigen",0
+93,11,61854,5,1,17,30,0,0,0,0,71037,"Zweites Meisterbrett der Bestie","Das Zweite Meisterbrett der Bestie bewältigen",0
 94,0,0,0,0,0,0,0,0,0,0,0,"","",0
 95,0,0,0,0,0,0,0,0,0,0,0,"","",0
 96,0,0,0,0,0,0,0,0,0,0,0,"","",0

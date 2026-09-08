@@ -1,209 +1,739 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,,,,,,,,,,,,,,
 int32,byte,uint32,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str
-0,0,0,0,"",0,"",0,0,0,0,0,"","",""
-1,0,0,0,"",0,"",0,0,0,0,0,"","",""
-2,0,0,0,"",0,"",0,0,0,0,0,"","",""
-3,0,0,0,"",0,"",0,0,0,0,0,"","",""
-4,0,0,0,"",0,"",0,0,0,0,0,"","",""
-5,0,0,0,"",0,"",0,0,0,0,0,"","",""
-6,0,0,0,"",0,"",0,0,0,0,0,"","",""
-7,0,0,0,"",0,"",0,0,0,0,0,"","",""
-8,0,0,0,"",0,"",0,0,0,0,0,"","",""
-9,0,0,0,"",0,"",0,0,0,0,0,"","",""
-10,0,0,0,"",0,"",0,0,0,0,0,"","",""
-11,0,0,0,"",0,"",0,0,0,0,0,"","",""
-12,0,0,0,"",0,"",0,0,0,0,0,"","",""
-13,0,0,0,"",0,"",0,0,0,0,0,"","",""
-14,0,0,0,"",0,"",0,0,0,0,0,"","",""
-15,0,0,0,"",0,"",0,0,0,0,0,"","",""
-16,0,0,0,"",0,"",0,0,0,0,0,"","",""
-17,0,0,0,"",0,"",0,0,0,0,0,"","",""
-18,0,0,0,"",0,"",0,0,0,0,0,"","",""
-19,0,0,0,"",0,"",0,0,0,0,0,"","",""
-20,0,0,0,"",0,"",0,0,0,0,0,"","",""
-21,0,0,0,"",0,"",0,0,0,0,0,"","",""
-22,0,0,0,"",0,"",0,0,0,0,0,"","",""
-23,0,0,0,"",0,"",0,0,0,0,0,"","",""
-24,0,0,0,"",0,"",0,0,0,0,0,"","",""
-25,0,0,0,"",0,"",0,0,0,0,0,"","",""
-26,0,0,0,"",0,"",0,0,0,0,0,"","",""
-27,0,0,0,"",0,"",0,0,0,0,0,"","",""
-28,0,0,0,"",0,"",0,0,0,0,0,"","",""
-29,0,0,0,"",0,"",0,0,0,0,0,"","",""
-30,0,0,0,"",0,"",0,0,0,0,0,"","",""
-31,0,0,0,"",0,"",0,0,0,0,0,"","",""
-32,0,0,0,"",0,"",0,0,0,0,0,"","",""
-33,0,0,0,"",0,"",0,0,0,0,0,"","",""
-34,0,0,0,"",0,"",0,0,0,0,0,"","",""
-35,0,0,0,"",0,"",0,0,0,0,0,"","",""
-36,0,0,0,"",0,"",0,0,0,0,0,"","",""
-37,0,0,0,"",0,"",0,0,0,0,0,"","",""
-38,0,0,0,"",0,"",0,0,0,0,0,"","",""
-39,0,0,0,"",0,"",0,0,0,0,0,"","",""
-40,0,0,0,"",0,"",0,0,0,0,0,"","",""
-41,0,0,0,"",0,"",0,0,0,0,0,"","",""
-42,0,0,0,"",0,"",0,0,0,0,0,"","",""
-43,0,0,0,"",0,"",0,0,0,0,0,"","",""
-44,0,0,0,"",0,"",0,0,0,0,0,"","",""
-45,0,0,0,"",0,"",0,0,0,0,0,"","",""
-46,0,0,0,"",0,"",0,0,0,0,0,"","",""
-47,0,0,0,"",0,"",0,0,0,0,0,"","",""
-48,0,0,0,"",0,"",0,0,0,0,0,"","",""
-49,0,0,0,"",0,"",0,0,0,0,0,"","",""
-50,0,0,0,"",0,"",0,0,0,0,0,"","",""
-51,0,0,0,"",0,"",0,0,0,0,0,"","",""
-52,0,0,0,"",0,"",0,0,0,0,0,"","",""
-53,0,0,0,"",0,"",0,0,0,0,0,"","",""
-54,0,0,0,"",0,"",0,0,0,0,0,"","",""
-55,0,0,0,"",0,"",0,0,0,0,0,"","",""
-56,0,0,0,"",0,"",0,0,0,0,0,"","",""
-57,0,0,0,"",0,"",0,0,0,0,0,"","",""
-58,0,0,0,"",0,"",0,0,0,0,0,"","",""
-59,0,0,0,"",0,"",0,0,0,0,0,"","",""
-60,0,0,0,"",0,"",0,0,0,0,0,"","",""
-61,0,0,0,"",0,"",0,0,0,0,0,"","",""
-62,0,0,0,"",0,"",0,0,0,0,0,"","",""
-63,0,0,0,"",0,"",0,0,0,0,0,"","",""
-64,0,0,0,"",0,"",0,0,0,0,0,"","",""
-65,0,0,0,"",0,"",0,0,0,0,0,"","",""
-66,0,0,0,"",0,"",0,0,0,0,0,"","",""
-67,0,0,0,"",0,"",0,0,0,0,0,"","",""
-68,0,0,0,"",0,"",0,0,0,0,0,"","",""
-69,0,0,0,"",0,"",0,0,0,0,0,"","",""
-70,0,0,0,"",0,"",0,0,0,0,0,"","",""
-71,0,0,0,"",0,"",0,0,0,0,0,"","",""
-72,0,0,0,"",0,"",0,0,0,0,0,"","",""
-73,0,0,0,"",0,"",0,0,0,0,0,"","",""
-74,0,0,0,"",0,"",0,0,0,0,0,"","",""
-75,0,0,0,"",0,"",0,0,0,0,0,"","",""
-76,0,0,0,"",0,"",0,0,0,0,0,"","",""
-77,0,0,0,"",0,"",0,0,0,0,0,"","",""
-78,0,0,0,"",0,"",0,0,0,0,0,"","",""
-79,0,0,0,"",0,"",0,0,0,0,0,"","",""
-80,0,0,0,"",0,"",0,0,0,0,0,"","",""
-81,0,0,0,"",0,"",0,0,0,0,0,"","",""
-82,0,0,0,"",0,"",0,0,0,0,0,"","",""
-83,0,0,0,"",0,"",0,0,0,0,0,"","",""
-84,0,0,0,"",0,"",0,0,0,0,0,"","",""
-85,0,0,0,"",0,"",0,0,0,0,0,"","",""
-86,0,0,0,"",0,"",0,0,0,0,0,"","",""
-87,0,0,0,"",0,"",0,0,0,0,0,"","",""
-88,0,0,0,"",0,"",0,0,0,0,0,"","",""
-89,0,0,0,"",0,"",0,0,0,0,0,"","",""
-90,0,0,0,"",0,"",0,0,0,0,0,"","",""
-91,0,0,0,"",0,"",0,0,0,0,0,"","",""
-92,0,0,0,"",0,"",0,0,0,0,0,"","",""
-93,0,0,0,"",0,"",0,0,0,0,0,"","",""
-94,0,0,0,"",0,"",0,0,0,0,0,"","",""
-95,0,0,0,"",0,"",0,0,0,0,0,"","",""
-96,0,0,0,"",0,"",0,0,0,0,0,"","",""
-97,0,0,0,"",0,"",0,0,0,0,0,"","",""
-98,0,0,0,"",0,"",0,0,0,0,0,"","",""
-99,0,0,0,"",0,"",0,0,0,0,0,"","",""
-100,0,0,0,"",0,"",0,0,0,0,0,"","",""
-101,0,0,0,"",0,"",0,0,0,0,0,"","",""
-102,0,0,0,"",0,"",0,0,0,0,0,"","",""
-103,0,0,0,"",0,"",0,0,0,0,0,"","",""
-104,0,0,0,"",0,"",0,0,0,0,0,"","",""
-105,0,0,0,"",0,"",0,0,0,0,0,"","",""
-106,0,0,0,"",0,"",0,0,0,0,0,"","",""
-107,0,0,0,"",0,"",0,0,0,0,0,"","",""
-108,0,0,0,"",0,"",0,0,0,0,0,"","",""
-109,0,0,0,"",0,"",0,0,0,0,0,"","",""
-110,0,0,0,"",0,"",0,0,0,0,0,"","",""
-111,0,0,0,"",0,"",0,0,0,0,0,"","",""
-112,0,0,0,"",0,"",0,0,0,0,0,"","",""
-113,0,0,0,"",0,"",0,0,0,0,0,"","",""
-114,0,0,0,"",0,"",0,0,0,0,0,"","",""
-115,0,0,0,"",0,"",0,0,0,0,0,"","",""
-116,0,0,0,"",0,"",0,0,0,0,0,"","",""
-117,0,0,0,"",0,"",0,0,0,0,0,"","",""
-118,0,0,0,"",0,"",0,0,0,0,0,"","",""
-119,0,0,0,"",0,"",0,0,0,0,0,"","",""
-120,0,0,0,"",0,"",0,0,0,0,0,"","",""
-121,0,0,0,"",0,"",0,0,0,0,0,"","",""
-122,0,0,0,"",0,"",0,0,0,0,0,"","",""
-123,0,0,0,"",0,"",0,0,0,0,0,"","",""
-124,0,0,0,"",0,"",0,0,0,0,0,"","",""
-125,0,0,0,"",0,"",0,0,0,0,0,"","",""
-126,0,0,0,"",0,"",0,0,0,0,0,"","",""
-127,0,0,0,"",0,"",0,0,0,0,0,"","",""
-128,0,0,0,"",0,"",0,0,0,0,0,"","",""
-129,0,0,0,"",0,"",0,0,0,0,0,"","",""
-130,0,0,0,"",0,"",0,0,0,0,0,"","",""
-131,0,0,0,"",0,"",0,0,0,0,0,"","",""
-132,0,0,0,"",0,"",0,0,0,0,0,"","",""
-133,0,0,0,"",0,"",0,0,0,0,0,"","",""
-134,0,0,0,"",0,"",0,0,0,0,0,"","",""
-135,0,0,0,"",0,"",0,0,0,0,0,"","",""
-136,0,0,0,"",0,"",0,0,0,0,0,"","",""
-137,0,0,0,"",0,"",0,0,0,0,0,"","",""
-138,0,0,0,"",0,"",0,0,0,0,0,"","",""
-139,0,0,0,"",0,"",0,0,0,0,0,"","",""
-140,0,0,0,"",0,"",0,0,0,0,0,"","",""
-141,0,0,0,"",0,"",0,0,0,0,0,"","",""
-142,0,0,0,"",0,"",0,0,0,0,0,"","",""
-143,0,0,0,"",0,"",0,0,0,0,0,"","",""
-144,0,0,0,"",0,"",0,0,0,0,0,"","",""
-145,0,0,0,"",0,"",0,0,0,0,0,"","",""
-146,0,0,0,"",0,"",0,0,0,0,0,"","",""
-147,0,0,0,"",0,"",0,0,0,0,0,"","",""
-148,0,0,0,"",0,"",0,0,0,0,0,"","",""
-149,0,0,0,"",0,"",0,0,0,0,0,"","",""
-150,0,0,0,"",0,"",0,0,0,0,0,"","",""
-151,0,0,0,"",0,"",0,0,0,0,0,"","",""
-152,0,0,0,"",0,"",0,0,0,0,0,"","",""
-153,0,0,0,"",0,"",0,0,0,0,0,"","",""
-154,0,0,0,"",0,"",0,0,0,0,0,"","",""
-155,0,0,0,"",0,"",0,0,0,0,0,"","",""
-156,0,0,0,"",0,"",0,0,0,0,0,"","",""
-157,0,0,0,"",0,"",0,0,0,0,0,"","",""
-158,0,0,0,"",0,"",0,0,0,0,0,"","",""
-159,0,0,0,"",0,"",0,0,0,0,0,"","",""
-160,0,0,0,"",0,"",0,0,0,0,0,"","",""
-161,0,0,0,"",0,"",0,0,0,0,0,"","",""
-162,0,0,0,"",0,"",0,0,0,0,0,"","",""
-163,0,0,0,"",0,"",0,0,0,0,0,"","",""
-164,0,0,0,"",0,"",0,0,0,0,0,"","",""
-165,0,0,0,"",0,"",0,0,0,0,0,"","",""
-166,0,0,0,"",0,"",0,0,0,0,0,"","",""
-167,0,0,0,"",0,"",0,0,0,0,0,"","",""
-168,0,0,0,"",0,"",0,0,0,0,0,"","",""
-169,0,0,0,"",0,"",0,0,0,0,0,"","",""
-170,0,0,0,"",0,"",0,0,0,0,0,"","",""
-171,0,0,0,"",0,"",0,0,0,0,0,"","",""
-172,0,0,0,"",0,"",0,0,0,0,0,"","",""
-173,0,0,0,"",0,"",0,0,0,0,0,"","",""
-174,0,0,0,"",0,"",0,0,0,0,0,"","",""
-175,0,0,0,"",0,"",0,0,0,0,0,"","",""
-176,0,0,0,"",0,"",0,0,0,0,0,"","",""
-177,0,0,0,"",0,"",0,0,0,0,0,"","",""
-178,0,0,0,"",0,"",0,0,0,0,0,"","",""
-179,0,0,0,"",0,"",0,0,0,0,0,"","",""
-180,0,0,0,"",0,"",0,0,0,0,0,"","",""
-181,0,0,0,"",0,"",0,0,0,0,0,"","",""
-182,0,0,0,"",0,"",0,0,0,0,0,"","",""
-183,0,0,0,"",0,"",0,0,0,0,0,"","",""
-184,0,0,0,"",0,"",0,0,0,0,0,"","",""
-185,0,0,0,"",0,"",0,0,0,0,0,"","",""
-186,0,0,0,"",0,"",0,0,0,0,0,"","",""
-187,0,0,0,"",0,"",0,0,0,0,0,"","",""
-188,0,0,0,"",0,"",0,0,0,0,0,"","",""
-189,0,0,0,"",0,"",0,0,0,0,0,"","",""
-190,0,0,0,"",0,"",0,0,0,0,0,"","",""
-191,0,0,0,"",0,"",0,0,0,0,0,"","",""
-192,0,0,0,"",0,"",0,0,0,0,0,"","",""
-193,0,0,0,"",0,"",0,0,0,0,0,"","",""
-194,0,0,0,"",0,"",0,0,0,0,0,"","",""
-195,0,0,0,"",0,"",0,0,0,0,0,"","",""
-196,0,0,0,"",0,"",0,0,0,0,0,"","",""
-197,0,0,0,"",0,"",0,0,0,0,0,"","",""
-198,0,0,0,"",0,"",0,0,0,0,0,"","",""
-199,0,0,0,"",0,"",0,0,0,0,0,"","",""
-200,0,0,0,"",0,"",0,0,0,0,0,"","",""
-201,0,0,0,"",0,"",0,0,0,0,0,"","",""
-202,0,0,0,"",0,"",0,0,0,0,0,"","",""
-203,0,0,0,"",0,"",0,0,0,0,0,"","",""
-204,0,0,0,"",0,"",0,0,0,0,0,"","",""
-205,0,0,0,"",0,"",0,0,0,0,0,"","",""
+0,0,0,0,"",0,"",0,0,1,0,0,"","",""
+1,1,243001,98,"Gürtel[p] der Vitalität",4,"Gürtel[p] der Vitalität",2,0,1,0,0,"Gürtel der Vitalität","Maximal-LP + 20 %","Erhöht die Maximal-LP."
+2,1,243002,35,"Opferring",4,"Opferringe",2,0,1,0,0,"Opferring","Belebt dich bei Kampfunfähigkeit wieder und opfert dafür die gerufene Bestie. Wirkt nur, wenn eine Bestie gerufen ist.","Opfert die Bestie, um den Bestienbändiger wiederzubeleben."
+3,1,243003,175,"Ring[p] der Heilung",4,"Ringe[p] der Heilung",2,0,1,0,0,"Ring der Heilung","Regeneriert nach Kämpfen 25<Indent/>% der Maximal-LP.","Regeneriert nach Kämpfen LP."
+4,1,243004,35,"Arzneibeutel",4,"Arzneibeutel",2,0,1,0,0,"Arzneibeutel","Gewährt beim Rasten im Zelt einen zufälligen Bestien-Heiltrank.","Gewährt beim Rasten einen Bestien-Heiltrank."
+5,1,243005,56,"verhext[a] Hut",4,"verhext[a] Hüte",2,0,1,0,0,"Verhexter Hut","Magische Verwundbarkeit - 10<Indent/>%","Verringert erlittenen magischen Schaden."
+6,1,243006,63,"Stahlrüstung",3,"Stahlrüstungen",1,0,1,1,0,"Stahlrüstung","Physische Verwundbarkeit - 15<Indent/>%","Verringert erlittenen physischen Schaden."
+7,1,243007,190,"Krone[p] der Wildheit",3,"Krone[p] der Wildheit",1,0,1,1,0,"Krone der Wildheit","Ausgeteilter physischer Schaden + 10<Indent/>%
+Kritische Trefferrate + 3<Indent/>%
+※ Effekt wirkt auch auf die gerufene Bestie.","Erhöht den ausgeteilten physischen Schaden und die kritische Trefferrate (auch bei der Bestie)."
+8,1,243008,190,"Stab[p] der Weisheit",4,"Stäbe[p] der Weisheit",2,0,1,0,0,"Stab der Weisheit","Ausgeteilter magischer Schaden + 20<Indent/>%
+※ Effekt wirkt auch auf die gerufene Bestie.","Erhöht den ausgeteilten magischen Schaden (auch bei der Bestie)."
+9,1,243009,174,"Kraftreif",4,"Kraftreife",2,0,1,0,0,"Kraftreif","Ausgeteilter physischer Schaden + 12<Indent/>%
+Ausweichrate + 3<Indent/>%","Erhöht den ausgeteilten physischen Schaden und die Ausweichrate."
+10,1,243010,84,"verdreht[a] Stirnband",4,"verdreht[a] Stirnbänder",2,0,1,2,0,"Verdrehtes Stirnband","Ausgeteilter physischer Schaden + 5<Indent/>%
+Physische Verwundbarkeit - 5<Indent/>%","Erhöht den ausgeteilten physischen Schaden und verringert den ausgeteilten magischen Schaden."
+11,1,243011,174,"grün[a] Barett",4,"grün[a] Barette",2,0,1,2,0,"Grünes Barett","Kritischer Attacke-Wert + 35
+Ausgeteilter Schaden + 3<Indent/>%
+Maximal-LP + 7<Indent/>%","Erhöht den kritischen Attacke-Wert, den ausgeteilten Schaden und die Maximal-LP."
+12,1,243012,91,"Paar[p] mystische Schuhe",4,"Paar[p] mystische Schuhe",1,0,1,2,0,"Mystische Schuhe","Ausweichrate + 8<Indent/>%
+Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit + 50<Indent/>%
+Erhöht die Heilwirkung eigener Kommandos und Bändigerutensilien um 15<Indent/>%.","Erhöhen die Ausweichrate, Bewegungsgeschwindigkeit und LP-Heilung."
+13,1,243013,104,"Schutzring",4,"Schutzringe",2,0,1,0,0,"Schutzring","Erlittener Schaden - 10<Indent/>%
+Maximal-LP + 7<Indent/>%","Verringert erlittenen Schaden und erhöht die Maximal-LP."
+14,1,243014,140,"Eisschild",4,"Eisschilde",2,0,1,0,0,"Eisschild","Erlittener Schaden - 30<Indent/>%
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gemach<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Wasserschaden als LP.","Verringert erlittenen Schaden. Verursacht Gemach bei dir. Kann Eisschaden absorbieren."
+15,1,243015,266,"Erdschild",4,"Erdschilde",2,0,1,0,0,"Erdschild","Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Erdschaden als LP.
+Gewährt beim Blocken mit dem Schild mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 10<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steinhaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verringert erlittenen Schaden in Höhe von 15<Indent/>% der eigenen Maximal-LP.
+Dauer: 60 Sekunden","Kann Erdschaden absorbieren und bei Blocken mit dem Schild Steinhaut gewähren."
+16,1,243016,214,"Wasserschild",4,"Wasserschilde",2,0,1,0,0,"Wasserschild","Blockeffekt + 50<Indent/>%
+Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Wasserschaden als LP.
+Gewährt beim Blocken mit dem Schild mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 10<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Reflexion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Reflektiert die meisten magischen Attacken.
+Dauer: 60 Sekunden","Stärkt das Blocken. Kann Wasserschaden absorbieren und beim Blocken mit dem Schild Reflexion gewähren."
+17,1,243017,82,"Kraftschild",4,"Kraftschilde",2,0,1,0,0,"Kraftschild","Blockeffekt + 75<Indent/>%
+Magische Verwundbarkeit - 10<Indent/>%","Stärkt das Blocken. Verringert erlittenen magischen Schaden."
+18,1,243018,84,"rot[a] Schleife",3,"rot[a] Schleifen",1,0,1,1,0,"Rote Schleife","Steinresistenz + 100<Indent/>%
+Blindresistenz + 100<Indent/>%
+Paralyseresistenz + 100<Indent/>%
+","Erhöht die Resistenzen gegen Stein, Blind und Paralyse."
+19,1,243019,238,"Paar[p] Genji-Handschuhe",4,"Paar[p] Genji-Handschuhe",1,0,1,2,0,"Genji-Handschuhe","Ausgeteilter Schaden + 12<Indent/>%
+Paralyseresistenz + 100<Indent/>%
+Erstatten beim Abschluss einer Kombo mit einer instinktiven Bändigerfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 10<Indent/>% einen Teil der TP zurück.","Erhöhen den ausgeteilten Schaden und die Paralyseresistenz. Können bei Kombos mit Bestien TP gewähren."
+20,1,243020,94,"Genji-Schild",4,"Genji-Schilde",2,0,1,0,0,"Genji-Schild","Blockeffekt + 30<Indent/>%
+Ausweichrate + 10<Indent/>%","Stärkt das Blocken und erhöht die Ausweichrate."
+21,1,243021,226,"Genji-Rüstung",3,"Genji-Rüstungen",1,0,1,1,0,"Genji-Rüstung","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit - 20<Indent/>%
+Erlittener Schaden - 20<Indent/>%
+Maximal-LP + 30<Indent/>%","Verringert die Bewegungsgeschwindigkeit. Erhöht die Maximal-LP."
+22,1,243022,112,"Silberrandbinokel",4,"Silberrandbinokel",2,0,1,2,0,"Silberrandbinokel","Kritische Trefferrate + 15 %
+Blindresistenz + 100 %","Erhöht die kritische Trefferrate und die Blindresistenz."
+23,1,243023,189,"Engelsrobe",3,"Engelsroben",1,0,1,1,0,"Engelsrobe","Erlittener Schaden - 7<Indent/>%
+Giftresistenz + 100<Indent/>%
+Gewährt beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 5<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rehabilitation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert in bestimmten Intervallen LP in Höhe von 3<Indent/>% der Maximal-LP.
+Dauer: 12 Sekunden
+Maximal-Stapelzahl: 8","Verringert erlittenen Schaden. Erhöht die Giftresistenz. Kann beim Erleiden von Schaden LP regenerieren."
+24,1,243024,390,"Meisterschild",4,"Meisterschilde",2,0,1,0,0,"Meisterschild","Blockeffekt + 125<Indent/>%
+Erlittener Schaden - 25<Indent/>%
+Maximal-LP + 35<Indent/>%","Erhöht den Blockeffekt. Reduziert erlittenen Schaden."
+25,1,243025,220,"Änigmaschleier",4,"Änigmaschleier",2,0,1,0,0,"Änigmaschleier","Ausgeteilter magischer Schaden + 18<Indent/>%
+Magische Verwundbarkeit - 15<Indent/>%
+Erhöht die Heilwirkung eigener Kommandos und Bändigerutensilien um 15<Indent/>%.","Erhöht den ausgeteilten magischen Schaden und die LP-Heilung. Verringert den erlittenen magischen Schaden."
+26,1,243026,122,"Dunkelkapuze",3,"Dunkelkapuzen",1,0,1,1,0,"Dunkelkapuze","Maximal-LP + 6<Indent/>%
+Ausweichrate + 8<Indent/>%
+Schlafresistenz + 100<Indent/>%","Erhöht die Maximal-LP, Ausweichrate und Schlafresistenz."
+27,1,243027,420,"Heldenkrone",3,"Heldenkronen",1,0,1,1,0,"Heldenkrone","Maximal-LP + 30<Indent/>%
+Ausgeteilter Schaden + 18<Indent/>%
+Gewährt dir beim Abschluss einer Kombo mit einer instinktiven Bändigerfertigkeit <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Exzellenz<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Macht unverwundbar gegen die meisten Attacken und erhöht den ausgeteilten Schaden um 10<Indent/>%
+Dauer: 9 Sekunden","Erhöht die Maximal-LP und den ausgeteilten Schaden. Gewährt bei Kombos mit Bestien Exzellenz."
+28,1,243028,150,"Trugweste",3,"Trugwesten",1,0,1,1,0,"Trugweste","Gewährt dir beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 20<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blinzeln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Macht unverwundbar gegen die meisten physischen Attacken. Jede neutralisierte Attacke verbraucht 1 Stapel.
+Dauer: 120 Sekunden","Kann beim Erleiden von Schaden Blinzeln gewähren."
+29,1,243029,99,"Todesrüstung",3,"Todesrüstungen",1,0,1,1,0,"Todesrüstung","Maximal-LP + 10<Indent/>%
+Erlittener Schaden - 5<Indent/>%
+Todesurteilresistenz + 100<Indent/>%","Erhöht die Maximal-LP und Todesurteilresistenz. Verringert erlittenen Schaden."
+30,1,243030,168,"Rosenrüstung",3,"Rosenrüstungen",1,0,1,1,0,"Rosenrüstung","Führt bei physischen Attacken des Gegners eine elementneutrale Konterattacke aus. Der Schaden der Konterattacke unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert: 360","Kontert physische Attacken."
+31,1,243031,90,"Feiglingsmesser",4,"Feiglingsmesser",2,0,1,2,0,"Feiglingsmesser","Ausgeteilter Schaden + 1<Indent/>%
+Erlaubt mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 35<Indent/>% die Flucht von einem Gegnerfeld. Da der Kampf vermieden wird, fällt keine Beute ab.
+Nicht wirksam bei Elite- und Endgegnern.
+Zusatzeffekt: Gewährt dir beim Fliehen 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Nadelstichtaktik<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 18<Indent/>%,
+Ausweichrate + 4<Indent/>%","Erhöht ausgeteilten Schaden. Kann Flucht von Kampffeldern ermöglichen."
+32,1,243032,167,"Schattenmantel",4,"Schattenmäntel",2,0,1,0,0,"Schattenmantel","Maximal-LP + 12<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bändigerfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 25<Indent/>% einen Teil der TP zurück.","Erhöht die Maximal-LP. Kann bei Kombos mit Bestien TP zurückerstatten."
+33,1,243033,81,"Schattenring",4,"Schattenringe",2,0,1,0,0,"Schattenring","Physische Verwundbarkeit - 9<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bändigerfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 10<Indent/>% einen Teil der TP zurück.","Verringert erlittenen physischen Schaden. Kann bei Kombos mit Bestien TP zurückerstatten."
+34,1,243034,112,"Schattenarmreif",4,"Schattenarmreife",2,0,1,0,0,"Schattenarmreif","Magische Verwundbarkeit - 15<Indent/>%
+Maximal-LP + 5<Indent/>%
+Betäubungsresistenz + 100<Indent/>%","Verringert erlittenen magischen Schaden. Erhöht die Maximal-LP und Betäubungsresistenz."
+35,1,243035,190,"Lichtmantel",4,"Lichtmäntel",2,0,1,0,0,"Lichtmantel","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Velocitas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 25<Indent/>%
+Erlittener Schaden - 7<Indent/>%
+Maximal-LP + 15<Indent/>%","Gewährt Velocitas. Verringert erlittenen Schaden. Erhöht die Maximal-LP."
+36,1,243036,74,"Lichtring",4,"Lichtringe",2,0,1,0,0,"Lichtring","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Velocitas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+Physische Verwundbarkeit - 8<Indent/>%","Gewährt Velocitas. Verringert erlittenen physischen Schaden."
+37,1,243037,86,"Lichtarmreif",4,"Lichtarmreife",2,0,1,0,0,"Lichtarmreif","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Velocitas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+Magische Verwundbarkeit - 8<Indent/>%","Gewährt Velocitas. Verringert erlittenen magischen Schaden."
+38,1,243038,168,"flammend[a] Axt",3,"flammend[a] Äxte",1,0,1,1,0,"Flammende Axt","Versieht die Auto-Attacke mit zusätzlichem Feuerschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Feuerschaden."
+39,1,243039,168,"frostig[a] Axt",3,"frostig[a] Äxte",1,0,1,1,0,"Frostige Axt","Versieht die Auto-Attacke mit zusätzlichem Eisschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Eisschaden."
+40,1,243040,168,"funkelnd[a] Axt",3,"funkelnd[a] Äxte",1,0,1,1,0,"Funkelnde Axt","Versieht die Auto-Attacke mit zusätzlichem Blitzschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Blitzschaden."
+41,1,243041,168,"bebend[a] Axt",3,"bebend[a] Äxte",1,0,1,1,0,"Bebende Axt","Versieht die Auto-Attacke mit zusätzlichem Erdschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Erdschaden."
+42,1,243042,168,"fließend[a] Axt",3,"fließend[a] Äxte",1,0,1,1,0,"Fließende Axt","Versieht die Auto-Attacke mit zusätzlichem Wasserschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Wasserschaden."
+43,1,243043,168,"stürmisch[a] Axt",3,"stürmisch[a] Äxte",1,0,1,1,0,"Stürmische Axt","Versieht die Auto-Attacke mit zusätzlichem Windschaden.
+Der Zusatzschaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+Attacke-Wert des Zusatzschadens: 240
+Bei mehrfachem Tragen von Bestienausrüstung, die die Auto-Attacke beeinflusst, wirkt nur einer der Effekte.","Versieht die Auto-Attacke mit Windschaden."
+44,1,243044,175,"Ninja-Gewand",4,"Ninja-Gewänder",2,0,1,2,0,"Ninja-Gewand","Maximal-LP + 17<Indent/>%
+Ausweichrate + 8<Indent/>%
+Gewährt bei erfolgreichem Ausweichen 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Wirkung: Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Zaubern sind um 2<Indent/>% verkürzt.
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 5","Erhöht die Maximal-LP und Ausweichrate. Gewährt beim Ausweichen Hast."
+45,1,243045,63,"Paar[p] Ninja-Handschuhe",4,"Paar[p] Ninja-Handschuhe",1,0,1,2,0,"Ninja-Handschuhe","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 2<Indent/>%
+Ausgeteilter physischer Schaden + 3<Indent/>%","Gewährt Hast. Erhöht den ausgeteilten physischen Schaden."
+46,1,243046,91,"Ninja-Augenklappe",3,"Ninja-Augenklappen",1,0,1,1,0,"Ninja-Augenklappe","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+Kritische Trefferrate + 5<Indent/>%","Gewährt Hast. Erhöht die kritische Trefferrate."
+47,1,243047,224,"Windschild",4,"Windschilde",2,0,1,0,0,"Windschild","Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Windschaden als LP.
+Gewährt beim Blocken mit dem Schild mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blinzeln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Macht unverwundbar gegen die meisten physischen Attacken. Jede neutralisierte Attacke verbraucht 1 Stapel.
+Dauer: 120 Sekunden","Kann Windschaden absorbieren und beim Blocken mit dem Schild Blinzeln gewähren."
+48,1,243048,154,"Windmaske",3,"Windmasken",1,0,1,1,0,"Windmaske","Magische Verwundbarkeit - 10<Indent/>%
+Erhöht die Heilwirkung eigener Kommandos und Bändigerutensilien um 15<Indent/>%.
+Gewährt dir beim Ausweichen von Attacken <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Zweischneidig<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verursacht Schaden über Zeit aber erhöht im Gegenzug den ausgeteilten Schaden um 30<Indent/>%.
+Dauer: 21 Sekunden","Verringert erlittenen magischen Schaden. Gewährt beim Ausweichen Zweischneidig."
+49,1,243049,264,"Windrüstung",3,"Windrüstungen",1,0,1,1,0,"Windrüstung","Erlittener Schaden - 15<Indent/>%
+Ausgeteilter magischer Schaden + 20<Indent/>%
+Erhöht die Heilwirkung eigener Kommandos und Bändigerutensilien um 30<Indent/>%.","Verringert erlittenen Schaden. Erhöht ausgeteilten magischen Schaden und die LP-Heilung."
+50,1,243050,268,"Streitaxt",3,"Streitäxte",1,0,1,1,0,"Streitaxt","Erlittener Schaden - 25<Indent/>%
+Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit - 20<Indent/>%","Erhöht ausgeteilten Schaden. Verringert die Bewegungsgeschwindigkeit."
+51,1,243051,172,"Mithril-Rüstung",3,"Mithril-Rüstungen",1,0,1,1,0,"Mithril-Rüstung","Erlittener Schaden - 15<Indent/>%
+Maximal-LP + 15<Indent/>%","Verringert erlittenen Schaden. Erhöht die Maximal-LP."
+52,1,243052,113,"Paar[p] Mithril-Handschuhe",4,"Paar[p] Mithril-Handschuhe",1,0,1,2,0,"Mithril-Handschuhe","Erlittener Schaden - 5<Indent/>%
+Ausgeteilter physischer Schaden + 5<Indent/>%
+Maximal-LP + 5<Indent/>%","Verringern erlittenen Schaden. Erhöhen ausgeteilten physischen Schaden und die Maximal-LP."
+53,1,243053,85,"Paar[p] Mithril-Ellbogenschützer",4,"Paar[p] Mithril-Ellbogenschützer",1,0,1,2,0,"Mithril-Ellbogenschützer","Erlittener Schaden - 10<Indent/>%
+Maximal-LP + 5<Indent/>%","Verringern erlittenen Schaden. Erhöhen das Maximal-LP."
+54,1,243054,126,"Bestienmaske",3,"Bestienmasken",1,0,1,1,0,"Bestienmaske","Physische Verwundbarkeit - 10<Indent/>%
+Kritische Trefferrate + 15<Indent/>%","Verringert erlittenen physischen Schaden. Erhöht die kritische Trefferrate."
+55,1,243055,87,"Bestienmesser",4,"Bestienmesser",2,0,1,2,0,"Bestienmesser","Kritische Trefferrate + 8<Indent/>%
+Gewährt dir beim Landen eines kritischen Treffers mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 25<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schaden +<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten Schaden um 3<Indent/>%.
+Dauer: 30 Sekunden
+Maximal-Stapelzahl: 8","Erhöht die kritische Trefferrate. Kann bei kritischen Treffern den ausgeteilten Schaden erhöhen."
+56,1,243056,84,"Bestienohrring",4,"Bestienohrringe",2,0,1,0,0,"Bestienohrring","Kritische Trefferrate + 15<Indent/>%
+Maximal-LP + 100<Indent/>%","Erhöht die kritische Trefferrate und Maximal-LP."
+57,1,243057,200,"Diebesmesser",4,"Diebesmesser",2,0,1,2,0,"Diebesmesser","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 1<Indent/>%
+Ermöglicht auf einem Schatzfeld die Wahl von zwei Gegenständen.","Gewährt Hast und zwei Schätze auf Schatzfeldern."
+58,1,243058,172,"Diebesgewand",4,"Diebesgewänder",2,0,1,2,0,"Diebesgewand","Beuterate + 80<Indent/>%
+Erlittener Schaden - 8<Indent/>%
+Maximal-LP + 18<Indent/>%","Erhöht die Beuterate und Maximal-LP. Verringert erlittenen Schaden."
+59,1,243059,50,"Paar[p] Diebeshandschuhe",4,"Paar[p] Diebeshandschuhe",1,0,1,2,0,"Diebeshandschuhe","Beuterate + 70<Indent/>%
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 2<Indent/>%","Erhöht die Beuterate. Gewährt Hast."
+60,1,243060,30,"Paar[p] Diebesstiefel",4,"Paar[p] Diebesstiefel",1,0,1,2,0,"Diebesstiefel","Beuterate + 40<Indent/>%
+Ausweichrate + 2<Indent/>%","Erhöht die Beute- und Ausweichrate."
+61,1,243061,315,"Donneraxt",3,"Donneräxte",1,0,1,1,0,"Donneraxt","Ausgeteilter Schaden + 30<Indent/>%
+Verursacht beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 5<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Betäubung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bei dir.
+Dauer: 3 Sekunden","Erhöht den ausgeteilten Schaden. Kann beim Erleiden von Schaden Betäubung verursachen."
+62,1,243062,161,"Donnerrüstung",3,"Donnerrüstungen",1,0,1,1,0,"Donnerrüstung","Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Blitzschaden als LP.
+Gewährt dir beim Landen eines kritischen Treffers mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 25<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hochstimmung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 10<Indent/>%, erlittener Schaden - 5<Indent/>% 
+Dauer: 120 Sekunden
+Maximal-Stapelzahl: 4","Kann Blitzschaden absorbieren und beim Landen von kritischen Treffern Hochstimmung gewähren."
+63,1,243063,84,"schützend[a] Schild",4,"schützend[a] Schilde",2,0,1,0,0,"Schützender Schild","Gewährt dir beim Blocken mit dem Schild 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Magische Verwundbarkeit -<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verringert erlittenen magischen Schaden um 5<Indent/>%.
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 8","Verringert beim Blocken mit dem Schild erlittenen magischen Schaden."
+64,1,243064,113,"Goldspange",3,"Goldspangen",1,0,1,1,0,"Goldspange","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Velocitas<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bändigerfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 25<Indent/>% einen Teil der TP zurück.","Gewährt Velocitas. Kann bei Kombos mit Bestien TP zurückerstatten."
+65,1,243065,262,"Flammendolch",4,"Flammendolche",2,0,1,0,0,"Flammendolch","Ausgeteilter Schaden + 25<Indent/>%
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+Gewährt dir beim Landen eines kritischen Treffers mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 10<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Joch der Flammen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erteilt bei Bewegung Feuerschaden.
+Dauer: 9 Sekunden","Erhöht den ausgeteilten Schaden. Gewährt Hast. Kann beim Erleiden von Schaden Joch der Flammen verursachen."
+66,1,243066,116,"Flammenschild",4,"Flammenschilde",2,0,1,0,0,"Flammenschild","Blockeffekt + 50<Indent/>%
+Ausgeteilter Schaden + 3<Indent/>%
+Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% Feuerschaden als LP.","Erhöht den Blockeffekt. Kann Feuerschaden absorbieren."
+67,1,243067,24,"Händlerkappe",3,"Händlerkappen",1,0,1,1,0,"Händlerkappe","Erhaltene Bestientaler + 25<Indent/>%
+Kritische Trefferrate - 10<Indent/>%
+Ausgeteilter Schaden + 5<Indent/>%","Gewährt mehr Bestientaler und erhöht den ausgeteilten Schaden. Verringert die kritische Trefferrate."
+68,1,243068,52,"Händlergewand",4,"Händlergewänder",2,0,1,2,0,"Händlergewand","Erhaltene Bestientaler + 25<Indent/>%
+Physische Verwundbarkeit - 10<Indent/>%","Gewährt mehr Bestientaler. Verringert erlittenen physischen Schaden."
+69,1,243069,101,"Paar[p] Händlerschuhe",4,"Paar[p] Händlerschuhe",1,0,1,2,0,"Händlerschuhe","Erhaltene Bestientaler + 25<Indent/>%
+Ausweichrate + 4<Indent/>%
+Maximal-LP + 12<Indent/>%","Gewähren mehr Bestientaler. Erhöhen die Ausweichrate und Maximal-LP."
+70,1,243070,113,"Ring[p] der Euphorie",4,"Ringe[p] der Euphorie",2,0,1,0,0,"Ring der Euphorie","Maximal-LP + 3<Indent/>%
+Erhöht die TP-Aufladung um 25<Indent/>%.","Erhöht die TP-Aufladung und Maximal-LP."
+71,1,243071,264,"dämonisch[a] Helm",4,"dämonisch[a] Helme",2,0,1,0,0,"Dämonischer Helm","Ausgeteilter Schaden + 20<Indent/>%
+Verursacht beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 1<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Verhängnis<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bei dir.
+Dauer: 2 Sekunden
+Erhöht die TP-Aufladung um 20<Indent/>%.","Erhöht den ausgeteilten Schaden und die TP-Aufladung. Kann beim Erleiden von Schaden Verhängnis verursachen."
+72,1,243072,170,"dämonisch[a] Rüstung",3,"dämonisch[a] Rüstungen",1,0,1,1,0,"Dämonische Rüstung","Maximal-LP + 5<Indent/>%
+Erhöht die TP-Aufladung um 5<Indent/>%.
+Gewährt dir beim Niederstrecken eines Gegners 1<Indent/>Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hochstimmung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 10<Indent/>%, Erlittener Schaden - 5<Indent/>% 
+Dauer: 180 Sekunden
+Maximal-Stapelzahl: 4","Erhöht die Maximal-LP und TP-Aufladung. Gewährt beim Niederstrecken von Gegnern Hochstimmung."
+73,1,243073,129,"Kaiserinnenspange",3,"Kaiserinnenspangen",1,0,1,1,0,"Kaiserinnenspange","Ausweichrate + 10<Indent/>%
+Maximal-LP 8<Indent/>%
+Gewährt dir beim Landen eines kritischen Treffers mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 2<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rehabilitation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert in bestimmten Intervallen LP in Höhe von 3<Indent/>% der Maximal-LP.
+Dauer: 12 Sekunden
+Maximal-Stapelzahl: 8","Erhöht die Ausweichrate. Verringert die Maximal-LP. Kann bei kritischen Treffern LP regenerieren."
+74,1,243074,76,"Hastgürtel",4,"Hastgürtel",2,0,1,0,0,"Hastgürtel","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 6<Indent/>%","Gewährt Hast."
+75,1,243075,64,"Rundschild",4,"Rundschilde",2,0,1,0,0,"Rundschild","Blockeffekt + 100<Indent/>%
+Physische Verwundbarkeit - 5<Indent/>%
+Maximal-LP + 2<Indent/>%","Erhöht den Blockeffekt und die Maximal-LP. Verringert erlittenen physischen Schaden."
+76,2,243136,32,"Bestien-Heiltrank[p] I",4,"Bestien-Heiltränke[p] I",2,0,1,0,0,"Bestien-Heiltrank I","Regeneriert 10<Indent/>% LP bei dir oder deiner Bestie.",""
+77,2,243137,72,"Bestien-Heiltrank[p] II",4,"Bestien-Heiltränke[p] II",2,0,1,0,0,"Bestien-Heiltrank II","Regeneriert 23<Indent/>% LP bei dir oder deiner Bestie.",""
+78,2,243138,113,"Bestien-Heiltrank[p] III",4,"Bestien-Heiltränke[p] III",2,0,1,0,0,"Bestien-Heiltrank III","Regeneriert 36<Indent/>% LP bei dir oder deiner Bestie.",""
+79,2,243139,158,"Bestien-Heiltrank[p] IV",4,"Bestien-Heiltränke[p] IV",2,0,1,0,0,"Bestien-Heiltrank IV","Regeneriert 50<Indent/>% LP bei dir oder deiner Bestie.",""
+80,2,243140,63,"Handvoll[p] Bestien-Pulver I",3,"Handvoll[p] Bestien-Pulver I",1,0,1,1,0,"Bestien-Pulver I","Regeneriert 10<Indent/>% der LP bei allen Verbündeten in deiner Nähe.",""
+81,2,243141,158,"Handvoll[p] Bestien-Pulver II",3,"Handvoll[p] Bestien-Pulver II",1,0,1,1,0,"Bestien-Pulver II","Regeneriert 25<Indent/>% der LP bei allen Verbündeten in deiner Nähe.",""
+82,2,243142,252,"Handvoll[p] Bestien-Pulver III",3,"Handvoll[p] Bestien-Pulver III",1,0,1,1,0,"Bestien-Pulver III","Regeneriert 40<Indent/>% der LP bei allen Verbündeten in deiner Nähe.",""
+83,2,243143,32,"Bestien-Gegengift",4,"Bestien-Gegengifte",2,0,1,2,0,"Bestien-Gegengift","Heilt die meisten Vergiftungen bei dir oder deiner Bestie und regeneriert bei Erfolg 25<Indent/>% der Maximal-LP des Ziels.
+※ Nur in Kämpfen einsetzbar.",""
+84,2,243144,32,"Bestien-Goldnadel",3,"Bestien-Goldnadeln",1,0,1,1,0,"Bestien-Goldnadel","Heilt die meisten Versteinerungen deiner Bestie und regeneriert bei Erfolg 50<Indent/>% ihrer Maximal-LP. Gewährt außerdem <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steinhaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Effekt: Absorbiert Schaden in Höhe von 50<Indent/>% der Maximal-LP.
+Dauer: 60 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+85,2,243145,32,"Phiole[p] Bestien-Augentropfen",3,"Phiole[p] Bestien-Augentropfen",1,0,1,1,0,"Bestien-Augentropfen","Heilt die meisten Erblindungen bei dir oder deiner Bestie und regeneriert bei Erfolg 25<Indent/>% der Maximal-LP des Ziels.
+※ Nur in Kämpfen einsetzbar.",""
+86,2,243146,32,"Bestien-Antigift-Serum[p] I",4,"Bestien-Antigift-Seren[p] I",1,0,1,2,0,"Bestien-Antigift-Serum I","Erhöht die Giftresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 180 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+87,2,243147,50,"Bestien-Antigift-Serum[p] II",4,"Bestien-Antigift-Seren[p] II",1,0,1,2,0,"Bestien-Antigift-Serum II","Erhöht die Giftresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 300 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+88,2,243148,32,"Bestien-Antiparalyse-Serum[p] I",4,"Bestien-Antiparalyse-Seren[p] I",1,0,1,2,0,"Bestien-Antiparalyse-Serum I","Erhöht die Paralyseresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 180 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+89,2,243149,50,"Bestien-Antiparalyse-Serum[p] II",4,"Bestien-Antiparalyse-Seren[p] II",1,0,1,2,0,"Bestien-Antiparalyse-Serum II","Erhöht die Paralyseresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 300 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+90,2,243150,32,"Bestien-Antiblind-Serum[p] I",4,"Bestien-Antiblind-Seren[p] I",1,0,1,2,0,"Bestien-Antiblind-Serum I","Erhöht die Blindresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 180 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+91,2,243151,50,"Bestien-Antiblind-Serum[p] II",4,"Bestien-Antiblind-Seren[p] II",1,0,1,2,0,"Bestien-Antiblind-Serum II","Erhöht die Blindresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 300 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+92,2,243152,32,"Bestien-Antiversteinerung-Serum[p] I",4,"Bestien-Antiversteinerung-Seren[p] I",1,0,1,2,0,"Bestien-Antiversteinerung-Serum I","Erhöht die Steinresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 180 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+93,2,243153,50,"Bestien-Antiversteinerung-Serum[p] II",4,"Bestien-Antiversteinerung-Seren[p] II",1,0,1,2,0,"Bestien-Antiversteinerung-Serum II","Erhöht die Steinresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 300 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+94,2,243154,32,"Bestien-Antischlaf-Serum[p] I",4,"Bestien-Antischlaf-Seren[p] I",1,0,1,2,0,"Bestien-Antischlaf-Serum I","Erhöht die Schlafresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 180 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+95,2,243155,50,"Bestien-Antischlaf-Serum[p] II",4,"Bestien-Antischlaf-Seren[p] II",1,0,1,2,0,"Bestien-Antischlaf-Serum II","Erhöht die Schlafresistenz bei dir oder deiner Bestie um 100<Indent/>%.
+Dauer: 300 Sekunden
+Zusatzeffekt: Regeneriert bei Besitz der roten Schleife beim Ziel LP in Höhe von 50<Indent/>% der Maximal-LP.
+※ Nur in Kämpfen einsetzbar.",""
+96,2,243156,135,"Horn[p] der Rückkehr",4,"Hörner[p] der Rückkehr",2,0,1,2,0,"Horn der Rückkehr","Belebt eine kampfunfähige Bestie wieder.
+※ Nur außerhalb von Kämpfen auf dem Brett der Bestie einsetzbar.",""
+97,2,243157,85,"Bestien-Rauchbombe",3,"Bestien-Rauchbomben",1,0,1,1,0,"Bestien-Rauchbombe","Erlaubt das Umgehen eines Kampfes.
+Funktioniert nicht bei Elite- und Endgegnern.
+Wird durch Auswahl von „Fliehen“ vor Kampfbeginn eingesetzt.",""
+98,2,243158,221,"Bestien-Lebensfeder[p] I",3,"Bestien-Lebensfedern[p] I",1,0,1,1,0,"Bestien-Lebensfeder I","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schutzengel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Belebt bei Kampfunfähigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% wieder.",""
+99,2,243159,299,"Bestien-Lebensfeder[p] II",3,"Bestien-Lebensfedern[p] II",1,0,1,1,0,"Bestien-Lebensfeder II","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schutzengel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Belebt bei Kampfunfähigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 95<Indent/>% wieder.",""
+100,2,243160,32,"Auge[p] des Diebs",4,"Augen[p] des Diebs",1,0,1,2,0,"Auge des Diebs","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Fette Beute<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verdreifacht die Beuterate nach dem nächsten Kampf.
+Dauer: 30 Minuten.
+※ Nur in Kämpfen einsetzbar.",""
+101,2,243161,23,"Auge[p] des Händlers",4,"Augen[p] des Händlers",1,0,1,2,0,"Auge des Händlers","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Talerregen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verdoppelt die erhaltenen Bestientaler nach dem nächsten Kampf.
+Dauer: 30 Minuten.
+※ Nur in Kämpfen einsetzbar.",""
+102,2,243162,47,"Bestien-Verhärtungsmittel",4,"Bestien-Verhärtungsmittel",2,0,1,2,0,"Bestien-Verhärtungsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dicke Haut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verringert erlittenen Schaden um 20<Indent/>%.
+Dauer: 60 Sekunden
+Zusatzeffekt: Verlängert bei Besitz des Eisschilds die Dauer auf 90 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+103,2,243163,43,"Bestien-Verkürzungsmittel",4,"Bestien-Verkürzungsmittel",2,0,1,2,0,"Bestien-Verkürzungsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Keile mit Eile<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verkürzt die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Zaubern um 15<Indent/>%.
+Dauer: 60 Sekunden
+Zusatzeffekt: Verlängert bei Besitz der Diebeshandschuhe die Dauer auf 90 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+104,2,243164,36,"Bestien-Stärkungsmittel",4,"Bestien-Stärkungsmittel",2,0,1,2,0,"Bestien-Stärkungsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kraftstärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten physischen Schaden um 30<Indent/>%.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+105,2,243165,88,"ungezähmte Bestien-Stärkungsmittel[p]",4,"ungezähmte Bestien-Stärkungsmittel[p]",2,0,1,2,0,"Ungezähmte Bestien-Stärkungsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kraftstärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, verursacht im Gegenzug aber <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Betäubung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten physischen Schaden um 45<Indent/>%.
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Betäubung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15 Sekunden
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Kraftstärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+106,2,243166,23,"Bestien-Zaubermittel",4,"Bestien-Zaubermittel",2,0,1,2,0,"Bestien-Zaubermittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Magiestärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten magischen Schaden um 30<Indent/>%.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+107,2,243167,50,"ungezähmte Bestien-Zaubermittel[p]",4,"ungezähmte Bestien-Zaubermittel[p]",2,0,1,2,0,"Ungezähmte Bestien-Zaubermittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Magiestärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, verursacht im Gegenzug aber <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Albtraum<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten magischen Schaden um 50<Indent/>%.
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Albtraum<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30 Sekunden
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Magiestärkung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+108,2,243168,20,"Bestien-Aufbrausmittel",4,"Bestien-Aufbrausmittel",2,0,1,2,0,"Bestien-Aufbrausmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Aufbrausen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die kritische Trefferrate um 30<Indent/>%.
+Dauer: 30 Sekunden
+Zusatzeffekt: Verlängert bei Besitz des Silberrandbinokels die Dauer auf 60 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+109,2,243169,36,"ungezähmte Bestien-Aufbrausmittel[p]",4,"ungezähmte Bestien-Aufbrausmittel[p]",2,0,1,2,0,"Ungezähmte Bestien-Aufbrausmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Aufbrausen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, verursacht im Gegenzug aber <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stein<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die kritische Trefferrate um 50<Indent/>%.
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stein<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15 Sekunden
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Aufbrausen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30 Sekunden
+Zusatzeffekt: Verlängert bei Besitz der Silberbrille die Dauer von Aufbrausen auf 60 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+110,2,243170,21,"Bestien-Wendigkeitsmittel",4,"Bestien-Wendigkeitsmittel",2,0,1,2,0,"Bestien-Wendigkeitsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wendigkeit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die Ausweichrate um 25<Indent/>%.
+Dauer: 30 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+111,2,243171,36,"ungezähmte Bestien-Wendigkeitsmittel[p]",4,"ungezähmte Bestien-Wendigkeitsmittel[p]",2,0,1,2,0,"Ungezähmte Bestien-Wendigkeitsmittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wendigkeit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, verursacht im Gegenzug aber <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blind<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die Ausweichrate um 25<Indent/>%.
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blind<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30 Sekunden
+Dauer von <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wendigkeit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+112,2,243172,95,"Bestien-Ausdauermittel",4,"Bestien-Ausdauermittel",2,0,1,2,0,"Bestien-Ausdauermittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ausdauer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und regeneriert 10<Indent/>% LP.
+Wirkung: Erhöht die Maximal-LP um 20<Indent/>%.
+Dauer: Bis Kampfende
+※ Nur in Kämpfen einsetzbar.",""
+113,2,243173,140,"ungezähmte Bestien-Ausdauermittel[p]",4,"ungezähmte Bestien-Ausdauermittel[p]",2,0,1,2,0,"Ungezähmte Bestien-Ausdauermittel","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ausdauer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> verursacht im Gegenzug aber <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Giftpollen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die Maximal-LP um 30<Indent/>%.
+Dauer von Giftpollen: 180 Sekunden
+Dauer von Ausdauer: Bis Kampfende
+※ Nur in Kämpfen einsetzbar.",""
+114,2,243174,225,"Bestien-Flinkheitsmittel",4,"Bestien-Flinkheitsmittel",2,0,1,2,0,"Bestien-Flinkheitsmittel","Gewährt <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trank des Diebes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht die Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit um
+20<Indent/>%, die Ausweichrate um 5<Indent/>% und die Giftresistenz um 100<Indent/>%.
+Dauer: Bis Kampfende
+※ Nur in Kämpfen einsetzbar.",""
+115,2,243175,43,"Bestien-Feder",3,"Bestien-Feder",1,0,1,1,0,"Bestien-Feder","Erhöht die TP bei dir oder deiner Bestie um 100.
+Zusatzeffekt: Erhöht die TP bei Besitz des Rings der Euphorie um 250.
+※ Nur in Kämpfen einsetzbar.",""
+116,2,243176,47,"Bestien-Feuerresistenzmittel[p] I",4,"Bestien-Feuerresistenzmittel[p] I",2,0,1,2,0,"Bestien-Feuerresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Feueraffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Feuerschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+117,2,243177,95,"Bestien-Feuerresistenzmittel[p] II",4,"Bestien-Feuerresistenzmittel[p] II",2,0,1,2,0,"Bestien-Feuerresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Feueraffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Feuerschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+118,2,243178,47,"Bestien-Wasserresistenzmittel[p] I",4,"Bestien-Wasserresistenzmittel[p] I",2,0,1,2,0,"Bestien-Wasserresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wasseraffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Wasserschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+119,2,243179,95,"Bestien-Wasserresistenzmittel[p] II",4,"Bestien-Wasserresistenzmittel[p] II",2,0,1,2,0,"Bestien-Wasserresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wasseraffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Wasserschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+120,2,243180,47,"Bestien-Erdresistenzmittel[p] I",4,"Bestien-Erdresistenzmittel[p] I",2,0,1,2,0,"Bestien-Erdresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Erdaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Erdschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+121,2,243181,95,"Bestien-Erdresistenzmittel[p] II",4,"Bestien-Erdresistenzmittel[p] II",2,0,1,2,0,"Bestien-Erdresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Erdaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Erdschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+122,2,243182,47,"Bestien-Blitzresistenzmittel[p] I",4,"Bestien-Blitzresistenzmittel[p] I",2,0,1,2,0,"Bestien-Blitzresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blitzaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Blitzschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+123,2,243183,95,"Bestien-Blitzresistenzmittel[p] II",4,"Bestien-Blitzresistenzmittel[p] II",2,0,1,2,0,"Bestien-Blitzresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blitzaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Blitzschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+124,2,243184,47,"Bestien-Windresistenzmittel[p] I",4,"Bestien-Windresistenzmittel[p] I",2,0,1,2,0,"Bestien-Windresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Windaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Windschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+125,2,243185,95,"Bestien-Windresistenzmittel[p] II",4,"Bestien-Windresistenzmittel[p] II",2,0,1,2,0,"Bestien-Windresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Windaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Windschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+126,2,243186,47,"Bestien-Eisresistenzmittel[p] I",4,"Bestien-Eisresistenzmittel[p] I",2,0,1,2,0,"Bestien-Eisresistenzmittel I","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Eisaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>% Eisschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+127,2,243187,95,"Bestien-Eisresistenzmittel[p] II",4,"Bestien-Eisresistenzmittel[p] II",2,0,1,2,0,"Bestien-Eisresistenzmittel II","Gewährt Verbündeten in deiner Nähe <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Eisaffinität<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Absorbiert mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 70<Indent/>% Eisschaden als LP.
+Dauer: 15 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+128,2,243188,45,"Reißzahn[p] des Feuers",4,"Reißzähne[p] des Feuers",2,0,1,0,0,"Reißzahn des Feuers","Führt eine feuerbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.500
+Zusatzeffekt: Verursacht Zusatzschaden bei Zielen mit <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Tiefkühlung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Attacke-Wert: 1.000
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+129,2,243189,45,"Reißzahn[p] des Eises",4,"Reißzähne[p] des Eises",2,0,1,0,0,"Reißzahn des Eises","Führt eine eisbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.000
+Zusatzeffekt: Verursacht <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Tiefkühlung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> beim Ziel.
+Dauer: 20 Sekunden
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+130,2,243190,45,"Reißzahn[p] des Wassers",4,"Reißzähne[p] des Wassers",2,0,1,0,0,"Reißzahn des Wassers","Führt eine wasserbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.000
+Zusatzeffekt: Entfernt einen positiven Status vom Ziel.
+Gewährt bei Entfernung eines Status 100 TP.
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+131,2,243191,45,"Reißzahn[p] des Blitzes",4,"Reißzähne[p] des Blitzes",2,0,1,0,0,"Reißzahn des Blitzes","Führt eine blitzbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.000
+Zusatzeffekt: Verursacht <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Paralyse<UIGlow>01</UIGlow><UIForeground>01</UIForeground> beim Ziel.
+Dauer: 30 Sekunden
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+132,2,243192,45,"Reißzahn[p] der Erde",4,"Reißzähne[p] der Erde",2,0,1,0,0,"Reißzahn der Erde","Führt eine erdbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.000
+Zusatzeffekt: Verursacht <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gewicht<UIGlow>01</UIGlow><UIForeground>01</UIForeground> beim Ziel.
+Dauer: 60 Sekunden
+Der ausgeteilte Schaden unterliegt dem Einfluss magieverstärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+133,2,243193,45,"Reißzahn[p] des Windes",4,"Reißzähne[p] des Windes",2,0,1,0,0,"Reißzahn des Windes","Führt eine windbasierte magische Fern-Flächenattacke auf das Ziel und alle Gegner im Umkreis von 12y aus.
+Attacke-Wert: 2.000
+Zusatzeffekt: Stößt das Ziel 15y zurück.
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+134,2,243194,68,"Blutsauger-Reißzahn",4,"Blutsauger-Reißzähne",2,0,1,0,0,"Blutsauger-Reißzahn","Führt eine Fern-Flächenattacke mit physischem Stichschaden auf das Ziel und alle Gegner im Umkreis von 12y aus, deren Schaden teilweise als LP absorbiert wird.
+Attacke-Wert: 1.500 bis 3.300
+Der Attacke-Wert nimmt mit steigenden Maximal-LP zu.
+※ Nur in Kämpfen einsetzbar.",""
+135,2,243195,378,"Bestien-Blutsaugeserum",4,"Bestien-Blutsaugerseren",1,0,1,2,0,"Bestien-Blutsaugerserum","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Lebenskraft<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert 10<Indent/>% des ausgeteilten Schadens als LP.
+Dauer: 60 Sekunden
+Verlängert die Dauer bei Besitz der Dämonenrüstung auf 90 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+136,2,243196,81,"Grimoire[p] der Reflexion",4,"Grimoires[p] der Reflexion",1,0,1,2,0,"Grimoire der Reflexion","Gewährt dir oder deiner Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Reflexion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Reflektiert die meisten magischen Attacken.
+Dauer: 30 Sekunden
+Verlängert die Dauer bei Besitz des verhexten Huts auf 60 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+137,2,243197,63,"Grimoire[p] der Unantastbarkeit",4,"Grimoires[p] der Unantastbarkeit",1,0,1,2,0,"Grimoire der Unantastbarkeit","Gewährt dir oder deiner Bestie 5<Indent/>Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blinzeln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Macht unverwundbar gegen die meisten physischen Attacken. Jede neutralisierte Attacke verbraucht 1 Stapel.
+Dauer: 120 Sekunden
+Zusatzeffekt bei <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Trank des Diebes<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: Gewährt 3 zusätzliche Stapel.
+※ Nur in Kämpfen einsetzbar.",""
+138,2,243198,315,"Handvoll[p] Sand der Zeit",3,"Handvoll[p] Sand der Zeit",1,0,1,1,0,"Sand der Zeit","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Sand der Zeit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Dreht bei einer Niederlage die Zeit bis zum Kampfbeginn zurück.
+※ Nur in Kämpfen einsetzbar.",""
+139,2,243199,72,"Handvoll[p] Sternensturm",3,"Handvoll[p] Sternensturm",1,0,1,1,0,"Sternensturm","Lässt einen <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Sternensturm<UIGlow>01</UIGlow><UIForeground>01</UIForeground> niederregnen, der dem Ziel und allen Gegnern im Umkreis von 18y magischen Feuerschaden erteilt.
+Attacke-Wert: 3.000
+Zusatzeffekt: Gewährt dir pro getroffenem Gegner 50 TP und verringert die Feuerresistenz des Ziels um 20<Indent/>%.
+Dauer: 60 Sekunden
+Der ausgeteilte Schaden unterliegt dem Einfluss magiestärkender Effekte von Bestienausrüstung, Utensilien und Fertigkeiten.
+※ Nur in Kämpfen einsetzbar.",""
+140,2,243200,189,"Bestien-Heiltranksammlung",3,"Bestien-Heiltranksammlung",1,0,1,1,0,"Bestien-Heiltranksammlung","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Auto-Heiltrank<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert automatisch deine LP, sobald sie unter 50<Indent/>% sinken. Beim Auslösen des Effekts endet der Status mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 50<Indent/>%.
+Dauer: 150 Sekunden
+Zusatzeffekt: Verlängert bei Besitz der Diebesgewandung die Dauer auf 240 Sekunden.
+※ Nur in Kämpfen einsetzbar.",""
+141,2,243201,32,"Bestien-Heilmittelsammlung",3,"Bestien-Heilmittelsammlung",1,0,1,1,0,"Bestien-Heilmittelsammlung","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Auto-Remedium<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Bewahrt ein Mal vor dem Erleiden der meisten negativen Status.
+Dauer: 240 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+142,2,243202,63,"Grimoire[p] der Zauberschmiede",4,"Grimoires[p] der Zauberschmiede",1,0,1,2,0,"Grimoire der Zauberschmiede","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Verschollene Zauberschmiede<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Lässt alle Attacken als magisch gelten.
+Wirkt auch auf die Bestie.
+Dauer: 180 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+143,2,243203,63,"Grimoire[p] des Stahlstachels",4,"Grimoires[p] des Stahlstachels",1,0,1,2,0,"Grimoire des Stahlstachels","Gewährt dir <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Verschollener Stahlstachel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Wirkung: Lässt alle Attacken als physisch gelten.
+Wirkt auch auf die Bestie.
+Dauer: 180 Sekunden
+※ Nur in Kämpfen einsetzbar.",""
+144,3,243076,0,"Portion[p] Prädikatsfutter I",3,"Portionen[p] Prädikatsfutter I",1,0,1,1,0,"Prädikatsfutter I","Maximal-LP + 15<Indent/>%
+Ausgeteilter Schaden + 5<Indent/>%
+Erhöht die Routine für die Bestie um 25<Indent/>%.
+Regeneriert beim Verfüttern 10<Indent/>% LP bei der Bestie.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+145,3,243077,0,"Portion[p] Prädikatsfutter II",3,"Portionen[p] Prädikatsfutter II",1,0,1,1,0,"Prädikatsfutter II","Maximal-LP + 30<Indent/>%
+Ausgeteilter Schaden + 10<Indent/>%
+Erhöht die Routine für die Bestie um 50<Indent/>%.
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+146,3,243078,0,"Portion[p] Fleisch-Simulakrum",3,"Portionen[p] Fleisch-Simulakrum",1,0,1,1,0,"Fleisch-Simulakrum","Ausgeteilter physischer Schaden + 20<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+147,3,243079,0,"Portion[p] Wasser-Simulakrum",3,"Portionen[p] Wasser-Simulakrum",1,0,1,1,0,"Wasser-Simulakrum","Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 35<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+148,3,243080,0,"Portion[p] Honig-Simulakrum",3,"Portionen[p] Honig-Simulakrum",1,0,1,1,0,"Honig-Simulakrum","Physische Verwundbarkeit - 25<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+149,3,243081,0,"Portion[p] Fischkuchen-Simulakrum",3,"Portionen[p] Fischkuchen-Simulakrum",1,0,1,1,0,"Fischkuchen-Simulakrum","Kritische Trefferrate + 35<Indent/>%
+Magische Verwundbarkeit - 30<Indent/>%
+Maximal-LP + 10<Indent/>%
+Regeneriert beim Verfüttern 7<Indent/>% LP bei der Bestie.
+[Geeignet für: Ätherlinge] ",""
+150,3,243082,0,"Portion[p] Bananen-Simulakrum",3,"Portionen[p] Bananen-Simulakrum",1,0,1,1,0,"Bananen-Simulakrum","Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+Gewährt beim Landen eines kritischen Treffers 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schadenswert +<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten physischen Schaden um 10<Indent/>%.
+Dauer: 30 Sekunden
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+151,3,243083,0,"Portion[p] Beeren-Simulakrum",3,"Portionen[p] Beeren-Simulakrum",1,0,1,1,0,"Beeren-Simulakrum","Kritischer Attacke-Wert + 60
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+152,3,243084,0,"Portion[p] Eier-Simulakrum",3,"Portionen[p] Eier-Simulakrum",1,0,1,1,0,"Eier-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+Ausgeteilter physischer Schaden + 25<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Woglinge, Schupplinge] ",""
+153,3,243085,0,"Portion[p] Eigelb-Simulakrum",3,"Portionen[p] Eigelb-Simulakrum",1,0,1,1,0,"Eigelb-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+Ausgeteilter Schaden + 5<Indent/>%
+Maximal-LP + 35<Indent/>%
+Regeneriert beim Verfüttern 20<Indent/>% LP bei der Bestie.
+[Geeignet für: Saatlinge] ",""
+154,3,243086,0,"Portion[p] Tomaten-Simulakrum",3,"Portionen[p] Tomaten-Simulakrum",1,0,1,1,0,"Tomaten-Simulakrum","Ausweichrate + 10<Indent/>%
+Ausgeteilter physischer Schaden + 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Todlinge]",""
+155,3,243087,0,"Portion[p] Milch-Simulakrum",3,"Portionen[p] Milch-Simulakrum",1,0,1,1,0,"Milch-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+Maximal-LP + 50<Indent/>%
+Regeneriert beim Verfüttern 26<Indent/>% LP bei der Bestie.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Woglinge, Schupplinge] ",""
+156,3,243088,0,"Portion[p] Rolanbeerenkäse-Simulakrum",3,"Portionen[p] Rolanbeerenkäse-Simulakrum",1,0,1,1,0,"Rolanbeerenkäse-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 25<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Woglinge, Schupplinge] ",""
+157,3,243089,0,"Portion[p] Porcinipilz-Simulakrum",3,"Portionen[p] Porcinipilz-Simulakrum",1,0,1,1,0,"Porcinipilz-Simulakrum","Giftresistenz + 100<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+158,3,243090,0,"Portion[p] Mörchel-Simulakrum",3,"Portionen[p] Mörchel-Simulakrum",1,0,1,1,0,"Mörchel-Simulakrum","Paralyseresistenz + 100<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+159,3,243091,0,"Portion[p] Schwarztrüffel-Simulakrum",3,"Portionen[p] Schwarztrüffel-Simulakrum",1,0,1,1,0,"Schwarztrüffel-Simulakrum","Blindresistenz + 100<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+160,3,243092,0,"Portion[p] Weißtrüffel-Simulakrum",3,"Portionen[p] Weißtrüffel-Simulakrum",1,0,1,1,0,"Weißtrüffel-Simulakrum","Steinresistenz + 100<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+161,3,243093,0,"Portion[p] Champignon-Simulakrum",3,"Portionen[p] Champignon-Simulakrum",1,0,1,1,0,"Champignon-Simulakrum","Schlafresistenz + 100<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+162,3,243094,0,"Portion[p] Seezungen-Simulakrum",3,"Portionen[p] Seezungen-Simulakrum",1,0,1,1,0,"Seezungen-Simulakrum","Ausgeteilter physischer Schaden + 20<Indent/>%
+Erhöht die TP-Aufladung um 50<Indent/>%.
+[Geeignet für: Wölklinge] ",""
+163,3,243095,0,"Portion[p] Weihwasser-Simulakrum",3,"Portionen[p] Weihwasser-Simulakrum",1,0,1,1,0,"Weihwasser-Simulakrum","Maximal-LP + 30<Indent/>%
+Erlittener Schaden - 15<Indent/>%
+Gewährt dir beim Niederstrecken eines Gegners mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 5<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rehabilitation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert in bestimmten Intervallen LP in Höhe von 3<Indent/>% der Maximal-LP.
+Dauer: 6 Sekunden
+Maximal-Stapelzahl: 8
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Woglinge] ",""
+164,3,243096,0,"Portion[p] Blut-Simulakrum",3,"Portionen[p] Blut-Simulakrum",1,0,1,1,0,"Blut-Simulakrum","Kritische Trefferrate + 50<Indent/>%
+Ausgeteilter Schaden + 35<Indent/>%
+Erteilt der Bestie in bestimmten Intervallen Schaden.
+[Geeignet für: Biestlinge] ",""
+165,3,243097,0,"Portion[p] Blaublut-Simulakrum",3,"Portionen[p] Blaublut-Simulakrum",1,0,1,1,0,"Blaublut-Simulakrum","Maximal-LP + 20<Indent/>%
+Kritische Trefferrate + 15<Indent/>%
+Gewährt beim Landen eines kritischen Treffers mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 5<Indent/>% 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Rehabilitation<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Regeneriert in bestimmten Intervallen LP in Höhe von 3<Indent/>% der Maximal-LP.
+Dauer: 6 Sekunden
+Maximal-Stapelzahl: 8
+Regeneriert beim Verfüttern 13<Indent/>% LP bei der Bestie.
+[Geeignet für: Woglinge] ",""
+166,3,243098,0,"Portion[p] Lilien-Simulakrum",3,"Portionen[p] Lilien-Simulakrum",1,0,1,1,0,"Lilien-Simulakrum","Ausgeteilter Schaden + 10<Indent/>%
+Erlittener Schaden - 10<Indent/>%
+Hält Futtereffekte beim Rasten in Zelten aufrecht.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+167,3,243099,0,"Portion[p] Flunder-Simulakrum",3,"Portionen[p] Flunder-Simulakrum",1,0,1,1,0,"Flunder-Simulakrum","Ausgeteilter physischer Schaden + 10<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% einen Teil der TP zurück.
+[Geeignet für: Biestlinge, Gezieferlinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+168,3,243100,0,"Portion[p] Weißskorpion-Simulakrum",3,"Portionen[p] Weißskorpion-Simulakrum",1,0,1,1,0,"Weißskorpion-Simulakrum","Gewährt der Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Reflexion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, wenn sie gerufen wird.
+Wirkung: Reflektiert die meisten magischen Attacken.
+Dauer: 60 Sekunden
+[Geeignet für: Schupplinge] ",""
+169,3,243101,0,"Portion[p] Schwarzskorpion-Simulakrum",3,"Portionen[p] Schwarzskorpion-Simulakrum",1,0,1,1,0,"Schwarzskorpion-Simulakrum","Ausgeteilter Schaden + 15<Indent/>%
+Erlittener Schaden - 35<Indent/>%
+Verursacht beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 3<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gift<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Dauer: 30 Sekunden
+[Geeignet für: Schupplinge] ",""
+170,3,243102,0,"Portion[p] Herings-Simulakrum",3,"Portionen[p] Herings-Simulakrum",1,0,1,1,0,"Herings-Simulakrum","Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 25<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 35<Indent/>% einen Teil der TP zurück.
+[Geeignet für: Wölklinge] ",""
+171,3,243103,0,"Portion[p] Meerengel-Simulakrum",3,"Portionen[p] Meerengel-Simulakrum",1,0,1,1,0,"Meerengel-Simulakrum","Erlittener Schaden - 10<Indent/>%
+Erhöht die TP-Aufladung um 30<Indent/>%.
+[Geeignet für: Biestlinge, Gezieferlinge, Saatlinge, Woglinge, Todlinge]",""
+172,3,243104,0,"Portion[p] Trauben-Simulakrum",3,"Portionen[p] Trauben-Simulakrum",1,0,1,1,0,"Trauben-Simulakrum","Kritische Trefferrate + 35<Indent/>%
+Ausgeteilter physischer Schaden + 15<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+173,3,243105,0,"Portion[p] Orangen-Simulakrum",3,"Portionen[p] Orangen-Simulakrum",1,0,1,1,0,"Orangen-Simulakrum","Kritische Trefferrate + 25<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 20<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+174,3,243106,0,"Portion[p] Wattwurm-Simulakrum",3,"Portionen[p] Wattwurm-Simulakrum",1,0,1,1,0,"Wattwurm-Simulakrum","Maximal-LP + 30<Indent/>%
+Gewährt beim Erleiden von Schaden 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Magische Verwundbarkeit -<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verringert erlittenen magischen Schaden um 5<Indent/>%.
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 8
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Ätherlinge] ",""
+175,3,243107,0,"Portion[p] Stimulanztrunk-Simulakrum",3,"Portionen[p] Stimulanztrunk-Simulakrum",1,0,1,1,0,"Stimulanztrunk-Simulakrum","Gewährt beim Niederstrecken eines Gegners 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hochstimmung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 15<Indent/>%, erlittener Schaden -<Indent/>8<Indent/>%
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 4
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+176,3,243108,0,"Portion[p] Karotten-Simulakrum",3,"Portionen[p] Karotten-Simulakrum",1,0,1,1,0,"Karotten-Simulakrum","Ausweichrate + 10<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 5<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Todlinge]",""
+177,3,243109,0,"Portion[p] Zwiebel-Simulakrum",3,"Portionen[p] Zwiebel-Simulakrum",1,0,1,1,0,"Zwiebel-Simulakrum","Ausweichrate + 15<Indent/>%
+Erlittener Schaden - 5<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Todlinge]",""
+178,3,243110,0,"Portion[p] Kopfsalat-Simulakrum",3,"Portionen[p] Kopfsalat-Simulakrum",1,0,1,1,0,"Kopfsalat-Simulakrum","Ausweichrate + 5<Indent/>%
+Gewährt beim Ausweichen einer Attacke 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hochstimmung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 15<Indent/>%, erlittener Schaden - 8<Indent/>% 
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 4
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Todlinge]",""
+179,3,243111,0,"Portion[p] Zitronen-Simulakrum",3,"Portionen[p] Zitronen-Simulakrum",1,0,1,1,0,"Zitronen-Simulakrum","Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 10<Indent/>%
+Gewährt beim Landen eines kritischen Treffers 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blinzeln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Macht unverwundbar gegen die meisten physischen Attacken. Jede neutralisierte Attacke verbraucht 1 Stapel.
+Dauer: 120 Sekunden
+Maximal-Stapelzahl: 5
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+180,3,243112,0,"Portion[p] Stimulanzöl-Simulakrum",3,"Portionen[p] Stimulanzöl-Simulakrum",1,0,1,1,0,"Stimulanzöl-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 20<Indent/>%
+Gewährt dir beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hochstimmung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Ausgeteilter Schaden + 15<Indent/>%, erlittener Schaden - 8<Indent/>% 
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 4
+[Geeignet für: Ätherlinge] ",""
+181,3,243113,0,"Portion[p] Schleim-Simulakrum",3,"Portionen[p] Schleim-Simulakrum",1,0,1,1,0,"Schleim-Simulakrum","Ausgeteilter Schaden + 30<Indent/>%
+Erlittener Schaden - 30<Indent/>%
+Verursacht beim Landen eines kritischen Treffers <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Albtraum<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+182,3,243114,0,"Portion[p] Pflanzensaft-Simulakrum",3,"Portionen[p] Pflanzensaft-Simulakrum",1,0,1,1,0,"Pflanzensaft-Simulakrum","Physische Verwundbarkeit - 40<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 20<Indent/>%
+[Geeignet für: Schupplinge] ",""
+183,3,243115,0,"Portion[p] Salz-Simulakrum",3,"Portionen[p] Salz-Simulakrum",1,0,1,1,0,"Salz-Simulakrum","Ausweichrate + 25<Indent/>%
+Gewährt beim Ausweichen einer Attacke mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 15<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steinhaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verringert erlittenen Schaden in Höhe von 12<Indent/>% der eigenen Maximal-LP.
+Dauer: 60 Sekunden
+[Geeignet für: Ätherlinge] ",""
+184,3,243116,0,"Portion[p] Sirup-Simulakrum",3,"Portionen[p] Sirup-Simulakrum",1,0,1,1,0,"Sirup-Simulakrum","Ausgeteilter Schaden + 30<Indent/>%
+Physische Verwundbarkeit - 30<Indent/>%
+Verursacht beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 3<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Paralyse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Dauer: 30 Sekunden
+[Geeignet für: Gezieferlinge] ",""
+185,3,243117,0,"Portion[p] Frischkäse-Simulakrum",3,"Portionen[p] Frischkäse-Simulakrum",1,0,1,1,0,"Frischkäse-Simulakrum","Maximal-LP + 50<Indent/>%
+Erlittener Schaden - 20<Indent/>%
+Gewährt beim Erleiden von Schaden 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Verkürzt die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Zaubern um 3<Indent/>%.
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 5
+Regeneriert beim Verfüttern 26<Indent/>% LP bei der Bestie.
+[Geeignet für: Saatlinge] ",""
+186,3,243118,0,"Portion[p] Roteier-Simulakrum",3,"Portionen[p] Roteier-Simulakrum",1,0,1,1,0,"Roteier-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+Ausgeteilter Schaden + 30<Indent/>%
+Erteilt in bestimmten Intervallen Schaden.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Woglinge, Schupplinge] ",""
+187,3,243119,0,"Portion[p] Toast-Simulakrum",3,"Portionen[p] Toast-Simulakrum",1,0,1,1,0,"Toast-Simulakrum","Magische Verwundbarkeit - 30<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+188,3,243120,0,"Portion[p] Maisbrot-Simulakrum",3,"Portionen[p] Maisbrot-Simulakrum",1,0,1,1,0,"Maisbrot-Simulakrum","Magische Verwundbarkeit - 40<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Maximal-LP + 15<Indent/>%
+Regeneriert beim Verfüttern 10<Indent/>% LP bei der Bestie.
+[Geeignet für: Gezieferlinge] ",""
+189,3,243121,0,"Portion[p] Alraunen-Simulakrum",3,"Portionen[p] Alraunen-Simulakrum",1,0,1,1,0,"Alraunen-Simulakrum","Ausgeteilter physischer Schaden + 40<Indent/>%
+Verursacht beim Landen von kritischen Treffern <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Blind<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bei der Bestie.
+Dauer: 30 Sekunden
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+190,3,243122,0,"Portion[p] Tarantel-Simulakrum",3,"Portionen[p] Tarantel-Simulakrum",1,0,1,1,0,"Tarantel-Simulakrum","Kritische Trefferrate + 25<Indent/>%
+Gewährt beim Landen eines kritischen Treffers 1 Stapel <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Schaden +<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Wirkung: Erhöht den ausgeteilten Schaden um 10<Indent/>%.
+Dauer: 60 Sekunden
+Maximal-Stapelzahl: 5
+[Geeignet für: Ätherlinge] ",""
+191,3,243123,0,"Portion[p] Tollkirschen-Simulakrum",3,"Portionen[p] Tollkirschen-Simulakrum",1,0,1,1,0,"Tollkirschen-Simulakrum","Erlittener Schaden - 30<Indent/>%
+Maximal-LP + 30<Indent/>%
+Verursacht beim Erleiden von Schaden mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 3<Indent/>% <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stein<UIGlow>01</UIGlow><UIForeground>01</UIForeground> bei der Bestie.
+Dauer: 30 Sekunden
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+192,3,243124,0,"Portion[p] Steak-Simulakrum",3,"Portionen[p] Steak-Simulakrum",1,0,1,1,0,"Steak-Simulakrum","Führt bei physischen Attacken des Gegners eine Konterattacke mit physischem Schlagschaden aus. Der Schaden der Konterattacke unterliegt dem Einfluss schadenswertstärkender Effekte von anderem Futter und Bändigerutensilien sowie der Stärke der Bestie.
+Attacke-Wert: 350
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Schupplinge, Todlinge]",""
+193,3,243125,0,"Portion[p] Rogen-Simulakrum",3,"Portionen[p] Rogen-Simulakrum",1,0,1,1,0,"Rogen-Simulakrum","Ausgeteilter physischer Schaden + 10<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% einen Teil der TP zurück.
+[Geeignet für: Biestlinge, Gezieferlinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+194,3,243126,0,"Portion[p] Kräutertee-Simulakrum",3,"Portionen[p] Kräutertee-Simulakrum",1,0,1,1,0,"Kräutertee-Simulakrum","Gewährt der Bestie <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Steinhaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, wenn sie gerufen wird.
+Wirkung: Verringert erlittenen Schaden um 24<Indent/>% der Maximal-LP.
+Dauer: 60 Sekunden
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+195,3,243127,0,"Portion[p] Bienenwaben-Simulakrum",3,"Portionen[p] Bienenwaben-Simulakrum",1,0,1,1,0,"Bienenwaben-Simulakrum","Physische Verwundbarkeit - 30<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% einen Teil der TP zurück.
+[Geeignet für: Ätherlinge] ",""
+196,3,243128,0,"Portion[p] Orangensaft-Simulakrum",3,"Portionen[p] Orangensaft-Simulakrum",1,0,1,1,0,"Orangensaft-Simulakrum","Ausgeteilter physischer Schaden + 30<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+197,3,243129,0,"Portion[p] Traubensaft-Simulakrum",3,"Portionen[p] Traubensaft-Simulakrum",1,0,1,1,0,"Traubensaft-Simulakrum","Ausgeteilter physischer Schaden + 30<Indent/>%
+Attacke-Wert von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Ätherausbruch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> +50<Indent/>%
+Maximal-LP - 80<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Ätherlinge, Todlinge]",""
+198,3,243130,0,"Portion[p] Spieß-Simulakrum",3,"Portionen[p] Spieß-Simulakrum",1,0,1,1,0,"Spieß-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gemach<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 200<Indent/>%
+Ausgeteilter physischer Schaden + 50<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+199,3,243131,0,"Portion[p] Ananassaft-Simulakrum",3,"Portionen[p] Ananassaft-Simulakrum",1,0,1,1,0,"Ananassaft-Simulakrum","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gemach<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 200<Indent/>%
+Ausgeteilter magischer Schaden + 50<Indent/>%
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge, Todlinge]",""
+200,3,243132,0,"Portion[p] Austern-Simulakrum",3,"Portionen[p] Austern-Simulakrum",1,0,1,1,0,"Austern-Simulakrum","Gewährt der Bestie zu Kampfbeginn oder beim Rufen in einem laufenden Kampf 100 TP.
+[Geeignet für: Wölklinge] ",""
+201,3,243133,0,"Portion[p] Blauschimmelkäse-Simulakrum",3,"Portionen[p] Blauschimmelkäse-Simulakrum",1,0,1,1,0,"Blauschimmelkäse-Simulakrum","Führt bei magischen Attacken des Gegners eine elementneutrale magische Konterattacke aus. Der Schaden der Konterattacke unterliegt dem Einfluss magiestärkender Effekte von anderem Futter und Bändigerutensilien sowie der Intelligenz der Bestie.
+Attacke-Wert: 350
+[Geeignet für: Saatlinge, Woglinge] ",""
+202,3,243134,0,"Portion[p] Hüttenkäse-Simulakrum",3,"Portionen[p] Hüttenkäse-Simulakrum",1,0,1,1,0,"Hüttenkäse-Simulakrum","Maximal-LP + 30<Indent/>%
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Hast<UIGlow>01</UIGlow><UIForeground>01</UIForeground> + 15<Indent/>%
+Erstattet beim Abschluss einer Kombo mit einer instinktiven Bestienfertigkeit mit einer Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit von 30<Indent/>% einen Teil der TP zurück.
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Gezieferlinge] ",""
+203,3,243135,0,"Portion[p] Lassi-Simulakrum",3,"Portionen[p] Lassi-Simulakrum",1,0,1,1,0,"Lassi-Simulakrum","Maximal-LP + 30<Indent/>%
+Regeneriert die LP beim Rasten im Zelt vollständig.
+Regeneriert beim Verfüttern 18<Indent/>% LP bei der Bestie.
+[Geeignet für: Biestlinge, Gezieferlinge, Wölklinge, Saatlinge, Woglinge, Schupplinge] ",""
+204,0,0,0,"",0,"",0,0,1,0,0,"","",""
+205,0,0,0,"",0,"",0,0,1,0,0,"","",""

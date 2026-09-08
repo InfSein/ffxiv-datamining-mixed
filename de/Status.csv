@@ -187,7 +187,7 @@ Zusatzeffekt bei Verbesserter Kampfrausch: Eigene LP-Regeneration durch Heilmagi
 178,"Schatteneis III","Deine Ätherbalance tendiert zum Schatten. Feuerbasierte Zauber werden schwächer, verbrauchen aber weniger MP und haben eine halbierte Ausführungszeit. Allerdings werden mehr MP regeneriert.",210468,42,0,1,1,16,16,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 179,"Bio","Erleidet schrittweise Schaden.",210504,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 180,"Miasma","Erleidet schrittweise Schaden.",210506,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
-181,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich ist verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,4,0,False,False,False,0
+181,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich sind verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,4,0,False,False,False,0
 182,"Virus","STR und GESK sind verringert.",210510,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
 183,"Geistesvirus","INT und MND sind verringert.",210511,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
 184,"Erhaltung","Regeneriert schrittweise LP.",210508,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,5,0,False,False,5,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -499,7 +499,7 @@ Wird nach dem Ausführen eines Kommandos automatisch entfernt.",215273,0,0,1,1,1
 488,"Superkniff","Erlittener Schaden ist um einen bestimmten Betrag verringert.",210605,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,50,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 489,"Wespenkuss","Ausgeteilter physischer Schaden ist erhöht.",210606,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,5,0,True,0,False,0,False,0,0,0,False,False,False,0
 490,"Vipernkuss","Ausgeteilter physischer Schaden ist erhöht.",210609,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,False,0
-491,"Tanzende Schneide","Hiebresistenz und Wirkung von Heilmagie auf sich ist verringert.
+491,"Tanzende Schneide","Hiebresistenz und Wirkung von Heilmagie auf sich sind verringert.
 Keine Reduktion der Heilwirkung bei <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>PvP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",210601,78,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 492,"Verstümmeln","Erleidet schrittweise Schaden.",210602,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,1,False,0,0,0,False,False,False,0
 493,"Erhöhte physische Verwundbarkeit","Erlittener physischer Schaden ist erhöht.",215053,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -633,7 +633,7 @@ Keine Reduktion der Heilwirkung bei <UIForeground>F201F4</UIForeground><UIGlow>F
 620,"Pacem","Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten können nicht eingesetzt werden.",215017,0,0,1,2,14,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
 621,"Feuerresistenz -","Resistenz gegen Feuer ist verringert.",217941,0,5,1,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
 622,"Verrottende Lunge","Schädliche Aerosole in der Lunge bewirken bei weiterem Kontakt mit <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Rottgas<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, dass auch aus dem eigenen Körper Gas ausgeschieden wird.",215638,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-623,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich ist verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
+623,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich sind verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
 624,"Fleischwunde","Erleidet nach einer Hiebattacke schrittweise Schaden.",215521,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,10,0,False,True,100,0,False,0,False,1,False,0,0,0,False,False,False,0
 625,"Am Boden","Bewegungsunfähig, Kommandos können nicht ausgeführt werden.",215044,0,0,1,2,3,0,True,False,True,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 626,"Außer Gefecht","Kommandos können nicht ausgeführt werden.",215045,0,0,1,2,3,0,False,False,True,False,False,False,False,False,True,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -1125,7 +1125,7 @@ Zusatzeffekt bei Schwarzblut II: Füllt den Blutbalken bei Treffern mit Waf<Soft
 1111,"Nidhoggs Fang","Geistig mit Nidhoggs Fang verbunden. Eigener erlittener Schaden stärkt die Lebenskraft des Fangs.",215735,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 1112,"Ge<SoftHyphen/>schwindig<SoftHyphen/>keit +","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist erhöht.",210101,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,18,False,0,False,0,False,0,0,0,False,False,False,0
 1113,"Außer Gefecht","Kommandos können nicht ausgeführt werden.",215045,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
-1114,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich ist verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
+1114,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich sind verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
 1115,"Lebender Toter","Wird bei Ende des Effekts oder bei Kampfunfähigkeit zum <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Zombie<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",215745,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,2406,0,False,0,False,0,False,0,25,0,False,False,False,0
 1116,"Hast","Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verkürzt.",215008,5,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
 1117,"Stichwunde","Erleidet nach einer Stichattacke schrittweise Schaden.",215522,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,10,0,False,False,10,0,False,0,False,2,False,0,0,0,False,False,False,0
@@ -2173,7 +2173,7 @@ Außerdem ist erlittener Schaden verringert.",212559,0,0,22,1,16,0,False,False,F
 2154,"Urteil: Fluchtverbot","Für den Verstoß gegen ein Entfernungsverbot verurteilt.",215217,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2155,"Urteil: Fluchtbeobachtung","Für den Verstoß gegen die Fluchtbeobachtung verurteilt.",215218,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2156,"Verbrennung","Maximale LP sind verringert, erlittener Schaden ist erhöht.",215979,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
-2157,"Öl","In Öl gebadet. Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Resistenz gegen Feuer ist verringert.",215989,3,0,1,2,4,6,False,False,False,False,False,False,False,False,False,False,100,0,False,False,-10,1,False,0,False,0,False,0,0,0,False,False,False,0
+2157,"Öl","In Öl gebadet. Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Resistenz gegen Feuer sind verringert.",215989,3,0,1,2,4,6,False,False,False,False,False,False,False,False,False,False,100,0,False,False,-10,1,False,0,False,0,False,0,0,0,False,False,False,0
 2158,"Gewicht","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist verringert.",215002,3,0,1,2,4,6,False,False,False,False,False,False,True,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 2159,"Stillgestanden","Bewegung ist für einen kurzen Moment nicht gestattet.",216233,0,0,1,2,17,0,True,False,False,True,False,False,False,False,False,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 2160,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,16,0,False,False,False,0
@@ -3994,7 +3994,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 3940,"Schleichendes Nervengift","Gift kriecht langsam durch die Venen. Wird nach Ablauf be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>un<SoftHyphen/>fäh<SoftHyphen/>ig.",215420,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3941,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3942,"Terror","Vor Angst be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>un<SoftHyphen/>fäh<SoftHyphen/>ig.",215516,0,0,1,2,18,0,True,False,True,False,False,False,True,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-3943,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich ist verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
+3943,"Krankheit","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und Wirkung von Heilmagie auf sich sind verringert.",215014,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,-20,1,False,0,False,0,False,0,0,0,False,False,False,0
 3944,"","",0,0,0,1,2,17,0,True,False,False,False,False,False,False,False,True,True,200,0,True,False,0,0,False,0,False,0,False,0,32,0,False,False,False,0
 3945,"Drohung des Rroneek","Ausgeteilter Schaden ist verringert.",213103,158,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 3946,"Wille Turals","Immun gegen fast alle Attacken.",210266,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,70,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4646,38 +4646,38 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4592,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4593,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4594,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,393,False,False,False,False,False,False,True,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4595,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4596,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4597,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4598,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4599,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4600,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4601,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4602,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4603,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4604,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4605,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4606,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4607,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4608,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4609,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4595,"Sanftes Herz","Im Gemütszustand <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Sanft<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wild<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine intendierte Kombo aus.",229001,171,0,1,1,16,1068,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4596,"Wildes Herz","Im Gemütszustand <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wild<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stet<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine intendierte Kombo aus.",229002,171,0,1,1,16,1069,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4597,"Stetes Herz","Im Gemütszustand <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Stet<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dämonisch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine intendierte Kombo aus.",229003,171,0,1,1,16,1070,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4598,"Dämonisches Herz","Im Gemütszustand <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dämonisch<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Sanft<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine intendierte Kombo aus.",229004,171,0,1,1,16,1071,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4599,"Sonnenhatz","Jagd kühn im strahlendern Schein der Sonne. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Mondpirsch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine umfassende Kombo aus.",229005,171,0,1,1,16,1072,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4600,"Mondpirsch","Jagd verwegen im Schatten des Mondes. Instinktive Fertigkeiten der Affinität <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Sonnenhatz<UIGlow>01</UIGlow><UIForeground>01</UIForeground> lösen in diesem Zustand eine umfassende Kombo aus.",229006,171,0,1,1,16,1073,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4601,"Eins mit der Natur","Kann einmalig <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Entfesseln<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),22))> oder <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Borgen<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If> ausführen.",229007,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4602,"Innerer Biestling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Biestlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Biesthaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229008,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4603,"Innerer Gezieferling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Gezieferlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Gezieferpanzer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229009,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4604,"Innerer Wölkling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Wölklings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Wolkenstreich<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229010,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4605,"Innerer Saatling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Saatlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Saatsäher<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229011,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4606,"Innerer Wogling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Woglings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Brechende Welle<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229012,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4607,"Innerer Schuppling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Schupplings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Schuppenpanzer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229013,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4608,"Innerer Ätherling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Ätherlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Seelenschmerz<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229014,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4609,"Innerer Todling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Todlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Läuternde Asche<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229015,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4610,"Mächtiger Schlag","Alle physischen Nahkampf-Angriffe werden für die Dauer des Effekts zu kritischen Treffern.",214258,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,1,False,0,False,0,False,0,0,0,False,False,False,0
 4611,"Schleppstrahl","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Schleppstrahl<UIGlow>01</UIGlow><UIForeground>01</UIForeground> kann eingesetzt werden.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4612,"Plasma-Klingenlauf","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Plasma-Klingenlauf<UIGlow>01</UIGlow><UIForeground>01</UIForeground> kann eingesetzt werden.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4613,"Geladene Klinge","Durch den Einsatz von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Modifizierter Klingenlauf<UIGlow>01</UIGlow><UIForeground>01</UIForeground> wird Energie abgespeichert.",219866,0,6,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4614,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4614,"Schleichender Vorteil","Erhöht den Attacke-Wert des nächsten <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Scheidenden Schlags<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229016,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4615,"Fluch des Sprengpulvers: Streuung","Mit einem Fluch belegt. Beim Ende des Effekts wird eine Explosion ausgelöst.",214327,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4616,"Fluch des Sprengpulvers: Ansammlung","Mit einem Fluch belegt. Beim Ende des Effekts wird eine starke Explosion ausgelöst.",214328,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4617,"Fluch der Verkohlung","Erleidet bei Ablauf der Wirkungsdauer Feuerschaden. Ein Eis-Angriff hebt den Effekt auf.",214329,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4618,"Starkes Standbein","Kann einem heftigen Angriff standhalten.",215250,0,0,1,2,0,0,True,False,True,True,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4619,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,True,True,0,0,True,False,0,9,True,0,False,0,False,0,0,0,False,False,False,0
-4620,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4621,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4622,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4623,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4624,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4620,"Gezieferpanzer","Immun gegen fast alle Rückstoß- und Heranzieheffekte. Gegnerische Attacken werden geblockt. Jedes Blocken gewährt TP.",229017,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,30,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4621,"Biesthaut","Erlittener physischer Schaden ist verringert und die kritische Trefferrate erhöht.",229018,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,-25,0,False,0,False,0,False,0,0,0,False,False,False,0
+4622,"Saatsäher","Erleidet schrittweise Schaden durch Gift. Ausgeteilter Schaden ist verringert.",229019,0,0,203,2,1,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,100,0,False,0,False,5,False,0,0,0,False,False,False,0
+4623,"Schuppenpanzer","Erlittener magischer Schaden ist um einen bestimmten Betrag verringert. Wenn der Panzer seine Belastungsgrenze erreicht hat, verschwindet er und gewährt TP.",229020,0,0,203,1,16,0,False,False,False,False,False,False,False,True,False,False,60,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
+4624,"Freund<SoftHyphen/>schaftsangebot","Hat einer Bestie signalisiert, einen Pakt mit ihr schließen zu wollen.",229021,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,60,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4625,"Windfestes Standbein","Steckt im Sand und kann nicht von starken Böen oder heftigen Winden zurückgestoßen werden.",216824,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,50,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4626,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4626,"Freund<SoftHyphen/>schaftsempfänglich","Hat die Aufforderung zu einem Pakt zur Kenntnis genommen. Ob der Pakt gelingt, zeigt sich bei Kampfunfähigkeit.",229022,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,60,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4627,"Tobsucht","Der verursachte Schaden wird durch Wut erhöht.",214330,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,False,0
 4628,"Im Dickicht","Bereit, mit einer maßgefertigten Gartensense Unkraut zu vernichten.",216258,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,2,True,0,False,0,False,0,0,0,False,False,False,0
 4629,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4694,15 +4694,15 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4640,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4641,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4642,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4643,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4644,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4645,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4646,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4647,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4648,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4649,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4650,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4651,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4643,"Wankendes Herz","Unfähig, Kombos mit einer Bestie auszuführen.",229023,171,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4644,"Innerer Biestling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Biestlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Biesthaut<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229008,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4645,"Innerer Gezieferling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Gezieferlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Gezieferpanzer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229009,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4646,"Innerer Wölkling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Wölklings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Wolkenstreich<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229010,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4647,"Innerer Saatling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Saatlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Saatsäher<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229011,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4648,"Innerer Wogling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Woglings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Brechende Welle<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229012,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4649,"Innerer Schuppling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Schupplings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Schuppenpanzer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229013,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4650,"Innerer Ätherling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Ätherlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Seelenschmerz<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229014,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4651,"Innerer Todling","Borgt sich vor<SoftHyphen/>über<SoftHyphen/>gehend den Äther eines Todlings. Erlaubt die Ausführung von <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Läuternde Asche<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",229015,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4652,"Giftlache","Erleidet schrittweise Schaden durch Gift.",215517,0,0,1,2,1,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,100,0,False,0,False,5,False,0,0,0,False,False,False,0
 4653,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4654,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4897,41 +4897,41 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4843,"Alexandria-Hast","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist erhöht.",212817,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,18,False,0,False,0,False,0,6,0,False,False,False,0
 4844,"Fluch der Flammenkette α","Wird bei Ende dieses Effekts mit flammenden Ketten an jemanden gefesselt, der unter demselben Fluch steht.",216766,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 4845,"Fluch der Flammenkette β","Wird bei Ende dieses Effekts mit flammenden Ketten an jemanden gefesselt, der unter demselben Fluch steht.",216767,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
-4846,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4847,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4848,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4849,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4850,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4851,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4852,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4853,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4854,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4855,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4856,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4857,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4858,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4859,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4860,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4861,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4862,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4863,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4864,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4865,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4866,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4867,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4868,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4869,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4870,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4846,"Schutzengel","Bei Kampfunfähigkeit automatische Wiederbelebung möglich.",216695,117,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,30,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4847,"Gegenstandssperre","Außer Bändigerutensilien und Futter können keine anderen Gegenstände benutzt werden.",229024,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,50,0,False,False,0,0,False,0,False,0,False,0,24,0,False,False,False,0
+4848,"Zweischneidig","Erleidet schrittweise Schaden, teilt aber auch mehr Schaden aus.",215754,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,100,0,False,0,False,1,False,0,0,0,False,False,False,0
+4849,"Blinzeln","Ist unempfindlich gegen die meisten physischen Attacken. Jede aufgehobene Attacke verbraucht einen Stapel.",220041,0,16,1,1,16,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4850,"Antigift","Resistenz gegen Gift ist erhöht.",229025,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4851,"Antiparalyse","Resistenz gegen Paralyse ist erhöht.",229026,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4852,"Antiblind","Resistenz gegen Blind ist erhöht.",229027,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4853,"Antistein","Resistenz gegen Stein ist erhöht.",229028,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4854,"Antischlaf","Resistenz gegen Schlaf ist erhöht.",229029,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4855,"Fette Beute","Der nächste Sieg auf dem Brett der Bestie beschert mehr Beute.",229030,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,1,False,False,200,0,False,0,False,0,False,0,0,0,False,False,False,0
+4856,"Talerregen","Der nächste Sieg auf dem Brett der Bestie beschert mehr Bestientaler.",229031,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,50,1,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4857,"Dicke Haut","Erlittener Schaden ist verringert.",229032,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
+4858,"Keile mit Eile","Die Ausführungs- und Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Zaubern sowie die Intervalle zwischen Auto-Attacken sind verkürzt.",229033,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
+4859,"Kraftstärkung","Ausgeteilter physischer Schaden ist erhöht.",229034,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4860,"Magiestärkung","Ausgeteilter Magieschaden ist erhöht.",229035,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4861,"Aufbrausen","Kritische Trefferrate ist erhöht.",229036,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4862,"Wendigkeit","Ausweichrate ist erhöht.",229037,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,25,0,False,0,False,0,False,0,0,0,False,False,False,0
+4863,"Ausdauer","Maximal-LP sind erhöht.",229038,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,1,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+4864,"Feueraffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Feuerschaden.",229039,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,41,False,0,False,0,False,0,0,0,False,False,False,0
+4865,"Wasseraffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Wasserschaden.",229040,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,46,False,0,False,0,False,0,0,0,False,False,False,0
+4866,"Erdaffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Erdschaden.",229041,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,44,False,0,False,0,False,0,0,0,False,False,False,0
+4867,"Blitzaffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Blitzschaden.",229042,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,45,False,0,False,0,False,0,0,0,False,False,False,0
+4868,"Windaffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Windschaden.",229043,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,43,False,0,False,0,False,0,0,0,False,False,False,0
+4869,"Eisaffinität","Absorbiert mit einer gewissen Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit Eisschaden.",229044,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,0,42,False,0,False,0,False,0,0,0,False,False,False,0
+4870,"Sand der Zeit","Dreht bei einer Niederlage auf dem Brett der Bestie die Zeit zum Kampfbeginn zurück.",229045,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,1,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4871,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4872,"","",0,89,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
 4873,"Doppelgänger","Die meisten erlittenen physischen Angriffe sind wirkungslos.",218957,0,3,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,27,False,0,False,0,False,0,0,0,False,False,False,0
-4874,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4874,"Schaden -","Ausgeteilter Schaden ist verringert.",218441,39,16,1,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4875,"Unverwundbar","Erleidet keinen Schaden. ",215024,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,False,0
 4876,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214401,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4877,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214402,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4878,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214403,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4879,"Tückischer Teleport","Platziert bei Ablauf der Wirkungsdauer ein Teleportäthergramm unter sich.",214404,0,0,0,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,True,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4880,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4880,"Beißender Wind","Erleidet schrittweise Windschaden.",215526,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 4881,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4882,"Nagendes Nichts","Erleidet schrittweise Schaden.",214386,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4883,"Geteiltes Leid","Erleidet schrittweise Schaden.",214397,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4940,82 +4940,82 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4886,"●ターゲット対象外","●ターゲットの対象にならない。",215027,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4887,"_rsv_4887_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_4887_-1_2_1_0_S74CFC3B0_E74CFC3B0",215782,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4888,"_rsv_4888_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_4888_-1_2_1_0_S74CFC3B0_E74CFC3B0",215783,89,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,201,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4889,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4890,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4891,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4889,"","",0,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,1,0,True,0,False,0,False,0,0,0,False,False,False,0
+4890,"","",0,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-1,0,True,0,False,0,False,0,0,0,False,False,False,0
+4891,"Stein","Die Versteinerung des Körpers verhindert das Ausführen jeglicher Kommandos.",215001,85,0,1,2,6,1,True,False,True,False,False,False,False,False,False,False,10,0,False,False,0,0,False,0,False,0,False,0,32,0,False,False,False,0
 4892,"Flüchtige Macht: Unstetes Adlerauge","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Unstetes Adlerauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground> wurde temporär erlernt und kann ausgeführt werden.",216765,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,6,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4893,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4893,"Nadelstichtaktik","Ausgeteilter Schaden und Ausweichrate sind erhöht.",218315,0,5,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,18,0,False,0,False,0,False,0,0,0,False,False,False,0
 4894,"Schlaf","Tiefschlaf verhindert das Ausführen jeglicher Kommandos.",215013,1,0,1,2,2,3,True,False,True,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,3,0,False,False,False,0
-4895,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4896,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4897,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4898,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4899,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4900,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4901,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4902,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4903,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4904,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4905,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4906,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4907,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4908,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4909,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4910,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4911,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4912,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4913,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4914,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4915,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4916,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4917,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4918,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4919,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4920,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4921,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4922,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4923,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4924,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4925,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4926,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4927,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4928,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4929,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4930,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4931,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4932,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4933,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4934,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4935,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4936,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4937,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4938,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4939,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4940,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4941,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4942,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4943,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4944,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4945,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4946,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4947,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4948,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4949,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4950,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4951,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4952,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4953,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4954,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4895,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,29,False,0,False,0,False,0,0,0,False,False,False,0
+4896,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,50,29,False,0,False,0,False,0,0,0,False,False,False,0
+4897,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+4898,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,35,0,False,0,False,0,False,0,0,0,False,False,False,0
+4899,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+4900,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,35,29,False,0,False,0,False,0,0,0,False,False,False,0
+4901,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4902,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,60,0,False,0,False,0,False,0,0,0,False,False,False,0
+4903,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,0,False,0,False,0,False,0,0,0,False,False,False,0
+4904,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-15,29,False,0,False,0,False,0,0,0,False,False,False,0
+4905,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+4906,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,0,False,0,False,0,False,0,0,0,False,False,False,0
+4907,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,0,False,0,False,0,False,0,0,0,False,False,False,0
+4908,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4909,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4910,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4911,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4912,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4913,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+4914,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
+4915,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,31,False,0,False,0,False,0,0,0,False,False,False,0
+4916,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,5,29,False,0,False,0,False,0,0,0,False,False,False,0
+4917,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+4918,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4919,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4920,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,3,31,False,0,False,0,False,0,0,0,False,False,False,0
+4921,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,35,0,False,0,False,0,False,0,0,0,False,False,False,0
+4922,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4923,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,35,0,False,0,False,0,False,0,0,0,False,False,False,0
+4924,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,0,False,0,False,0,False,0,0,0,False,False,False,0
+4925,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4926,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4927,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+4928,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,15,0,False,0,False,0,False,0,0,0,False,False,False,0
+4929,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4930,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4931,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4932,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,31,False,0,False,0,False,0,0,0,False,False,False,0
+4933,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-40,0,False,0,False,0,False,0,0,0,False,False,False,0
+4934,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,15,0,False,0,False,0,False,0,0,0,False,False,False,0
+4935,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,3,31,False,0,False,0,False,0,0,0,False,False,False,0
+4936,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,50,29,False,0,False,0,False,0,0,0,False,False,False,0
+4937,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,31,False,0,False,0,False,0,0,0,False,False,False,0
+4938,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4939,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-40,29,False,0,False,0,False,0,0,0,False,False,False,0
+4940,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4941,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4942,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,3,29,False,0,False,0,False,0,0,0,False,False,False,0
+4943,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4944,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4945,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4946,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,31,False,0,False,0,False,0,0,0,False,False,False,0
+4947,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+4948,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,29,False,0,False,0,False,0,0,0,False,False,False,0
+4949,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,200,0,False,0,False,0,False,0,0,0,False,False,False,0
+4950,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,200,0,False,0,False,0,False,0,0,0,False,False,False,0
+4951,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4952,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4953,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,29,False,0,False,0,False,0,0,0,False,False,False,0
+4954,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
 4955,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",215021,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4956,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,28,True,0,False,0,False,0,0,0,False,False,False,0
-4957,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4958,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4959,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4960,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4961,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4962,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4963,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4964,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4957,"Schlafresistenz +","Resistenz gegen Schlaf ist erhöht.",214834,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4958,"Paralyseresistenz +","Resistenz gegen Paralyse ist erhöht.",229046,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4959,"Steinresistenz +","Resistenz gegen Stein ist erhöht.",229047,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4960,"Blindresistenz +","Resistenz gegen Blind ist erhöht.",229048,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4961,"Giftresistenz +","Resistenz gegen Gift ist erhöht.",215648,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4962,"Hast","Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verkürzt.",215008,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
+4963,"Verringerte physische Verwundbarkeit","Erlittener physischer Schaden ist verringert.",215052,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+4964,"Verringerte Magie-Verwundbarkeit","Erlittener Magieschaden ist verringert.",215056,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4965,"Frostiger Segen","Erlittener Schaden ist um einen bestimmten Betrag verringert.",214769,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,12,0,False,False,False,0
 4966,"Omen: Osten","Erleidet erhöhten Schaden durch bestimmte Angriffe aus der angegebenen Richtung.",214359,0,0,1,2,17,1057,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4967,"Omen: Westen","Erleidet erhöhten Schaden durch bestimmte Angriffe aus der angegebenen Richtung.",214360,0,0,1,2,17,1058,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5048,12 +5048,12 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 4994,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4995,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4996,"Schleppus Radius","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Schleppus Radius<UIGlow>01</UIGlow><UIForeground>01</UIForeground> kann eingesetzt werden.",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4997,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4998,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4999,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5000,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5001,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5002,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4997,"Feuerresistenz +","Resistenz gegen Feuer ist erhöht.",215028,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4998,"Wasserresistenz +","Resistenz gegen Wasser ist erhöht.",215033,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+4999,"Windresistenz +","Resistenz gegen Wind ist erhöht.",215030,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5000,"Blitzresistenz +","Resistenz gegen Blitz ist erhöht.",215032,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5001,"Erdresistenz +","Resistenz gegen Erde ist erhöht.",215031,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5002,"Eisresistenz +","Resistenz gegen Eis ist erhöht.",215029,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
 5003,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5004,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5005,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5070,14 +5070,14 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5016,"Übermalt +3","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 3 Stufen dazugerechnet.",219428,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
 5017,"Übermalt +4","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 4 Stufen dazugerechnet.",219429,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
 5018,"Übermalt +5","Dem Effekt von Arbatels Tinte ausgesetzt. Zur eigenen Wissensstufe werden 5 Stufen dazugerechnet.",219430,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,54,0,False,False,False,0
-5019,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5020,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5021,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5022,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5023,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5024,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5025,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5026,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5019,"Schadenswert +","Ausgeteilter physischer Schaden ist erhöht.",215050,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5020,"Magieschaden +","Ausgeteilter Magieschaden ist erhöht.",215054,0,0,203,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5021,"Wasserresistenz -","Resistenz gegen Wasser ist verringert.",217421,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5022,"Windresistenz -","Resistenz gegen Wind ist verringert.",218292,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5023,"Feuerresistenz -","Resistenz gegen Feuer ist verringert.",217941,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5024,"Blitzresistenz -","Resistenz gegen Blitz ist verringert.",217741,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5025,"Erdresistenz -","Resistenz gegen Erde ist verringert.",218512,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5026,"Eisresistenz -","Resistenz gegen Eis ist verringert.",218692,0,4,203,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
 5027,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5028,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5029,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5190,19 +5190,19 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5136,"Terrorsaat","Von Terrorsaat betroffen. Nimmt großen Schaden, wenn derselbe Angriff erneut erlitten wird.",214389,89,0,0,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5137,"Paniksaat","Von Paniksaat betroffen. Nimmt großen Schaden, wenn derselbe Angriff erneut erlitten wird.",214390,89,0,0,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5138,"Zombie-Antikörper","Kann zeitweise nicht von „Zombifikation“ betroffen werden.",229999,0,0,1,1,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5139,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5140,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5141,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5139,"LP-Regeneration unwirksam","Keine automatische LP-Regeneration.",216825,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,50,0,False,False,0,14,False,0,False,0,False,0,0,0,False,False,False,0
+5140,"Gift","Erleidet schrittweise Schaden durch Gift.",215007,0,0,1,2,1,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5141,"Gift","Erleidet schrittweise Schaden durch Gift.",217001,0,8,1,2,1,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5142,"Geistlenkung vorwärts","Ist bei Ende des Effekts gezwungen, geradeaus weiterzugehen.",215774,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5143,"Geistlenkung rückwärts","Ist bei Ende des Effekts gezwungen, in die umgekehrte Richtung zu marschieren.",215775,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5144,"_rsv_5144_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5144_-1_2_1_0_S74CFC3B0_E74CFC3B0",214407,0,0,1,2,17,0,False,False,False,True,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5145,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5146,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5147,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5148,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5149,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5150,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5151,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5145,"Nadeln ausfahren","Erlittener Schaden ist verringert und physische Attacken werden gekontert.",229052,0,0,1,1,16,1163,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-99,0,False,0,False,0,False,0,0,0,False,False,False,0
+5146,"Zunehmende Verwirrung","Fühlt sich immer verwirrter. Wird bei 16 Stapeln <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Konfus<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",220221,64,16,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5147,"Schaden +","Ausgeteilter Schaden ist erhöht.",215519,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5148,"Alle Geraden","Vor ein Rätsel gestellt. Erleidet am Ende des Effekts abseits von geraden Zahlen Schaden.",229053,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5149,"Alle Ungeraden","Vor ein Rätsel gestellt. Erleidet am Ende des Effekts abseits von ungeraden Zahlen Schaden.",229054,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5150,"Alle Prim","Vor ein Rätsel gestellt. Erleidet am Ende des Effekts abseits von Primzahlen Schaden.",229055,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5151,"Alle Dreier","Vor ein Rätsel gestellt. Erleidet am Ende des Effekts abseits von Vielfachen von drei Schaden.",229056,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5152,"Schwer beladen","Schwer beladen. Wird nach einer gewissen Zeit müde und lässt das Getragene fallen.",216246,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5153,"Elementarmangel","Zur Aufrechterhaltung des Körpers notwendige Elemente wurden entzogen. Nimmt schweren Schaden durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Elementarfusion<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Stapelanzahl sinkt, wenn bestimmte elementare Angriffe erlitten werden. Sinkt die Stapelanzahl auf 0, wird der Status entfernt.",218947,0,3,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5154,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5226,18 +5226,18 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5172,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5173,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5174,"Marschbefehl","Wird gezwungen, sich in eine bestimmte Richtung zu bewegen.",215773,67,0,1,2,17,0,True,False,True,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5175,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5176,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5177,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5178,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5179,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5180,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5181,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5182,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5183,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5175,"Gewicht","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist verringert.",218132,0,8,1,2,4,6,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
+5176,"Dorngestrüpp","Wuchernde Dornen verringern die Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit und verursachen schrittweise Schaden. Verhindern dafür Heranzieh- und Rückstoßeffekte. ",215601,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,150,0,False,False,100,1,False,0,False,5,False,0,0,0,False,False,False,0
+5177,"Allmähliche Kühlung","Wird allmählich zu Eis. Bei 8 Stapeln tritt <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Tiefkühlung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ein.",220161,0,8,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5178,"Wachsende Furcht","Wird immer ängstlicher. Bei 5 Stapeln tritt <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Panik<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ein.",220181,0,5,1,2,17,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5179,"Verborgenes Gift","Trägt unbemerkt Gift in sich, das bei Kampfunfähigkeit in die Umgebung verteilt wird.",215538,0,0,1,2,17,703,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5180,"Erhöhte physische Verwundbarkeit","Erlittener physischer Schaden ist erhöht.",215053,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5181,"Erhöhte Magie-Verwundbarkeit","Erlittener Magieschaden ist erhöht.",215057,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5182,"Schwellung","Wird stetig größer und bei 16 Stapeln zu  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Aufgebläht<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",220201,0,16,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5183,"Giftlache","Erleidet schrittweise Schaden durch Gift.",218561,0,16,1,2,1,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5184,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,0,False,False,False,False,False,False,True,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5185,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,393,False,False,False,False,False,False,True,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5186,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5186,"Kühnheit","Maximal-LP und erteilter Schaden sind erhöht.",218311,0,3,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5187,"Verhängnis","Wird kampfunfähig, sobald der Timer auf 0 sinkt.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5188,"Pacem","Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten können nicht eingesetzt werden.",215017,0,0,1,2,14,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
 5189,"Astralkörper","Nur noch halb der physischen Welt verhaftet.",229992,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5249,80 +5249,80 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5195,"Geistlenkung rechts","Ist bei Ende des Effekts gezwungen, nach rechts zu marschieren.",215777,0,0,1,2,17,632,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5196,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5197,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5198,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5199,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5200,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5201,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5202,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5203,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5204,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5205,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5206,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5207,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5208,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5209,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5210,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5211,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5212,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5213,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5214,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5215,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5216,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5217,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5218,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5219,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5220,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5221,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5222,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5223,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5224,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5225,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5226,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5227,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5228,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5229,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5230,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5231,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5232,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5233,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5234,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5235,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5236,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5237,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5238,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5239,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5240,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5241,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5242,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5243,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5244,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5245,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5246,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5247,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5248,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5249,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5250,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5251,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5252,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5253,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5254,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5255,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5256,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5257,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5258,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5259,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5260,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5261,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5262,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5263,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5264,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5265,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5266,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5267,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5268,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5269,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5270,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5271,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5198,"Astraler Anstieg","Erhöhte Feuer-, Wind- und Blitzresistenz.",229049,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+5199,"Umbraler Anstieg","Erhöhte Wasser-, Erd- und Eisresistenz.",229050,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,0,0,False,False,50,0,False,0,False,0,False,0,0,0,False,False,False,0
+5200,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5201,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5202,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
+5203,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5204,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5205,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5206,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,5,0,False,0,False,0,False,0,0,0,False,False,False,0
+5207,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,3,29,False,0,False,0,False,0,0,0,False,False,False,0
+5208,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,8,18,False,0,False,0,False,0,0,0,False,False,False,0
+5209,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5210,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-30,42,False,0,False,0,False,0,0,0,False,False,False,0
+5211,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,44,False,0,False,0,False,0,0,0,False,False,False,0
+5212,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,46,False,0,False,0,False,0,0,0,False,False,False,0
+5213,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,75,0,False,0,False,0,False,0,0,0,False,False,False,0
+5214,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,47,False,0,False,0,False,0,0,0,False,False,False,0
+5215,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,31,False,0,False,0,False,0,0,0,False,False,False,0
+5216,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,0,False,0,False,0,False,0,0,0,False,False,False,0
+5217,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,30,1,False,0,False,0,False,0,0,0,False,False,False,0
+5218,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,15,0,False,0,False,0,False,0,0,0,False,False,False,0
+5219,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,5,39,False,0,False,0,False,0,0,0,False,False,False,0
+5220,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,125,29,False,0,False,0,False,0,0,0,False,False,False,0
+5221,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,18,30,False,0,False,0,False,0,0,0,False,False,False,0
+5222,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,8,29,False,0,False,0,False,0,0,0,False,False,False,0
+5223,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
+5224,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
+5225,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,29,False,0,False,0,False,0,0,0,False,False,False,0
+5226,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,360,0,False,0,False,0,False,0,0,0,False,False,False,0
+5227,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,1,0,False,0,False,0,False,0,0,0,False,False,False,0
+5228,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,0,False,0,False,0,False,0,0,0,False,False,False,0
+5229,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5230,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
+5231,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,15,5,False,0,False,0,False,0,18,0,False,False,False,0
+5232,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-8,5,False,0,False,0,False,0,18,0,False,False,False,0
+5233,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-8,5,False,0,False,0,False,0,18,0,False,False,False,0
+5234,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5235,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5236,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5237,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5238,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5239,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,240,0,False,0,False,0,False,0,0,0,False,False,False,0
+5240,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
+5241,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5242,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,0,False,0,False,0,False,0,0,0,False,False,False,0
+5243,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,50,43,False,0,False,0,False,0,0,0,False,False,False,0
+5244,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,30,False,0,False,0,False,0,0,0,False,False,False,0
+5245,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-15,30,False,0,False,0,False,0,0,0,False,False,False,0
+5246,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,1,False,0,False,0,False,0,0,0,False,False,False,0
+5247,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
+5248,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-5,29,False,0,False,0,False,0,0,0,False,False,False,0
+5249,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5250,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5251,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,0,False,0,False,0,False,0,0,0,False,False,False,0
+5252,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,15,29,False,0,False,0,False,0,0,0,False,False,False,0
+5253,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-1,0,False,0,False,0,False,0,0,0,False,False,False,0
+5254,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,80,29,False,0,False,0,False,0,0,0,False,False,False,0
+5255,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,70,0,False,0,False,0,False,0,0,0,False,False,False,0
+5256,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,40,0,False,0,False,0,False,0,0,0,False,False,False,0
+5257,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,5,0,False,0,False,0,False,0,0,0,False,False,False,0
+5258,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,5,45,False,0,False,0,False,0,0,0,False,False,False,0
+5259,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5260,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,5,False,0,False,0,False,0,18,0,False,False,False,0
+5261,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,10,31,False,0,False,0,False,0,0,0,False,False,False,0
+5262,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,50,41,False,0,False,0,False,0,0,0,False,False,False,0
+5263,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,31,False,0,False,0,False,0,0,0,False,False,False,0
+5264,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,0,False,0,False,0,False,0,0,0,False,False,False,0
+5265,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,29,False,0,False,0,False,0,0,0,False,False,False,0
+5266,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,25,29,False,0,False,0,False,0,0,0,False,False,False,0
+5267,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,1,31,False,0,False,0,False,0,0,0,False,False,False,0
+5268,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
+5269,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,2,29,False,0,False,0,False,0,0,0,False,False,False,0
+5270,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,-6,0,False,0,False,0,False,0,0,0,False,False,False,0
+5271,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,100,29,False,0,False,0,False,0,0,0,False,False,False,0
 5272,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5273,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5274,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5387,12 +5387,12 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5333,"Phantom-Blaumagier","Kämpft mit dem Wissen der alten Blaumagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216892,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5334,"Phantom-Rotmagier","Kämpft mit dem Wissen der alten Rotmagier und hat Zugriff auf bestimmte Phantom-Kommandos.",216893,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5335,"Phantom-Nekromant","Kämpft mit dem Wissen der alten Nekromanten und hat Zugriff auf bestimmte Phantom-Kommandos.",216894,169,0,1,1,35,0,False,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-5336,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5337,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5338,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5339,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5340,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5341,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5336,"Feuerresistenz -","Resistenz gegen Feuer ist verringert.",217941,0,8,1,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5337,"Wasserresistenz -","Resistenz gegen Wasser ist verringert.",217421,0,8,1,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5338,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",217301,40,8,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5339,"Schadenswert +","Ausgeteilter physischer Schaden ist erhöht.",218461,35,16,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5340,"Magieschaden +","Ausgeteilter Magieschaden ist erhöht.",218481,37,16,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5341,"Pulsierende Ruinklinge","Durch einen unsichtbaren Dolch verwundet, der Schaden über Zeit erteilt. Beim Enden des Effekts sendet der Dolch vom Einstichpunkt aus eine Schockwelle aus.",229057,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,1,0,False,False,10,0,False,0,False,2,False,0,0,0,False,False,False,0
 5342,"Tipp-Parade","",0,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,False,0
 5343,"Leitendes Licht","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist erhöht und schrittweiser LP-Verlust ist aufgehoben.",214414,0,0,1,1,16,1156,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,18,True,0,False,0,False,0,6,0,False,False,False,0
 5344,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,-100,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5407,7 +5407,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5353,"Mantel der Dämmerung (Dunkel)","Von Dunkeläther umgeben. Erhöht erlittenen Lichtschaden.",214393,89,0,1,2,17,1107,False,False,False,False,False,False,False,False,False,False,255,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5354,"","",0,0,99,1,2,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5355,"Lebensglyphe","LP werden schrittweise regeneriert.",215119,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,2,0,False,False,-20,0,True,0,False,0,False,0,1,0,False,False,False,0
-5356,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5356,"Gewicht","Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist verringert.",215002,3,0,1,2,4,6,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5357,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5358,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5359,"Kampf auf Leben und Tod","Angriffe auf andere Ziele als den Herausforderer sind wirkungslos.",214399,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5432,22 +5432,22 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5378,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 5379,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 5380,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
-5381,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5382,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5383,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5384,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5381,"Blind","Vorübergehende Blindheit senkt die Präzision.",215012,4,0,1,2,10,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5382,"Paralyse","Paralysierte Nerven lassen Kommandos ab und zu aussetzen.",215006,0,0,1,2,5,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,33,0,False,0,False,0,False,0,0,0,False,False,False,0
+5383,"Albtraum","In einem bösen Traum gefangen und handlungsunfähig.",215573,1,0,1,2,2,3,True,False,True,False,False,False,False,False,False,False,10,0,False,False,0,0,False,0,False,0,False,0,3,0,False,False,False,0
+5384,"Beißender Wind","Erleidet schrittweise Windschaden.",215526,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5385,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5386,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5387,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5388,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5389,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5390,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5391,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5392,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5393,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5394,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5395,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5396,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5387,"Giftlache","Erleidet schrittweise Schaden durch Gift.",215517,0,0,1,2,1,0,False,False,False,False,False,False,False,False,False,False,10,0,False,True,100,0,False,0,False,5,False,0,0,0,False,False,False,0
+5388,"Paralyse","Paralysierte Nerven lassen Kommandos ab und zu aussetzen.",215006,0,0,1,2,5,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,33,0,False,0,False,0,False,0,0,0,False,False,False,0
+5389,"Blind","Vorübergehende Blindheit senkt die Präzision.",215012,4,0,1,2,10,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5390,"Hast +","Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verkürzt.",217381,0,5,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,-2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5391,"Schaden +","Ausgeteilter Schaden ist erhöht.",217061,57,8,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5392,"Magie-Verwundbarkeit -","Erlittener Magieschaden ist verringert.",217761,0,8,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,-2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5393,"Physische Verwundbarkeit -","Erlittener physischer Schaden ist verringert.",217781,0,8,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,-2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5394,"Rehabilitation","Regeneriert schrittweise LP.",217521,0,8,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5395,"Hochstimmung","Bestens gelaunt.",218601,0,4,1,1,16,0,False,False,False,False,False,False,False,True,False,False,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5396,"Gemach","Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verlängert.",215009,5,0,1,2,13,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,15,0,False,0,False,0,False,0,0,0,False,False,False,0
 5397,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5398,"Siegel des Ostwinds","Markiert mit dem Siegel des Ostwinds. Erleidet nach Ablauf einen starken Windstoß aus dem Osten.",214394,0,0,1,2,17,1151,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 5399,"Siegel des Westwinds","Markiert mit dem Siegel des Westwinds. Erleidet nach Ablauf einen starken Windstoß aus dem Westen.",214395,0,0,1,2,17,1152,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
@@ -5457,10 +5457,11 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5403,"Befristeter Fluch: Ostwind","Mit einem zeitlich befristeten Fluch belegt. Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Osten getroffen.",229993,0,0,1,2,17,1139,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5404,"Befristeter Fluch: Westwind","Mit einem zeitlich befristeten Fluch belegt. Wird bei Ablauf der Wirkungsdauer von einer Windböe aus Westen getroffen.",229994,0,0,1,2,17,1138,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5405,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5406,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5406,"Aufladung","Ausgeteilter Schaden ist erhöht, 
+(Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten und Auto-Attacke beschleunigt.",220141,0,5,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5407,"Aufgehängt","Wird zu einer Marionette und greift Verbündeten an.",214410,64,0,1,2,17,1130,False,False,False,True,False,True,False,False,False,False,100,0,False,False,1051,0,False,0,False,0,False,0,0,0,False,False,False,0
 5408,"Entkräftung","Ist so entkräftet, dass keine Handlung möglich ist.",215405,0,0,1,2,0,72,True,False,True,False,False,False,False,False,True,False,0,0,False,False,0,4,False,0,False,0,False,0,0,0,False,False,False,0
-5409,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5409,"Schaden +","Ausgeteilter Schaden ist erhöht.",215519,0,0,1,1,16,624,False,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5410,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5411,"Betäubung","Ist handlungsunfähig.",215004,0,0,1,2,3,2,True,False,True,False,False,False,True,False,False,False,100,0,False,False,0,4,False,0,False,0,False,0,0,0,False,False,False,0
 5412,"Auffüllmittel","Füllt an einer Nachfüllstation Wachstumsmittel auf und kann infolgedessen ein besonderes Extrakommando ausführen.",217690,0,10,1,1,0,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -5472,41 +5473,41 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5418,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5419,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5420,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5421,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5421,"Verhängnis","Wird kampfunfähig, sobald der Timer des Fluchs auf 0 sinkt.",215503,0,0,1,2,9,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,False,0
 5422,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5423,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5424,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5423,"Töffelchenhaut","Erhält Kraft von treuem Gefährten. Sämtlicher erlittener Schaden ist verringert.",215021,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5424,"Zunehmende Verwirrung","Fühlt sich immer verwirrter. Wird bei 16 Stapeln <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Konfus<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",220221,64,12,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5425,"Gift","Erleidet schrittweise Schaden durch Gift.",215007,0,0,1,2,1,0,False,False,False,False,False,False,True,False,False,False,10,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
-5426,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5426,"Steinhaut","Erlittener Schaden ist verringert.",210401,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,30,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 5427,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5428,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5429,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5429,"Fessel +","Bewegungsunfähig.",215602,3,0,1,2,12,5,True,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5430,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5431,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5432,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5433,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5434,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5435,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5436,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5431,"Stichresistenz - (stark)","Stichresistenz ist stark verringert.",215818,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5432,"Windresistenz - (stark)","Windresistenz ist stark verringert.",215721,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,50,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,False,0
+5433,"Brutrage","Rasend vor Wut über den Verlust des Geleges. Ausgeteilter Schaden ist erhöht.",217221,0,16,1,1,16,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,5,0,False,0,False,0,False,0,0,0,False,False,False,0
+5434,"Paralysestachel","Elementare Stacheln erteilen Blitzschaden und paralysieren.",215502,19,0,1,1,16,1023,False,False,False,False,False,False,False,False,False,False,1,0,False,False,100,0,False,0,False,0,False,0,0,0,False,False,False,0
+5435,"Physische Verwundbarkeit -","Erlittener physischer Schaden ist verringert.",215052,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5436,"Magie-Verwundbarkeit -","Erlittener Magieschaden ist verringert.",215056,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5437,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5438,"Doppelzauber","Nächster Zauber kann sofort gewirkt werden.",213406,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5439,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5440,"ライトクローク","光属性のエーテルを纏った状態。闇属性のエーテルを纏った者以外から受けるダメージを無効化する",214411,89,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5441,"ダーククローク","闇属性のエーテルを纏った状態。光属性のエーテルを纏った者以外から受けるダメージを無効化する",214412,89,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5442,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5442,"Schmerz","Erleidet schrittweise Schaden.",215530,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,100,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5443,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5444,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5445,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5446,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5447,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5448,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5449,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5450,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5451,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5449,"Schadenswert +","Ausgeteilter physischer Schaden ist erhöht.",218461,35,5,1,1,16,0,False,False,False,False,False,False,False,True,False,False,1,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
+5450,"Schaden +","Ausgeteilter Schaden ist erhöht.",217061,57,5,1,1,16,0,False,False,False,False,False,False,False,True,False,False,100,0,False,False,2,0,False,0,False,0,False,0,0,0,False,False,False,0
+5451,"Schaden -","Ausgeteilter Schaden ist verringert.",215520,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5452,"_rsv_5452_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5452_-1_2_1_0_S74CFC3B0_E74CFC3B0",217398,0,2,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5453,"_rsv_5453_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5453_-1_2_1_0_S74CFC3B0_E74CFC3B0",214413,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5454,"_rsv_5454_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5454_-1_2_1_0_S74CFC3B0_E74CFC3B0",215907,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,31,False,False,False,0
-5455,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5455,"Fessel","Bewegungsunfähig.",215003,0,0,1,2,0,5,True,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5456,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5457,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5458,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5514,9 +5515,9 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5460,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5461,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5462,"","",0,0,0,1,0,0,0,False,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
-5463,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5463,"Exzellenz","Immun gegen fast alle Attacken. Ausgeteilter Schaden ist erhöht.",216701,118,0,1,1,16,0,False,False,False,False,False,False,False,True,False,False,70,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5464,"_rsv_5464_-1_2_0_0_S74CFC3B0_E74CFC3B0","_rsv_5464_-1_2_1_0_S74CFC3B0_E74CFC3B0",215780,0,0,1,2,17,20,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5465,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5465,"Feuerstachel","Der Gegner erleidet bei jedem Angriff Feuerschaden.",215508,19,0,1,1,16,982,False,False,False,False,False,False,False,True,False,False,50,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5466,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5467,"Verringerte Verwundbarkeit","Erlittener Schaden ist verringert.",215021,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5468,"アクション実行不可","アクションが実行できなくなった状態。",215045,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,False,0,False,0,False,0,24,0,False,False,False,0
@@ -5546,13 +5547,13 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5492,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5493,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5494,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5495,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5496,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5497,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5498,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5499,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5500,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5501,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5495,"Brandwunde","Erleidet schrittweise Feuerschaden.",215524,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5496,"Wassersucht","Erleidet schrittweise Wasserschaden.",215529,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5497,"Beißender Wind","Erleidet schrittweise Windschaden.",215526,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5498,"Stromschlag","Erleidet schrittweise Blitzschaden.",215528,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5499,"Schlamm","Erleidet schrittweise Erdschaden.",215527,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5500,"Erfrierung","Erleidet schrittweise Eisschaden.",215525,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
+5501,"Schmerz","Erleidet schrittweise Schaden.",215530,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 5502,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5503,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5504,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5587,8 +5588,8 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5533,"Siegelwaffe: Schwert","Bereitet einen Angriff mit einem versiegelten Schwert vor.",214416,89,0,1,1,0,1026,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5534,"Siegelwaffe: Bogen","Bereitet einen Angriff mit einem versiegelten Bogen vor.",214417,89,0,1,1,0,1025,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5535,"Siegelwaffe: Harfe","Bereitet einen Angriff mit einer versiegelten Harfe vor.",214418,89,0,1,1,0,1028,False,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-5536,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5537,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5536,"Mal des Leids","Erlittener Schaden durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Blick des Leids<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ist erhöht.",218041,64,4,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5537,"Mal des Zorns","Erlittener Schaden durch <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>Blick des Zorns<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ist erhöht.",218061,64,4,1,2,17,0,False,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5538,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5539,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5540,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5602,18 +5603,18 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5548,"Chaosspritzer","Beim Ende des Effekts wird ein Wasserangriff ausgelöst.",215903,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,False,196,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5549,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5550,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5551,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5552,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5553,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5554,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5555,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5551,"Feuerresistenz +","Resistenz gegen Feuer ist erhöht.",215028,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,False,0
+5552,"Blitzresistenz -","Resistenz gegen Blitz ist verringert.",215271,0,0,1,2,17,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,-50,0,True,0,False,0,False,0,0,0,False,False,False,0
+5553,"Giftlache","Erleidet schrittweise Schaden durch Gift.",215517,149,0,1,2,1,0,False,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False,False,False,0
+5554,"Giftlache","Erleidet schrittweise Schaden durch Gift.",215517,149,0,1,2,1,0,False,False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False,False,False,0
+5555,"Fessel +","Bewegungsunfähig.",215602,3,0,1,2,12,5,True,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5556,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5557,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5558,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5559,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5560,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5561,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5562,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5562,"Hochstimmung","Bestens gelaunt.",218601,0,8,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 5563,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5564,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5565,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5637,7 +5638,7 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5583,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5584,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5585,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5586,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5586,"Erhöhte Feindseligkeit","Feindseligkeit ist erhöht.",216722,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,500,0,False,0,False,0,False,0,0,0,False,False,False,0
 5587,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5588,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5589,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5652,3 +5653,253 @@ Darüber hinaus werden stetig LP regeneriert, wenn Schaden genommen wird oder de
 5598,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5599,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5600,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5601,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5602,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5603,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5604,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5605,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5606,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5607,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5608,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5609,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5610,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5611,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5612,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5613,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5614,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5615,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5616,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5617,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5618,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5619,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5620,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5621,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5622,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5623,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5624,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5625,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5626,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5627,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5628,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5629,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5630,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5631,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5632,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5633,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5634,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5635,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5636,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5637,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5638,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5639,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5640,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5641,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5642,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5643,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5644,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5645,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5646,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5647,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5648,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5649,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5650,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5651,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5652,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5653,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5654,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5655,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5656,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5657,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5658,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5659,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5660,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5661,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5662,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5663,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5664,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5665,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5666,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5667,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5668,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5669,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5670,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5671,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5672,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5673,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5674,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5675,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5676,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5677,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5678,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5679,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5680,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5681,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5682,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5683,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5684,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5685,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5686,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5687,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5688,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5689,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5690,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5691,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5692,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5693,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5694,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5695,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5696,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5697,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5698,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5699,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5700,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5701,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5702,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5703,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5704,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5705,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5706,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5707,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5708,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5709,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5710,"Fessel","Bewegungsunfähig.",215003,67,0,1,2,12,5,False,True,False,False,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+5711,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5712,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5713,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5714,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5715,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5716,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5717,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5718,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5719,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5720,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5721,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5722,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5723,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5724,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5725,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5726,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5727,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5728,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5729,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5730,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5731,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5732,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5733,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5734,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5735,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5736,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5737,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5738,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5739,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5740,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5741,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5742,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5743,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5744,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5745,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5746,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5747,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5748,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5749,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5750,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5751,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5752,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5753,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5754,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5755,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5756,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5757,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5758,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5759,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5760,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5761,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5762,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5763,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5764,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5765,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5766,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5767,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5768,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5769,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5770,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5771,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5772,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5773,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5774,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5775,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5776,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5777,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5778,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5779,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5780,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5781,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5782,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5783,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5784,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5785,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5786,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5787,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5788,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5789,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5790,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5791,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5792,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5793,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5794,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5795,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5796,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5797,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5798,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5799,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5800,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5801,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5802,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5803,"Betäubung","Betäubte Sinne verhindern das Ausführen jeglicher Kommandos.",215004,0,0,1,2,3,2,True,False,True,False,False,False,True,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5804,"Gemach","Die Intervalle zwischen Auto-Attacken und die (Re-)Ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zei<SoftHyphen/>ten von Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten und Magie sind verlängert.",215009,5,0,1,2,13,0,False,False,False,False,False,False,True,False,False,False,50,0,False,False,15,0,False,0,False,0,False,0,0,0,False,False,False,0
+5805,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5806,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5807,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5808,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5809,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5810,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5811,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5812,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5813,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5814,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5815,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5816,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5817,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5818,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5819,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5820,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5821,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5822,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5823,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5824,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5825,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5826,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5827,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5828,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5829,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5830,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5831,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5832,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5833,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5834,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5835,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5836,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5837,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5838,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5839,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5840,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5841,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5842,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5843,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5844,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5845,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5846,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5847,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5848,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5849,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5850,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0

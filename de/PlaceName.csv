@@ -4988,7 +4988,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 4960,"Kalter Altar",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Kalten Altar</Case><Case(2)>am Kalten Altar</Case><Case(3)>der Kalte Altar</Case></Switch>",0,0,0
 4961,"Wächtersteig",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Wächtersteig</Case><Case(2)>auf dem Wächtersteig</Case><Case(3)>der Wächtersteig</Case></Switch>",0,0,0
 4962,"Ring der Tasten",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Ring der Tasten</Case><Case(2)>am Ring der Tasten</Case><Case(3)>der Ring der Tasten</Case></Switch>",0,0,0
-4963,"",0,"",0,0,0,0,0,"",0,0,0
+4963,"Schwebende Insel",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur schwebenden Insel</Case><Case(2)>auf der schwebenden Insel</Case><Case(3)>die schwebende Insel</Case></Switch>",0,0,0
 4964,"",0,"",0,0,1,0,0,"",0,0,0
 4965,"",0,"",0,0,1,0,0,"",0,0,0
 4966,"",0,"",0,0,1,0,0,"",0,0,0
@@ -5347,7 +5347,7 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5319,"Marmorier-Plateau",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Marmorier-Plateau</Case><Case(2)>auf dem Marmorier-Plateau</Case><Case(3)>das Marmorier-Plateau</Case></Switch>",0,0,0
 5320,"Weltraum-Reise",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Weltraum-Reise</Case><Case(2)>an der Weltraum-Reise</Case><Case(3)>die Weltraum-Reise</Case></Switch>",0,0,0
 5321,"Alarmstufe Rot - Schnellreise",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Alarmstufe Rot - Schnellreise</Case><Case(2)>an der Alarmstufe Rot - Schnellreise</Case><Case(3)>die Alarmstufe Rot - Schnellreise</Case></Switch>",0,0,0
-5322,"",0,"",0,0,0,0,0,"",0,0,0
+5322,"Bestienbändiger",0,"",0,0,1,0,0,"",0,0,0
 5323,"",0,"",0,0,0,0,0,"",0,0,0
 5324,"",0,"",0,0,0,0,0,"",0,0,0
 5325,"",0,"",0,0,0,0,0,"",0,0,0
@@ -5510,9 +5510,9 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5482,"Mittlerer Wachbezirk",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum mittleren Wachbezirk</Case><Case(2)>im mittleren Wachbezirk</Case><Case(3)>der mittlere Wachbezirk</Case></Switch>",0,0,0
 5483,"Mittlerer Geheimbezirk",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum mittleren Geheimbezirk</Case><Case(2)>im mittleren Geheimbezirk</Case><Case(3)>der mittlere Geheimbezirk</Case></Switch>",0,0,0
 5484,"Mitte des Turmes 2",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Mitte des Turmes 2</Case><Case(2)>in der Mitte des Turmes 2</Case><Case(3)>die Mitte des Turmes 2</Case></Switch>",0,0,0
-5485,"Obergeschoß des Turmes 1",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Obergeschoß des Turmes 1</Case><Case(2)>im Obergeschoß des Turmes 1</Case><Case(3)>das Obergeschoß des Turmes 1</Case></Switch>",0,0,0
+5485,"Obergeschoss des Turmes 1",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Obergeschoss des Turmes 1</Case><Case(2)>im Obergeschoss des Turmes 1</Case><Case(3)>das Obergeschoss des Turmes 1</Case></Switch>",0,0,0
 5486,"Oberer Wachbezirk",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum oberen Wachbezirk</Case><Case(2)>im oberen Wachbezirk</Case><Case(3)>der obere Wachbezirk</Case></Switch>",0,0,0
-5487,"Obergeschoß des Turmes 2",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Obergeschoß des Turmes 2</Case><Case(2)>im Obergeschoß des Turmes 2</Case><Case(3)>das Obergeschoß des Turmes 2</Case></Switch>",0,0,0
+5487,"Obergeschoss des Turmes 2",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Obergeschoss des Turmes 2</Case><Case(2)>im Obergeschoss des Turmes 2</Case><Case(3)>das Obergeschoss des Turmes 2</Case></Switch>",0,0,0
 5488,"Krone des Wissens",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Krone des Wissens</Case><Case(2)>auf der Krone des Wissens</Case><Case(3)>die Krone des Wissens</Case></Switch>",0,0,0
 5489,"Krone des Wissens",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Krone des Wissens</Case><Case(2)>auf der Krone des Wissens</Case><Case(3)>die Krone des Wissens</Case></Switch>",0,0,0
 5490,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Schatzkammer des Einsiedlers</Case><Case(2)>in der Schatzkammer des Einsiedlers</Case><Case(3)>die Schatzkammer des Einsiedlers</Case></Switch>",0,0,0
@@ -5621,19 +5621,19 @@ Fähre zum Ostwald",0,"",0,0,1,0,0,"",0,0,0
 5593,"Unterirdische Aushöhlung",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur unterirdischen Aushöhlung</Case><Case(2)>in der unterirdischen Aushöhlung</Case><Case(3)>die unterirdische Aushöhlung</Case></Switch>",0,0,0
 5594,"Schatzkammer des Einsiedlers",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zur Schatzkammer des Einsiedlers</Case><Case(2)>in der Schatzkammer des Einsiedlers</Case><Case(3)>die Schatzkammer des Einsiedlers</Case></Switch>",0,0,0
 5595,"Nördliches Basislager der Expedition",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum nördlichen Basislager der Expedition</Case><Case(2)>im nördlichen Basislager der Expedition</Case><Case(3)>das nördliche Basislager der Expedition</Case></Switch>",0,0,0
-5596,"",0,"",0,0,0,0,0,"",0,0,0
-5597,"",0,"",0,0,0,0,0,"",0,0,0
-5598,"",0,"",0,0,0,0,0,"",0,0,0
-5599,"",0,"",0,0,0,0,0,"",0,0,0
-5600,"",0,"",0,0,0,0,0,"",0,0,0
-5601,"",0,"",0,0,0,0,0,"",0,0,0
-5602,"",0,"",0,0,0,0,0,"",0,0,0
-5603,"",0,"",0,0,0,0,0,"",0,0,0
-5604,"",0,"",0,0,0,0,0,"",0,0,0
-5605,"",0,"",0,0,0,0,0,"",0,0,0
-5606,"",0,"",0,0,0,0,0,"",0,0,0
-5607,"",0,"",0,0,0,0,0,"",0,0,0
-5608,"",0,"",0,0,0,0,0,"",0,0,0
+5596,"Brett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Brett der Bestie</Case><Case(2)>auf dem Brett der Bestie</Case><Case(3)>das Brett der Bestie</Case></Switch>",0,0,0
+5597,"Erstes Brett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Ersten Brett der Bestie</Case><Case(2)>auf dem Ersten Brett der Bestie</Case><Case(3)>das Erste Brett der Bestie</Case></Switch>",0,0,0
+5598,"Zweites Brett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Zweiten Brett der Bestie</Case><Case(2)>auf dem Zweiten Brett der Bestie</Case><Case(3)>das Zweite Brett der Bestie</Case></Switch>",0,0,0
+5599,"Drittes Brett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Dritten Brett der Bestie</Case><Case(2)>auf dem Dritten Brett der Bestie</Case><Case(3)>das Dritte Brett der Bestie</Case></Switch>",0,0,0
+5600,"Erstes Meisterbrett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Ersten Meisterbrett der Bestie</Case><Case(2)>auf dem Ersten Meisterbrett der Bestie</Case><Case(3)>das Erste Meisterbrett der Bestie</Case></Switch>",0,0,0
+5601,"Zweites Meisterbrett der Bestie",0,"",0,0,1,0,0,"<Switch(IntegerParameter(1))><Case(1)>zum Zweiten Meisterbrett der Bestie</Case><Case(2)>auf dem Zweiten Meisterbrett der Bestie</Case><Case(3)>das Zweite Meisterbrett der Bestie</Case></Switch>",0,0,0
+5602,"Zelt",0,"",0,0,1,0,0,"",0,0,0
+5603,"Geschäft",0,"",0,0,1,0,0,"",0,0,0
+5604,"Schatz",0,"",0,0,1,0,0,"",0,0,0
+5605,"Schicksalsfeld",0,"",0,0,1,0,0,"",0,0,0
+5606,"Gegner",0,"",0,0,1,0,0,"",0,0,0
+5607,"Elitegegner",0,"",0,0,1,0,0,"",0,0,0
+5608,"Endgegner",0,"",0,0,1,0,0,"",0,0,0
 5609,"",0,"",0,0,1,0,0,"",0,0,0
 5610,"",0,"",0,0,1,0,0,"",0,0,0
 5611,"",0,"",0,0,1,0,0,"",0,0,0

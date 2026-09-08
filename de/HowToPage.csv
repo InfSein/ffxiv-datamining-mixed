@@ -2404,11 +2404,13 @@ Sie kann das Blatt noch wenden, wenn der mit Heilmagie vertraute Spieler bereits
 
 Diese Inhalte sind in der Informationstafel der Inhaltssuche mit <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Keine Phönixfedern<UIGlow>01</UIGlow><UIForeground>01</UIForeground> markiert.","",""
 2592,1,0,150914,0,"Phönixfedern können als Belohnung für abgeschlossene Aufträge erhalten oder bei Krämern, Apothekern oder ähnlichen Händlern erstanden werden.","",""
-2593,0,0,0,0,"","",""
-2594,0,0,0,0,"","",""
-2595,0,0,0,0,"","",""
-2596,0,0,0,0,"","",""
-2597,0,0,0,0,"","",""
-2598,0,0,0,0,"","",""
+2593,1,0,150781,0,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bestienbändiger<UIGlow>01</UIGlow><UIForeground>01</UIForeground> kämpfen gemeinsam mit Bestien, die als Familiare geführt werden. Um neue Mitstreiter zu finden, musst du dich über das gleichnamige Kommando mit Bestien <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Anfreunden<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Die Erfolgsaussichten sind dabei umso größer, je schwächer die Bestie beim Ausführen des Kommandos ist. Du kannst sie mit dem Kommando <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Analysieren<UIGlow>01</UIGlow><UIForeground>01</UIForeground> überprüfen.","",""
+2594,1,0,150782,0,"Gebändigte Bestien werden in deinem <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bestienbuch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> verzeichnet, das du unter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Charakter<UIGlow>01</UIGlow><UIForeground>01</UIForeground> im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hauptmenü<UIGlow>01</UIGlow><UIForeground>01</UIForeground> findest.","",""
+2595,1,0,150784,0,"Damit du eine Bestie rufen kannst, musst du ihr ein <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Kampfhorn<UIGlow>01</UIGlow><UIForeground>01</UIForeground> zuweisen. Dies geht über das entsprechende Unterkommando im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bestienbuch<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, allerdings nicht während eines Kampfes.
+
+Jedes <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Kampfhorn<UIGlow>01</UIGlow><UIForeground>01</UIForeground> hat ein eigenes Kommando, mit dem du die zugewiesene Bestie an deine Seite rufen kannst.","",""
+2596,1,0,150785,0,"Mit steigender Bestienbändigerstufe erlernen deine Bestien <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Waf<SoftHyphen/>fen<SoftHyphen/>fer<SoftHyphen/>tig<SoftHyphen/>kei<SoftHyphen/>ten<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Talente<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, die sich je nach Bestienart unterscheiden. Nutze dein Bestienbuch, um sie zu studieren und im Kampf strategisch zu deinem Vorteil zu nutzen.","",""
+2597,1,0,150786,0,"Wo du Bestien finden kannst, erfährst du unter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Lebensraum<UIGlow>01</UIGlow><UIForeground>01</UIForeground> im Bestienbuch. Bereise die große weite Welt, finde neue Mitstreiter und kultiviere die Kameradschaft, die das Handwerk eines Bestienbändigers ausmacht.","",""
+2598,1,0,150783,0,"Gebändigte Bestien werden in deinem <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bestienbuch<UIGlow>01</UIGlow><UIForeground>01</UIForeground> verzeichnet, das du unter <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Charakter<UIGlow>01</UIGlow><UIForeground>01</UIForeground> im <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Hauptmenü<UIGlow>01</UIGlow><UIForeground>01</UIForeground> findest.","",""
 2599,0,0,0,0,"","",""
 2600,0,0,0,0,"","",""

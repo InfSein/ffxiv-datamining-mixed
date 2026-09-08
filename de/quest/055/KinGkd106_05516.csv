@@ -88,7 +88,7 @@ int32,str,str
 84,"TEXT_KINGKD106_05516_INDEX_000_308","Wie töricht<Indent/>... Wer Wissen einzusperren gedenkt, ist ihm nicht würdig. Somit habe ich das deinige versiegelt."
 85,"TEXT_KINGKD106_05516_ARCHIVE_000_309","N-Nein<Indent/>... So darf es nicht enden<Indent/>..."
 86,"TEXT_KINGKD106_05516_ARCHIVE_000_310","Ugh<Indent/>...!"
-87,"TEXT_KINGKD106_05516_ARCHIVE_000_311","Du, <If(PlayerParameter(4))>die<Else/>der</If> meiner würdig ist<Indent/>... Folge meiner Weisung.Vollende, wozu ich nicht fähig war. Ich bitte dich<Indent/>..."
+87,"TEXT_KINGKD106_05516_ARCHIVE_000_311","Du, <If(PlayerParameter(4))>die<Else/>der</If> meiner würdig ist<Indent/>... Folge meiner Weisung. Vollende, wozu ich nicht fähig war. Ich bitte dich<Indent/>..."
 88,"TEXT_KINGKD106_05516_IRIS_000_350","Mein Auftrag war mehr als deutlich<Indent/>- nur beobachten, nicht eingreifen. Aber ich konnte nicht tatenlos zusehen, wie mein Meister vor mir in Lebensgefahr schwebte."
 89,"TEXT_KINGKD106_05516_IRIS_000_351","Also widersetzte ich mich meinem Auftrag und wich ihm nicht mehr von der Seite, aber<Indent/>... letztlich änderte das leider nichts."
 90,"TEXT_KINGKD106_05516_ARCHIVE_000_352","Richtig, es kommt alles wieder zu mir zurück. Nachdem ich knapp dem Tod entkommen war, kroch ich mit letzter Kraft hierher und, überwältigt von Ver<SoftHyphen/>zweif<SoftHyphen/>lung, fiel in einen jahrhundertelangen Schlaf."
