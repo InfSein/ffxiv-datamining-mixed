@@ -21181,7 +21181,7 @@ GOLD STAR達成後は、カウントがリセットされます。
 17785,"BONUS LIST"
 17786,"ボーナス一覧"
 17787,"<If(IntegerParameter(1))>・規定よりも少ないペット数のパーティで挑もうとしています。
-<Else/></If><If(IntegerParameter(2))>・この盤面で推奨されるビーストランクより3ランク以上低いペットが編成されています。
+<Else/></If><If(IntegerParameter(2))>・この盤面の推奨よりも低いビーストランクのペットが編成されています。
 <Else/></If><If(IntegerParameter(3))>・闘獣練ランキング開催期間の残り時間が10分を切っています。
 <Else/></If>それでも挑戦しますか？"
 17788,"パーティの編成中ですが、これを破棄して盤面選択に戻ってもよろしいですか？"
@@ -21320,6 +21320,7 @@ GOLD STAR達成後は、カウントがリセットされます。
 17910,"ペットをいくつかの条件で絞り込み表示できます。"
 17911,"BEAST RANK <Value>IntegerParameter(1)</Value>"
 17912,"レベル<Value>IntegerParameter(1)</Value> ※レベル上限を超えた場合はレベルシンクされます。
+平均アイテムレベル <Value>IntegerParameter(5)</Value>～
 <If(IntegerParameter(2))>アイテムレベルシンク：<Value>IntegerParameter(2)</Value>
 <Else/></If>適正ビーストランク <Value>IntegerParameter(3)</Value>～<Value>IntegerParameter(4)</Value>
 ※上限を超えたペットのビーストランクはコンテンツ内でシンクされます。"

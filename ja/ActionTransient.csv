@@ -57183,8 +57183,10 @@ int32,str
 46750,"対象を挑発し、自身への敵視を最高位にしたうえで、さらに一定時間自身への敵視を上昇させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが自身をかばっている場合はかばうを解除する。"
 46751,"召喚しているペットに<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「威嚇」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を実行させ、対象の敵からペットへの敵視を最高位にし、一定時間ペットへの敵視を上昇させる。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>マスターが受ける攻撃をペットが肩代わりする。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加効果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身に<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「敵視上昇」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が付与されている場合は、これを解除する。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>発動条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>ペットが存在する"
 46752,""
 46753,""
