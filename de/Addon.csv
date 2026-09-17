@@ -19375,7 +19375,7 @@ Trotzdem rasten?<Highlight>StringParameter(1)</Highlight>"
 17785,"BONI"
 17786,""
 17787,"<If(IntegerParameter(1))>※ Deine aktuelle Formation ist kleiner als erforderlich.
-<Else/></If><If(IntegerParameter(2))>※ Deine Formation enthält mindestens eine Bestie, deren Rang 3 oder mehr Stufen zu niedrig ist.
+<Else/></If><If(IntegerParameter(2))>※ Deine Formation enthält mindestens eine Bestie, deren Rang niedriger als der empfohlene ist.
 <Else/></If><If(IntegerParameter(3))>※ Punkte für die Brettranglisten werden nur noch 10 Minuten gezählt.
 <Else/></If>Trotzdem fortfahren?"
 17788,"Änderungen an der Formation verwerfen und zur Brettauswahl zurückkehren?"
@@ -19514,6 +19514,7 @@ vor<SoftHyphen/>über<SoftHyphen/>gehend gesperrt wirst.<UIGlow>01</UIGlow><UIFo
 17910,"Bestien filtern"
 17911,"Bestienrang: <Value>IntegerParameter(1)</Value>"
 17912,"Stufe: <Value>IntegerParameter(1)</Value> (Anpassung bei Überschreitung)
+Ø Gegen<SoftHyphen/>stands<SoftHyphen/>stufe: min.  <Value>IntegerParameter(5)</Value>
 <If(IntegerParameter(2))>Gegen<SoftHyphen/>stands<SoftHyphen/>stufenanpassung: <Value>IntegerParameter(2)</Value>
 <Else/></If>Empfohlener Bestienrang: <Value>IntegerParameter(3)</Value>-<Value>IntegerParameter(4)</Value> (Anpassung bei Überschreitung)"
 17913,"<Highlight>StringParameter(1)</Highlight><If(IntegerParameter(2))>#<Value>IntegerParameter(2)</Value><Else/></If>"

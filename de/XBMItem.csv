@@ -147,7 +147,7 @@ Dauer: 21 Sekunden","Verringert erlittenen magischen Schaden. Gewährt beim Ausw
 49,1,243049,264,"Windrüstung",3,"Windrüstungen",1,0,1,1,0,"Windrüstung","Erlittener Schaden - 15<Indent/>%
 Ausgeteilter magischer Schaden + 20<Indent/>%
 Erhöht die Heilwirkung eigener Kommandos und Bändigerutensilien um 30<Indent/>%.","Verringert erlittenen Schaden. Erhöht ausgeteilten magischen Schaden und die LP-Heilung."
-50,1,243050,268,"Streitaxt",3,"Streitäxte",1,0,1,1,0,"Streitaxt","Erlittener Schaden - 25<Indent/>%
+50,1,243050,268,"Streitaxt",3,"Streitäxte",1,0,1,1,0,"Streitaxt","Ausgeteilter Schaden + 25<Indent/>%
 Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit - 20<Indent/>%","Erhöht ausgeteilten Schaden. Verringert die Bewegungsgeschwindigkeit."
 51,1,243051,172,"Mithril-Rüstung",3,"Mithril-Rüstungen",1,0,1,1,0,"Mithril-Rüstung","Erlittener Schaden - 15<Indent/>%
 Maximal-LP + 15<Indent/>%","Verringert erlittenen Schaden. Erhöht die Maximal-LP."
