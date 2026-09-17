@@ -19693,7 +19693,7 @@ Veuillez réessayer ultérieurement."
 17785,"Liste des bonus"
 17786,""
 17787,"<If(IntegerParameter(1))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Votre équipe compte moins de bêtes que le maximum permis.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Else/></If><If(IntegerParameter(2))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Une ou plusieurs de vos bêtes ont au moins 3 rangs de moins que le niveau recommandé.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Else/></If><If(IntegerParameter(2))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* Une ou plusieurs de vos bêtes est de rang inférieur au niveau recommandé.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If><If(IntegerParameter(3))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>* La période de décompte des scores se termine dans moins de 10 minutes.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If>Voulez-vous tout de même entrer dans le Dédale bestial<Indent/>?"
 17788,"Votre équipe est en cours de formation.
@@ -19830,6 +19830,7 @@ Voulez-vous tout de même participer<Indent/>?<UIGlow>01</UIGlow><UIForeground>0
 17910,"Affiche les bêtes correspondant à un critère."
 17911,"Rang de bête<Indent/>: <Value>IntegerParameter(1)</Value>"
 17912,"Niveau<Indent/>: <Value>IntegerParameter(1)</Value> (synchronisation si le niveau est supérieur)
+ Nv objet moyen <Value>IntegerParameter(5)</Value> ou plus
 <If(IntegerParameter(2))> Synchronisation des niveaux d'objet<Indent/>: <Value>IntegerParameter(2)</Value>
 <Else/></If>Rang de bête recommandé<Indent/>: <Value>IntegerParameter(3)</Value> à <Value>IntegerParameter(4)</Value>
 (synchronisation pour les bêtes dont le rang est supérieur)"
