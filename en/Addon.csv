@@ -19479,7 +19479,7 @@ Proceed?"
 17785,"Bonuses"
 17786,""
 17787,"<If(IntegerParameter(1))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※Your current team is smaller than the maximum allowance.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Else/></If><If(IntegerParameter(2))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※One or more of your familiars is at least 3 beast ranks lower than is recommended.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Else/></If><If(IntegerParameter(2))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※One or more of your familiars has a lower beast rank than is recommended.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If><If(IntegerParameter(3))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※The scoring period for Crucible Rankings will end in less than 10 minutes.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If>Proceed to challenge this board?"
 17788,"Discard changes and return to board selection?"
@@ -19614,6 +19614,7 @@ Are you sure you wish to play?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 17910,"Filter familiars."
 17911,"Beast Rank: <Value>IntegerParameter(1)</Value>"
 17912,"Level: <Value>IntegerParameter(1)</Value> (Sync to <Value>IntegerParameter(1)</Value>)
+Avg. Item Level: <Value>IntegerParameter(5)</Value>
 <If(IntegerParameter(2))>Item Level Sync: <Value>IntegerParameter(2)</Value>
 <Else/></If>Recommended Beast Rank: <Value>IntegerParameter(3)</Value> (Sync from <Value>IntegerParameter(4)</Value>)"
 17913,"<Highlight>StringParameter(1)</Highlight><If(IntegerParameter(2))> #<Value>IntegerParameter(2)</Value><Else/></If>"
