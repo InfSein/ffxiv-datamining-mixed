@@ -4099,7 +4099,7 @@ d'argent ou supérieur.",43,30,10,625,0,255,255,0,821,1,1,990,1,0,0,0,0,0,0,0,10
 4070,18,"Prodige du pianotage I","Réussir 1 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,1,0,0,0,0,0,0,0,1320,1,0
 4071,18,"Prodige du pianotage II","Réussir 10 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,10,0,0,0,0,0,0,0,1321,1,0
 4072,18,"Prodige du pianotage III","Réussir 50 fois Frappe fatale.",0,0,5,0,0,255,255,0,1981,1,1,1453,50,0,0,0,0,0,0,0,1322,1,0
-4073,18,"Prodige du pianotage IV","Réussir 100 fois Frappe fatale.",47,15,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
+4073,18,"Prodige du pianotage IV","Réussir 100 fois Frappe fatale.",0,0,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
 4074,49,"Cartographe du continent : Île de Lunule septentrionale","Découvrir toute la carte de l'île de Lunule septentrionale.",0,0,10,0,0,255,255,0,1001,1,8,1135,0,0,0,0,0,0,0,0,2401,1,0
 4075,1,"Roi du Dédale","Terminer le Dédale bestial à la 1re place du classement.",64,50,20,888,0,255,255,0,3945,0,1,1419,1,0,0,0,0,0,0,0,1691,1,1
 4076,1,"Prince du Dédale","Terminer le Dédale bestial dans les premières places du classement.",64,50,20,889,0,255,255,0,3945,0,1,1420,1,0,0,0,0,0,0,0,1692,1,1
