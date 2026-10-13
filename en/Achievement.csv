@@ -4102,7 +4102,7 @@ int32,AchievementCategory,str,str,AchievementTarget,byte,byte,Title,Item,byte,by
 4070,18,"Masterstroke I","Clear Keybound Brawler for the first time.",0,0,5,0,0,255,255,0,1981,1,1,1453,1,0,0,0,0,0,0,0,1320,1,0
 4071,18,"Masterstroke II","Clear Keybound Brawler 10 times.",0,0,5,0,0,255,255,0,1981,1,1,1453,10,0,0,0,0,0,0,0,1321,1,0
 4072,18,"Masterstroke III","Clear Keybound Brawler 50 times.",0,0,5,0,0,255,255,0,1981,1,1,1453,50,0,0,0,0,0,0,0,1322,1,0
-4073,18,"Masterstroke IV","Clear Keybound Brawler 100 times.",47,15,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
+4073,18,"Masterstroke IV","Clear Keybound Brawler 100 times.",0,0,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
 4074,49,"Mapping the Realm: The Occult Crescent: North Horn","Discover every location on the Occult Crescent: North Horn.",0,0,10,0,0,255,255,0,1001,1,8,1135,0,0,0,0,0,0,0,0,2401,1,0
 4075,1,"Beast of the Best","Place first in Crucible Rankings.",64,50,20,888,0,255,255,0,3945,0,1,1419,1,0,0,0,0,0,0,0,1691,1,1
 4076,1,"Running Feral","Place highly in Crucible Rankings.",64,50,20,889,0,255,255,0,3945,0,1,1420,1,0,0,0,0,0,0,0,1692,1,1
