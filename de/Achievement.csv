@@ -4103,7 +4103,7 @@ abgeschlossen.",0,0,10,0,0,255,255,0,41998,1,6,70190,0,0,0,0,0,0,0,0,126,1,0
 4070,18,"Taskforce Taste I","Das erste Mal Tastenschläger abgeschlossen.",0,0,5,0,0,255,255,0,1981,1,1,1453,1,0,0,0,0,0,0,0,1320,1,0
 4071,18,"Taskforce Taste II","10 Mal Tastenschläger abgeschlossen.",0,0,5,0,0,255,255,0,1981,1,1,1453,10,0,0,0,0,0,0,0,1321,1,0
 4072,18,"Taskforce Taste III","50 Mal Tastenschläger abgeschlossen.",0,0,5,0,0,255,255,0,1981,1,1,1453,50,0,0,0,0,0,0,0,1322,1,0
-4073,18,"Taskforce Taste IV","100 Mal Tastenschläger abgeschlossen.",47,15,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
+4073,18,"Taskforce Taste IV","100 Mal Tastenschläger abgeschlossen.",0,0,10,887,0,255,255,0,1981,1,1,1453,100,0,0,0,0,0,0,0,1323,1,0
 4074,49,"Kartograph: Nördliches Kreszentia","Alle Orte im nördlichen Kreszentia erkundet.",0,0,10,0,0,255,255,0,1001,1,8,1135,0,0,0,0,0,0,0,0,2401,1,0
 4075,1,"Beherrscher der Bestien","Die höchste Platzierung in den Brettranglisten erzielt.",64,50,20,888,0,255,255,0,3945,0,1,1419,1,0,0,0,0,0,0,0,1691,1,1
 4076,1,"Bezwinger der Bestien","Eine hohe Platzierung in den Brettranglisten erzielt.",64,50,20,889,0,255,255,0,3945,0,1,1420,1,0,0,0,0,0,0,0,1692,1,1
